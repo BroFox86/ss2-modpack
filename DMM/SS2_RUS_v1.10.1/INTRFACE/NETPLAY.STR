@@ -1,0 +1,95 @@
+num_players:"Игроки"  
+//"Players"
+
+prev: "Назад"  
+//"Back"
+
+cancel: "Отмена"  
+//"Cancel"
+
+gamename_default: "netplay"  
+//"netplay"
+
+gamename_prompt: "Выберите имя для ваших сохраненных игр:"   
+//"Choose a name for your save games:"
+
+charname_default:"Игрок"  
+//"Player"
+
+charname_prompt:"Назовите вашего персонажа:"  
+//"Name your character:"
+
+hostaddr_prompt:"Введите IP-адрес сервера:"   
+//"Enter Host IP address:"
+
+host_address:"IP-адрес сервера: "  
+//"Host IP address is: "
+
+joining:"Соединение с сервером..."  
+//"Contacting Host..."
+
+join_fail:"Ошибка соединения."   
+//"Join Failed."
+
+join_refused:"Отказ в соединении."  
+//"Join Refused."
+
+wait_for_hi:"Присоединение к игре..."  
+//"Joining Game..."
+
+next:"Далее"  
+//"Next"
+
+fp_client:"Присоединиться к игре"  
+//"Join a Game" 
+
+client_start_init_msg:"Выберите 'Начать новую игру',\nили нажмите 'Назад', чтобы вернуться."  
+//"Choose 'Start a New Game,'\nor click 'Back' to go back."
+
+start_game:"Начать новую игру"  
+//"Start a New Game"
+
+load_game:"Загрузить сохраненную игру"   
+//"Load a Saved Game"
+
+shodan:"ШОДАН"  
+//"Shodan"
+
+eyesnack:"EyeSnack"  
+//"EyeSnack"
+
+no_shodan:"Доступ запрещен!"  
+//"Username Access Denied!"
+
+lost_network:"Потеря соединения!"  
+//"Network Connection Lost!"
+
+front_init_msg:"Выберите 'Сервер' или 'Присоединиться', затем нажмите 'Далее'."   
+//"Select Host or Join, then click 'Next.'"
+
+game_name_init_msg:"Введите требуемую информацию, затем нажмите 'Далее'."   
+//"Enter the requested information, then click 'Next.'"
+
+hostaddr_init_msg:"Введите требуемую информацию,\nзатем нажмите 'Далее' для присоединения к игре." 
+//"Enter the requested information,\nthen click 'Next' to join the game."
+
+host_lobby_init_msg:"Когда всех игроки присоединятся, нажмите 'Далее'."
+//"When all players have joined, click 'Next.'" 
+
+client_lobby_init_msg:"Нажмите 'Далее' для запуска новой игры\nили подождите, пока сервер загрузит игру."
+//"Click 'Next' to start a new game,\nor wait for the host to load a game."
+
+host_start_init_msg:"Выберите одну из следующих опций для начала игры."
+//"Choose one of the following options to start playing."
+
+fp_host:"Начать игру"  
+//"Host a Game"
+
+join_too_many:"Ошибка соединения: число игроков ограничено."  
+//"Join Failed: The game is already full."
+
+join_started:"Ошибка соединения: игра уже началась."  
+//"Join Failed: The game has already started."
+
+join_version:"Ошибка соединения: ваша версия игры\nотличается от версии игры на сервере."
+//"Join Failed: You have a different version\nof the game from the host."

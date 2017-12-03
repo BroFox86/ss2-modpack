@@ -1,0 +1,29 @@
+GrenLauncher:"В этом режи-\nме выстреливаемые гранаты взрываются \nпри ударе."
+//"In this mode, the weapon will  launch grenades that explode on contact."
+
+Fusion:"\nЭто основной режим стрельбы."
+//"This is the basic firing mode."
+
+Pistol:"\nЭто нормальный режим одиночной стрельбы."
+//"This is the normal single-shot firing mode."
+
+AssaultRifle:"\nЭто нормальный режим одиночной стрельбы."
+//"This is the normal single-shot firing mode."
+
+EMP:"\nЭто нормальное состояние оружия."
+//"This is the weapon's normal state."
+
+laser:"\nЭто стандартные параметры."
+//"This is the standard setting."
+
+Shotgun:"\nЭто стандартный режим одиночной стрельбы."
+//"This is the standard single-shot mode."
+
+Viral_Prolif:"\nВ этом режиме поражаются люди."
+//"This setting damages Humans."
+
+Worm_Launcher:"\nВ этом режиме поражаются люди."
+//"This setting damages Humans."
+
+Stasis_Field_Generator:"\nНа время обездвиживает цель."
+//"Temporarily immobilizes target creature."

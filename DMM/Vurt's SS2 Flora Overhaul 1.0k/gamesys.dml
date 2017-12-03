@@ -1,0 +1,6 @@
+DML1
+
+//remove transparency where it's not needed
+-ObjProp -1855 "RenderAlpha"
+-ObjProp -1266 "RenderAlpha"
+-ObjProp -1854 "RenderAlpha"

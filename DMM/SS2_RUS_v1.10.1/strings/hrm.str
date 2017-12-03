@@ -1,0 +1,68 @@
+HRMHelp5:"Показывает текущее количество нанитов."
+//"This shows your current nanite supply."
+
+HRMHelp6:"Это цена попытки изменения."
+//"This is the cost to attempt the alteration."
+
+RepairText:"Верни предмет в нормальное состояние."
+//"Return this item to normal functionality."
+
+RepairResult0:"На этот раз ты не сумел починить предмет."
+//"You were unable to repair the item on this attempt."
+
+RepairResult1:"Предмет успешно отремонтирован и может быть использован."
+//"The item has been successfully repaired, and can be used normally."
+
+RepairResult2:"Ты уничтожил предмет!"
+//"You have destroyed the item!"
+
+ModifyResult0:"На этот раз тебе не удалось модифицировать оружие."
+//"You did not successfully modify the weapon on this attempt."
+
+ModifyResult1:"Модификация закончена!"
+//"Modification completed!"
+
+ModifyResult2:"Модификация неудачна!"
+//"Modification failed!"
+
+ModifyResult3:"Это оружие модифицировано до предела."
+//"This weapon cannot be modified any further."
+
+HackResult0:"В этот раз ты не смог взломать систему охраны."
+//"You could not break the security on this attempt."
+
+HackResult1:"Успешный взлом!"
+//"Hacking successful!"
+
+HackResult2:"Неудачный взлом!"
+//"Hacking failed!"
+
+Cost: "Нужно нанитов = %d"
+//"Nanite cost = %d"
+
+NoTechSkill0:"Тебе нужен навык взлома не меньше чем 1."
+//"You must have a Hack skill of at least 1 to hack."
+
+NoTechSkill1:"Тебе нужен навык ремонта не меньше чем 1."
+//"You must have a Repair skill of at least 1 to repair."
+
+NoTechSkill2:"Тебе нужен навык модификации не меньше чем 1."
+//"You must have a Modify skill of at least 1 to modify."
+
+SecurityHacked:"Система охраны временно отключена."
+//"Security system temporarily disabled."
+
+StandardHackString:"Успешный взлом этого терминала отключит систему охраны в данной области."
+//"Successfully hacking this computer will disable security in the local area."
+
+CannotHack:"Объект невозможно взломать."
+//"Target is not hackable."
+
+techminskill0:"Нужен %d-й навык взлома."
+//"Hack skill %d required."
+
+techminskill1:"Нужен %d-й навык ремонта."
+//"Repair skill %d required."
+
+techminskill2:"Нужен %d-й навык модификации."
+//"Modify skill %d required."

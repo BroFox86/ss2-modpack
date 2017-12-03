@@ -1,0 +1,29 @@
+* SS2 VSR v1.0 - why another Music Update Mod?
+
+After listening to SHMUP, I got really disappointed... not only did Shatten forget about dynamics matching, resulting in much louder soundtrack with unequalized volume between songs, and with much dynamic lost due to acoustic compression with too high gain ratio on some songs (well, that one thing is not exactly his fault, as it's just how the EB tracks used by him as the source were produced); the main problem is that ADPCM 4-bit compression with 22kHz sampling gave most of the upbeat tracks a distinct, crispy EQ, which the "studio" soundtrack doesn't have (many oldschool DnB DJs downsample songs just to make them feel more vinyl-y). Also, changes made to some songs (Eng1, Command 1) seem just bad to me. Still, all ambient tracks gained much with hiss removal and, usually, no clipping occurring (there was mild clipping in original songs).
+
+I remade those ambients (namely 02-07 & Eng2), fixing the gain factors, for everybody to have a playing experience most consistent with original one - and with developer's intentions too - as far as my e-mail correspondence with RobotKid and analysis of the samples in the tracks goes.
+
+* who should use this?
+a) vanilla players, expecting in-game soundtrack matching the original one perfectly,
+b) veteran players, ditto.
+
+* who shouldn't use this?
+people who can't hear any difference between original SS2 songs and SHMUP.
+
+* what changes can I expect here?
+All tracks are raw 44.100 kHz, 16-bit PCM WAVE data.
+
+Basically:
+tracks 02-07 & Eng2 are based on EB soundtrack, with RMS volume level matched vs original tracks. Basically the same as Schatten's, but about 4dB less louder.
+tracks 08-13 & Eng1 are based on SS2 soundtrack, with lo-fi resampling from 22.050 kHz/4-bit ADPCM, resulting in lo-fi equalization similar to the original soundtrack, albeit with a little more "air" than original samples. As to the "feel", it's slightly "clearer" than original, but still with much lower high-frequency content and distortive resonance than EB soundtrack. Also, they are *exactly* the same cuts as in the original game, so they're quite different from Schatten's. Biggest differences are for Eng1 & Command 1, obviously. See attached samples to check *how* the versions differ (vanilla vs VSR vs Schatten's).
+
+* credits
+
+RobotKid & Eric Brosius - for the original soundtrack
+Schatten - for the idea
+Vaxquis Poponuro ( vaxquis at gmail dot com ) - the author (yup, that's me)
+
+* as a bonus, a link to the WIP remix of the Eng1 song I've made some years ago, with the usual "maybe one day I'll finish it" disclaimer.
+
+https://soundcloud.com/sparm-ove/engineering-2-robotkid-vs

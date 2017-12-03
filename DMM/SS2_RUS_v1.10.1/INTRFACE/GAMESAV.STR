@@ -1,0 +1,38 @@
+delete:"Удалить"  
+//"Delete"
+
+no_disk_space:"На диске недостаточно свободного места"  
+//"Not Enough Disk Space"
+
+quick_save:"(Быстрое сохранение)"  
+//"(Quick Save)"
+
+failed:"Сохранение неудачно"  
+//"Save Failed"
+
+success:"Игра сохранена"  
+//"Save Successful"
+
+saving:"Сохранение..."  
+//"Saving..."
+
+initial:"Выберите файл для сохранения:"  
+//"Select a file to save."
+
+unused:"< ПУСТО >"  
+//"< EMPTY >"
+
+done:"Назад"  
+//"Done"
+
+save:"Сохранить"  
+//"Save"
+
+
+
+
+
+
+
+
+

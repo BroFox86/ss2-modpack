@@ -1,0 +1,20 @@
+DML1
+
+// lets make sure the dml is loaded only for SCP
+FINGERPRINT
+{
+   QVAR "scplevel" == 1
+}
+// moving SCP specific pipes
+-ObjProp 1213 "PhysType"
+ObjProp 1213 "Position"
+{
+	"Location" -244.179, -400.925, -1.10
+}
++ObjProp 1213 "Scale" = 1, 0.25, 1
+-ObjProp 1212 "PhysType"
+ObjProp 1212 "Position"
+{
+	"Location" -244.387, -423.462, -1.10
+}
++ObjProp 1212 "Scale" = 1, 0.25, 1

@@ -1,0 +1,347 @@
+DML1
+
+// lets make sure the OM dmls are loaded only for OMS, and nothing else
+FINGERPRINT
+{
+   1155 [-114 121 -12]
+   1154 [-121 121 -12]
+   144 [-73 -175.5 20]
+   569 [-67 -179.5 20]
+   76 [-60.5 -182 20]
+   140 [-60.5 -179.5 20]
+   1101 [-60.5 -177 20]
+   75 [-63 -175.5 20]
+   74 [-65 -175.5 15]
+   73 [-67 -175.5 10]
+}
+FINGERPRINT
+{
+   QVAR "scplevel" == 1
+}
+// lillies
+ObjProp 361 "Position"
+{
+	"Location" -60.3823, -194.967, -4.115
+}
++ObjProp 361 "RenderOrder"
+{
+	"Pass" "Post Opaque 2"
+}
+ObjProp 360 "Position"
+{
+	"Location" -63.8823, -190.967, -4.12
+}
++ObjProp 360 "RenderOrder"
+{
+	"Pass" "Post Opaque 2"
+}
+ObjProp 113 "Position"
+{
+	"Location" -66.8823, -190.467, -4.11
+}
++ObjProp 113 "RenderOrder"
+{
+	"Pass" "Post Opaque 2"
+}
+ObjProp 359 "Position"
+{
+	"Location" -63.8823, -185.467, -4.1
+}
++ObjProp 359 "RenderOrder"
+{
+	"Pass" "Post Opaque 2"
+}
+ObjProp 358 "Position"
+{
+	"Location" -66.8823, -185.467, -4.105
+}
++ObjProp 358 "RenderOrder"
+{
+	"Pass" "Post Opaque 2"
+}
+ObjProp 390 "Position"
+{
+	"Location" -72.3823, -189.467, -4.12
+}
++ObjProp 390 "RenderOrder"
+{
+	"Pass" "Post Opaque 2"
+}
+ObjProp 381 "Position"
+{
+	"Location" -73.5304, -186.695, -4.125
+}
++ObjProp 381 "RenderOrder"
+{
+	"Pass" "Post Opaque 2"
+}
+ObjProp 380 "Position"
+{
+	"Location" -78.1498, -188.609, -4.11
+}
++ObjProp 380 "RenderOrder"
+{
+	"Pass" "Post Opaque 2"
+}
+ObjProp 408 "Position"
+{
+	"Location" -77.4637, -191.572, -4.115
+}
++ObjProp 408 "RenderOrder"
+{
+	"Pass" "Post Opaque 2"
+}
+ObjProp 412 "Position"
+{
+	"Location" -79.8198, -196.336, -4.12
+}
++ObjProp 412 "RenderOrder"
+{
+	"Pass" "Post Opaque 2"
+}
+// water plants need to be moved up a bit
+ObjProp 448 "Position"
+{
+	"Location" -50, -180.5, -6.85
+}
+ObjProp 370 "Position"
+{
+	"Location" -50, -172, -6.85
+}
+ObjProp 449 "Position"
+{
+	"Location" -62, -180, -6.85
+}
+ObjProp 450 "Position"
+{
+	"Location" -82, -180, -6.85
+}
+ObjProp 457 "Position"
+{
+	"Location" -72, -186, -6.85
+}
+// ivys
+ObjProp 1044 "Position"
+{
+	"Location" -78.65, -46.25, -2.2
+}
+ObjProp 1045 "Position"
+{
+	"Location" -78.6, -46.25, -1
+}
+ObjProp 1041 "Position"
+{
+	"Location" -78.6, -49.05, -2.2
+}
+ObjProp 1039 "Position"
+{
+	"Location" -78.35, -52.25, -2.2
+}
+ObjProp 1040 "Position"
+{
+	"Location" -78.35, -52.25, -1
+}
+ObjProp 1038 "Position"
+{
+	"Location" -78.4, -55.45, -2.2
+}
+ObjProp 1048 "Position"
+{
+	"Location" -78.4, -58.4, -2.2
+}
+ObjProp 1047 "Position"
+{
+	"Location" -65.45, -58.4, -2.2
+}
+ObjProp 1023 "Position"
+{
+	"Location" -65.4, -55.45, -2.2
+}
+ObjProp 1026 "Position"
+{
+	"Location" -65.3, -52.15, -2.2
+}
+ObjProp 1031 "Position"
+{
+	"Location" -65.5, -49.1, -2.2
+}
+ObjProp 1034 "Position"
+{
+	"Location" -65.5, -49.1, -1
+}
+ObjProp 1036 "Position"
+{
+	"Location" -65.65, -46.3, -2.2
+}
+ObjProp 1037 "Position"
+{
+	"Location" -65.65, -46.25, -1
+}
+ObjProp 1057 "Position"
+{
+	"Location" -78.7, -22.35, -2.2
+}
+ObjProp 1053 "Position"
+{
+	"Location" -78.55, -25.1, -2.2
+}
+ObjProp 1054 "Position"
+{
+	"Location" -78.5, -25.1, -1
+}
+ObjProp 1051 "Position"
+{
+	"Location" -78.35, -28.2, -2.2
+}
+ObjProp 1049 "Position"
+{
+	"Location" -78.5, -31.4, -2.2
+}
+ObjProp 1058 "Position"
+{
+	"Location" -78.45, -34.45, -2.2
+}
+ObjProp 1050 "Position"
+{
+	"Location" -78.5, -31.4, -1
+}
+ObjProp 1028 "Position"
+{
+	"Location" -65.5, -34.4, -2.2
+}
+ObjProp 1059 "Position"
+{
+	"Location" -65.4, -31.45, -2.2
+}
+ObjProp 1021 "Position"
+{
+	"Location" -65.35, -28.2, -2.2
+}
+ObjProp 1022 "Position"
+{
+	"Location" -65.3, -28.25, -1
+}
+ObjProp 1024 "Position"
+{
+	"Location" -65.55, -25.05, -2.2
+}
+ObjProp 1029 "Position"
+{
+	"Location" -65.5, -34.4, -1
+}
+ObjProp 1025 "Position"
+{
+	"Location" -65.65, -22.3, -2.2
+}
+ObjProp 989 "Position"
+{
+	"Location" -78.7, -78.35, -2.2
+}
+ObjProp 986 "Position"
+{
+	"Location" -78.5, -81.1, -2.2
+}
+ObjProp 987 "Position"
+{
+	"Location" -78.5, -81.1, -1
+}
+ObjProp 981 "Position"
+{
+	"Location" -78.3, -84.2, -2.2
+}
+ObjProp 978 "Position"
+{
+	"Location" -78.5, -87.4, -2.2
+}
+ObjProp 992 "Position"
+{
+	"Location" -78.45, -90.45, -2.2
+}
+ObjProp 966 "Position"
+{
+	"Location" -78.65, -102.25, -2.2
+}
+ObjProp 967 "Position"
+{
+	"Location" -78.6, -102.25, -1
+}
+ObjProp 979 "Position"
+{
+	"Location" -78.5, -87.4, -1
+}
+ObjProp 963 "Position"
+{
+	"Location" -78.35, -105.2, -2.2
+}
+ObjProp 958 "Position"
+{
+	"Location" -78.35, -108.25, -2.2
+}
+ObjProp 960 "Position"
+{
+	"Location" -78.35, -108.25, -1
+}
+ObjProp 955 "Position"
+{
+	"Location" -78.7, -111.35, -2.2
+}
+ObjProp 973 "Position"
+{
+	"Location" -78.45, -114.4, -2.2
+}
+ObjProp 968 "Position"
+{
+	"Location" -65.55, -114.05, -2.2
+}
+ObjProp 931 "Position"
+{
+	"Location" -65.3, -111.35, -2.2
+}
+ObjProp 942 "Position"
+{
+	"Location" -65.3, -108.15, -2.2
+}
+ObjProp 949 "Position"
+{
+	"Location" -65.45, -104.95, -2.2
+}
+ObjProp 950 "Position"
+{
+	"Location" -65.5, -105.20, -1
+}
+ObjProp 952 "Position"
+{
+	"Location" -65.65, -102.3, -2.2
+}
+ObjProp 954 "Position"
+{
+	"Location" -65.55, -102.25, -1
+}
+ObjProp 946 "Position"
+{
+	"Location" -65.45, -90.4, -2.2
+}
+ObjProp 1002 "Position"
+{
+	"Location" -65.45, -87.45, -2.2
+}
+ObjProp 929 "Position"
+{
+	"Location" -65.3, -84.25, -2.2
+}
+ObjProp 947 "Position"
+{
+	"Location" -65.5, -90.4, -1
+}
+ObjProp 930 "Position"
+{
+	"Location" -65.35, -84.25, -1
+}
+ObjProp 932 "Position"
+{
+	"Location" -65.55, -81.05, -2.2
+}
+ObjProp 935 "Position"
+{
+	"Location" -65.65, -78.3, -2.2
+}

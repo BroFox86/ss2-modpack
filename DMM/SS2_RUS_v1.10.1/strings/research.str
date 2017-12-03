@@ -1,0 +1,411 @@
+NameUnresearched:"Неисследованный объект"  
+//"Unresearched Object"
+
+QueryUnresearched:"Этот предмет пока не исследован."  
+//"This item is not yet researched."
+
+ReportName1:"Орган гибрида"  
+//"Hybrid Organ"
+
+ReportName10:"Орган рамблера"  
+//"Rumbler Organ"
+
+ReportName11:"Импл. Разум Червя"  
+//"WormMind Implant"
+
+ReportName13:"Орган паукообразного"  
+//"Arachnid Organ"
+
+ReportName14:"Орган пси-ривера"  
+//"Psi Reaver Organ"
+
+ReportName15:"Импл. ЧервеСмесь"  
+//"WormBlend Implant"
+
+ReportName16:"Размножитель вирусов"  
+//"Viral Proliferator"
+
+ReportName17:"Броня ЧервеКожа"  
+//"WormSkin Armor"
+
+ReportName19:"Орган больш. пси-ривера"  
+//"Greater Psi Reaver Organ"
+
+ReportName20:"Импл. Сердце Червя"  
+//"WormHeart Implant"
+
+ReportName21:"Червемет"  
+//"Annelid Launcher"
+
+ReportName22:"Мозг обезьяны"  
+//"Monkey Brain"
+
+ReportName23:"Аннелидн. леч. железа"  
+//"Annelid Healing Gland"
+
+ReportName24:"Аннелидный пси-орган"  
+//"Annelid Psi Organ"
+
+ReportName3:"Орган акушерки"  
+//"Midwife Organ"
+
+ReportName4:"Орган личинки"  
+//"Grub Organ"
+
+ReportName5:"Антианнелидн. токсин"  
+//"Anti-Annelid Toxin"
+
+ReportName6:"Импл. Кровь Червя"  
+//"WormBlood Implant"
+
+ReportName7:"Кристаллическая ветвь"  
+//"Crystal Shard"
+
+ReportName8:"Усилитель Пси"  
+//"Psi Booster"
+
+ReportName9:"Орган кокона роя"  
+//"Swarm Pod Organ"
+
+ResRepIcon1:"resicon"
+ResRepIcon10:"resicon"
+ResRepIcon11:"resicon"
+ResRepIcon12:"resicon"
+ResRepIcon13:"resicon"
+ResRepIcon14:"resicon"
+ResRepIcon15:"resicon"
+ResRepIcon16:"resicon"
+ResRepIcon17:"resicon"
+ResRepIcon18:"resicon"
+ResRepIcon19:"resicon"
+ResRepIcon2:"resicon"
+ResRepIcon20:"resicon"
+ResRepIcon21:"resicon"
+ResRepIcon22:"resicon"
+ResRepIcon23:"resicon"
+ResRepIcon24:"resicon"
+ResRepIcon3:"resicon"
+ResRepIcon4:"resicon"
+ResRepIcon5:"resicon"
+ResRepIcon6:"resicon"
+ResRepIcon7:"resicon"
+ResRepIcon8:"resicon"
+ResRepIcon9:"resicon"
+ResRepPortrait1:"ogport"
+ResRepPortrait10:"rumport"
+ResRepPortrait11:"mindport"
+ResRepPortrait13:"arport"
+ResRepPortrait14:"minport"
+ResRepPortrait15:"blendport"
+ResRepPortrait16:"viroport"
+ResRepPortrait17:"sknport"
+ResRepPortrait19:"minport"
+ResRepPortrait20:"blendport"
+ResRepPortrait21:"alport"
+ResRepPortrait22:"mport"
+ResRepPortrait23:"anpport"
+ResRepPortrait24:"anhport"
+ResRepPortrait3:"midport"
+ResRepPortrait4:"gruport"
+ResRepPortrait5:"toxport"
+ResRepPortrait6:"bloodport"
+ResRepPortrait7:"crport"
+ResRepPortrait8:"btport"
+ResRepPortrait9:"swport"
+
+ResRepText1:"Резюме:  Ты выяснил, в какие места лучше всего целиться гибриду, чтобы причинить ему наибольший урон.  Все повреждения, наносимые тобой гибридам, увеличиваются на 25%.
+
+Анализ:  Структура ДНК указывает на то, что этот организм является гибридом человеческого носителя и культуры организма-паразита.  Хотя паразит (напоминающий очень длинного червя) разложился до стадии, когда анализ уже бесполезен, результаты симбиоза налицо.  Серьезное блокирование высшей нервной деятельности вызвано множественными выростами на позвоночном столбе и стволе мозга.  Нечеловеческие ткани, похоже, состоят из популяции маленьких червеобразных созданий, которые прижились в теле носителя и захватили контроль над большинством двигательных функций и функций принятия решений.  Похоже, существует еще и прямая стимуляция автономной нервной системы и системы желез.  Таким образом, этот организм производит немыслимые количества адреналина и эндорфина, делая себя в высшей степени сильным и агрессивным.  То, что осталось, даже с натяжкой нельзя назвать человеком.  Ущерб, наносимый телу носителя в процессе гибридизации, невосполним, так что организм действует вне моральных устоев и вне сомнений.
+ 
+Рекомендации:  Организм уязвим для тех же форм воздействия, что и человеческий.  Тем не менее, изменения в его физиологии предполагают более сложную химию, чем известная в настоящее время.  Дальнейший анализ аналогичных организмов мог бы обеспечить больше понимания в этой области."
+
+
+//ResRepText1:"Summary:  You've learned how to best target the hybrid for maximal damage.  All damage you deal to hybrids will be increased by 25%.
+
+Analysis: DNA structure indicates that this organism is a hybrid of a Human host and a parasitic organism.  Although the parasite (resembling a yard-long worm) has deteriorated to a stage beyond useful analysis, the effects of the process are evident.  Severe deterioration of higher level mental processes is caused by tumorous growths along the spinal column and brain stem.  The non-Human tissues seem to be formed of a composite of small worm-like creatures that have adapted into the host body and taken over a majority of motor control and decision making functions.  There also appears to be direct stimulation of the autonomic nervous and glandular systems.  Hence, the organism produces exceptional amounts of both adrenaline and endorphins, making it remarkably strong and aggressive.  What remains can not really be called Human at all.  The damage done to the host by the process is irrevocable, and the organism now functions with no sense of morality or hesitation.
+
+Recommendation: The organism is vulnerable to the same forms of stimuli as a Human.  However, the changes in its physiology suggest a chemistry more complex than is currently understood.  Further analysis of similar organisms might provide more insight in this area."
+
+
+
+ResRepText10:"Резюме:  Ты выяснил, в какие места лучше всего целиться рамблеру, чтобы причинить ему наибольший урон.  Все повреждения, наносимые тобой рамблерам, увеличиваются на 25%.  Их аннелидные ткани особенно уязвимы для зажигательного оружия. 
+
+Анализ:  Этот организм - дальнейшая эволюция аннелидного гибрида первого уровня.  Различимые человеческие элементы - минимальны, на уровне ДНК.  Плотность мышечной ткани увеличилась в 20 раз, выработка адреналина возросла соответственно.  Ткани мозга - очень плотные, что обычно свидетельствует о крайне развитых мыслительных способностях, но мозговая основа атрофировалась до бесполезного обрубка, а аналога человеческого позвоночного столба не существует.  Вся мускульная активность контролируется чуждыми клетками, созданными специально для этой цели.  Похоже, это существо является промежуточным звеном между изначальным гибридом человека и червя, и третьей, неизвестной формой.
+
+Рекомендации:  Это существо крайне опасно, и является, по сути, тяжеловесным носителем, предназначенным для защиты высокоразвитого, но пока незадействованного, мозга.  Особенность биохимии тканей мозга гибрида указывает на скрытую предрасположенность к псионике."
+
+//ResRepText10:"Summary:  You've learned how to best target the Rumbler for maximal damage.  All damage you deal to Rumblers will be increased by 25%.  Its Annelid tissue is particularly vulnerable to incendiary devices.  
+
+Analysis:  This organism is further evolution of the first-stage Annelid hybrid.  Discernible Human elements are minimal, above the DNA level.  Muscle tissue density has increased twenty-fold, and adrenaline production has increased proportionally.  Brain tissue is extremely dense, which would normally indicate a creature of extreme cognitive ability, but the brain-stem has atrophied to a useless stub, and there is no analog to a Human spinal column.  All muscular activity is controlled locally by alien cells designed for this purpose.  It appears that this creature is an evolutionary stage between an earlier-stage Human/Annelid hybrid, and a third, unknown form.
+
+Recommendation:  This creature is extremely dangerous, being, in effect, a heavily-muscled host designed to protect a highly-evolved yet unconnected brain.  The peculiar chemistry of this hybrid's brain tissue indicates a latent psionic predisposition."
+
+
+
+ResRepText11:"Резюме:  Когда носитель имплантанта получает повреждения, каждая четвертая единица урона списывается с пси, а не со здоровья. 
+
+Анализ:  Этот имплантант модифицирует протекание нервных процессов носителя, стимулируя и усиливая зоны нервной системы, имеющие отношение к псионике.  Вдобавок происходят постоянные инъекции нейротранслирующих химических веществ аннелидов в подкорку носителя.  Конечный эффект всего этого - усиление скрытых психогенных способностей носителя, особенно, в области физического самоконтроля.
+ 
+Рекомендации:  Носитель имплантанта может психогенно излечивать часть полученного урона.  Долговременное использование легко может вызвать гипер-иммунную реакцию."
+
+//ResRepText11:"Summary:  When the user of this implant is damaged, one point of every four points of damage done is subtracted from psi points instead of hit points.
+
+Analysis:  This implant will alter the user's neural processes, stimulating and amplifying the areas related to psionics.  Additionally, a steady drip of Annelid neurotransmitter chemicals is fed into the user's lower cortex.  The overall effect of this is to enhance the user's latent psychocreative abilities, specifically in the area of bodily self-control.
+
+Recommendation:  The user of the implant will be able to psychocreatively heal some portion of any damage he takes.  Long-term use is likely to cause a hyperimmune reaction."
+
+
+
+ResRepText13:"Резюме:  Ты выяснил, в какие места лучше всего целиться аннелидным паукообразным, чтобы причинить им наибольший урон.  Все повреждения, наносимые тобой паукообразным, увеличиваются на 25%.  Паукообразные, как и все чистые аннелиды, имеют повышенную сопротивляемость к энергооружию.
+
+Анализ:  Система внутренних органов этого существа является одновременно распределенной и избыточной, что может говорить о целенаправленном создании, либо эволюционировании в очень опасной среде.  То, что служит ему нервной системой, потребляет существенно большие количества энергии, чем ее человеческий аналог, так что ткани этих существ, соответственно, гораздо более защищены от энергии.  Метаболизм этого существа допускает как ускорение гиперкинетической активности, так и обычное пребывание в бездействии, что, вероятно, позволяет ему длительное время существовать без пищи.
+
+Рекомендации:  Использовать энергооружие против этого существа не рекомендуется."
+
+//ResRepText13:"Summary:  You've learned how to best target the Annelid Arachnids for maximal damage.  All damage you deal to Arachnids will be increased by 25%.  Arachnids, like all pure Annelids, are resistant to energy weapons.
+
+Analysis:  This creature's internal systems are both distributed and redundant in a way that suggests intentional design, or evolution in a very dangerous environment.  What serves as its nervous system uses a significantly larger amount of energy than a Human's, so the creature's tissues are correspondingly more energy-resistant.  The creature's metabolism allows for a boost of hyperkinetic activity, while allowing it to remain normally in a dormant state, and presumably allowing it to exist for a long period of time without nourishment.  
+
+Recommendation:  Using energy weapons against this creature is not recommended."
+
+
+
+ResRepText14:"Резюме:  Ты выяснил, в какие места лучше всего целиться пси-риверам и их проекциям, чтобы причинить им наибольший урон.  Все повреждения, наносимые тобой пси-риверам и их проекциям, увеличиваются на 25%.  Проекции будут постоянно воссоздаваться, пока ты не уничтожишь мозговую структуру, которая их порождает.
+
+Анализ:  Это постоянно подпитываемый образец психогенного остатка.  Является конечным продуктом очень сложной сфокусированной пси-проекции.  Этот остаток можно на время разрушить, но не уничтожить окончательно, поскольку пси-проекции могут быть попросту воссозданы породившим их организмом.
+
+Рекомендации:  Хотя проекцию можно разрушить большинством стандартных средств, это может служить только в качестве краткосрочного решения.  Не расходуй ресурсы на борьбу с этим явлением, если только речь не идет о выживании.  При необходимости уничтожить проекцию сначала найди и уничтожь контролирующую ее мозговую структуру."
+
+//ResRepText14:"You've learned how to best target the Psi Reavers and their projections for maximal damage.  All damage you deal to Psi Reavers and their projections will be increased by 25%.  The projections will continually regenerate themselves unless you destroy the brain structure which creates them.
+
+Analysis:  This is a continuously energized sample of psycho-creative residue.  It is the end product of a massively complex and focused psionic projection.  This residue can be temporarily disrupted, but not permanently destroyed, since the psionic projection can simply be re-created by the source organism.
+
+Recommendation:  While the projection can be disrupted by most conventional means, this serves as a short-term solution only.  Resources should not be wasted in combating this phenomenon unless it is crucial for survival.  If it must be destroyed, seek out and destroy the controlling brain structure first."
+
+
+
+ResRepText15:"Резюме:  Этот имплантант сокращает расстояние, на котором аннелидные создания способны псионически определить носителя имплантанта.
+
+Анализ:  В этом имплантанте содержатся нервные ткани аннелидов, посредством электрохимич. связей, подчиняющиеся нервным импульсам носителя имплантанта.  Доли этих тканей недостаточно, чтобы носитель мог установить пси-контакт с разумом аннелида, но она в достаточной степени корректирует волны мозга носителя, чтобы при поверхностной пси-проверке носитель напоминал аннелидный организм. 
+
+Рекомендации:  Это с большой степенью вероятности позволит носителю стать менее определяемым аннелидными созданиями, по крайней мере, на расстоянии.  Но, вероятно, ничем не поможет носителю, столкнувшемуся с аннелидами лицом к лицу."
+
+//ResRepText15:"Summary:  This implant decreases the range at which Annelid creatures will be able to psionically detect the implant user.
+
+Analysis:  This implant contains a portion of Annelid neural tissue, with electrochemical connections to slave the tissue to the user's neural impulses.  The portion of tissue is not substantive enough to allow the user to psionically contact the Annelid mind, but it does coordinate the user's brainwaves enough with the Annelid neural processes that the user will, to a cursory psionic examination, resemble an Annelid organism. 
+
+Recommendation:  This will very likely allow its user to become harder to detect to Annelid creatures, at least at a distance.  It will probably not allow the user to pass for an Annelid in face-to-face contact."
+
+
+
+ResRepText16:"Резюме:  Для использования размножителя вирусов необходим 4-й навык владения экзооружием.  Первая модификация этого оружия увеличивает вместимость обоймы, вторая - сокращает расход боеприпасов.  Обе модификации также усиливают наносимый оружием урон.  Это оружие распыляет бактерий-носителей анти-аннелидного вируса в радиусе действия.  Вирус можно подстроить для действия только на чистых аннелидов, или на людей и гибридов людей /аннелидов.  Чтобы выстрелить, необходимо нажать и удерживать курок - а когда курок отпущен, емкость с вирусом взрывается.  Не позволяй ей сдетонировать слишком близко к тебе, если оружие настроено на поражение людей!
+
+Анализ:  Это оружие, похоже, было получено грубым скрещиванием чуждых и человеческих технологий.  Судя по стволу и курку, оно было произведено людьми.  Шестигранная сердцевина состоит из энергонасыщенного материала, она окружена контейнерами, содержащими культуру нанито-вирусного гибрида.  Впрыскивание вирусного гибрида в сердцевину вызывает циклы размножения при скорее нанитной, чем биологической, скорости, и культура множится вплоть до выброса заряда.  Дополнительные энергозаряды рассеивают вирусный заряд в радиусе действия.  Материал сердцевины следует обновлять аннелидными тканями - червей надо собирать в стандартные лабораторные стаканы.  Распылитель можно подстроить на производство вирусного гибрида, поражающего только чистых аннелидов, либо людей и частично человеческих существ.
+
+Рекомендации:  В закрытом помещении, при использовании против аннелидов, это невероятно мощное оружие.  Оно может повредить даже аннелидам, которых не берет другое оружие.  Однако, при стрельбе по людям будет непросто избежать повреждений самому."
+
+//ResRepText16:"Summary:  The Viral Proliferator requires an Exotic Weapons skill of 4.  The first modification to this weapon increases the clip size, while the second reduces the ammo usage.  Both modifications also increase weapon damage.  This weapon releases a host of anti-Annelid virus in an explosive radius.  The virus can be tailored to infect pure Annelids or Humans and Human/Annelid hybrids.  Press and hold down the trigger to fire - when you release the trigger, the viral payload will detonate.  Don't let it detonate too close to you when it's set to affect Humans!
+
+Analysis:  This weapon appears to have been cobbled together from both Human and alien technologies.  Judging by the stock and trigger, it was built by Humans.  The central hexagonal core is an energy-rich media, ringed with receptacles containing nanite-virus hybrids.  Release of the virus hybrids into the core will cause cycles of replication at nanite, rather than biological, speeds, building up until the payload is released.  Additional energetic charges will disperse the viral payload in an explosive radius.  The media must be replenished with Annelid tissue - these worms must be collected in standard laboratory beakers.  The Proliferator can be set to release virus hybrids tailored against pure Annelids, or tailored against Human or partially Human targets. 
+
+Recommendation:  In close quarters against Annelid foes, this weapon is extremely powerful.  It might even hurt Annelids that are unharmed by other weapons.  However, when targeting Human targets, it will be hard to avoid damaging yourself."
+
+
+
+ResRepText17:"Резюме:  Эта броня обеспечивает как боевую, так и эко-защиту, а также повышает пси-способности носящего на 2 пункта.  Тем не менее, она медленно истощает пси-силы носящего ее.
+
+Анализ:  ЧервеКоже придана форма грубой одежды, пригодной для ношения человеком.  Кожа намного крепче, чем можно было бы предположить, исходя из ее биохимического состава, а более глубокие исследования показывают наличие неуловимого отталкивающего эффекта, который, видимо, имеет пси-природу.  Сам факт этого, в сочетании с неторопливо протекающими в коже процессами обмена веществ, указывает на то, что кожа, в каком-то смысле, еще живет.
+
+Рекомендации:  Ношение ЧервеКожи в качестве брони обеспечивает боевую и эко-защиту и увеличивает пси-способности носителя.  Однако, требуется постоянный приток пси-энергии носящего, чтобы защититься от попыток кожи атаковать и поглотить его."
+
+//ResRepText17:"Summary:  This armor provides both combat and environmental protection, and increases the wearers Psionic Ability by 2.  However, it slowly drains the user's psi points.
+
+Analysis:  This worm skin has been fashioned into a crude body covering, suitable for a Human to wear.  The skin is far tougher than its biochemical makeup would suggest, and further investigation demonstrates a subtle repulsive effect that appears to be psionically generated.  The fact that the effect is still active, in combination with the slowly continuing metabolic processes in the skin indicates that the skin is in some sense still alive.
+
+Recommendation:  Wearing the worm skin as a piece of armor will provide some physical and environmental protection, and will increase the wearer's Psionic Ability.  However, it will be a continuous psionic drain on the wearer to keep from being attacked and consumed by the skin."
+
+
+
+ResRepText19:"Резюме:  Ты выяснил, в какие места лучше всего целиться большим пси-риверам и их проекциям, чтобы причинить им наибольший урон.  Все повреждения, наносимые тобой большим пси-риверам и их проекциям, увеличиваются на 25%.  Проекции будут постоянно воссоздаваться, пока ты не уничтожишь мозговую структуру, которая их порождает.
+
+Анализ:  Это постоянно подпитываемый образец психогенного остатка.  Является конечным продуктом очень сложной сфокусированной пси-проекции.  Этот остаток можно на время разрушить, но не уничтожить окончательно, поскольку пси-проекции могут быть попросту воссозданы породившим их организмом.  Судя по всему, этот вариант пси-риверов - гораздо более мощный, чем тот, что встречался тебе раньше.
+
+Рекомендации:  Хотя проекцию можно разрушить большинством стандартных средств, это может служить только в качестве краткосрочного решения.  Не расходуй ресурсы на борьбу с этим явлением, если только речь не идет о выживании.  При необходимости уничтожить проекцию сначала найди и уничтожь контролирующую ее мозговую структуру."
+
+//ResRepText19:"You've learned how to best target the Greater Psi Reavers and their projections for maximal damage.  All damage you deal to Greater Psi Reaver and their projections will be increased by 25%.  The projections will continually regenerate themselves unless you destroy the brain structure which creates them.
+
+Analysis:  This is a continuously energized sample of psycho-creative residue.  It is the end product of a massively complex and focused psionic projection.  This residue can be temporarily disrupted, but not permanently destroyed, since the psionic projection can simply be re-created by the source organism.  This version of the Psi Reaver seems much more powerful than those you have previously encountered.
+
+Recommendation:  While the projection can be disrupted by most conventional means, this serves as a short-term solution only.  Resources should not be wasted in combating this phenomenon unless it is crucial for survival.  If it must be destroyed, seek out and destroy the controlling brain structure first."
+
+
+
+ResRepText20:"Резюме:  Пока данный имплантант действует, носителю не причиняют вреда токсины аннелидов, а каждые 30 секунд восстанавливается 1 единица здоровья.  К несчастью, когда имплантант перестает получать питание или удаляется, в кровь носителя попадает большое количество токсинов.  Не забудь заготовить несколько антитоксинных шприц-тюбиков!
+
+Анализ:  Этот имплантант соединяет в себе устройство для очистки крови и восстанавливающий стимулятор, и использует в качестве дополнения регенерационные ткани аннелидов.  Когда имплантант активен, он поглощает весь яд аннелидов, воздействию которого подвергается носитель, предотвращая заражение.  Вдобавок поврежденные ткани быстро обновляются психогенным аннелидным заменителем.  Однако, ткань-заменитель сама производит некоторое количество побочного продукта, который сам по себе токсичен (и поглощается имплантантом).  При этом, когда пропадает питание или имплантант удаляется, высвобождается большое количество поглощенного яда.
+
+Рекомендации:  Этое устройство не рекомендуется использовать часто из-за опасности отравления токсинами при удалении имплантанта.  Однако, восстанавливающие и противотоксинные свойства имплантанта могут оказать неоценимую услугу в опасной ситуации."
+
+//ResRepText20:"Summary:  While this implant is powered, the user takes no damage from Annelid toxin and will regenerate one hit point per thirty seconds.  Unfortunately, when the implant ceases being powered, or is removed, a great deal of toxin is released into the user's bloodstream.  Make sure you have some anti-toxin hypos handy!
+
+Analysis:  This implant is a combination of a blood filtering device and a regenerative stimulator, using Annelid regenerative tissue as an adjunct.  While the implant is worn, it sequesters all Annelid venom that the user is subject to, preventing it from acting.  Additionally, damaged tissue is replaced quickly by a psychocreative Annelid substitute.  However, the substitute tissue produces some amount of degradation byproduct, which is itself toxic (and sequestered by the implant).  However, when the implant loses power or is removed, much of the sequestered venom is released.
+
+Recommendation:  This device is not recommended for frequent use, because of the danger of the toxin damage upon removing the implant.  However, its regenerative and toxin-protection properties may well be invaluable in a very dangerous situation."
+
+
+
+
+ResRepText21:"Резюме:  Для использования червемета необходимы сила 3 и 6-й навык владения экзооружием.  Первая модификация этого устройства увеличивает вместимость обоймы, вторая - удваивает скорость снаряда.  Вдобавок обе модификации усиливают наносимые оружием повреждения.  Боеприпасами для устройства служат аннелидные черви, их следует собирать в лабораторные стаканы.  Оружие можно установить в режим нанесения урона либо только аннелидам, либо гибридам и людям.
+
+Анализ:  Это экзотическое устройство сделано из полуразумного органического материала.  Устройство было сильно модифицировано, до состояния, когда уже невозможно определить его изначальные функции.  В теперешней конфигурации этот объект - оружие, заряжаемое аннелидными червями.  Этих червей следует собирать в стандартные лабораторные стаканы, а потом загружать в боковое отделение устройства.  С помощью встроенного химического иньектора можно изменять биохимию червей, делая их смертельными как для людей (или в той или иной степени людей), так и для чистых аннелидов.
+
+Рекомендации:  Если необходимо использовать это оружие, надо не забывать собирать лабораторные стаканы и заполнять их аннелидными червями при малейшей возможности."
+
+//ResRepText21:"Summary:  The Annelid Launcher requires a Strength of 3 and an Exotic Weapons skill of 6.  The first modification to this device increases the clip size, while the second doubles projectile speed.  Additionally, both modifications increase weapon damage.  This device uses Annelid worms for ammunition, which must be collected in beakers.  The weapon may be set to damage either pure Annelid creatures or Human and hybrid creatures.
+
+Analysis:  This is an exotic device, made of semi-sentient organic material.  It has been heavily modified, to the point where it is impossible to discern its original function.  As currently configured, this object is a weapon, designed to deliver payloads of Annelid worms.  These worms must be collected in standard laboratory beakers, and loaded into a side compartment of the device.  An integrated chemical injector can alter the chemistry of the worms, so that they can be made deadly either to Human (and partially Human) targets, or to pure Annelids.
+
+Recommendation:  If the use of this weapon is required, care should be taken to collect beakers whenever possible, and fill them with Annelid worms at each opportunity."
+
+
+ResRepText22:"Резюме:  Ты выяснил, в какие места лучше всего целиться обезьянам, чтобы причинить им наибольший урон.  Все повреждения, наносимые тобой обезьянам, увеличиваются на 25%.  
+
+Анализ:  Генетически обезьяна является обычной африканской беличьей обезьяной-саймири.  Однако, судя по всему, она подверглась целой серии химических и хирургических вмешательств, как до, так и после рождения.  Эти вмешательства увеличили размер и количество связей мозга, а также улучшили циркуляцию миелина в центральной нервной системе.  Крышка черепа существа была удалена хирургическим путем, вероятно, чтобы избавиться от внутричерепного давления и получить быстрый доступ к мозгу для экспериментов.
+
+Рекомендации:  Нервная организация существа похожа по природе на нервные пси-структуры человека - и весьма вероятно, что обезьяны обладают пси-способностями.  Они уязвимы для всех видов оружия, применяемых против органической жизни."
+
+//ResRepText22:"Summary:  You've learned how to best target the monkeys for maximal damage.  All damage you deal to monkeys will be increased by 25%.  
+
+Analysis:  The monkey is genetically normal, an African Squirrel Monkey.  However, it appears to have been subject to a large number of chemical and surgical procedures, both before and after birth.  These procedures have enhanced brain size and connectivity, as well as enhanced the myelination of the central nervous system.  The skull of the creature has been surgically removed, presumably both to prevent cranial pressure and to allow quick experimental access.   
+
+Recommendation:  The neural construction of the creature is similar in nature to psionic Human neural structure - the monkeys are likely to have psionic capability.  They are vulnerable to all attacks which affect standard organic creatures."
+
+
+
+ResRepText23:"Резюме:  Эти ткани можно использовать для излечения физических повреждений.
+
+Анализ:  Эта железа выделяет насыщенную смесь гормонов и стимулирующих ферментов, а быстро делящийся клеточный слой вырабатывает многоцелевые циркуляторные клетки.  Эти клетки находят места повреждения тканей и внедряются туда, практически мгновенно приобретая необходимые свойства.
+
+Рекомендации:  Совместимость человеческих тканей с тканями аннелидов позволяет использовать эту железу для лечения, хотя и не столь полного, как у аннелидов-носителей.  После извлечения из тела носителя железа может быть использована лишь единожды."
+
+//ResRepText23:"Summary:  This tissue can be used to physically heal damage.  
+
+Analysis:  This gland secretes a prolific mix of hormones and stimulatory enzymes, and a quickly dividing layer of cells spawns off multi-purpose circulatory cells.  These cells seek out sites of tissue damage and graft themselves into the tissue, taking on the characteristics of the local host tissue in a matter of moments.  
+
+Recommendation:  The shared tissue compatibilities between Human and Annelid tissue will allow this gland to be used for healing, though not as fully as it would in an Annelid host.  Once removed from the host's body, it can only be used once."
+
+
+
+ResRepText24:"Резюме:  Эти ткани можно использовать для восстановления пси-способностей.
+ 
+Анализ:  Эта железа производит мощный коктейль из гормонов, воздействующих на психику и надпочечники, который омолаживает и расслабляет нервные ткани.  Вдобавок к стандартным (и в чем-то необычным) био-компонентам, железа, судя по всему, выделяет небольшие количества полуматериальной психогенной энергии.
+
+Рекомендации:  При том, что данная железа может быть использована для восстановления пси-потенциала, опасность, присущая употреблению чуждых психогенных энергий, налагает свои ограничения: железой следует пользоваться только в крайних случаях."
+
+//ResRepText24:"Summary:  This tissue can be used to restore lost psi points. 
+
+Analysis:  This gland produces a potent cocktail of psychoactive and adrenal hormones which acts to rejuvenate and innervate neural tissue.  In addition to standard (and somewhat unusual) biological compounds, the gland also appears to secrete small amounts of semi-physical psychocreative energy.  
+
+Recommendation:  While this gland can be used to restore psionic potential, the danger inherent in consuming alien psychocreative energies suggests that this should only be done in emergencies."
+
+
+
+ResRepText3:"Резюме:  Ты выяснил, в какие места лучше всего целиться киборгам-акушеркам, чтобы причинить им наибольший урон.  Все повреждения, наносимые тобой акушеркам, увеличиваются на 25%.  Они мало восприимчивы к зажигательным гранатам и разрывным патронам, но уязвимы для бронебойных.
+
+Анализ:  Цепочка ДНК подтверждает, что объект исследования является кибернетически модифицированной самкой человека.  Вспомогательный процессор в основании позвоночного столба служит контролером, перебивая большую часть импульсов, поступающих от живого мозга.  Реакции и мускулатура были улучшены механическим путем, а кибер-аппаратура также служит защитой для мягких человеческих тканей.
+
+Рекомендации:  Из-за полумеханической природы этого существа зажигательные гранаты и разрывные патроны малоэффективны, но бронебойные должны быть весьма действенны."
+
+//ResRepText3:"Summary:  You've learned how to best target the cyborg midwife for maximal damage.  All damage you deal to midwives will be increased by 25%.  Resistant to incendiary and anti-personnel weapons, but vulnerable to armor-piercing.
+
+Analysis:  DNA sequence confirms that subject was originally a Human female, cybernetically modified.  An auxiliary CPU in the base of the spine serves as a controller, overriding most signals sent by the subject's natural brain.  Both speed and musculature have been mechanically enhanced, and the cybernetic apparatus also serves as physical shielding for the softer Human tissues.
+
+Recommendation:  Due to the half-mechanical nature of this creature, incendiary and anti-personnel weapons will be fairly ineffective, but armor-piercing rounds should be quite effective."
+
+
+
+ResRepText4:"Резюме:  Теперь, когда ты узнал уязвимые места этих существ, их можно легко убить.  Как и все аннелиды, они мало восприимчивы к энергооружию.  Яйца аннелидов зачастую содержат полезные органы, имеет смысл обыскивать их перед уничтожением.
+
+Анализ:  Будучи биологической самкой, личинка аннелида является самой простой формой аннелидов.  Это создание состоит, главным образом, из нервной системы и мускулатуры.  Высокоразвитая (для червя) нервная система, похоже, связана в рудиментарный орган пси-чувств.  Червеобразная на вид, личинка фактически не имеет пищеварительного тракта, а снабжается энергетическими резервами при рождении.  Когда они истощаются, существо переходит в состояние сна, вероятно, до тех пор, пока следующий пси-толчок не разбудит его.  Яйца, из которых они вылупляются, зачастую содержат полезные органы, если яйцо не было повреждено в бою.
+
+Анализ:  Личинки довольно хрупки, но могут оказаться опасными, если их не заметить.  В больших количествах они могут представлять более значительную угрозу."
+
+//ResRepText4:"Summary:  While you have learned the vulnerabilities of this creature, they're so easily killed it hardly matters.  Like all Annelids, they are somewhat resistant to energy weapons.  Annelid eggs often contain useful organs if you search them before they are destroyed.
+
+Analysis:  Genetically female, the Annelid grub is the most basic Annelid form.  The creature is principally nervous system and musculature - the highly advanced (for a worm) nervous system appears to be tied into a rudimentary psionic sense organ.  While worm-like in appearance, the grub has no actual digestive tract, but is furnished with energy reserves at birth.  When these are depleted, the creature shuts down into a dormant state, possibly until a further psionic trigger acts on it.  The eggs that these emerge from often contain organs that might be extracted for useful purposes, unless the egg was destroyed in combat.
+
+Recommendation:  The grubs are fairly fragile, but can be somewhat dangerous if they close before you see them.  In large numbers, they may prove a more significant threat."
+
+
+
+
+ResRepText5:"Резюме:  Помещение этого токсина в климатические регуляторы замедлит рост аннелидов в данной области.
+
+Анализ:  Это экспериментальный, крайне опасный токсин, разработанный специально для разрушения и растворения тканей аннелидов.  Колба тщательно герметизирована, поскольку в обычных условиях жидкий токсин быстро испаряется.
+
+Рекомендации:  Для достижения максимального эффекта токсин следует ввести в систему воздухообмена немедленно после вскрытия колбы."
+
+//ResRepText5:"Summary:  Placing this toxin in an environmental regulator will reduce local Annelid growth.
+
+Analysis:  This is an experimental toxin, highly virulent, developed specifically to break down and dissolve Annelid tissue.  The canister is highly pressurized, as the liquid toxin would evaporate quickly under ordinary conditions.
+
+Recommendation:  For maximum coverage, this toxin should be introduced into air-recirculators immediately after being opened."
+
+
+
+
+ResRepText6:"Резюме:  Пока данный имплантант активен, ты можешь использовать кучки червей для излечения (при помощи правой кнопки мыши).
+
+Анализ:  Этот имплантант является мощным устройством фильтрации и обработки крови, которое изменяет находящиеся в крови ткани аннелидов, чтобы сделать их доброкачественными для человека-носителя.  Благодаря сильным регенеративным свойствам аннелидов, их ткани в сочетании с этим имплантантом могут заменять поврежденные человеческие ткани.  С этой целью небольшой входной канал имплантанта можно использовать для подачи тканей аннелидов.
+ 
+Рекомендации:  Находясь под воздействием этого имплантанта, можно использовать для регенерации сброшенные ткани аннелидов, вроде тех, что попадаются в кучках червей.  Но при отключенном имплантанте такое использование тканей аннелидов не приведет к положительному результату."
+
+//ResRepText6:"Summary:  While this implant is active, you can right-click on a pile of worms to heal yourself.
+
+Analysis:  This implant is a high-powered blood filtering and reprocessing unit which acts to modify blood-borne Annelid tissue to be benign in a Human host.  Because of the highly regenerative nature of these Annelids, their tissue, in conjunction with this implant, can be used as a replacement for damaged Human tissue.  A small insertion port in the implant can be used to import Annelid tissue for this use.  
+
+Recommendation:  While under the effect of this implant, discarded Annelid tissue, such as that found in worm piles, can be used for a regenerative effect.  Use of Annelid tissue in such a fashion while the implant is not powered is strongly discouraged."
+
+
+
+ResRepText7:"Резюме:  Крайне опасное оружие рукопашного боя.  
+Для использования необходим 1-й навык владения экзооружием.
+
+Анализ:  Этот кристалл состоит главным образом из кремния, с вкраплениями германия и других, неизвестных, элементов; похоже, что резонансная частота кристалла очень близка к частоте нервных импульсов.  Вероятно, кристалл служит ретранслятором пси-способностей аннелидных существ.  Кристаллическая структура сформирована из тысяч тесно расположенных иголок, образующих ветвистое, практически фрактальное, дерево.
+
+Рекомендации:  Поразительная острота кристалла делает его очень опасным оружием рукопашного боя."
+
+//ResRepText7:"Summary:  A very dangerous hand-to-hand weapon.  It requires an Exotic Weapons skill of 1 in order to wield.
+
+Analysis:  This crystal, principally of Silicon but doped with Germanium and other unknown trace elements, appears to have a resonant frequency very close to that of neural propagation.  The crystal probably serves as a repeater for the psionic abilities of the Annelid creatures.  The crystal structure is composed of thousands of close-together crystal needles, attached together in a close-branching, nearly fractal, tree.
+
+Recommendation:  The crystal's amazing sharpness makes it a very dangerous hand-to-hand weapon."
+
+
+
+ResRepText8:"Резюме:  Этот шприц-тюбик на 5 минут увеличит пси-параметр пользователя на 1 единицу.
+
+Анализ:  Это фармацевтическое средство соединяет в себе сложную смесь психотропных химикатов, некоторые из которых - весьма мощные, и очищенную ткань аннелида.  Часть химикатов посредством ферментов связана с фрагментами тканей аннелидов, многие из них - с момента изготовления шприц-тюбика, как если бы аннелидная ткань все еще была биологически активной.
+
+Рекомендации:  Этот экспериментальный аэрозольный шприц-тюбик увеличит твой пси-параметр на несколько минут - если ты не возражаешь против вкалывания себе очищенной ткани аннелида.  Частое его использование может вызвать побочные эффекты в виде галлюцинаций."
+
+//ResRepText8:"Summary:  This hypo will increase the user's Psionic Ability by 1 for five minutes.
+
+Analysis:  This pharmaceutical combines a complex mix of psychoactive chemicals, some of them quite powerful, and refined Annelid tissue.  Many of the chemicals have enzymatically bonded to the Annelid tissue fragments, many of them since construction of the hypo, as if the Annelid tissue is still biologically active.  
+
+Recommendation:  This experimental hypospray will increase your Psionic Ability for a few minutes - if you don't mind injecting yourself with purified Annelid tissue.  Long term usage may well cause hallucinatory side effects."
+
+
+
+ResRepText9:"Резюме:  Аннелидному рою невозможно нанести урон никаким из известных способов, но живет он очень недолго.  Яйца аннелидов зачастую содержат полезные органы, имеет смысл обыскивать их перед уничтожением.
+
+Анализ:  Несмотря на маленький размер, крылатые организмы, производимые этими коконами, имеют сложную структуру ДНК, характерную для намного более сложных существ.  Каждое из маленьких существ, будучи биологическим самцом, привязано к рою посредством суб-псионной связи.  Эта связь невосприимчива к обычной пси-атаке или пси-раздражению.  Создания аннелидного роя, похоже, существуют только как живое оружие, поскольку их клетки генетически запрограммированы на период жизни длиной не более нескольких секунд.  В течение этих секунд их притягивают человеческие ткани, поскольку они неистово пытаются продлить короткую жизнь с помощью пищи.  Яйца, из которых вылупляются эти создания, зачастую содержат органы, которые можно извлечь для последующего использования, если только яйцо не было разрушено в бою.
+
+Рекомендации:  Лучший способ борьбы с аннелидным роем - избегать его, поскольку вылупившиеся существа умирают очень быстро.  Не стоит тратить на них боеприпасы."
+
+//ResRepText9:"Summary:  Annelid swarms cannot be damaged by any known means, but have a very short life span.  Annelid eggs often contain useful organs if you search them before they are destroyed.
+
+Analysis:  Although small, the flying organisms generated by these pods contain a complex DNA structure indicative of a much more advanced creature.  Each small creature, genetically male, is bonded to the swarm via a sub-psionic link.  This link is impervious to normal psionic attacks or disturbances.  Annelid swarm creatures seem to exist only as a living weapon, since their cells have a genetically programmed life span of no more than a few seconds.  During these seconds, they are attracted to Human tissue, as they frantically attempt to prolong their short lives with nourishment.  The eggs that these emerge from often contain organs that might be extracted for useful purposes, unless the egg was destroyed in combat.
+
+Recommendation:  The Annelid swarm is best dealt with by avoidance, since the creatures will die soon after being hatched.  Do not waste ammunition on them."
+

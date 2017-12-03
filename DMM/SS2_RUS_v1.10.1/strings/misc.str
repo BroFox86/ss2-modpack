@@ -1,0 +1,536 @@
+AccessRequired:"Требуется доступ %s."
+//"%s access required."
+
+AccessUsed:"Доступ %s использован."
+//"%s access used."
+
+AddExp:"Получено %d кибер-модулей."
+//"%d cyber modules received."
+
+AlarmState0:"Система охраны отключена....\n\nКамеры деактивированы."
+//"Security system disabled....\n\nCameras deactivated."
+
+AlarmState1:""Система охраны активирована....\n\nУгрозы не обнаружено."
+//"Security system active....\n\nNo threats detected."
+
+AlchemyCant:"Предмет не может быть преобразован."
+//"Item cannot be transmuted."
+
+AlchemySuccess:"Предмет преобразован!"
+//"Item transmuted!"
+
+Armor1:"+%.0f ЗАЩ"
+//"+%.0f DEF"
+
+Armor2:"+%.0f РАД"
+//"+%.0f RAD"
+
+Armor3:"+%.0f ТОКС"
+//"+%.0f TOX"
+
+CantReload:"Нет боеприпасов для перезарядки."
+//"Out of ammo for reload."
+
+CantUseRadPatch:"Избыточной радиации нет."
+//"No current radiation to remove."
+
+ChemNotNeeded:"Вставь правильный химикат."
+//"Please insert correct chemical."
+
+EarlySave:"Сохранение во время тренировки в мультиплейере запрещено."
+//"Save disabled during multiplayer training."
+
+ElevLevel1:"Инженерная\n палуба (1)"
+//"Engineering (1)"
+
+ElevLevel2:"Медицина\nи Наука (2)"
+//"Med / Sci (2)"
+
+ElevLevel3:"Палуба Гид-\nропоники (3)"
+//"Hydroponics (3)"
+
+ElevLevel4:"Палуба Уп-\nравления (4)"
+//"Operations (4)"
+
+ElevLevel5:"Палуба Раз-\nвлечений (5)"
+//"Recreation (5)"
+
+EnergyRecharge:"Все предметы перезаряжены."
+//"All items in inventory recharged."
+
+Equip:"Используется %s."
+//"%s equipped."
+
+ErrorExpensive:"Недостаточно кибер-модулей!"
+//"Insufficent cyber modules!"
+
+ErrorMaxed:"Уже максимальное значение!"
+//"Already at maximum value!"
+
+ErrorNoTier:"Сначала нужно приобрести требуемый уровень подготовки!"
+//"Must purchase Tier discipline first!"
+
+FabricateCant:"Предмет нельзя дублировать."
+//"Item cannot be duplicated."
+
+FabricateFail:"Неудачная попытка дублирования.  Попробуй еще раз."
+//"Duplication attempt failed.  Try again."
+
+FabricateNanites:"Для дублирования потребуется %d нанитов."
+//"Item requires %d nanites to duplicate."
+
+FabricateSuccess:"Предмет дублирован!"
+//"Item duplicated!"
+
+FreeHack:"Устройство взломано!"
+//"Device hacked!"
+
+FreeModify:"Оружие модернизировано!"
+//"Weapon upgraded!"
+
+FreeRepair:"Предмет отремонтирован!"
+//"Device repaired!"
+
+GetEmail:"Получено сообщение."
+//"Incoming email transmission."
+
+GiveawayString:"%s отдано %s."
+//"%s given to %s."
+
+GivefailString:"%s не входит в рюкзак %s; выброшено."
+//"%s too large for %s's inventory; dropped."
+
+HelpBattery:"Перетащи на поддающийся зарядке объект, чтобы зарядить его."
+//"Drag to a powered object to recharge it."
+
+HelpFreeHack:"Перетащи на поддающийся взлому объект, чтобы взломать его."
+//"Drag to a hackable object to hack it."
+
+HelpFreeModify:"Перетащи на оружие, чтобы модифицировать его."
+//"Drag to a weapon to modify it."
+
+HelpFreeRepair:"Перетащи на сломанный объект, чтобы починить его."
+//"Drag to a broken object to repair it."
+
+HelpRecycler:"Перетащи на ненужный объект, чтобы превратить его в наниты."
+//"Drag to a junk object to convert it to nanites."
+
+HelpWrench:"Перетащи на изношенное оружие, чтобы улучшить его состояние."
+//"Drag to a degraded weapon to improve condition."
+
+HilightString:"%s пунктов из %s."
+//"%s pointed out by %s."
+
+Level0:"Инженерия"
+//"Engineering"
+
+Level1:"Медицина и Наука"
+//"Med / Sci"
+
+Level2:"Гидропоника"
+//"Hydroponics"
+
+Level3:"Управление"
+//"Operations"
+
+Level4:"Развлечения"
+//"Recreation"
+
+Level5:"Командование"
+//"Command"
+
+Level6:"Рикенбакер"
+//"Rickenbacker"
+
+Level7:"Множество"
+//"The Many"
+
+Level8:"???"
+//"???"
+
+LevelBase0:"Сообщения: палуба %d"
+//"Emails: Deck %d"
+
+LevelBase1:"Записи: палуба %d"
+//"Logs: Deck %d"
+
+LevelBase2:"Заметки: палуба %d"
+//"Notes: Deck %d"
+
+LevelBase3:"Текст помощи"
+//"Help Text"
+
+LevelBase4:"Исследов. отчеты"
+//"Research Reports"
+
+LoadEnd:"Игра загружена!"
+//"Game loaded!"
+
+LoadStart:"Загрузка игры..."
+//"Loading game..."
+
+MaxedOut:"МАКС"
+//"MAX"
+
+MedBedUse:"5 нанитов использовано на лечение."
+//"5 nanites used in healing."
+
+ModLevel:"  Уровень модиф. %d"
+//"Modification level %d"
+
+NeedNanites:"Недостаточно нанитов."
+//"Insufficient nanites."
+
+NotInInventory:"%s: нет в рюкзаке."
+//"%s: None in inventory."
+
+ObjState1:" (сломано)"
+//" (broken)"
+
+ObjState2:" (уничтожено)"
+//" (destroyed)"
+
+ObjState3:" (не исследовано)"
+//" (unresearched)"
+
+PickupString:"Подобрано: %s."
+//"%s picked up."
+
+PsiMaxed:"Пси-сила уже максимальна."
+//"Psi points already at full."
+
+ReceiveString:"%s получено от %s."
+//"%s received from %s."
+
+Reload:"ЗАРЯДИТЬ"
+//"RELOAD"
+
+ResearchBusy:"Нельзя исследовать два предмета одно-\nвременно.  Необхо-\nдимо отменить текущее исследование \nдо начала нового."
+//"You cannot research two items at once.  You must suspend \ncurrent research before researching a new object."
+
+ResearchChemNeeded:"Нужен химикат: %s"
+//"Chemical needed: %s"
+
+ResearchDone:"Исследование завершено!\nЩелкни кнопку Reports (Отчеты) для просмотра результатов."
+//"Research completed!\nClick the \"Reports\" button to see the results."
+
+ResearchReady:"Ничего не исследуется.  Щелкни правой кнопкой мыши \nпо неизученному артефакту для его исследования."
+//"No item being researched. Right-click an unresearched artifact to research it."
+
+ResearchSkillNeeded:"Для исследования этого предмета необходим исследов. навык не ниже %d."
+//"This item requires a Research skill of %d to be researched."
+
+ResearchSoftNeeded:"Чтобы проводить исследования, надо установить исследов. софт."
+//"You must have research software installed in order to do research."
+
+ResMachine0:"Образец принят.  Квантовая машина биореконструкции активирована."
+//"Sample acquired.  Quantum Bio-Reconstruction Machine now active."
+
+ResMachine1:"Лишний образец.  Квантовая машина биореконструкции уже активирована."
+//"Redundant sample.  Quantum Bio-Reconstruction Machine already active."
+
+SaveEnd:"Игра сохранена!"
+//"Game saved!"
+
+SaveStart:"Сохранение игры..."
+//"Saving game..."
+
+ServiceName0:"Десант"
+//"Marines"
+
+ServiceName1:"Флот"
+//"Navy"
+
+ServiceName2:"OSA"
+//"OSA"
+
+SkillZero:"Навык не получен."
+//"Skill not learned."
+
+station0:"Космическая станция Вэйк Айланд"
+//"Space Station Wake Island"
+
+station1:"Космическая станция Чесапик Бэй"
+//"Space Station Chesapeake Bay"
+
+station2:"Орбитальная станция Чан Лоу"
+//"Orbital Station Chun Lo"
+
+StatName0:"СИЛ"
+//"STR"
+
+StatName1:"ВНС"
+//"END"
+
+StatName2:"ПСИ"
+//"PSI"
+
+StatName3:"ЛОВ"
+//"AGI"
+
+StatName4:"КИБ"
+//"CYB"
+
+StatReq:"Требуется %s %d."
+//StatReq:"Item requires %s of %d."
+
+TechCursor0: "Взлом"
+//"Hack"
+
+TechCursor1: "Модификация"
+//"Modify"
+
+TechCursor2: "Ремонт"
+//"Repair"
+
+TechCursor4: "Исследование"
+//"Research"
+
+TechSkill0:"Взлом"
+//"Hack"
+
+TechSkill1:"Ремонт"
+//"Repair"
+
+TechSkill2:"Моди-\nфикац."
+//"Modify"
+
+TechSkill3:"Техоб-\nслуж."
+//"Maint"
+
+TechSkill4:"Иссле-\nдован."
+//"Research"
+
+TooManyObjs:"Неудачная попытка создания объекта!"
+//"Object creation failed!"
+
+ToxinNone:"Токсины не обнаружены."
+//"No toxins detected."
+
+TrainCost:"Цена:"
+//"Cost:"
+
+TrainHeading:"Апгрейд:"
+//"Upgrade:"
+
+TrainPoints:"Модули:"
+//"Modules:"
+
+TraitMachineUsed:"Твоя OS уже была обновлена в этом устройстве."
+//"Your OS has already been upgraded at this unit."
+
+TurretState0:"Загружен новый набор команд...\n\nПоиск новой угрозы."
+//"New command set uploaded...\n\nSeeking new threats."
+
+TurretState1:"Система охраны отключена...\n\nСенсоры не работают."
+//"Security system disabled...\n\nSensors offline."
+
+TurretState2:"Система охраны активирована...\n\nЗапущен алгоритм атаки."
+//"Security system active...\n\nAttack algorithm running."
+
+UseTechTool:"<ДОСТУП ЗАКРЫТ>"
+//"<ACCESS DENIED>"
+
+WeaponBreaks:"Объект %s сломан!"
+//"%s has broken!"
+
+WpnReq:"Для использования нужен навык %s %d."
+//"Item requires %s of %d."
+
+WpnSkill0:"Станд."
+//"Standard"
+
+WpnSkill1:"Энерг."
+//"Energy"
+
+WpnSkill2:"Тяжел."
+//"Heavy"
+
+WpnSkill3:"Экзот."
+//"Exotic"
+
+WrenchOnBroken:"Сначала отремонтируй оружие."
+//"Use Repair skill on weapon first."
+
+WrenchOnNonGun:"Для использования перетащи инструмент на стрелковое оружие."
+//"Drag tool to ranged weapon to use."
+
+WrenchSkillReq:"Техобслуживание этого оружия требует навыка %d."
+//"Maintaining this weapon requires a skill of %d."
+
+WrenchUnused:"Оружие и так в хорошем состоянии."
+//"Weapon already in good condition."
+
+ChemUsed:"Химикат, используемый при исследовании."
+//"Chemical used in research."
+
+DoubleImplant:"Нельзя использовать 2 одинаковых имплантанта."
+//"Cannot equip duplicate implants."
+
+ElevBlocked:"Ошибка!  Нет доступа к шахте!"
+//"Error!  Shaft inaccessible!"
+
+EquipUnresearched:"Невозможно использовать неисследованные предметы."
+//"Cannot equip unresearched items."
+
+FreeHackCant:"Объект не поддается взлому!"
+//"Target cannot be hacked."
+
+FreeHackHacked:"Дальнейший взлом устройства невозможен."
+//"Device cannot be further hacked."
+
+FreeModifyCant:"Этот предмет невозможно модифицировать."
+//"This item cannot be modified."
+
+FreeModifyMax:"Оружие модифицировано до предела."
+//"Weapon is already fully modified."
+
+InvFull:"В рюкзаке нет места."
+//"No room in inventory."
+
+LogPickup:"Запись %s добавлена в PDA."
+//"Log %s added to PDA."
+
+MouseHelpAmm:"Щелкни здесь для переключения типа боеприпасов."
+//"Click here to cycle to next ammo type."
+
+MouseHelpHP:"Показатель здоровья."
+//"Current hit points."
+
+MouseHelpInv0:"Перетащи сюда оружие, чтобы использовать его."
+//"Drag weapon here to equip."
+
+MouseHelpInv2:"Перетащи сюда броню, чтобы использовать ее."
+//"Drag armor here to equip."
+
+MouseHelpInv3:"Перетащи сюда имплантант, чтобы использовать его."
+//"Drag implant here to equip."
+
+MouseHelpInv4:"Перетащи сюда имплантант, чтобы использовать его."
+//"Drag implant here to equip."
+
+MouseHelpMaps:"Вызов дисплея карты."
+//"Bring up Map MFD."
+
+MouseHelpMFD:"Вызов дисплея персонажа."
+//"Bring up Character MFD."
+
+MouseHelpMouseMode:"Возврат в боевой режим."
+//"Return to Shoot mode."
+
+MouseHelpPP:"Показатель уровня Пси."
+//"Current psi points."
+
+MouseHelpQuery:"Загрузка запроса."
+//"Load query cursor."
+
+MouseHelpReload:"Щелкни здесь, чтобы зарядить текущим типом боеприпасов."
+//"Click here to reload with current ammo type."
+
+MouseHelpResearch:"Вызов дисплея исследований."
+//"Bring up Research MFD."
+
+MouseHelpSettings:"Щелкни здесь, чтобы изменить параметры оружия."
+//"Click here to toggle weapon setting."
+
+NoNoNanites:"Недостаточно нанитов для работы."
+//"Insufficient nanites to operate."
+
+NoNoPsi:"Недостаточно пси-силы для активации."
+//"Insufficient psi points to activate."
+
+QuickSaveName:"Автосохранение"
+//"Auto-save"
+
+RepFail:"Недостаточно нанитов для репликации."
+//"Insufficient nanites to replicate."
+
+ResurrectNeedNanites:"Недостаточно нанитов для восстановления."
+//"Insufficient nanites to reconstruct."
+
+ResurrectUsed:"10 нанитов использовано на восстановление."
+//"10 nanites used in reconstruction."
+
+set_mode_failed:"Запрашиваемое разрешение экрана не может быть установлено."
+//"The requested screen mode could not be set."
+
+SettingChange:"Установка изменилась на: %s"
+//"Setting changed to: %s"
+
+SlotCantPay:"Игра с игровым автоматом стоит %d нанитов."
+//"Slot machine costs %d nanites to play."
+
+SlotJackpot:"Джекпот!  Ты выиграл %d нанитов!"
+//"Jackpot!  You won %d nanites!"
+
+SlotLose:"Ты проиграл %d нанитов!"
+//"You lost %d nanites!"
+
+SlotWin:"Ты выиграл %d нанитов!"
+//"You won %d nanites!"
+
+SoftUpgrade0:"Хакерский софт обновлен до версии %d!"
+//"Hacking software upgraded to version %d!"
+
+SoftUpgrade1:"Модификационный софт обновлен до версии %d!"
+//"Modify software upgraded to version %d!"
+
+SoftUpgrade2:"Ремонтный софт обновлен до версии %d!"
+//"Repair software upgraded to version %d!"
+
+SoftUpgrade3:"Исследовательский софт обновлен до версии %d!"
+//"Research software upgraded to version %d!"
+
+SoftUseless:"Избыточный софт не установлен."
+//"Redundant software not installed."
+
+TraitHeader:"Выбери один апгрейд:"
+//"Choose one upgrade."
+
+Access10:"КРИО-ОТСЕК"
+//"CRYOGENICS SECTOR"
+
+Access1:"НАУЧНЫЙ ОТСЕК"
+//"SCIENCE SECTOR"
+
+Access3:"ЭКИПАЖ 2-й ПАЛУБЫ"
+//"DECK 2 CREW"
+
+Access2:"ОТСЕК И & Р"
+//"R & D SECTOR"
+
+Access12:"ОХРАНА"
+//"SECURITY"
+
+Access14:"ГРУЗ. ОТСЕК 2A/2B"
+//"CARGO BAY 2A/2B"
+
+Access6:"ГИДРОПОНИКА A"
+//"HYDROPONICS A"
+
+Access7:"ГИДРОПОНИКА B"
+//"HYDROPONICS B"
+
+Access8:"ГИДРОПОНИКА D"
+//"HYDROPONICS D"
+
+Access5:"ЭКИПАЖ 5-й ПАЛУБЫ"
+//"DECK 5 CREW"
+
+Access15:"СПОРТ-ОТСЕК"
+//"ATHLETIC SECTOR"
+
+Access13:"КАПИТ. МОСТИК"
+//"BRIDGE"
+
+Access18:"КОРРЕКЦИЯ УПРАВЛ."
+//"OPS OVERRIDE"
+
+Access9:"СТЫКОВОЧНЫЙ ОТСЕК"
+//"SHUTTLE BAY"
+
+Access16:"РИКЕНБАКЕР"
+//"RICKENBACKER"
+
+Access17:"КАЮТА ДИЕГО"
+//"DIEGO'S QUARTERS"

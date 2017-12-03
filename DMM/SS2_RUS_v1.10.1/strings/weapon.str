@@ -1,0 +1,29 @@
+GunCondVal1:"Ужасное: 1"  
+//"Terrible: 1"
+
+GunCondVal2:"Плохое: 2"  
+//"Poor: 2"
+
+GunCondVal3:"Ветхое: 3"  
+//"Shoddy: 3"
+
+GunCondVal4:"Приличное: 4"  
+//"Fair: 4"
+
+GunCondVal5:"Среднее: 5"  
+//"Average: 5"
+
+GunCondVal6:"Хорошее: 6"  
+//"Good: 6"
+
+GunCondVal7:"Очень хорошее: 7"  
+//"Very good: 7"
+
+GunCondVal8:"Отличное: 8"  
+//"Excellent: 8"
+
+GunCondVal9:"Превосходное: 9"  
+//"Superb: 9"
+
+GunCondVal10:"Идеальное: 10"  
+//"Perfect: 10"

@@ -1,0 +1,26 @@
+PlayerDisconnected:"%s отсоединился."
+//"%s has disconnected."
+
+NetworkLost:"Соединение с сервером потеряно!"
+//"Connection to Network Host lost!"
+
+NetPause:"Игра приостановлена!"
+//"Game Paused!"
+
+NetResume:"Игра возобновлена!"
+//"Game Resumed!"
+
+NetWait:"Ожидание других игроков."
+//"Waiting for other players."
+
+NetJoined:"Все игроки подсоединились."
+//"All players joined."
+
+LogReceived:"От %s получен лог %s."
+//"Log %s received from %s."
+
+YouSay:"Вы говорите"
+//"You say"
+
+UnknownDisconnected:"Игрок отключился."
+//"A player has disconnected."

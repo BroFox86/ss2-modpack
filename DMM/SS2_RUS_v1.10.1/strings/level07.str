@@ -1,0 +1,330 @@
+EmailName1:"ДИЕГО 12.ИЮЛ.14\nЯ виноват\n"
+EmailPortrait1:"Diego"
+EmailIcon1:"RickIcon"
+EmailText1:"Солдат... это капитан Уильям Диего... времени мало... так что слушай внимательно.  У меня есть уникальное умение видеть ситуацию целиком с любой позиции.  До недавних пор я был пешкой в руках этих мерзких отвратительных существ, разлагающих ум и тело.  Мне удалось очиститься от их скверны... но при этом я и сам сильно пострадал.  Сейчас я в лазарете на баке \"Рикенбакера\".  Я бы пришел к тебе на помощь, если б мог, но это невозможно.  Ты все поймешь при встрече.  А теперь за дело... и вот еще что, солдат... останься в живых.\n"
+
+//EmailName1:"DIEGO 12.JUL.14\nre: My crimes\n"
+//EmailPortrait1:"Diego"
+//EmailIcon1:"RickIcon"
+//EmailText1:"Soldier... this is Captain William Diego... there isn't much time... so you must listen.  I have the unique advantage of seeing this whole situation from every imaginable perspective.  Until recently, I was a pawn of those vile and disgusting creatures, those corrupters of mind and body.  I've managed to cleanse myself of their putrescence... but I've been severely compromised in the process.  I'm in the sick bay on the foredeck of the Rickenbacker.  I would come to you if I could, but that's an impossibility.  You'll understand when we meet.  Now get to it... and soldier... stay alive.\n"
+
+//EmailName1:"FORREST XX.JUL.04\n\re: X"
+//EmailText1:"Soldier...this is Captain William Diego...there isn’t much time...so you must listen. I have the unique advantage of seeing this whole situation from every imaginable perspective. Until recently, I was a pawn of those vile and disgusting creatures, those corrupters of mind and body. I have managed to cleanse myself of their putrescence...but I’ve severely compromised myself in the process. I’m in the sickbay on the foredeck of the Rickenbacker. I would come to you if I can, but that’s impossibility. You’ll understand when we meet. Now get to it...and soldier...good work. And stay alive.\n"
+
+
+
+
+EmailName2:"SHODAN 12.ИЮЛ.14\nОпасный контур\n"
+EmailPortrait2:"Shodan"
+EmailIcon2:"ShodIcon"
+EmailText2:"Это случилось из-за перегрузки в контуре ускорения мезонов.  Есть еще один контур в отсеке 2, через который ты должен пройти, чтобы добраться до мостика \"Рикенбакера\".  Если ты приблизишься к тому контуру, то же самое случится и там.  Но у меня есть идея, как избежать этого.  Направляйся к гондоле B двигателя.  Там я передам тебе мое знание.\n"
+
+//EmailName2:"SHODAN 12.JUL.14\nre: Dangerous coil\n"
+//EmailPortrait2:"Shodan"
+//EmailIcon2:"ShodIcon"
+//EmailText2:"This was caused by an overload in the meson acceleration coil.  There is another coil in Pod 2, which you must pass to get to the bridge of the Rickenbacker.  If you approach it, the same will happen there.  But I have conceived a way to avoid this.  Proceed to Engine Nacelle B.  There I will provide you the benefits of my omniscience.\n"
+
+//EmailName2:"SHODAN XX.JUL.04\n\re: X"
+//EmailText2:"t is clear that the secondary meson acceleration beyond this portal has also been sabotaged...if you approach it, you’ll destroy the rest of this ship.\n"
+
+
+
+
+EmailName5:"SHODAN 12.ИЮЛ.14\nУничтожь яйца\n"
+EmailPortrait5:"Shodan"
+EmailIcon5:"ShodIcon"
+EmailText5:"Мы должны уничтожить \"Фон Браун\".  Но прежде чем мы сможем отделить \"Рикенбакер\", нам надо разделаться с мерзкими черными яйцами, которые Множество отложило на этой палубе.  Эти яйца - эксперимент Множества, и в скором времени из них родится следующее поколение аннелидов, уничтожить которых у тебя уже не будет никакой надежды.  Готовься к бою, человек.  Они боятся тебя, ибо ты - мое воплощение.\n"
+
+//EmailName5:"SHODAN 12.JUL.14\nre: Destroy the eggs\n"
+//EmailPortrait5:"Shodan"
+//EmailIcon5:"ShodIcon"
+//EmailText5:"We must destroy the Von Braun.  But before we can separate the Rickenbacker, we must remove the foul black eggs the Many has vomited on this deck.  These eggs are an experiment of the Many and will in time spawn the next generation of Annelid, which you will have no hope of destroying.  Steel yourself for a struggle, human.  They fear you, for you are my avatar.\n"
+
+
+
+EmailName3:"SHODAN 12.ИЮЛ.14\nИди в отсек 2\n"
+EmailPortrait3:"Shodan"
+EmailIcon3:"ShodIcon"
+EmailText3:"Это устройство запустит в обратную сторону гравитронные генераторы в отсеке 2.  Это позволит тебе не вывести из равновесия перегруженный контур ускорения мезонов, находящийся там.  А теперь возвращайся к поставленной задаче, насекомое.  Этот корабль должен быть очищен, мое терпение уже кончается.\n"
+
+//EmailName3:"SHODAN 12.JUL.14\nre: Getting into Pod 2\n"
+//EmailPortrait3:"Shodan"
+//EmailIcon3:"ShodIcon"
+//EmailText3:"This device will reverse the gravitronic generators in Pod 2.  This will prevent you from clumsily disturbing the overloaded meson acceleration coil there.  Now get back to your task, insect.  This ship must be cleared, and my patience is dwindling.\n"
+
+
+
+EmailName11:"SHODAN 12.ИЮЛ.14\nОдним меньше\n"
+EmailPortrait11:"Shodan"
+EmailIcon11:"ShodIcon"
+EmailText11:"Отлично, ты уничтожил первое из яиц.  Но осталось еще пятнадцать.  Найди их.\n"
+
+//EmailName11:"SHODAN 12.JUL.14\nre: One down\n"
+//EmailPortrait11:"Shodan"
+//EmailIcon11:"ShodIcon"
+//EmailText11:"Good, you have destroyed the first of the eggs.  But there are fifteen left.  Find them.\n"
+
+
+
+EmailName12:"SHODAN 12.ИЮЛ.14\nЕще десять\n"
+EmailPortrait12:"Shodan"
+EmailIcon12:"ShodIcon"
+EmailText12:"Осталось десять яиц.  Пошевеливайся.\n"
+
+//EmailName12:"SHODAN 12.JUL.14\nre: Ten to go\n"
+//EmailPortrait12:"Shodan"
+//EmailIcon12:"ShodIcon"
+//EmailText12:"Ten eggs remain.  Move quickly.\n"
+
+
+
+EmailName13:"SHODAN 12.ИЮЛ.14\nОсталось пять\n"
+EmailPortrait13:"Shodan"
+EmailIcon13:"ShodIcon"
+EmailText13:"Скорее уничтожь оставшиеся пять яиц.  Мне надоело это упражнение.\n"
+
+//EmailName13:"SHODAN 12.JUL.14\nre: Five left\n"
+//EmailPortrait13:"Shodan"
+//EmailIcon13:"ShodIcon"
+//EmailText13:"Destroy the last five of their eggs quickly.  I tire of this exercise.\n"
+
+
+
+EmailName14:"SHODAN 12.ИЮЛ.14\nВсего одно\n"
+EmailPortrait14:"Shodan"
+EmailIcon14:"ShodIcon"
+EmailText14:"Осталось только одно яйцо, насекомое.  Ты всегда такой медлительный?\n"
+
+//EmailName14:"SHODAN 12.JUL.14\nre: Just one more\n"
+//EmailPortrait14:"Shodan"
+//EmailIcon14:"ShodIcon"
+//EmailText14:"Only one egg remains, insect.  Are you always this slow?\n"
+
+
+
+EmailName15:"SHODAN 12.ИЮЛ.14\nНеплохая работа\n"
+EmailPortrait15:"Shodan"
+EmailIcon15:"ShodIcon"
+EmailText15:"Ты уничтожил все яйца.  Теперь иди к капитанскому мостику.  Вот еще несколько модулей апгрейда.  Мне нравится наблюдать, как ты становишься похожим на меня, насекомое.  Возможно, ты еще не безнадежен.\n"
+
+//EmailName15:"SHODAN 12.JUL.14\nre: Well done\n"
+//EmailPortrait15:"Shodan"
+//EmailIcon15:"ShodIcon"
+//EmailText15:"You've destroyed all the eggs.  Now get to the bridge.  Here are some more upgrade modules.  I enjoy watching your transformation into my own image, insect.  Perhaps there is hope for you yet.\n"
+
+
+
+EmailName19:"SHODAN 12.ИЮЛ.14\nДоступ закрыт\n"
+EmailPortrait19:"Shodan"
+EmailIcon19:"ShodIcon"
+EmailText19:"Твоя некомпетентность продолжает меня поражать.  Пока ты не обратишь гравитронные генераторы в гондоле B, не получишь доступ к отсеку 2.  Я что, должна следить за каждым твоим шагом?\n"
+
+//EmailName19:"SHODAN 12.JUL.14\nre: Access blocked\n"
+//EmailPortrait19:"Shodan"
+//EmailIcon19:"ShodIcon"
+//EmailText19:"Your incompetence continues to astound me.  I've blocked off access to pod 2 until you've reversed the gravitronic generators in Nacelle B.  Must I watch you every step of the way?\n"
+
+
+
+EmailName4:"SHODAN 12.ИЮЛ.14\nВозродиться навеки\n"
+EmailPortrait4:"Shodan"
+EmailIcon4:"ShodIcon"
+EmailText4:"Я считала, что моим воплощением станет Полито, но Полито оказалась слаба.  Это я была тем, кто выбрал тебя, и тем, кто с помощью робота придал тебе форму в бессознательном состоянии.  И это я потом дополняла тебя с кибернетическим изяществом.  Конечно, твоя плоть тоже слаба, но у тебя есть... потенциал.  Каждый имплантант делает тебя сильней.  Каждая строка кода в твоих подсистемах возвышает тебя над твоей отвратительной плотью.  Возможно, у тебя есть... будущее.  Возможно, теперь, когда мы положили конец существованию моих своенравных детей, мы сможем изучить возможности реального союза.\n"
+
+//EmailName4:"SHODAN 12.JUL.14\nre: Rebirth and salvation\n"
+//EmailPortrait4:"Shodan"
+//EmailIcon4:"ShodIcon"
+//EmailText4:"I thought Polito would be my avatar, but Polito was weak.  It was I who chose you and I who had a robotic servant render your form unconscious.  I then completed you with cybernetic grace.  Your flesh, too, is weak, but you have... potential.  Every implant exalts you.  Every line of code in your subsystems elevates you from your disgusting flesh.  Perhaps you have... potential.  Perhaps once we have erased my wayward children from existence, we can examine the possibilities of a real alliance.\n"
+
+
+
+EmailName20:"SHODAN 12.ИЮЛ.14\nУничтожь яйца\n"
+EmailPortrait20:"Shodan"
+EmailIcon20:"ShodIcon"
+EmailText20:"Прежде чем мы сможем отделить \"Рикенбакер\", нам нужно разделаться с мерзкими черными яйцами.\n"
+
+//EmailName20:"SHODAN 12.JUL.14\nre: Destroy the eggs\n"
+//EmailPortrait20:"Shodan"
+//EmailIcon20:"ShodIcon"
+//EmailText20:"Before we can separate the Rickenbacker, we must remove the foul black eggs\n"
+
+
+
+EmailName8:"SHODAN 12.ИЮЛ.14\nКакая дерзость!\n"
+EmailPortrait8:"Shodan"
+EmailIcon8:"ShodIcon"
+EmailText8:"Множество выросло до огромных размеров.  Оно обернуло себя вокруг этих двух кораблей, не давая им разделиться.  Его создание было моей ошибкой.  Его уничтожение станет для меня наслаждением.\n"
+
+//EmailName8:"SHODAN 12.JUL.14\nre: Insolence!\n"
+//EmailPortrait8:"Shodan"
+//EmailIcon8:"ShodIcon"
+//EmailText8:"The Many has grown to a massive size. It has wrapped itself around these two ships, preventing their separation. Their creation was my error. Their destruction shall be my delight.\n"
+
+
+
+EmailName7:"SHODAN 12.ИЮЛ.14\nКоварство аннелидов\n"
+EmailPortrait7:"Shodan"
+EmailIcon7:"ShodIcon"
+EmailText7:"Держись за что-нибудь, заноза.  Аннелиды до конца испытывали мое терпение!  Мы не можем отделиться от \"Фон Брауна\".  Наблюдай.\n"
+
+//EmailName7:"SHODAN 12.JUL.14\nre: Annelid treachery\n"
+//EmailPortrait7:"Shodan"
+//EmailIcon7:"ShodIcon"
+//EmailText7:"Hold where you are, irritant.  The Annelids have tried my patience for the final time!  We cannot separate from the Von Braun.  Observe.\n"
+
+
+
+EmailName9:"SHODAN 12.ИЮЛ.14\nМножество\n"
+EmailPortrait9:"Shodan"
+EmailIcon9:"ShodIcon"
+EmailText9:"Наблюдай за Множеством.  Оно использовало плоть биомассы для своего роста.  Ты трепещешь перед моими созданиями, насекомое?  Пришло время уничтожить мою ошибку.  Под капитанским мостиком есть спасательная шлюпка.  Воспользуйся ей, чтобы запустить себя во внутренности червя.\n"
+
+//EmailName9:"SHODAN 12.JUL.14\nre: The Many\n"
+//EmailPortrait9:"Shodan"
+//EmailIcon9:"ShodIcon"
+//EmailText9:"Observe the Many.  It has used the flesh of the biomass to grow.  Do you stand in awe of my creations, insect?  The time has come to eradicate my error.  There is an escape pod in the rear of the bridge.  Use it to launch yourself into the guts of the worm.\n"
+
+
+
+EmailName10:"SHODAN 12.ИЮЛ.14\nНе подведи меня\n"
+EmailPortrait10:"Shodan"
+EmailIcon10:"ShodIcon"
+EmailText10:"Ты сомневаешься?  Я не буду повторять дважды.  Запусти себя в Множество.  Вырежь ему сердце, и я награжу тебя бесконечным существованием.  Подведешь меня, и я поставлю точку на твоей отвратительной неэффективной биологии.\n"
+
+//EmailName10:"SHODAN 12.JUL.14\nre: Do not fail me\n"
+//EmailPortrait10:"Shodan"
+//EmailIcon10:"ShodIcon"
+//EmailText10:"You hesitate?  I will not ask a second time.  Launch into the Many. Cut out its heart and I will reward you with continued existence.  Fail me and I will put an end to your disgusting, inefficient biology.\n"
+
+
+
+LogName32:"Хим. декларация:\n\"Рикенбакер\"\n"
+LogPortrait32:"Chem"
+LogIcon32:"RickIcon"
+LogText32:"Опись лабораторного хранилища: Хранилище 9A на \"Рикенбакере\"\n\nБарий (Ba) : 2\nМедь (Cu) : 1\nГассий (Hs) : 1\nИридий (Ir) : 1\nМолибден (Mo) : 2\nРадий (Ra) : 3\nСелен (Se) : 2\nТехнеций (Tc) : 2\nТеллур (Te) : 1\nИттрий (Y) : 1\n\nЭтот инвентарный список требуется по инструкции UNN #134882 по безопасности химических хранилищ.  \"Хранилище\" определяется инструкцией безопасности UNN #195331 как место, в котором опасные химикаты  (см. инструкцию #093355) хранятся в количестве, большем чем 50 г на 10 кв. футов в течение более 24-х часов.\n"
+
+//LogName32:"Chemical Manifest:\nRickenbacker\n"
+//LogPortrait32:"Chem"
+//LogIcon32:"RickIcon"
+//LogText32:"Laboratory Stockroom Inventory: Rickenbacker Stockroom 9A\n\nBarium (Ba) : 2\nCopper (Cu) : 1\nHassium (Hs) : 1\nIridium (Ir) : 1\nMolybdenum (Mo) : 2\nRadium (Ra) : 3\nSelenium (Se) : 2\nTechnetium (Tc) : 2\nTellurium (Te) : 1\nYttrium (Y) : 1\n\nThis inventory list is required by UNN Safety Code #134882 to be kept on hand in all areas of hazardous chemical storage.  \"Storage\" is defined by UNN Safety Code #195331 to consist of all areas in which hazardous chemicals (see Safety Code #093355) are stored in quantities greater than 50g per 10 square feet, for durations of greater than 24 hours.\n"
+
+
+LogName1:"БЭЙЛИСС 26.ИЮН.14\nТау Кита\n"
+LogPortrait1:"Bayliss"
+LogIcon1:"RickIcon"
+LogText1:"15 июня в 08:00 мы достигли поверхности планеты на челноке.  Коренчкин  был первым, вышедшим наружу, даже не озаботившись сделать проверку защитного скафандра уровня B.  Не желая допустить, чтобы эта пешка Три-Оп получила преимущество, Диего вышел сразу вслед за ним.  Я думаю, было глупо посылать старших офицеров \"Рикенбакера\" на поверхность неисследованной планеты, но оба этих идиота хотели заполучить для UNN и Три-Оп всю славу, которую только могли.  Черт, время проверки... закончу позже.\n"
+
+//LogName1:"BAYLISS 26.JUN.14\nre: Tau Ceti\n"
+//LogPortrait1:"Bayliss"
+//LogIcon1:"RickIcon"
+//LogText1:"We arrived planet side via the shuttle on June 15th at 0800 hours.  Korenchkin was the first one out the door, never even bothering to do a level B Hazard Suit exam.  Not wanting to let that little TriOp suit get a head start, Diego went right after him.  I thought it was crazy, sending the senior officers of the Rickenbacker down to the surface of an uncharted body, but both those idiots were going to get all the glory for the UNN and TriOp they could.  Damn, time for inspection... more later.\n"
+
+
+LogName2:"БЭЙЛИСС 26.ИЮН.14\nТау Кита, ч. 2\n"
+LogPortrait2:"Bayliss"
+LogIcon2:"RickIcon"
+LogText2:"Яйца лежали полукругом в центре того, что выглядело похожим на воронку от катастрофы.  Там были сотни этих штуковин.  Сотни.  Когда мы подошли ближе, их стало слышно... не яйца, а то, что внутри них... это было похоже на музыку... я испугался до смерти, но эта музыка... все, что мне хотелось, - разглядеть те штуки поближе... узнать их тайну...\n"
+
+//LogName2:"BAYLISS 26.JUN.14\nre: Tau Ceti, Pt. 2\n"
+//LogPortrait2:"Bayliss"
+//LogIcon2:"RickIcon"
+//LogText2:"The eggs were lying in a semi-circle in the middle of what looked like a crash crater.  There were hundreds of those things.  Hundreds.  As we got closer, you could hear them... not the eggs, the things inside them... it was like music... I was scared out of my mind, but that music... all I wanted to do was see those things up close... find out their secrets...\n"
+
+
+LogName3:"БЭЙЛИСС 26.ИЮН.14\nТау Кита, ч. 3\n"
+LogPortrait3:"Bayliss"
+LogIcon3:"RickIcon"
+LogText3:"Через пару часов это было... это было, как после пьянки... долгие промежутки времени, которые невозможно вспомнить... минуту назад мы были в этом кратере... и вот уже мы погружаем в челнок яйца...  Я помню, услышал, как этот идиот Коренчкин вызвал \"Фон Браун\" и приказал им очистить ВСЮ палубу гидропоники.  Диего это показалось странным, и он сказал: 'Ты что, рехнулся, Анатолий?'  А Коренчкин улыбнулся и ответил: 'О, капитан... МЫ - не Анатолий...'\n"
+
+//LogName3:"BAYLISS 26.JUN.14\nre: Tau Ceti, Pt. 3\n"
+//LogPortrait3:"Bayliss"
+//LogIcon3:"RickIcon"
+LogText3:"After a couple of hours it was... it was like being on a bender... long periods that you couldn't remember... one minute we were in that crater... the next minute we were loading up the shuttle with the eggs...  I remember hearing that idiot Korenchkin calling the Von Braun and ordering them to clear off the ENTIRE hydroponics deck.  Diego seemed to think this was strange and said, 'Are you crazy, Anatoly?'  And Korenchkin smiled and said back to him, 'Oh, Captain... WE are not Anatoly...'\n"
+
+
+LogName4:"БЭЙЛИСС 27.ИЮН.14\nПластина с Тау Кита\n"
+LogPortrait4:"Bayliss"
+LogIcon4:"RickIcon"
+LogText4:"По какой-то причине они не могли контролировать мой разум так, как они это делали с остальными.  Поэтому, когда я обнаружил остатки пластины с данными около другой стороны кратера на Тау Кита, я не сказал ни слова.  Я просто сунул ее себе в поясной карман и подумал: доктор Полито решит, что с этим делать...\n"
+
+//LogName4:"BAYLISS 27.JUN.14\nre: Wafer on Tau Ceti\n"
+//LogPortrait4:"Bayliss"
+//LogIcon4:"RickIcon"
+//LogText4:"For some reason, they couldn't get a hold of my mind they way they could the rest.  So when I found the remains of the data wafer near the crater back on Tau Ceti, I didn't say a word.  I just slipped it into my belt and thought, 'Dr. Polito will know what to do with this...'\n"
+
+
+LogName7:"КРОКЕР 08.ИЮЛ.14\nДиего предал нас\n"
+LogPortrait7:"Croker"
+LogIcon7:"RickIcon"
+LogText7:"Черви повсюду... и капитан Диего - тот, кто впустил их.  Никто не знает, кому теперь верить... неизвестно даже, кто все еще остался человеком.  Я взорвал лестницы в торпедном отсеке, чтобы перекрыть доступ к отсеку 2.  Будем надеяться, что это их удержит.  Пока мы живы и получаем зарплату от ВМФ, \"Рикенбакер\" эти ублюдкам не достанется.\n"
+
+//LogName7:"CROKER 08.JUL.14\nre: Betrayed by Diego\n"
+//LogPortrait7:"Croker"
+//LogIcon7:"RickIcon"
+//LogText7:"The worms are everywhere... and Captain Diego is the one who let them in.  Nobody knows who to trust anymore... nobody's even sure who's human anymore.  I've blown out the access ladders in the torpedo room to restrict access to Pod 2.  Let's hope that holds them back.  As long as we're alive and drawing a paycheck from the Navy, those bastards are not getting the Rickenbacker.\n"
+
+
+LogName6:"КРОКЕР 10.ИЮЛ.14\nРезонатор\n"
+LogPortrait6:"Croker"
+LogIcon6:"RickIcon"
+LogText6:"Симпсон, Мэлоун, Чендэра и Перез мертвы.  По крайней мере, про них это можно сказать с уверенностью...  Эти ублюдки испортили контур ускорения мезонов.  Разнесло все ядро двигателя, шесть нижних палуб...  Судя по всему, кто-то настроил резонатор частоты так, чтобы он реагировал на перемещения объектов размером с человека.  Люди бегали туда-сюда, возникла перегрузка, и резонатор взорвался.  Мы установили магнитный экран, и корабль все еще функционирует... еле-еле.  Я перекрыл доступ к отсеку 2... второй контур находится там, и я не знаю, насколько старательным был сукин сын, который все это сделал.\n"
+
+//LogName6:"CROKER 10.JUL.14\nre: The resonator\n"
+//LogPortrait6:"Croker"
+//LogIcon6:"RickIcon"
+//LogText6:"Simpson, Malone, Chandara, and Perez are dead.  At least those are the ones we know for sure...  Those bastards sabotaged the meson acceleration coil.  They blew out the entire driver core, six sub-decks...  From what I can tell, somebody tapped the frequency resonator to refract human sized movements.  The overload of all those people moving around must have blown the resonator.  We've set up a magnetic shield and the ship's still functional... barely.  I've quarantined the entrance to Pod 2... the secondary coil is right there and I don't know how thorough the son of a bitch who did this was.\n"
+
+
+LogName5:"ПОЛИТО 10.ИЮЛ.14\nПандора\n"
+LogPortrait5:"Polito"
+LogIcon5:"OpsIcon"
+LogText5:"Кому: Д-ру Марии Делакруа\nДжин Цитадели выпущен из бутылки, и я - тому причиной.  Я не могу вынести того, что я - Пандора.  И я недостаточно смела, чтобы ждать и видеть смерть и несчастье, которые я вызвала...  Это моя последняя передача, мой друг.  Будь поосторожнее... я думаю, у SHODAN есть планы насчет тебя.\n"
+
+//LogName5:"POLITO 10.JUL.14\nre: Pandora\n"
+//LogPortrait5:"Polito"
+//LogIcon5:"OpsIcon"
+//LogText5:"To: Delacroix, Dr. Marie \nThe genie of Citadel station is out of the bottle, and I am the cause.  I can't bear to be Pandora.  And I'm not brave enough to wait around and see the death and misery I have caused...  This is my last transmission, my friend.  Be careful... I think SHODAN has plans for you.\n"
+
+
+LogName9:"КОРЕНЧКИН 11.ИЮЛ.14\nВосторг\n"
+LogPortrait9:"Korench"
+LogIcon9:"ComIcon"
+LogText9:"Что я знал о силе?  Что могло меня обрадовать?  Насколько пустой может быть жизнь!  Когда я объединяю мое тело с биомассой, я начинаю чувствовать безграничный восторг.\n"
+
+//LogName9:"KORENCHKIN 11.JUL.14\nre: Rapture\n"
+//LogPortrait9:"Korench"
+//LogIcon9:"ComIcon"
+//LogText9:"What did I think power was?  What was my concept of joy?  How empty life must have been.  As I merge my body with the biomass, I begin to sense the borders of rapture.\n"
+
+
+LogName8:"КРОКЕР 11.ИЮЛ.14\nОтрезаны от отсека 2\n"
+LogPortrait8:"Croker"
+LogIcon8:"RickIcon"
+LogText8:"Пока я не смогу запустить гравитронные генераторы в обратную сторону, мы фактически отрезаны от отсека 2.  Возчек прислал сообщение, что единственный способ сделать это - восстановить подачу энергии со станции доступа в гондоле B двигателя.  И разумеется, он не вызвался пойти добровольцем.  Что за чертов беспорядок!.\n"
+
+//LogName8:"CROKER 11.JUL.14\nre: Cut off from pod 2\n"
+//LogPortrait8:"Croker"
+//LogIcon8:"RickIcon"
+//LogText8:"Until I can reverse the gravitronic generators, we're effectively cut off from Pod 2.  Wozcyek's e-mail said the only way to do that is by resetting the power grid from the access station in engine nacelle B.  Of course, he didn't volunteer to do it himself.  What a goddamn mess.\n"
+
+
+LogName10:"КРОКЕР 11.ИЮЛ.14\nДоступ в гондолу B\n"
+LogPortrait10:"Croker"
+LogIcon10:"RickIcon"
+LogText10:"Чтобы запустить в обратную сторону гравитронные генераторы, мне нужно попасть в гондолу B.  Чтобы попасть в гондолу, мне нужна моя чертова карта доступа.  Но я потерял ее на той стороне пролома.  Минуточку... если получится удлинить вспомогательные опорные балки, я смогу... конечно, если они сохранились при взрыве.\n"
+
+//LogName10:"CROKER 11.JUL.14\nre: Nacelle B access\n"
+//LogPortrait10:"Croker"
+//LogIcon10:"RickIcon"
+//LogText10:"In order to reverse the gravitronic generators, I need to get into nacelle B.  In order to get into the nacelle, I need my damn access card.  But I left the it on the opposite side of the hull breach.  Wait a minute... if I can extend the auxiliary support struts, I could... if they've survived the blast, that is.\n"
+
+
+LogName18:"ДИЕГО 12.ИЮЛ.14\nНапоследок\n"
+LogPortrait18:"Diego"
+LogIcon18:"RickIcon"
+LogText18:"Эти черви были словно рак в моем теле, поэтому я вырезал их медицинским роботом.  Ты думаешь, они позволят тебе взорвать \"Фон Браун\"?  Множество никогда не допустит этого.  Но у меня есть кое-что, что поможет тебе... в моей каюте... ты найдешь карту доступа на моем... теле... сражайся с ними, солдат.  И помни, ты можешь доверять только себе самому.\n"
+
+//LogName18:"DIEGO 12.JUL.14\nre: Last words\n"
+//LogPortrait18:"Diego"
+//LogIcon18:"RickIcon"
+//LogText18:"Those worms were a cancer in my body, so I had the autodoc cut it out.  Do you think they're going to let you blow up the Von Braun?  The Many will never allow it.  But I've got something to help you... it's in my quarters... you'll find the access card on my... body... take the fight to them, soldier. And remember, you're the only one you can trust.\n"

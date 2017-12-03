@@ -1,0 +1,823 @@
+Annelid_Medpatch:"Резюме:  Эти ткани можно использовать для излечения физических повреждений.
+
+Анализ:  Эта железа выделяет насыщенную смесь гормонов и стимулирующих ферментов, а быстро делящийся клеточный слой вырабатывает многоцелевые циркуляторные клетки.  Эти клетки находят места повреждения тканей и внедряются туда, практически мгновенно приобретая необходимые свойства.
+
+Рекомендации:  Совместимость человеческих тканей с тканями аннелидов позволяет использовать эту железу для лечения, хотя и не столь полного, как у аннелидов-носителей.  После извлечения из тела носителя железа может быть использована лишь единожды."
+
+//"Summary:  This tissue can be used to physically heal damage.  
+
+Analysis:  This gland secretes a prolific mix of hormones and stimulatory enzymes, and a quickly dividing layer of cells spawns off multi-purpose circulatory cells.  These cells seek out sites of tissue damage and graft themselves into the tissue, taking on the characteristics of the local host tissue in a matter of moments.  
+
+Recommendation:  The shared tissue compatibilities between Human and Annelid tissue will allow this gland to be used for healing, though not as fully as it would in an Annelid host.  Once removed from the host's body, it can only be used once."
+
+
+
+Annelid_Psipatch:"Резюме:  Эти ткани можно использовать для восстановления пси-способностей.
+ 
+Анализ:  Эта железа производит мощный коктейль из гормонов, воздействующих на психику и надпочечники, который омолаживает и расслабляет нервные ткани.  Вдобавок к стандартным (и в чем-то необычным) био-компонентам, железа, судя по всему, выделяет небольшие количества полуматериальной психогенной энергии.
+
+Рекомендации:  При том, что данная железа может быть использована для восстановления пси-потенциала, опасность, присущая употреблению чуждых психогенных энергий, налагает свои ограничения: железой следует пользоваться только в крайних случаях."
+
+//"Summary:  This tissue can be used to restore lost psi points. 
+
+Analysis:  This gland produces a potent cocktail of psychoactive and adrenal hormones which acts to rejuvenate and innervate neural tissue.  In addition to standard (and somewhat unusual) biological compounds, the gland also appears to secrete small amounts of semi-physical psychocreative energy.  
+
+Recommendation:  While this gland can be used to restore psionic potential, the danger inherent in consuming alien psychocreative energies suggests that this should only be done in emergencies."
+
+
+
+AntiAnnelid_Toxin:"Резюме:  Помещение этого токсина в климатические регуляторы замедлит рост аннелидов в данной области.
+
+Анализ:  Это экспериментальный, крайне опасный токсин, разработанный специально для разрушения и растворения тканей аннелидов.  Колба тщательно герметизирована, поскольку в обычных условиях жидкий токсин быстро испаряется.
+
+Рекомендации:  Для достижения максимального эффекта токсин следует ввести в систему воздухообмена немедленно после вскрытия колбы."
+
+//"Summary:  Placing this toxin in an environmental regulator will reduce local Annelid growth.
+
+Analysis:  This is an experimental toxin, highly virulent, developed specifically to break down and dissolve Annelid tissue.  The canister is highly pressurized, as the liquid toxin would evaporate quickly under ordinary conditions.
+
+Recommendation:  For maximum coverage, this toxin should be introduced into air-recirculators immediately after being opened."
+
+
+
+AP_Clip:"Бронебойные патроны малоэффективны при уничтожении живой силы противника, но являются лучшим выбором для использования против механизированных врагов.  Урановые наконечники обеспечивают большую пробивную силу даже при использовании относительно слабого пулевого оружия, вроде пистолета \"Тэлон\" M2A3 или штурмовой винтовки M-22.  Патрон является младшим братом снятых с вооружения подкалиберных снарядов, применявшихся в танках 21-го столетия.  Помимо невероятно плотного уранового наконечника, корпус покрыт усовершенствован-\nным баллистическим материалом, уменьшающим сопротивление среды и увеличивающим пробивную способность пули."
+
+//"The armor piercing round is not particularly effective against soft targets, but it's the round of choice when up against mechanized foes.   The Uranium tips provide considerable penetrating power, even to relatively weak slug throwers like the Talon M2A3 and the M-22 Assault Rifle.  The bullet is the kid brother of the discarding sabot rounds used by tanks in the 21st century.  Besides the incredibly dense Uranium tip, the casing is lined with an advanced ballistic material that decreases drag, imparting even greater penetration."
+
+
+
+Arach_Organ:"Резюме:  Ты выяснил, в какие места лучше всего целиться аннелидным паукообразным, чтобы причинить им наибольший урон.  Все повреждения, наносимые тобой паукообразным, увеличиваются на 25%.  Паукообразные, как и все чистые аннелиды, имеют повышенную сопротивляемость к энергооружию.
+
+Анализ:  Система внутренних органов этого существа является одновременно распределенной и избыточной, что может говорить о целенаправленном создании, либо эволюционировании в очень опасной среде.  То, что служит ему нервной системой, потребляет существенно большие количества энергии, чем ее человеческий аналог, так что ткани этих существ, соответственно, гораздо более защищены от энергии.  Метаболизм этого существа допускает как ускорение гиперкинетической активности, так и обычное пребывание в бездействии, что, вероятно, позволяет ему длительное время существовать без пищи.
+
+Рекомендации:  Использовать энергооружие против этого существа не рекомендуется."
+
+//"Summary:  You've learned how to best target the Annelid Arachnids for maximal damage.  All damage you deal to Arachnids will be increased by 25%.  Arachnids, like all pure Annelids, are resistant to energy weapons.
+
+Analysis:  This creature's internal systems are both distributed and redundant in a way that suggests intentional design, or evolution in a very dangerous environment.  What serves as its nervous system uses a significantly larger amount of energy than a Human's, so the creature's tissues are correspondingly more energy-resistant.  The creature's metabolism allows for a boost of hyperkinetic activity, while allowing it to remain normally in a dormant state, and presumably allowing it to exist for a long period of time without nourishment.  
+
+Recommendation:  Using energy weapons against this creature is not recommended."
+
+
+
+Assault_Rifle:"Для использования штурмовой винтовки M-22 необходимы сила 2 и 6-й навык владения стандартным оружием.  Используются те же боеприпасы, что и для пистолета, но обойма более вместительна, а наносимые повреждения на 25% больше.  Обе модификации штурмовой винтовки увеличивают наносимые повреждения, первая сокращает время перезарядки, а вторая увеличивает вместительность обоймы.  
+Любимица любого солдата, штурмовая винтовка M-22 - это хороший проводник в мир автоматических винтовок.  Скорострельность не позволяет противнику встать во весь рост, а режим одиночной стрельбы прекрасно подходит там, где нужна точность.  Винтовка обладает умеренным потенциалом мощности и нанесения повреждений.  В режиме непрерывной автоматической стрельбы прицел обычно отклоняется довольно значительно.  Разработка этого оружия целым комитетом приводит, однако, к некоторым размышлениям по поводу ее надежности.  \"Когда закончились ракеты, когда минные поля остались позади, когда были  нейтрализованы поля нейроускорителей, у людей по-прежнему оставались M-22 и порох.  И, ей-богу, они сумели этим воспользоваться.\" - Капитан Эдвард Диего о защите Бостонской Гавани."
+
+//Assault_Rifle:"The M-22 Assault Rifle requires a Strength of 2 and a Standard Weapons skill of 3 in order to use.  It uses the same ammunition as a pistol, but has a bigger clip and does significantly more damage.  Both modifications to the assault rifle increase the damage - the first mod reduces reload time, and the second mod increases the clip size. 
+Well-loved by grunts everywhere, the M-22 Assault Rifle is a good entry into the world of automatic rifles.  Rapid-fire keeps vulnerable enemies down and the single shot mode is good for accuracy.  Armor penetration and damage potential are both moderate.  When used for heavy automatic fire, the aim point tends to wander fairly far.  The design by committee nature of the unit, however, has led to some questions regarding its reliability.  \"When the rail launcher rounds were spent, when the auto-mines were bypassed, when the neuron acceleration field was neutralized, the men still had their M-22's and their gunpowder.  And, by God, they used them to good effect.\" - Capt. William Diego, commenting on the defense of Boston Harbor."
+
+
+
+AudioLog:"Аудио-запись:"  
+//AudioLog:"An audio log:"
+
+
+
+Basketball:"Это баскетбольная версия новой технологии Три-Оптимум - МячУдач (TM).  Когда игрок делает результативный бросок с технологией МячУдач (TM), мяч генерирует временное психополе, позволяющее всем находящимся поблизости испытать чувство радости и благополучия.  Исследования Три-Оптимум позволяют утверждать, что использование технологии МячУдач (TM) в спонсируемых компаниями соревнованиях может значительно укрепить боевой дух служащих."
+
+//"This is a basketball version of TriOptimum's new HappyBall (TM) technology.  When a player makes a scoring shot with a HappyBall (TM), the ball produces a temporary psychic field which causes all nearby people to experience a feeling of happiness and well-being.  TriOptimum's research studies suggest that use of HappyBalls (TM) in company-sponsored tournaments can significantly improve employee morale."
+
+
+
+Beaker_p2:"В то время как большая часть обрезки ДНК делается посредством протеиновых баз данных, этот лабораторный стакан по-прежнему остается незаменимым при испытаниях новых соединений, как на углеродной, так и на неуглеродной основе.  Лабораторный стакан с защитным полем является отличным средством для хранения и/или транспортировки небольших количеств опасных веществ."
+
+//"While most DNA infusion clipping is done via protein databases, this beaker is still an effective way to test new samples of both carbon and non-carbon based compounds.  The shielded beaker is an excellent method of storing larger quantities of hazardous materials for transport and/or storage."
+
+
+
+Beakers:"В то время как большая часть обрезки ДНК делается посредством протеиновых баз данных, этот лабораторный стакан по-прежнему остается незаменимым при испытаниях новых соединений, как на углеродной, так и на не-углеродной основе.  Лабораторный стакан с защитным полем является отличным средством для хранения и/или транспортировки небольших количеств опасных веществ."
+
+//"While most DNA infusion clipping is done via protein databases, this beaker is still an effective way to test new samples of both carbon and non-carbon based compounds.  The shielded beaker is an excellent method of storing small quantities of hazardous materials for transport and/or storage."
+
+
+
+BigBomb:"Симпатический Резонатор - это новая разработка военного филиала Три-Оптимум; его назначение - способствовать проникновению десанта на позиции неприятеля, защищенные мощными силовыми полями.  Симпатический Резонатор генерирует во вражеском силовом поле вибрацию фрактально-гармонической частотной последовательности.  Подобная вибрация быстро перегружает компенсаторы в генераторе силового поля, вызывая его отказ (что обычно сопровождается мощнейшим взрывом)."
+
+//"The Sympathetic Resonator is a recent development from TriOptimum's military branch, designed to help commando units penetrate enemy installations protected by powerful force fields.  The Sympathetic Resonator sets up vibrations in the enemy force field in a fractal-harmonic frequency sequence.  These vibrations quickly overwhelm the feedback compensators in the force field generator, causing it to malfunction (typically in a massive explosion)."
+
+
+
+BrawnBoost:"Имплантант СверхСила (TM) от \"Crigon Manufactory\" увеличивает силу носителя на 1 единицу, теряя 1% своего заряда каждые 10 секунд.  Имплантант предназначен для обхода многих ограничений на применение фармацевтики в атлетике; в нем не используются наркотики, просто происходит стимуляция мускулатуры электрическими и магнитными импульсами."
+
+//"Crigon Manufactory's BrawnBoost (TM) implant increases the user's Strength by 1, burning up 1% of its charge every ten seconds.  The implant acts to circumvent many of the legal restrictions on athletic pharmaceuticals by avoiding any actual drugs, and simply stimulating the musculature with electrical and magnetic impulses."
+
+
+
+Champagne_Bottle:"Шампанское - это популярный напиток, который любят на \"Фон Брауне\" (и втихаря продают на \"Рикенбакер\"), как в барах, так и из репликаторов.  При этом, поскольку концессия на спиртное целиком принадлежит Три-Оп, и все шампанское реплицируется с одного и того же нанито-образца (в связи с ограниченностью размеров базы данных), доступен лишь один сорт.  К счастью, из хорошего урожая."
+
+//"Champagne is a popular drink enjoyed on the Von Braun (and smuggled onto the Rickenbacker), both in its lounges and replicators.  However, since the entire liquor concession is run by TriOp and all champagne is replicated from the same nanite archetype (due to limited database storage), there is only a single brand available.  Fortunately, the vintage is excellent."
+
+
+
+cheeseborger:"Используй этот модуль самодиагностики и ремонта для лечения.  Улучшенные модели роботов обладают цепями само-модификации и специальными нанито-хранилищами для ремонта и замены частей.  После Дубьюкского Скандала с автодоками в 2085 году, была запрограммирована отказоустойчивая система, запрещающая роботам \"случайно\" создавать новые функциональные блоки, такие как, например, оружие.  Вдобавок модули диагностики и ремонта могут использоваться хакерами и другими значительно измененными людьми для лечения, что приводит к наглым ограблениям самостоятельных роботов, таких как ремонтные роботы."
+
+//"Use this Self-Diagnostic and Repair Module to heal yourself.  Advanced models of robots contain self-modification circuitry and special nanite stores for repair and replacement parts.  After the Dubuque Autodoc scandal of 2085, programmed failsafes were implemented to prevent robots from \"accidentally\" generating new functionality, such as weapons.  Additionally, the Diagnostic/Repair Modules can be used by hackers and other heavily modified Humans for their own healing, leading to slash-and-run robberies of unaccompanied robots, such as maintenance droids."
+
+
+
+Chemicals:"Исследовательские программы и нанито-приводная молекулярная обработка достигли такой стадии развития, что среди материалов, необходимых для исследований, больше не числятся сложные органические и синтетические соединения.  Напротив, первичным материалом для исследовательских нанито-процессоров служат химические элементы, которые соединяются по необходимости.  Конструкция химических контейнеров, подобных этому, учитывает, что их материал не должен вступать в реакции с экосредой ни химически, ни энергетически; контейнеры оборудованы раздаточными соплами, подходящими к большинству стандартных нанито-инъекционных портов."
+
+//"Research software and nanite-driven molecular processing has come to mean that the necessary material for performing basic research no longer includes complex organics and complex synthetics.  Instead, chemical elements serve as raw materials for the nanite research processors, and are combined as needed.  Chemical containers such as this one are carefully designed to prevent the material from reacting with the environment either chemically or energetically, and are fitted with dispensing nozzles that dock with most standard nanite injection ports."
+
+
+
+Chips:"Картофельные чипсы от \"Crack-O\", в начале 21-го века признанные голосованием национальным пищевым продуктом UNN, приготавливаются из ломтиков обычного картофеля, обжаренных в гидрогенизированном масле.  После такой обработки часто добавляются витамины, чтобы повысить сомнительные питательные качества продукта.  \"Когда нужна вам вкусная готовка, \"Crack-O\" готовит чипсы ловко.  Ешь их хоть сколько на вес, вряд ли \"Crack-O\" надоест.\" - Из рекламы \"Crack-O\" в Нейро-Сети, 2111 г."
+
+//"Crack-O's Potato Chips, voted the UNN's national food product in the early 21st century, are made from slices of common potatoes deep fried in hydrogenated oils.  This treat is often supplemented with vitamins to boost its questionable nutritional value.  \"When you need a tasty treat, Crack-O's are the chips to beat.  Eat \`em by the bunch or by pound, new improved Crack-O's won't let you down.\" - Crack-O's Neuro-Net Promotion 2111."
+
+
+
+cigar_lover:"Этот пухлый глянцевый журнал печатает, главным образом, рекламу дорогой кожи, как для ношения, так и для изготовления снаряжения.  В главной статье рассказывается про экспериментальные фермы ново-коров на Ганимеде."
+
+//"This fat, glossy magazine is principally advertisements for expensive leathers, both clothing and accoutrements.  A feature article talks about the experimental Ganymede nu-cow farms."
+
+
+
+Cigarettes:"С каждой пачкой новых сигарет от \"Табачного Конгломерата\" вы получаете сразу три дополнительные возможности, добавляющие ощущений, доступных по единственному нажатию кнопки.  Кнопка \"Минт-о-мат\" добавляет в дым ментоловый / эвкалиптовый / мятный аромат.  Кнопка \"Отшибатель\" добавляет насыщенную ароматами двойную дозу смолы, никотина и углеродных примесей.  Кнопка \"Самоочистка\" покрывает вашу сигарету дымопоглощающим слоем нанотехнологичес-\nкой природы.  \"Как я уже говорил в предыдущий раз, давая показания перед этой комиссией, все еще не найдены четкие доказательства того, что курение вредит здоровью курильщика.\" - Джек М. Саттон, главный управляющий делами \"Uplift Tobacco\", 03-09-2112."
+
+//"Every box of the Tobacco Conglomerate's new phylo-filter-tip cigarettes comes with three optional, experience-enhancing additives available at the touch of a button.  The \"Mint-o-matic\" button infuses your smoke with a menthol/eucalyptus/mint blend.  The \"Kicker\" button adds a flavor-rich double dose of tar, nicotine, and other carbon compounds.  The \"Self-Cleaning\" coats your cigarette with a layer of smoke-depositing nanotech.  \"As my testimony indicated the last time I stood before this committee, there is still no clear evidence that cigarette smoking is proven to be harmful to the health of the smoker.\" - Jack M. Sutton, Chief Executive Officer, Uplift Tobacco, 09-03-2112."
+
+
+
+Crystal_Shard:"Резюме:  Крайне опасное оружие рукопашного боя.  
+Для использования необходим 1-й навык владения экзооружием.
+
+Анализ:  Этот кристалл состоит главным образом из кремния, с вкраплениями германия и других, неизвестных, элементов; похоже, что резонансная частота кристалла очень близка к частоте нервных импульсов.  Вероятно, кристалл служит ретранслятором пси-способностей аннелидных существ.  Кристаллическая структура сформирована из тысяч тесно расположенных иголок, образующих ветвистое, практически фрактальное, дерево.
+
+Рекомендации:  Поразительная острота кристалла делает его очень опасным оружием рукопашного боя."
+
+//"Summary:  A very dangerous hand-to-hand weapon.  It requires an Exotic Weapons skill of 1 in order to wield.
+
+Analysis:  This crystal, principally of Silicon but doped with Germanium and other unknown trace elements, appears to have a resonant frequency very close to that of neural propagation.  The crystal probably serves as a repeater for the psionic abilities of the Annelid creatures.  The crystal structure is composed of thousands of close-together crystal needles, attached together in a close-branching, nearly fractal, tree.
+
+Recommendation:  The crystal's amazing sharpness makes it a very dangerous hand-to-hand weapon."
+
+
+
+Dead_Power_Cell:"Аккумуляторы 5-го типа от \"ElectroSim\" являются новой моделью, разработанной в целях единовременного получения большого количества энергии за короткое время.  Обычно они используются в качестве аварийных источников энергии для жизненно-важных корабельных систем.  К сожалению, при хранении дольше нескольких недель они обычно разряжаются, их приходится часто заряжать на станциях перезарядки.  \"ElectroSim\" заменила эту модель на новую - 5A, но это случилось уже после того, как \"Фон Браун\" покинул Землю."
+
+//"The ElectroSim Type 5 Power Cell is a new model, designed to deliver a lot of power over a small period of time.  These are typically used to provide emergency backup power for ship-critical systems.  Unfortunately, they have a tendency to lose their charge if stored for more than a few weeks, so they must be frequently recharged at energy recharging stations.  ElectroSim has replaced this unit with the more stable 5A, but the upgrade was not available before the Von Braun left Earth."
+
+
+
+detox_patch:"\"Детоксифицирую-\nщий аэрозольный шприц-тюбик от \"Vita-Hyb\" действует быстро, действует мощно, избавляя ваше тело от химических и экологических напастей.  Слишком много выпили?  Прогулялись слишком близко к синтобетонной стройке?  Примите дозу!  Дети, престарелые граждане, беременные женщины и те, кто проходит любую форму лечения, - внимание, предварительно проконсультируй-\nтесь в Медицинской Консультации 1053-T-032.\" \n- Из воздушного рекламного баннера \"Vita-Hyb\", 2110."
+
+//"\"The Vita-Hyb Detoxification Hypospray acts fast, and it acts strong, to rid your body of chemical and environmental hazards.  Had too much to drink?  Wandered too close to a synthocrete building in progress?  Try a dose!  Children, senior citizens, pregnant women, and those on any form of medication are warned to consult Health Advisory 1053-T-032 before using.\" -Vita-Hyb skybanner, 2110."
+
+
+
+dj_news:"Этот голографический глянцевый журнал обращен главным образом к богатой молодежи.  Многосерийные тематические рассказы мусолят подробности романов и событий из жизни нескольких очень фотогеничных знаменитостей."
+
+//"This holographic glossy magazine appeals principally to a rich youth market.  The long-running feature stories detail the romances and adventures of several highly photogenic celebrities."
+
+
+
+electro_shock:"Крайне эффективное оружие ближнего боя, лазерная рапира требует для использования ловкость 3 и 4-й навык владения энергооружием.  Намного более эффективная, чем прототип, изначально разработанный на станции Цитадель в 2072 году, лазерная рапира марки IV еще и основана на более надежной технологии.  Данная боевая единица проецирует свет внутрь отражающего материала, из которого сделана рапира.  Когда материал деформируется (как в момент нанесения укола рапирой) интенсивный преломленный свет высвобождается в одной точке, нанося сильные ожоги в месте укола.  \"Именно так, прямо как та, которой пользовался Хакер на станции Цитадель!  Мы - единственные здесь, у кого они есть!  Всего 40 нанитов!\" - Уличный продавец из Нью-Детройта, рекламирующий перепечатки лазерных рапир."
+
+//"A brutally effective melee weapon, the Laser Rapier requires an Agility of 3 and an Energy Weapons skill of 4 in order to use.  Far more effective than the prototype model first developed on Citadel Station in 2072, the Mark IV Laser Rapier is a much more reliable piece of technology.  The unit works by projecting a porous field of reflective material in a shaft shaped region around the base of the rapier.  When the material is bent (as when the rapier strikes a target) the intense refracted light inside is released locally, causing intense burns to the target.  \"That's right, just like the one the Hacker used on Citadel Station!  We're the only one in town who's got \`em!  Only 40 nanites!\" - Street vendor selling Laser Rapier replicas in New Detroit."
+
+
+
+emp_grenade:"ЭМИ-гранаты проявили себя лучше, чем ЭМИ-винтовки, если производить сравнение в единицах разрушенной или поврежденной электроники.  Однако, эти гранаты не дают высокой скорострельности, а стоимость их производства космически высока."
+
+//"EMP Grenades yield more impressive results, in terms of damaging or destroying nearby electronics, than an EMP Rifle.  However, they also come with a much lower rate of fire and a stratospherically higher cost per usage."
+
+
+
+EMP_Rifle:"Для использования двухконтурной ЭМИ-винтовки производства Три-Оптимум необходим 6-й навык владения энергооружием.  Первая модификация оружия увеличивает его энергоемкость, а вторая - скорострельность и сокращает затраты энергии.  Вдобавок обе модификации увеличивают наносимые повреждения.  \"Когда в середине 20-го века было испытано первое ядерное оружие, было отмечено, что помимо катастрофического ущерба, причиненного самим оружием, электромагнитный импульс, сопутствующий взрыву, нейтрализовал большую часть электронной аппаратуры в радиусе многих миль.  Как только импульс был выделен, стало возможным эксплуатировать его преимущества, не оглядываясь на неприятные последствия, сопряженные с ядерным грибом.\" - Д-р Эдвард Чанг, главный управляющий по технологиям, Исследования Три-Оптимум."
+
+//"The TriOptimum Dual-Circuit EMP Rifle requires an Energy Weapons skill of 6.  The first modification to this weapon increases its energy capacity, while the second increases the speed of a shot and reduces energy consumption.  Additionally, both modifications increase the weapon's damage.  \"When the first atomic weapons were tested in the middle of the 20th century, it was noted that not only did the weapons themselves do catastrophic damage, the electro-magnetic pulse they released coincident with the blast effectively neutralized most electronic devices for miles.  Once this pulse was isolated, one could cultivate its benefits without the unpleasantness inherent in a nuclear fireball.\" - Dr. Edward Chung, Chief Technological Officer, TriOptimum Research."
+
+
+
+EndurBoost:"Имплантант СверхВыносливость (TM) повышает выносливость на 1 единицу, теряя 1% своего заряда каждые 10 секунд.  Первый из линейки усилителей-имплан-\nтантов, выпущенных \"Crigon Manufactory\", этот имплантант мягко стимулирует как нервные каналы, так и мышечные ткани, а также очищает кровь от токсинов.  \"Насколько сильными мы должны быть?  Действительно ли 'лучше' значит 'лучше'?  Смог бы Шекспир написать пьесу, все персонажи которой умственно, физически и эмоционально находились бы на уровне супергероев?  Да разве бы он подумал о таком?\" - Профессор Хоакин Руту, лектор Кейптаунского Университета."
+
+//"The EndurBoost (TM) implant boosts Endurance by 1, burning up 1% of its charge every ten seconds.  The first of the Boost line of implants manufactured by Crigon Manufactory, the implant gently stimulates both nerve fibers and muscle tissue, and filters fatigue toxins from the blood.  \"How strong do we need to be?  Is better actually better?  Could Shakespeare write a play with all of the characters mentally, physically and emotionally jacked up to superheroic levels?  Would he even care to?\" - Prof. Joaquin Rutu, Lecturer, Capetown University."
+
+
+
+energy_ammo:"Кристаллические призмы \"Syvintec\" впервые появились в 2023-м году в качестве энергохранилищ высокой емкости, и с тех пор считаются лучшими энергоносителями для высокоэнергетичес-\nкого оружия.  Силиконо-ванадиевые кристаллические решетки накапливают энергию в шести ортогональных плоскостях в сжатом ЭМ-поле призмы, обеспечивая высокий выход заряда и возможность перезарядки."
+
+//"The Syvintec Crystal Prisms were introduced in 2023 for high-density energy storage, and have been the storage medium of choice ever since for heavy energy weapons.  The Silicon/Vanadium crystal lattice stores energy in six orthogonal dimensions in the prism's compressed EM fields, allowing for completely efficient energy drain and recharge."
+
+
+
+ExperTech:"Имплантант ТехЭксперт (TM) повышает твои навыки взлома, ремонта и модификации на 1 единицу, теряя 1% своего заряда каждые 10 секунд.  Это прибавление, однако, НЕ действует при наличии только минимальных навыков."
+
+//"The ExperTech (TM) implant effectively boosts your Hack, Repair, and Modify skills by +1, burning up 1% of its charge every ten seconds.  This bonus, however, does NOT apply to meeting minimum skill requirements."
+
+
+
+FakeCookie:"Кибер-модули содержат набор программируемых баз данных РНК и ЭМ-волн, излучаемых мозгом, что может быть использовано для совершенствования кибер-оснастки в любом устройстве апгрейда с запатентованным обучающим устройством от Три-Оптимум.  Нет никакой гарантии, что навыки, приобретенные с помощью устройств апгрейда, останутся таковыми дольше нескольких недель, хотя навыки, приобретенные таким образом и постоянно используемые впоследствии, в особенности, в напряженных условиях, зачастую приживаются навсегда.  \"Господи, он весь был в разъемах.  Я никогда не встречала таких типов.  Сколько от человека в нем оставалось?  Сложно сказать.  Однако, надо признать... разъемы ему не помешали.\" - Журнал \"Она\", июль 2111."
+
+//"Cybernetic Modules contain a mix of programmable RNA databases and brainwave EM which can be used to augment a cyber rig at any Upgrade Unit, a proprietary TriOptimum training device.  Skills acquired via Upgrade Units are not guaranteed to last more than a few weeks, though skills acquired in this fashion and then used consistently, and especially under stressful conditions, are frequently found to be permanent.  \"God, was he jacked.  I had never seen a specimen like him.  How much of his original self remained?  Hard to say.  However, I must admit... he put the \"sigh\" back in cybernetic.\" - \"She\" magazine, July 2111."
+
+
+
+fakekeys:"Эти карты используются для ограничения доступа к различным жизненно-важным секторам корабля.  Использовать карту нужно, пропустив ее край через читающее устройство.  Карты кажутся обманчиво низкотехнологич-\nными.  Однако, они работают на основе трижды шифруемой фрактальной строки данных - карты синхронно изменяются более 50 тысяч раз в секунду, что фактически исключает возможность подделки."
+
+//"These cards are used to restrict entrance to various critical areas of the ship.  Used by dragging through a card slot reader, these cards appear deceptively low-tech.  However, they are designed with a triple encrypted fractal data string - the cards mutate in synch with each other over 50,000 times a second, making them nearly impossible to counterfeit."
+
+
+
+FakeNanites:"Эффективная технология, основанная на нанитах, родилась после длинной серии испытаний в Масальском Университете в 2078 году.  Наниты представляют собой субатомные механизмы, которые можно программировать на выполнение практически любой задачи, от сбора нанитов в сети репликаторов для формирования произвольно выбранного объекта, до борьбы с бактериями и вирусами в кровеносной системе человека.  Другим словами, наниты (в сочетании с техникой репликации) произвели на свет \"философский камень\".  Постановление UNN от 2082 года о переопределении денежной единицы положило начало переведению всех расчетов на строго нанитную основу."
+
+//"Efficient nanite-based technology was introduced after a series of radical experiments at the University of Masala in 2078.  Nanites are sub-atomic machines that are capable of being programmed to perform a nearly infinite variety of tasks, from forming themselves in a replication grid to form into arbitrary objects, to fighting bacteria and viruses in the Human bloodstream.  In other words, nanites (combined with replication tech) created the \"every material\".  The UNN Currency Redefinition Act of 2082 opened up the door for moving financial transactions to a strict nanite basis."
+
+
+
+frenchnepstein_device:"Великолепный подарок на день рождения технику с не очень хорошими техническими навыками, устройство Френча-Эпштейна является портативным нанито-приводным автономным инструментом для анализа и модификации.  Просто подсоедини устройство к своему оружию и позволь экспертным системам Френча-Эпштейна сделать работу, необходимую для модификации оружия.  Устройство - одноразового применения."
+
+//"The perfect birthday gift for the techie with less than ideal technical skills, the French-Epstein Device is a portable, nanite-driven, self-contained analysis and modification tool.  Simply connect the device to your weapon and let the French-Epstein's expert systems do the work necessary for the weapon's modifications.  One use only."
+
+
+
+fusion_cannon:"Для использования атомной пушки TC-5 необходимы сила 4 и 6-й навык владения тяжелым оружием.  Обе модификации увеличивают наносимые повреждения.  Первая модификация увеличивает вместительность обоймы, а вторая сокращает расход боеприпасов.
+\"Первые эксперименты с ядерными реакциями привели к разочарованию и дали потенциально опасные результаты.  Однако, допустимые отклонения в военных спецификациях UNN были существенно занижены, и Три-Оп, очертя голову, бросилась производить эти безбожные устройства.  Правда ли, что атомное оружие обладает невероятной мощностью?  Да, конечно.  Каково его потенциальное воздействие на окружающую среду?  Не имею ни малейшего представления.\" - Доктор Мария Делакруа, главный инженер \"Фон Брауна\"."
+
+//"The TC-5 Fusion Cannon requires a Strength of 4 and a Heavy Weapons skill of 6.  Both modifications will increase weapon damage.  The first modification also increases clip size, and the second also reduces ammo consumption.  
+ \"Early experimentation with atomic fusion yielded disappointing and potentially dangerous results.  However, scientific tolerances were considerably lower in the UNN military specifications, so TriOp rushed headlong into production on these god-forsaken devices.  Is fusion weaponry incredibly powerful?  Of course it is.  What is its long-term environmental impact?  I have absolutely no idea.\" - Dr. Marie Delacroix, Von Braun Chief Engineer."
+
+
+
+Game_Carts:"Этот модуль памяти содержит полную рабочую версию игры для использова-\nния с твоим \"ИгроСвином (TM)\" от VMU.  \nХхрю!"
+
+//"This memory module contains a complete working game for use with your VMU GamePig (TM).  Oink!"
+
+
+Gameboy:"Блестящее новое игровое устройство \"ИгроСвин (TM)\" от \"Vortex Mechanics Unlimited\".  Можно играть в десятки различных игр, просто вставив новые картриджи. Главную роль в большинстве игр исполняет \"Хряк - Игровой Свин\", который впервые прославился в 2005 году в интерактивном представлении \"Корпоративная Свинья\". \nПРЕДУПРЕЖДЕНИЕ: VMU не несет ответственности за любые происшествия, произошедшие по причине отвлечения на игру в \"ИгроСвин (TM)\", проецируемую на лобовое стекло.  Ххрю!"
+
+//"A shiny new GamePig (TM) entertainment device from Vortex Mechanics Unlimited.  Able to play dozens of different games, simply by inserting new memory cartridges.  Most games star \"Grunty the Gaming Pig\", who first rose to fame in the 2005 interactive entertainment \"Corporate Swine\".  \nDISCLAIMER: VMU is not liable for any accidents which may occur due to distraction from playing GamePig (TM) games in a heads-up display.  Oink!"
+
+
+
+Gr_Over_Organ:"Резюме:  Ты выяснил, в какие места лучше всего целиться большим пси-риверам и их проекциям, чтобы причинить им наибольший урон.  Все повреждения, наносимые тобой большим пси-риверам и их проекциям, увеличиваются на 25%.  Проекции будут постоянно воссоздаваться, пока ты не уничтожишь мозговую структуру, которая их порождает.
+
+Анализ:  Это постоянно подпитываемый образец психогенного остатка.  Является конечным продуктом очень сложной сфокусированной пси-проекции.  Этот остаток можно на время разрушить, но не уничтожить окончательно, поскольку пси-проекции могут быть попросту воссозданы породившим их организмом.  Судя по всему, этот вариант пси-риверов - гораздо более мощный, чем тот, что встречался тебе раньше.
+
+Рекомендации:  Хотя проекцию можно разрушить большинством стандартных средств, это может служить только в качестве краткосрочного решения.  Не расходуй ресурсы на борьбу с этим явлением, если только речь не идет о выживании.  При необходимости уничтожить проекцию сначала найди и уничтожь контролирующую ее мозговую структуру."
+
+//"You've learned how to best target the Greater Psi Reavers and their projections for maximal damage.  All damage you deal to Greater Psi Reavers and their projections will be increased by 25%.  The projections will continually regenerate themselves unless you destroy the brain structure which creates them.
+
+Analysis:  This is a continuously energized sample of psycho-creative residue.  It is the end product of a massively complex and focused psionic projection.  This residue can be temporarily disrupted, but not permanently destroyed, since the psionic projection can simply be re-created by the source organism.  This version of the Psi Reaver seems much more powerful than those you have previously encountered.
+
+Recommendation:  While the projection can be disrupted by most conventional means, this serves as a short-term solution only.  Resources should not be wasted in combating this phenomenon unless it is crucial for survival.  If it must be destroyed, seek out and destroy the controlling brain structure first."
+
+
+
+gren_launcher:"Для использования гранатомета TC-11 необходим 1-й навык владения тяжелым оружием.  Первая модификация этого оружия увеличивает вместительность обоймы, вторая добавляет скорости гранатам и сокращает время перезарядки.  Вдобавок обе модификации увеличивают наносимые повреждения.  TC-11 \"Кирпич\" может работать с широким спектром артиллерийских боеприпасов, от стандартной мощной взрывчатки до сенсорных гранат, ЭМИ-гранат или зажигательных, с белым фосфором.  Известно, что особо изобретательные использовали и другие виды боеприпасов.  В отличие от предшественников, TC-11, обладает магнитным стрелковым механизмом на основе обратной поляризации, а не сжатого газа."
+
+//"The TC-11 Grenade Launcher requires a Heavy Weapons skill of 1 in order to use.  The first modification to this weapon increases the clip size, while the second increases the speed of the grenades and reduces the reload time.  Neither modification significantly affects grenade damage.  The TC-11 \"Brick\" can launch a wide variety of ordnance, from standard high-explosive, to proximity detection rounds, EMP, or White Phosphorus incendiary.  Creative souls have been know to jury rig other types of ammo.  Unlike the earlier generations of launchers, The TC-11 utilizes a reverse polarization magnetic launching mechanism instead of compressed gas."
+
+
+Grub_Organ:"Резюме:  Теперь, когда ты узнал уязвимые места этих существ, их можно легко убить.  Как и все аннелиды, они мало восприимчивы к энергооружию.  Яйца аннелидов зачастую содержат полезные органы, имеет смысл обыскивать их перед уничтожением.
+
+Анализ:  Будучи биологической самкой, личинка аннелида является самой простой формой аннелидов.  Это создание состоит, главным образом, из нервной системы и мускулатуры.  Высокоразвитая (для червя) нервная система, похоже, связана в рудиментарный орган пси-чувств.  Червеобразная на вид, личинка фактически не имеет пищеварительного тракта, а снабжается энергетическими резервами при рождении.  Когда они истощаются, существо переходит в состояние сна, вероятно, до тех пор, пока следующий пси-толчок не разбудит его.  Яйца, из которых они вылупляются, зачастую содержат полезные органы, если яйцо не было повреждено в бою.
+
+Анализ:  Личинки довольно хрупки, но могут оказаться опасными, если их не заметить.  В больших количествах они могут представлять более значительную угрозу."
+
+//"Summary:  While you have learned the vulnerabilities of this creature, they're so easily killed it hardly matters.  Like all Annelids, they are somewhat resistant to energy weapons.  Annelid eggs often contain useful organs if you search them before they are destroyed.
+
+Analysis:  Genetically female, the Annelid grub is the most basic Annelid form.  The creature is principally nervous system and musculature - the highly advanced (for a worm) nervous system appears to be tied into a rudimentary psionic sense organ.  While worm-like in appearance, the grub has no actual digestive tract, but is furnished with energy reserves at birth.  When these are depleted, the creature shuts down into a dormant state, possibly until a further psionic trigger acts on it.  The eggs that these emerge from often contain organs that might be extracted for useful purposes, unless the egg was destroyed in combat.
+
+Recommendation:  The grubs are fairly fragile, but can be somewhat dangerous if they close before you see them.  In large numbers, they may prove a more significant threat."
+
+
+Hack_Soft:"Эта программа была создана группой мошенников, состоявшей из бывших служащих Три-Оп, которым стала отвратительна секретность, так тщательно соблюдаемая и их нанимателем и службой безопасности UNN.  Официально запрещенная, эта программа размножилась и распространилась подобно вирусу, попав во все уголки обозримого пространства.  Будучи загруженной, программа позволяет взломать многие корабельные компьютеры, получить доступ к секторам ограниченного доступа, выключить системы охраны, изменить базы данных репликаторов, чтобы разрешить заказ прежде запрещенных вещей, и вытворять прочие злобные проделки.  \"Красивая игрушка, но нужна ли она?  Господи, да Хакер тогда, на станции Цитадель, даже и не подумал воспользоваться всем этим готовеньким дерьмом.  Загружать эту игрушку - все равно что написать у себя на лбу: Эй, смотрите-ка, я новичок!\" - Тодд Спокейн, Президент Двоичной Лиги Западных Штатов."
+
+//"This piece of software was developed by a rogue group of former TriOp employees who grew disgusted with the secrecy maintained both by their employer and UNN security forces.  While officially illegal, this soft has replicated and spread virus-like to almost all corners of patrolled space.  When equipped, it allows one to hack into many computers aboard ship, allowing the user to access restricted areas, shut down security systems, alter replicator databases to allow purchase of previously restricted items, along with other nasty tricks.  \"It's a nice toy, but is it really necessary?  Jeez, the Hacker didn't have to use any off-the-shelf crap back on Citadel Station.  When you boot that puppy up, you might as well be wearing a sign on your head that says: Hey, look at me, I'm a newbie!\" - Todd Spokane, President, Western States Binary League."
+
+
+HE_clip:"Практически бесполезный против бронированных целей, разрывной патрон \"Клещ\" крайне эффективен в применении против живой силы противника.  Наниты внутри пули ощущают, когда патрон попал в органическую цель.  Сначала пуля разрывается на несколько десятков кусочков.  Сразу после этого наниты начинают поиск высокотемператур-\nных точек тела и, используя микроско-\nпические включения газа, движутся к ним, то есть, предположительно, к жизненно-важным органам."
+
+//"While nearly useless against armored targets, the Mite Anti-Personnel Round is devastatingly effective against flesh and blood.  Nanites inside the head of the bullet autonomically sense when the round has entered an organic target.  First, the head of the bullet fragments into several dozen pieces.  Immediately, they seek the highest local temperature and, using microscopic pockets of gas, propel themselves towards the warmth, and presumably, the vital organs."
+
+
+heart_pillow:"Эта мягкая хлопковая подушка издает легкий аромат лаванды, талька и машинного масла."
+
+//"This soft cotton pillow smells faintly of lavender, talcum powder, and machine oil."
+
+
+heavy_armor:"Для использования боевой брони пятого класса \"UltraTech\" необходима сила 6.  Это - лучший вариант брони из доступных, который не требует постоянного питания.  Полотно из титано-кевларовых защитных панелей скрывает регенерирующий полимерный гель и обеспечивает хорошую защиту как от физических, так и от энергетических атак."
+
+//"The UltraTech Class 5 Combat Armor requires a Strength of 6 to equip, and is close to the best you can get without continuous power.  A weave of Titanium/Kevlar shielding panels overlays a regenerative polymer gel, and provides serious protection from both physical and energy attacks."
+
+
+Hybrid_Shotgun:"Для использования помпового дробовика марки Три-Оптимум необходим 2-й навык владения стандартным оружием.  Обе модификации дробовика увеличивают наносимый урон, при этом первая также сокращает время перезарядки, а вторая уменьшает отдачу.  Помповые дробовики в военной сфере почти повсеместно утратили свои позиции и вернули их, лишь когда потребительский отдел Три-Оп представил ручную версию этого монстра десятого калибра.  В общем, работая подобно традиционному (хотя и невероятно смертоносному) дробовику, это магазинное чудовище также способно делать тройные выстрелы, буквально разрывающие жертву напополам.  Через несколько месяцев после появления дробовика его популярность среди охотников и других энтузиастов-оружей-\nников привела к крупному заказу дробовиков от военного ведомства UNN."
+
+//"The TriOptimum-brand Shotgun requires a Standard Weapons skill of 2 in order to use.  Both modifications to the shotgun increase damage.  The first also reduces reload time, while the second reduces kickback.  Shotguns in the military had generally gone out of favor until TriOp consumer division introduced a handheld version of this 10 gauge monster.  While it works like a traditional (albeit incredibly deadly) shotgun, this magazine loaded behemoth also supports a triple load shot, which has been known to split its victims in two.  A few months after its introduction, its popularity with hunters and other weapons enthusiasts prompted a large scale purchase of the guns by the UNN military."
+
+
+ice_pick:"Ограниченно подаваемое питание и особым образом запрограммированные наниты ICE-отмычки обеспечивают один удачный взлом вне зависимости от квалификации пользователя.  Запрещенная в большинстве стран и на бортах кораблей UNN, ICE-отмычка, тем не менее, это большое подспорье для любого хакера, который может позволить платить за устройство по ценам черного рынка.  В хакерском подполье ходят устойчивые слухи, что  \"Cantor\", изобретатель ICE-отмычки, назначил вознаграждение в виде алгоритмов взлома ICE-защиты, причитающееся тому, кто продемонстрирует ему систему, которую ICE-отмычка не сможет взломать."
+
+//"The ICE-Pick's limited power supply and custom-programmed nanites allow for one successful hack, regardless of the skill of the user.  Banned as illegal in most countries and aboard UNN ships, the ICE-Pick is nevertheless a great help for any hacker who can afford the prices the black market charges for the device.  A persistent rumor in the hacker underground is that \"Cantor\", the ICE-Pick's inventor, has offered his own ice-breaking algorithms as a reward to anyone who can demonstrate to him a system the ICE-Pick can't break."
+
+
+ID_Cards:"Эти карты используются для ограничения доступа в различные жизненно-важные секторы корабля.  Использовать карту нужно, пропустив ее край через читающее устройство.  Карты кажутся обманчиво низкотехнологичными.  Однако, они работают на основе трижды шифруемой фрактальной строки данных - карты синхронно изменяются более 50 тысяч раз в секунду, что фактически исключает возможность подделки."
+
+//"These cards are used to restrict entrance to various critical areas of the ship.  Used by dragging through a card slot reader, these cards appear deceptively low-tech.  However, they are designed with a triple-encrypted fractal data string - the cards mutate in synch with each other over 50,000 times a second, making them nearly impossible to counterfeit."
+
+
+
+Incend_Grenade:"Эта граната разбрасывает быстро рассеивающийся белый фосфор.  Он может вызывать цианоз, кишечные колики и, возможно, даже кому или смерть.  Действует, в основном, только на органические цели."
+
+//"This grenade releases a quick-dispersing White Phosphorus.  WP can cause cyanosis, intestinal pain, and perhaps coma or death.  It generally only affects organic targets."
+
+
+
+int_boost:"Резюме:  Этот шприц-тюбик на 5 минут увеличит пси-параметр пользователя на 1 единицу.
+
+Анализ:  Это фармацевтическое средство соединяет в себе сложную смесь психотропных химикатов, некоторые из которых - весьма мощные, и очищенную ткань аннелида.  Часть химикатов посредством ферментов связана с фрагментами тканей аннелидов, многие из них - с момента изготовления шприц-тюбика, как если бы аннелидная ткань все еще была биологически активной.
+
+Рекомендации:  Этот экспериментальный аэрозольный шприц-тюбик увеличит твой пси-параметр на несколько минут - если ты не возражаешь против вкалывания себе очищенной ткани аннелида.  Частое его использование может вызвать побочные эффекты в виде галлюцинаций."
+
+//"Summary:  This hypo will increase the user's Psionic Ability by 1 for five minutes.
+
+Analysis:  This pharmaceutical combines a complex mix of psychoactive chemicals, some of them quite powerful, and refined Annelid tissue.  Many of the chemicals have enzymatically bonded to the Annelid tissue fragments, many of them since construction of the hypo, as if the Annelid tissue is still biologically active.  
+
+Recommendation:  This experimental hypospray will increase your Psionic Ability for a few minutes - if you don't mind injecting yourself with purified Annelid tissue.  Long term usage may well cause hallucinatory side effects."
+
+
+
+juice_bottle:"Произведенный из генетически привитых фруктов (выращенных в гидропонных теплицах), популярный фруктовый напиток с кофеином от \"TastyFruit\" полон витаминов, сахара и фруктовой мякоти."
+
+//"Produced from genegrafted fruit in hydroponic tanks, the popular Juicy Juice Caffeinated Fruit Drink is chock full of vitamins, sugar, and fruit pulp."
+
+
+
+kangaroo_quarterly:"Многоцветный журнал об аспектах искусственной личности. В тематических статьях обсуждаются синтетические ток-шоу, агрегатные личности, развитые как корпоративные представители, и низкобюджетная подстройка личностей в домашних условиях."
+
+//"A high-color journal covering the artificial-personality circuit.  Feature articles discuss synthetic talk shows, aggregate personalities developed as corporate spokesmen, and low-budget personality tailoring that can be done at home."
+
+
+
+LabAssistant:"Имплантант Лаборант (TM) повышает исследовательские навыки на 1 единицу, теряя 1% своего заряда каждые 10 секунд.  Является одним из наименее популярных имплантантов, продаваемых \"Crigon Manufactory\", но сложившийся в среде аспирантов рынок сбыта не дает остановиться производству имплантанта."
+
+//"The LabAssistant (TM) implant increases Research skill by 1, burning up 1% of its charge every ten seconds.  The LabAssistant is one of the least popular implants that Crigon Manufactory sells, but a core market of graduate students keeps the line afloat."
+
+
+
+Laser_Pistol:"Для использования плазменного пистолета \"Аполло H4\" необходим 1-й навык владения энергооружием.  Первая модификация этого оружия увеличивает энергоемкость, вторая - сокращает расход энергии, вдобавок обе модификации увеличивают наносимые повреждения.  Еще более смертоносный двоюродный брат пистолета \"Спарк\", \"Аполло H4\" использует для поражения цели разряд плазмы, а не электроразряд.  Аргоновый лазер ионизирует обычный воздух, а сверхпроводящие электромагниты удерживают и приводят в движение плазму, так что никаких боеприпасов, кроме энергопитания и воздуха не требуется.  Несмотря на наличие достаточно мощной батареи, оружие следует дозаряжать на станциях перезарядки, а необходимость присутствия воздуха приводит к неработоспособнос-\nти в вакууме.  Хотя аргоновые лазеры и плазменное оружие известны своей универсальностью и возможностями настройки, крайне упрощенные регуляторы этой модели обеспечивают только два огневых режима.  В усиленном режиме тратится больше энергии для выработки плазмы повышенной температуры.  Им можно воспользоваться, чтобы выбраться из особо опасной ситуации, но он быстро истощит энергозапас пистолета, к тому же потребуется несколько секунд, чтобы охладить плазменный резервуар и зарядить конденсаторы перед тем, как пистолет сможет стрелять снова."
+
+//"The Apollo H4 Plasma Pistol requires an Energy Weapons skill of 1.  The first modification to this weapon increases the energy capacity, while the second reduces the energy consumption.  Both modifications increase the damage.  The deadlier cousin of the Sparq Pistol, the Apollo H4 relies on a bolt of plasma instead of electricity to damage its target.  An Argon laser ionizes common air, and superconductive electromagnets contain and propel the plasma, so no ammunition is required other than electrical power and air.  While it has a fairly large battery, the weapon must be replenished at a recharge station and requires an air intake attachment to function in vacuum.  Although Argon lasers and plasma weapons are well known for their versatility and adjustability, the grossly oversimplified controls on this model provide for only two firing modes.  The overcharge setting uses much more energy to produce a hotter plasma.  This can be used to get out of a tight spot, but will quickly drain the unit's energy supply and requires several seconds to cool down the its plasma chamber and charge up its capacitors before it can fire again."
+
+
+Light_Armor:"Для использования брони первого класса \"Dartech\" необходима сила 2.  Броня сделана из кевларовых пластин на стальном каркасе, что обеспечивает легкость и крайне эффективную защиту от огня.  Броня разрабатывалась не просто чтобы держать удар, но и рассеивать кинетическую энергию удара по всей поверхности.  \"Dartech\" - это рука военного филиала Три-Оп, с которой кормятся беднейшие из участников столкновений, такие как террористы и местные силы правопорядка.  Конечно, такая броня лучше, чем ее отсутствие, но уже не один человек, носивший броню первого класса \"Dartech\", встретился с малоприятной кончиной."
+
+//"The Dartech Class 1 Armor requires a Strength of 2 in order to equip.  The armor is a complex mesh of Kevlar and substrate steel mesh that provides lightweight, marginally effective firepower stoppage.  The armor is not only designed to resist penetration, but also to disperse the kinetic energy of the impact throughout its frame.  Dartech is the arm of TriOp's military branch that generally supplies the poorer belligerents, such as terrorists and local militias.  While it's better than nothing, more than one wearer has met an unpleasant end while wearing the Dartech Class 1."
+
+
+
+liquor_bottle:"Развитие фармацевтики привело к мимикрии действия алкоголя, так что спиртное стало оцениваться по двум шкалам - \"реальной крепости\" и \"коэффициента крепости\", так что самые крепкие напитки приближались к коэффициенту крепости 330.  Этим ядовитым пойлом можно напиться старомодно, без всяких коэффициентов крепости."
+
+//"With advances in pharmaceuticals that mimic the effects of alcohol, liquor has begun to be rated in both \"true proof\" and \"factor proof\", with the strongest drinks being close to 330 factor proof.  This rotgut gets you drunk the old-fashioned way, with no added factor proof."
+
+
+
+maintenance_tool:"Любой орудийный сержант считает предметом гордости тот факт, что его излюбленный инструмент - не какой-нибудь там \"для полных идиотов все-сам-сделает\".  Чем выше навык техобслуживания применяющего, тем эффективней будет работа с инструментом.  Инструменты эти - одноразовые."
+
+//"Gunnery sergeants everywhere make it a point of pride that their tool of choice isn't a \"loser know-nothing fix-it-all device\".  The better the Maintenance skill of the operator, the more effect using the tool will have.  These tools are disposable, and can only be used once each."
+
+
+
+med_bed_key:"Стандартный хирургический модуль полезен при диагностике под контролем опытного терапевта.  При подключении к хирургическому модулю активаторный ключ позволяет производить лечение автоматически.  Жесткая борьба с группами медиков-лоббистов окончилась компромиссным решением, в соответствии с которым производителям запрещается устанавливать активаторные ключи с нанито-приводами на хирургические модули, но разрешается распространять отдельно, чтобы клиенты могли сами установить ключ в случае экстренной необходимости.  Установка ключа несложна.  Однако, чтобы разъединить устройства, требуется заводской техник."
+
+//"The standard Surgical Unit is useful for diagnostic procedures, under the control of a trained physician.  This Activation Key, when attached to a Surgical Unit, will allow it to perform healing procedures automatically.  A fierce battle with the medical lobbyist groups has resulted in a compromise, in which the nanite-driven Activation Keys may not be installed by the vendor on a Surgical Unit, but may be stocked separately for customers to install in case of emergency, and the installation is not difficult.  However, once the two are connected, a factory technician is required to disconnect them."
+
+
+
+Med_Patch:"Разработанный для быстрого лечения легких ран, лечебный шприц-тюбик \"ChemCal\" вводит доброкачественный фермент, способный примерно оценить состояние больного и подстроить химическую природу шприц-тюбика под данный конкретный случай.  Ко всему прочему, шприц-тюбик содержит смесь стандартных болеутолителей и клеток, предотвращающих сворачивание.  \"ChemCal\" не предназначен для лечения серьезных ран, но тоже сгодится в крайних случаях.  Единственный недостаток - слишком резкий укол иглы с завышенными техническими характеристиками, которую чуть не изъяли из продажи двенадцать лет назад, сразу после первой демонстрации.  Долгая тяжба юридического отдела Три-Оп устранила эту потенциально убыточную случайность."
+
+//"Designed as a quick fix for minor injuries, the ChemCal Medical Hypo injects a healing enzyme which can make a crude assessment of the patient's condition and somewhat alter the chemical makeup of the hypo to fit the case.  In addition, the hypo contains a mixture of standard pain killers and anti-coagulants.  Not meant as a treatment for serious injury, the Med Hypo will do in a pinch.  The only downside is the rather sharp stick of the over-engineered vacc needle, which was nearly recalled twelve years ago on its introduction.  Strong litigation by TriOp's legal department eliminated that potentially costly eventuality."
+
+
+
+medical_kit:"Аптечка самодиагностики способна остановить кровотечение, восстановить поврежденные ткани и даже дорастить рудиментарные органы.  Везде и всегда привычная для специалистов по аварийной медицине, полевых врачей и полицейских, аптечка восстановит утраченное здоровье до максимального значения."
+
+//"The Auto-Diagnostic Medical Kit is able to stop bleeding, rebuild damaged tissue, and even make rudimentary organ repair.  A staple of emergency medical technicians, battlefield medics, and policemen everywhere, the medical kit will restore all lost hit points."
+
+
+
+medium_armor:"Для использования брони третьего класса \"SenniTech\" необходима сила 4.  Броня состоит из трехслойной композиции быстрозатвердевающих смол и реплицирующихся полимеров с длинными углеродными цепями.  Будучи тяжелее брони первого класса \"Dartech\", броня третьего класса обеспечивает и существенно большую защиту от вражеского огня.  Подотдел \"SenniTech\" военного филиала Три-Оптимум снабжает броней множество взводов легкой пехоты, как сил UNN, так и корпоративных боевых соединений."
+
+//"The SenniTech Class 3 Armor requires a Strength of 4 to equip.  It is composed of a triple-layered composite of self-stiffening resins and long-chain replicating polymers.  Heavier than the Dartech Class 1, the Class 3 also provides substantially more protection from hostile firepower.  The SenniTech subdivision of the TriOptimum military provides the armor for many light infantry platoons of both the UNN and corporate military forces."
+
+
+
+Midwife_Organ:"Резюме:  Ты выяснил, в какие места лучше всего целиться киборгам-акушеркам, чтобы причинить им наибольший урон.  Все повреждения, наносимые тобой акушеркам, увеличиваются на 25%.  Они мало восприимчивы к зажигательным гранатам и разрывным патронам, но уязвимы для бронебойных.
+
+Анализ:  Цепочка ДНК подтверждает, что объект исследования является кибернетически модифицированной самкой человека.  Вспомогательный процессор в основании позвоночного столба служит контролером, перебивая большую часть импульсов, поступающих от живого мозга.  Реакции и мускулатура были улучшены механическим путем, а кибер-аппаратура также служит защитой для мягких человеческих тканей.
+
+Рекомендации:  Из-за полумеханической природы этого существа зажигательные гранаты и разрывные патроны малоэффективны, но бронебойные должны быть весьма действенны."
+
+//"Summary:  You've learned how to best target the cyborg midwives for maximal damage.  All damage you deal to midwives will be increased by 25%.  They are resistant to incendiary and anti-personnel weapons, but vulnerable to armor-piercing.
+
+Analysis:  DNA sequence confirms that the subject was originally a Human female, cybernetically modified.  An auxiliary CPU in the base of the spine serves as a controller, overriding most signals sent by the subject's natural brain.  Both speed and musculature have been mechanically enhanced, and the cybernetic apparatus also serves as physical shielding for the softer Human tissues.
+
+Recommendation:  Due to the half-mechanical nature of this creature, incendiary and anti-personnel weapons will be fairly ineffective, but armor-piercing rounds should be quite effective."
+
+
+
+Mn_Over_Organ:"Резюме:  Ты выяснил, в какие места лучше всего целиться пси-риверам и их проекциям, чтобы причинить им наибольший урон.  Все повреждения, наносимые тобой пси-риверам и их проекциям, увеличиваются на 25%.  Проекции будут постоянно воссоздаваться, пока ты не уничтожишь мозговую структуру, которая их порождает.
+
+Анализ:  Это постоянно подпитываемый образец психогенного остатка.  Является конечным продуктом очень сложной сфокусированной пси-проекции.  Этот остаток можно на время разрушить, но не уничтожить окончательно, поскольку пси-проекции могут быть попросту воссозданы породившим их организмом.
+
+Рекомендации:  Хотя проекцию можно разрушить большинством стандартных средств, это может служить только в качестве краткосрочного решения.  Не расходуй ресурсы на борьбу с этим явлением, если только речь не идет о выживании.  При необходимости уничтожить проекцию сначала найди и уничтожь контролирующую ее мозговую структуру."
+
+//"You've learned how to best target the Psi Reavers and their projections for maximal damage.  All damage you deal to Psi Reavers and their projections will be increased by 25%.  The projections will continually regenerate themselves unless you destroy the brain structure which creates them.
+
+Analysis:  This is a continuously energized sample of psycho-creative residue.  It is the end product of a massively complex and focused psionic projection.  This residue can be temporarily disrupted, but not permanently destroyed, since the psionic projection can simply be re-created by the source organism.
+
+Recommendation:  While the projection can be disrupted by most conventional means, this serves as a short-term solution only.  Resources should not be wasted in combating this phenomenon unless it is crucial for survival.  If it must be destroyed, seek out and destroy the controlling brain structure first."
+
+
+
+modify_soft:"Модификационное программное обеспечение предоставляет даже неопытному (но кибер-снаряженному) пользователю полные схемы всех выпускаемых видов вооружений.  Апгрейды со схемами новых вооружений появляются каждый месяц.  Высокоуровневые варианты программ работают на основе Октановой модели экспертной системы, что позволяет помогать пользователю в выборе идеальной и эффективной модификации."
+
+//"Modification software provides even an untrained (but cyber-equipped) user with the full schematics of all currently manufactured weapons.  Upgrades are available on a monthly basis, containing the schematics of weapons newly on the market.  Higher levels of the software employ the Octane model of expert system in order to advise the user on ideal and efficient modifications."
+
+
+
+molec_analyzer:"Крайне недооцениваемый прибор авто-ремонта от \"Viridian V-Badge\" продается в качестве ремонтного устройства.  На деле же прибор авто-ремонта сканирует, а затем воссоздает чуть ли не с нуля устройство в его первозданном виде.  Есть документальные свидетельства случаев, когда новое устройство было немного лучше оригинала, притом что прежде оно имело повреждения, исключающие сканирование.  К великому облегчению специалистов-ре-\nмонтников прибор авто-ремонта предназначен для одноразового применения."
+
+//"The Viridian V-Badge Auto-Repair Unit is marketed, in an amazing display of underrating, as a repair device.  In reality, the Auto-Repair Unit scans, and then virtually rebuilds from scratch, a target device, in its original pristine state.  Several documented cases have observed subtle improvements in the repaired device, where the original was damaged beyond scannability.  Much to the relief of licensed repair specialists, the Auto-Repair Unit is a single-use device."
+
+
+
+Monkey_Brain:"Резюме:  Ты выяснил, в какие места лучше всего целиться обезьянам, чтобы причинить им наибольший урон.  Все повреждения, наносимые тобой обезьянам, увеличиваются на 25%.  
+
+Анализ:  Генетически обезьяна является обычной африканской беличьей обезьяной-саймири.  Однако, судя по всему, она подверглась целой серии химических и хирургических вмешательств, как до, так и после рождения.  Эти вмешательства увеличили размер и количество связей мозга, а также улучшили циркуляцию миелина в центральной нервной системе.  Крышка черепа существа была удалена хирургическим путем, вероятно, чтобы избавиться от внутричерепного давления и получить быстрый доступ к мозгу для экспериментов.
+
+Рекомендации:  Нервная организация существа похожа по природе на нервные пси-структуры человека - и весьма вероятно, что обезьяны обладают пси-способностями.  Они уязвимы для всех видов оружия, применяемых против органической жизни."
+
+//"Summary:  You've learned how to best target the monkeys for maximal damage.  All damage you deal to monkeys will be increased by 25%.  
+
+Analysis:  The monkey is genetically normal, an African Squirrel Monkey.  However, it appears to have been subject to a large number of chemical and surgical procedures, both before and after birth.  These procedures have enhanced brain size and connectivity, as well as enhanced the myelination of the central nervous system.  The skull of the creature has been surgically removed, presumably both to prevent cranial pressure and to allow quick experimental access.   
+
+Recommendation:  The neural construction of the creature is similar in nature to psionic Human neural structure - the monkeys are likely to have psionic capability.  They are vulnerable to all attacks which affect standard organic creatures."
+
+
+
+mug:"Герметичная кружка \"Vacuu-Sol\" сохраняет тепло горячих напитков и прохладу холодных на срок до трех лет.  Полупроницаемое силовое поле над краями предотвращает теплопередачу, а также не позволяет пролить жидкость."
+
+//"The Vacuu-Sol insulated mug keeps hot beverages hot and cold beverages cold, up to three years at a shot.  The semi-permeable force-field over the rim prevents heat transfer, as well as keeping the liquid inside in case of a spill."
+
+
+OG_Organ:"Резюме:  Ты выяснил, в какие места лучше всего целиться гибриду, чтобы причинить ему наибольший урон.  Все повреждения, наносимые тобой гибридам, увеличиваются на 25%.
+
+Анализ:  Структура ДНК указывает на то, что этот организм является гибридом человеческого носителя и культуры организма-паразита.  Хотя паразит (напоминающий очень длинного червя) разложился до стадии, когда анализ уже бесполезен, результаты симбиоза налицо.  Серьезное блокирование высшей нервной деятельности вызвано множественными выростами на позвоночном столбе и стволе мозга.  Нечеловеческие ткани, похоже, состоят из популяции маленьких червеобразных созданий, которые прижились в теле носителя и захватили контроль над большинством двигательных функций и функций принятия решений.  Похоже, существует еще и прямая стимуляция автономной нервной системы и системы желез.  Таким образом, этот организм производит немыслимые количества адреналина и эндорфина, делая себя в высшей степени сильным и агрессивным.  То, что осталось, даже с натяжкой нельзя назвать человеком.  Ущерб, наносимый телу носителя в процессе гибридизации, невосполним, так что организм действует вне моральных устоев и вне сомнений.
+ 
+Рекомендации:  Организм уязвим для тех же форм воздействия, что и человеческий.  Тем не менее, изменения в его физиологии предполагают более сложную химию, чем известная в настоящее время.  Дальнейший анализ аналогичных организмов мог бы обеспечить больше понимания в этой области."
+
+//"Summary:  You've learned how to best target the hybrid for maximal damage.  All damage you deal to hybrids will be increased by 25%.
+
+Analysis: DNA structure indicates that this organism is a hybrid of a Human host and a parasitic organism.  Although the parasite (resembling a yard-long worm) has deteriorated to a stage beyond useful analysis, the effects of the process are evident.  Severe deterioration of higher level mental processes is caused by tumorous growths along the spinal column and brain stem.  The non-Human tissues seem to be formed of a composite of small worm-like creatures that have adapted into the host body and taken over a majority of motor control and decision making functions.  There also appears to be direct stimulation of the autonomic nervous and glandular systems.  Hence, the organism produces exceptional amounts of both adrenaline and endorphins, making it remarkably strong and aggressive.  What remains can not really be called Human at all.  The damage done to the host by the process is irrevocable, and the organism now functions with no sense of morality or hesitation.
+
+Recommendation: The organism is vulnerable to the same forms of stimuli as a Human.  However, the changes in its physiology suggest a chemistry more complex than is currently understood.  Further analysis of similar organisms might provide more insight in this area."
+
+
+
+PDA_Soft:"Эта стандартная программа позволяет пользователю просматривать записи, получать электронную почту и доступ к данным в различных форматах, как, например, стандартные .MAP-файлы.  PDA автоматически сортирует записи и письма по палубам путем опроса групп пассивных сенсоров."
+
+//"This standard piece of software allows the user to interface with logs, receive email and retrieve various data formats such as standard .MAP files.  The PDA automatically organizes the logs and email by deck by interacting with groups of passive sensors."
+
+
+
+pellet_shot_box:"Эта разрывная картечь сочетает химический воспламенитель \nс узлом самопреобразующих-\nся нанитов для усиления удара.  Немногие органические цели способны долго выстоять против такого.  Лучше всего использовать картечь с небольшого расстояния, чтобы увеличить точность попаданий."
+
+//"These explosive pellets combine a chemical incendiary with a cluster of self-converting nanites to pack an extra kick.  Not many organic targets can stand up to these for long.  They are best used at relatively short range, as the pellets tend to spread."
+
+
+
+Pistol:"Для использования пистолета \"Тэлон\" M2A3 45-го калибра, необходим 1-й навык владения стандартным оружием.  Обе модификации пистолета увеличивают наносимый урон, при этом первая увеличивает вместительность обоймы, а вторая сокращает время перезарядки.  Разработанный военным филиалом Три-Оптимум, \"Тэлон\" M2A3 является стандартным оружием, выдаваемым всему военному персоналу UNN.  За 23 года применения это оружие было переработано для использования целого ряда различных боеприпасов, включая стандартные патроны в стальной оболочке, бронебойные - с урановым наконечником и даже разрывные патроны на основе нанитов."
+
+//"The Talon M2A3 .45 Caliber Pistol requires a Standard Weapons skill of 1 in order to use.  Both modifications to the pistol increase damage.  The first also increases the clip size, while the second decreases the reload time.  Developed by TriOptimum's military division, the Talon M2A3 is a standard issue sidearm provided to all UNN military personnel.  After 23 years in service, the weapon has been designed to accept a number of kinds of ammunition, including the standard steel-jacketed rounds, Uranium tipped armor piercing rounds and even nanite-based anti-personnel rounds."
+
+
+plant_p2:"Этот экземпляр морозостойкого растения подвергся генетической обработке, чтобы свести к минимуму потребление воды, света, минералов и удобрений.  Своим безжизненным видом напоминает пластиковые растения, существовавшие несколько десятилетий назад."
+
+//"This hardy specimen has been genetically tailored to require minimal water, even less light, and almost no minerals or fertilizer.  It bears a striking resemblance, in both color and lifelessness, to the plastic plants of several decades past."
+
+
+
+pool_cue:"Этот классно выглядящий бильярдный кий из полированного дерева, похоже, подвергся нелегальной переделке и приобрел низкоэнергетическое стабилизирующее поле.  Утонченное мошенничество."
+
+//"This classy-looking polished wood pool cue seems to have been illegally modified to include a small powered stabilization field.  A subtle form of cheating."
+
+
+
+portable_battery:"Портативная батарея 2-го типа от \"ElectroSim\" содержит достаточно энергии для перезарядки практически любого устройства, нуждающегося в питании.  Небольшой изъян в контакте разрядки препятствует повторному использованию батареи, поскольку она полностью разряжается при первом использовании.  Компания \"ElectroSim\" сняла с продажи эту модель батарей."
+
+//"The ElectroSim Type 2 Portable Battery contains enough power to recharge virtually any powered device.  A small flaw in the discharge terminal prevents the battery from being used more than once, as it fully discharges upon use.  ElectroSim has issued a recall for this particular type of battery."
+
+
+Power_Cell:"Аккумуляторы 5-го типа от \"ElectroSim\" являются новой моделью, разработанной в целях единовременного получения большого количества энергии за короткое время.  Обычно они используются в качестве аварийных источников энергии для жизненно-важных корабельных систем.  К сожалению, при хранении дольше нескольких недель они обычно разряжаются, их приходится часто заряжать на станциях перезарядки.  Компания \"ElectroSim\" заменила эту модель на более новую - 5A, но это было уже после того, как \"Фон Браун\" покинул Землю."
+
+//"The ElectroSim Type 5 Power Cell is a new model, designed to deliver a lot of power over a small period of time.  These are typically used to provide emergency backup power for ship-critical systems.  Unfortunately, they have a tendency to lose their charge if stored for more than a few weeks, so they must be frequently recharged at energy recharging stations.  ElectroSim has replaced this unit with the more stable 5A, but the upgrade was not available before the Von Braun left Earth."
+
+
+
+Prox_Grenade:"\"Сенсорная граната \"Радиус IV\" использует не менее шести способов обнаружения, от инфракрасного сканирования до замеров электромагнитного поля и перемещений объемов воздуха, чтобы взорваться в нужный момент в непосредственной близости от ваших врагов!  Не забудьте приобрести наш \"Предохраняющий Излучатель Радиус\", который скоро поступит в продажу.  Обезопасьте себя и ваших боевых товарищей от взрыва вашей гранаты!\"  -- из рекламного листка Три-Оптимум."
+
+//"\"The Radius IV Proximity Grenade utilizes no fewer than six separate methods of detection, from IR signature to EM field sampling to volumetric air displacement, in order to make sure that it explodes with pinpoint accuracy and in the close vicinity of your enemies!  Be sure to purchase our Radius Exclusion Emitter, coming soon, in order to make sure that your grenades exclude you and your squadmates from detonation!\"  -- TriOptimum advertising copy"
+
+
+
+Psi_Amp:"Разработанное \"Esper Industries\", особо важным отделением филиала военных исследований и разработок Три-Оп, это вызывающее споры устройство позволяет пси-одаренным индивидуумам усиливать и проецировать свои силы в реальный мир.  До создания пси-усилителя пси-силы, по большей части, могли быть замерены только в лабораторных условиях.  Усилитель подавляет и частично решает свойственные пси-феномену проблемы рассеивания.  Усилитель также позволяет использовать пси-возможности в целях достижения запрещенных пси-эффектов.  Это устройство произвело фурор в пси-сообществе, в первую очередь, из-за очевидности боевых применений, но также и потому, что усилители направляют развитие псионических \"навыков\" вдоль нескольких определенных (и имеющих практическое применение) осей."
+
+//"Developed by Esper Industries, a critical branch of TriOp's military R&D division, this controversial device allows psionically able individuals to amplify and project their powers into the world.  Before the development of the Psi Amp, psi powers were mostly only detectable in a lab environment.  The Amp contains and inhibits the normal diffusion problems inherent in psi phenomena.  The Amp also allows the user to effectively channel their innate psi powers to a number of proscribed effects.  This device caused a furor in the psi community, primarily because of its obvious military applications, but also because of the Amp's tendency to define psionic \"disciplines\" along a few specific (and generally utilitarian) axes."
+
+
+
+psi_booster:"Шприц-тюбик Пси-усиления содержит мощный коктейль интенсивных болеутоляющих, допаминных ингибиторов и циркулирующих в крови стимуляторов.  Одна доза увеличит твой пси-показатель на 20 единиц, вплоть до твоего максимума.  Руководитель здравоохранения предупреждал, что шприц-тюбики Пси могут вызывать привыкание и представлять опасность для здоровья.  Обрати внимание, что производитель использовал особый патентованный процесс, чтобы сделать эти предметы не воспроизводимыми людьми, владеющими пси-навыком молекулярной репликации, и, таким образом, сохранить свою монополию."
+
+//"The Psi Booster Hypo contains a potent cocktail of tension relievers, dopamine inhibitors, and circulatory stimulators.  A dose will increase your psi points by 20, up to your maximum.  The Surgeon General has warned that Psi Booster Hypos can be habit-forming and dangerous to your health.  Note also that the manufacturer has used a special, patented process to make these items unable to be duplicated by those who know the Molecular Duplication psi discipline, in order to protect their monopoly."
+
+
+
+Rad_Patch:"Наиболее эффективный при использовании сразу после заражения, антирадиационный шприц-тюбик \"ChemCal\" содержит небольшое количество препарата, известного под коммерческим названием \"НьюкТрализатор\".  Этот препарат радикально сокращает период полураспада многих потенциально опасных компонентов.  Доктор Мария Делакруа, главный бортинженер \"Фон Брауна\", была прекрасно осведомлена о проблемах, сопутствующих поспешной разработке корабля.  Например, корабельная система охлаждения реактора имела явные недоработки, что приводило к обширным утечками опасных веществ.  Несмотря на то, что эти утечки легко находили и обычно быстро устраняли, она потребовала, чтобы излишек антирадиационных шприц-тюбиков \"ChemCal\" был распространен по кораблю.  В отличие от многих других ее жалоб на корабельные условия \"Фон Брауна\", эта просьба была услышана."
+
+//"Most effective if used shortly after a hazardous event, ChemCal Anti-Radiation Hypos inject small amounts of an agent commercially known as NukeTralizer.  This agent radically accelerates the half-life breakdown of many potentially hazardous compounds.  Dr. Marie Delacroix, the chief engineer aboard the Von Braun, was well aware of the imperfections inherent in the rushed development of the ship.  Notably, the coolant system of the ship had a chronic cracking problem, leading to the widespread leakage of hazardous materials.  While these leaks are easily detected and usually quickly fixed, she demanded that an excess supply of ChemCal Anti-Rad Hypos be distributed throughout the ship.  Unlike most of her cautions regarding conditions on the Von Braun, this one was actually heeded."
+
+
+
+RadKey_Card:"Эта монтажная плата, как и половина всего оборудования на \"Фон Брауне\", сочетает передовые технологии и качество \"на скорую руку, наобум\".  Некоторые из логических микросхем помечены экспериментальной серией, и повсюду здесь мазки припоя и поросли нанитов."
+
+//"This circuit board, like half of the rest of the equipment aboard the Von Braun, combines cutting-edge technology and a haphazard jury-rig quality.  Some of the logic chips are marked with experimental serial numbers, and there are smearings of solder and nanite-grown junctions everywhere."
+
+
+
+recycler:"Изначально созданный в качестве довеска к репликатору, утилизатор содержит колонию прожорливых, способных размножаться, нанитов, превращающих практически любой объект в некоторое количество нанитов.  Первые случаи использования утилизаторов для сокрытия тел быстро привели к ограничениям на то, какие объекты можно помещать в утилизатор."
+
+//"Originally designed as an adjunct to the replicator, the recycler contains a voracious colony of replication-enabled nanites, which will degrade just about any object into more nanites.  Early incidents in which recyclers were used for disposal of bodies led to quick restrictions on what sort of items the recycler will accept."
+
+
+
+reflec_armor:"Для использования боевой брони седьмого класса \"UltraTech\" необходима энергия для питания генератора отталкивающего поля и поддержки защитных панелей, а также сила 3.  Броня теряет 1% своего заряда каждые пять секунд.  Броня седьмого класса является передовой моделью от военного филиала Три-Оптимум.  Все, от мощных титано-полимерных защитных панелей до дюймовой толщины отталкивающего поля, говорит о высочайшем уровне защиты брони седьмого класса.  Броня, предположительно, доступна военным UNN, но, похоже, большая часть моделей седьмого класса используется, главным образом, службой безопасности Три-Оптимум."
+
+//"The UltraTech Class 7 Combat Armor requires power to run the repulsion fields and support the shielding panels, and requires a Strength of 3 to equip.  It burns 1% of its charge every five seconds.  The Class 7 Armor is the TriOptimum military division's top model.  From the solid Titanium/polymer shielding panels to the 1-inch repulsion field around the wearer, the Class 7 is the premier in protection.  While supposedly available for UNN military, most Class 7 models seem to be available principally for TriOptimum security forces."
+
+
+
+repair_soft:"Ремонтное программное обеспечение предоставляет даже неопытному (но имеющему в распоряжении кибер-оснастку) пользователю полную схему работы любого стандартного и нестандартного электронного или механического устройства, а также набор процедур, которые можно использовать практически при любой поломке или неисправности.  Высокоуровневые варианты программ также включают возрастающе-сложные экспертные системы, позволяющие помочь пользователю советом по ремонту."
+
+//"Repair software provides even an untrained (but cyber-equipped) user with the full schematics of all common and uncommon electronic and mechanical devices, as well as a set of procedures that can be employed in nearly every type of damage or malfunction.  Higher-level software also employs increasingly sophisticated expert systems to advise and assist the user with repairs."
+
+
+
+research_soft:"Исследовательское программное обеспечение предоставляет даже неопытному (но кибер-оснащенному) пользователю набор приложений, позволяющих производить научное исследование устройств и объектов.  Такое исследование вполне подходит полевым агентам, так как дает лишь начальное понимание предмета - дальнейший анализ должен производиться более опытными исследователями в лаборатории.  Высокоуровневые варианты программ работают на основе экспертной системы Кюри, что значительно ускоряет работу."
+
+//"Research software provides even an untrained (but cyber-equipped) user with a suite of applications enabling basic investigation research to be done on devices and objects.  Such research is best suited for field agents, as it grants only a rudimentary understanding of the subject - further in-depth analysis must be done in a laboratory by more qualified investigators.  Higher levels of the software employ the Curie expert system to assist with the speed of research."
+
+
+
+rifled_slug_box:"Конструкция обычного нарезного патрона к дробовику не слишком изменилась за прошедшее столетие.  Маленький, тяжелый кусочек металла, достигающий цели с большой кинетической энергией - вот короткий и простой рецепт нанесения урона."
+
+//"The design of the basic shotgun slug hasn't changed much in the past century.  A small, heavy piece of metal, delivered with a high kinetic energy, is a short, simple recipe for damage."
+
+
+
+
+ring_buoy:"Из-за загадочных ограничений, накладываемых законом, все бороздящие космос корабли должны иметь резерв систем жизнеобеспечения.  Некоторые, в особенности, промышленные траулеры астероидов, были перестроены на предмет самоходности или ограничения запасов воздуха, но на большей части кораблей все жизнеобеспечение запирается на складе, после чего предается забвению."
+
+//"Due to arcane legal restrictions, all space-going ships are required to have a supply of life preservers.  Some, especially on asteroid mining trawlers, have been redesigned in order to make them self-propelling in space, or to give them a limited air supply, but most ships simply pack the things into a storage locker and forget about them."
+
+
+
+rolling_monthly:"Этот журнал, весьма популярный среди роботов-инструкто-\nров и их программистов, представляет из себя эклектичную комбинацию технической информации и внутреннего оформления.  Некоторые статьи написаны целиком в формате компилированного байт-кода, который легко читают роботы, но многие люди-программисты считают приметой профессионализма чтение этих статей без помощи специальных программ."
+
+//"This magazine, very popular among protocol droids and their programmers, is an eclectic combination of technical information and interior design.  Some articles are written wholly in byte-compiled code format, easily readable by droids, but many Human programmers consider it a mark of competence to be able to read those articles without software assistance."
+
+
+
+Rumbler_Organ:"Резюме:  Ты выяснил, в какие места лучше всего целиться рамблеру, чтобы причинить ему наибольший урон.  Все повреждения, наносимые тобой рамблерам, увеличиваются на 25%.  Их аннелидные ткани особенно уязвимы для зажигательного оружия. 
+
+Анализ:  Этот организм - дальнейшая эволюция аннелидного гибрида первого уровня.  Различимые человеческие элементы - минимальны, на уровне ДНК.  Плотность мышечной ткани увеличилась в 20 раз, выработка адреналина возросла соответственно.  Ткани мозга - очень плотные, что обычно свидетельствует о крайне развитых мыслительных способностях, но мозговая основа атрофировалась до бесполезного обрубка, а аналога человеческого позвоночного столба не существует.  Вся мускульная активность контролируется чуждыми клетками, созданными специально для этой цели.  Похоже, это существо является промежуточным звеном между изначальным гибридом человека и червя, и третьей, неизвестной формой.
+
+Рекомендации:  Это существо крайне опасно, и является, по сути, тяжеловесным носителем, предназначенным для защиты высокоразвитого, но пока незадействованного, мозга.  Особенность биохимии тканей мозга гибрида указывает на скрытую предрасположенность к псионике."
+
+//"Summary:  You've learned how to best target the Rumbler for maximal damage.  All damage you deal to Rumblers will be increased by 25%.  Its Annelid tissue is particularly vulnerable to incendiary devices.  
+
+Analysis:  This organism is further evolution of the first-stage Annelid hybrid.  Discernible Human elements are minimal, above the DNA level.  Muscle tissue density has increased twenty-fold, and adrenaline production has increased proportionally.  Brain tissue is extremely dense, which would normally indicate a creature of extreme cognitive ability, but the brain-stem has atrophied to a useless stub, and there is no analog to a Human spinal column.  All muscular activity is controlled locally by alien cells designed for this purpose.  It appears that this creature is an evolutionary stage between an earlier-stage Human/Annelid hybrid, and a third, unknown form.
+
+Recommendation:  This creature is extremely dangerous, being, in effect, a heavily-muscled host designed to protect a highly-evolved yet unconnected brain.  The peculiar chemistry of this hybrid's brain tissue indicates a latent psionic predisposition."
+
+
+
+RunFast:"Имплантант СверхСкорость (TM) от \"Crigon Manufactory\" существенно увеличивает скорость бега носителя, теряя 1% своего заряда каждые 10 секунд.  Имплантант СверхСкорость (TM) одновременно является и одним из самых продаваемых, и одним из тех, что покупатели часто возвращают.  В юридическом совете \"Crigon\" обсуждалось прекращение продаж имплантанта лицам до 18 лет, но в настоящее время решение свелось к украшению упаковки предупреждением: \"ОСТОРОЖНО: ПЕРЕДВИЖЕНИЕ НА ВЫСОКОЙ СКОРОСТИ МОЖЕТ ПРЕДСТАВЛЯТЬ ОПАСНОСТЬ!\"  Разумеется, это лишь добавляет имплантанту популярности."
+
+//"Crigon Manufactory's RunFast (TM) implant greatly increases the user's running speed, burning up 1% of its charge every ten seconds.  The RunFast (TM) implant is both one of the most popular implants in selling number, and one of the most frequently returned.  Crigon's legal department has considered no longer marketing the implant to those under 18, but is currently settling for blazoning the box with warnings.  \"CAUTION: MOVING AT HIGH RATE OF SPEED MAY BE DANGEROUS!\"  Of course, that only makes them more popular."
+
+
+
+Shotgun:"Для использования помпового дробовика марки Три-Оптимум необходим 2-й навык владения стандартным оружием.  Обе модификации дробовика увеличивают наносимый урон, при этом первая также сокращает время перезарядки, а вторая уменьшает отдачу.  Помповые дробовики в военной сфере почти повсеместно утратили свои позиции, и вернули их, лишь когда потребительский отдел Три-Оп представил ручную версию этого монстра десятого калибра.  В общем, работая подобно традиционному (хотя и невероятно смертоносному) дробовику, это магазинное чудовище также способно делать тройные выстрелы, буквально разрывающие жертву напополам.  Через несколько месяцев после появления дробовика его популярность среди охотников и других энтузиастов-оружей-\nников привела к крупному заказу дробовиков от военного ведомства UNN."
+
+//"The TriOptimum-brand Shotgun requires a Standard Weapons skill of 2 in order to use.  Both modifications to the shotgun increase damage.  The first also reduces reload time, while the second reduces kickback.  Shotguns in the military had generally gone out of favor until TriOp consumer division introduced a handheld version of this 10 gauge monster.  While it works like a traditional (albeit incredibly deadly) shotgun, this magazine loaded behemoth also supports a triple load shot, which has been known to split its victims in two.  A few months after its introduction, its popularity with hunters and other weapons enthusiasts prompted a large scale purchase of the guns by the UNN military."
+
+
+
+SmartBoost:"Имплантант СверхПси (TM) от \"Crigon Manufactory\" увеличивает пси-способности на 1 единицу, теряя 1% своего заряда каждые 10 секунд.  Имплантант отслеживает уровни нейропередач носителя и действует на нервные центры, чтобы сохранить оптимальное для функционирования нервной системы состояние уровней."
+
+//"Crigon Manufactory's PsiBoost (TM) implant increases the user's Psionic Ability by 1, burning up 1% of its charge every ten seconds.  The implant monitors the user's neurotransmitter levels, and acts on nervous controllers to keep the levels optimal for peak neural function."
+
+
+
+Soda_Can:"Появившаяся в начале 20-го века содовая была освежающим напитком, состоявшим из газированной воды и кукурузного сиропа.  Такой, на первый взгляд, простенький продукт - содовая (и другие подобные напитки) обеспечила высокий старт двум первым мега-корпорациям, названия которых незаконно публиковать в соответствии с Информационной Картой UNN #234/fd34.  По слухам, рыночная перестрелка этих двух корпораций переросла в реальную, начавшись в 2023 году с уничтожения зарубежных заводов по производству напитков бригадами наемников."
+
+//"Invented in the early part of the 20th century, soda was created as a refreshing beverage, a mixture of carbonated water and corn syrup.  For such a trivial-seeming product, soda and similar beverages fueled the rise of the first two mega-corporations, the names of which are illegal to publish by UNN Information Ordnance #234/fd34.  Net rumors suggest that these two corporations' marketing skirmishes turned into physical ones, promulgated by the destruction of offshore bottling plants by hired mercenary squads in 2023."
+
+
+
+speed_boost:"Шприц-тюбик Ускоритель от \"Vita-Hyb\" дает 20 секунд удвоенной скорости движения.  Популярный среди учащихся средней школы из-за опасного уличного спорта \"Экстремальный крен\", шприц-тюбик Ускоритель также может использоваться в аварийных ситуациях."
+
+//"The Vita-Hyb SpeedBoost Hypo confers twenty seconds of double speed.  Popular among high school students for a dangerous street sport of \"Crash Careening\", the SpeedBoost Hypo can also be invaluable in emergencies."
+
+
+
+Standard_Clip:"Стандартные патроны 45-го калибра с оболочкой пули из стали применяются для ведения огня общего назначения.  Главное их преимущество - крайняя дешевизна производства и, благодаря этому, постоянная доступность.  Для этих патронов не существует ни особо уязвимых, ни особо неподдающихся целей."
+
+//"This .45 Standard Round is encased in a solid steel jacket to provide general purpose stopping power.  The main advantage of this ordnance is that it's extremely cheap to produce, and therefore readily available.  No target type is either particularly vulnerable nor resistant to these rounds."
+
+
+
+stasis_field_generator:"Для использования генератора статического поля необходимы сила 3 и 3-й навык владения тяжелым оружием.  Первая модификация увеличивает скорость выстрела вдвое, а вторая сокращает расход боеприпасов.  Экспериментальное устройство, изначально разработанное в качестве исключающего наркотики эффективного метода успокаивать и обездвиживать больных, подвергающихся серьезным медицинским операциям.  Однако, возможности применения в военной сфере и сфере безопасности скоро стали очевидными для исполнительного директората Три-Оптимум.  По существу, генератор способен заморозить цель на месте на непостоянный период времени.  Но статическое поле требует больших затрат энергии, а эффективность резко убывает с увеличением расстояния до цели."
+
+//"The Stasis Field Generator requires a Strength of 3 and a Heavy Weapons skill of 3.  The first modification increases the speed of the shot by 100%, while the second modification reduces ammo consumption.  An experimental device, originally developed as an effective, non-narcotic method to both tranquilize and immobilize patients undergoing major medical procedures.  However, the military and security utility quickly became apparent to the TriOptimum executive corps.  The generator can essentially freeze a target in place for a variable period of time.  However, the stasis field uses a lot of power and its effect greatly decreases with distance."
+
+
+
+strength_boost:"Фармацевтический препарат Увеличитель Силы на 5 минут добавляет 1 единицу силы, вплоть до предела в 8 единиц.  Ходят слухи, что его производитель, \"Vita-Hyb\", продает хирургически имплантируемые дозаторы Увеличитель Силы для атлетов, хотя подобные вещи, разумеется, совершенно незаконны."
+
+//"The Strength-Boost pharmaceutical confers one point of Strength, up to a maximum of eight points, for five minutes.  Vita-Hyb, the makers of Strength-Boost, have been rumored to sell surgically implantable Strength-Boost drip packages for athletes, though such things are, of course, highly illegal."
+
+
+
+Swarm_Organ:"Резюме:  Аннелидному рою невозможно нанести урон никаким из известных способов, но живет он очень недолго.  Яйца аннелидов зачастую содержат полезные органы, имеет смысл обыскивать их перед уничтожением.
+
+Анализ:  Несмотря на маленький размер, крылатые организмы, производимые этими коконами, имеют сложную структуру ДНК, характерную для намного более сложных существ.  Каждое из маленьких существ, будучи биологическим самцом, привязано к рою посредством суб-псионной связи.  Эта связь невосприимчива к обычной пси-атаке или пси-раздражению.  Создания аннелидного роя, похоже, существуют только как живое оружие, поскольку их клетки генетически запрограммированы на период жизни длиной не более нескольких секунд.  В течение этих секунд их притягивают человеческие ткани, поскольку они неистово пытаются продлить короткую жизнь с помощью пищи.  Яйца, из которых вылупляются эти создания, зачастую содержат органы, которые можно извлечь для последующего использования, если только яйцо не было разрушено в бою.
+
+Рекомендации:  Лучший способ борьбы с аннелидным роем - избегать его, поскольку вылупившиеся существа умирают очень быстро.  Не стоит тратить на них боеприпасы."
+
+//"Summary:  Annelid swarms cannot be damaged by any known means, but have a very short life span.  Annelid eggs often contain useful organs if you search them before they are destroyed.
+
+Analysis:  Although small, the flying organisms generated by these pods contain a complex DNA structure indicative of a much more advanced creature.  Each small creature, genetically male, is bonded to the swarm via a sub-psionic link.  This link is impervious to normal psionic attacks or disturbances.  Annelid swarm creatures seem to exist only as a living weapon, since their cells have a genetically programmed life span of no more than a few seconds.  During these seconds, they are attracted to Human tissue, as they frantically attempt to prolong their short lives with nourishment.  The eggs that these emerge from often contain organs that might be extracted for useful purposes, unless the egg was destroyed in combat.
+
+Recommendation:  The Annelid swarm is best dealt with by avoidance, since the creatures will die soon after being hatched.  Do not waste ammunition on them."
+
+
+
+SwiftBoost:"Имплантант СверхЛовкость (TM) увеличивает ловкость на 1 единицу, теряя 1% своего заряда каждые 10 секунд.  В то время как имплантант СверхСкорость (TM) направлен на стимуляцию мускулов ног, имплантант СверхЛовкость (TM) ускоряет реакции всего тела.  Этот имплантант популярен среди гимнастов и прочих атлетов, но пока еще редко используется в военных целях."
+
+//"The SwiftBoost (TM) implant boosts Agility by 1, burning up 1% of its charge every ten seconds.  While the RunFast (TM) implant concentrates on stimulating the leg muscles, the SwiftBoost (TM) implant speeds up reaction times for the entire body.  This implant is popular among gymnasts and other athletes, but hasn't caught on fully with the military yet."
+
+
+
+test_tubes:"Все, что может понадобиться химику для изготовления токсичных смесей.  Современная пробирка с градуированными делениями, термостатом и маленькой \"кнопкой паники\" с нанито-питанием, которая уничтожит содержимое пробирки в случае опасности."
+
+//"Everything the chemist could want for brewing up toxic compounds.   The modern test tube includes graduated markings, temperature control, and a small nanite-powered \"panic button\" that will digest the contents of the tube in event of an emergency."
+
+
+
+this_month_in_ping_pong:"Полный абстрактной теоретизации, низкобюджетный журнал, затрагивающий темы от \"Они живут среди нас?\" до \"За и против Силикатной Генетики.\"  Единственное, что в журнале лучше самих статей, так это письма редактору в самом начале."
+
+//"A wildly speculative, low-budget magazine, which covers subjects from \"Are They Among Us?\" to \"Pros and Cons of Silicate Genetics.\"  The only things more amusing than the articles are the letters to the editor published at the front."
+
+
+
+timed_grenade:"Обычная осколочная граната.  Урон наносится совокупностью ударной волны от взрыва и разлетающейся шрапнели."
+
+//"A standard Fragmentation Grenade.  Damage is a combination of the concussive effects of the explosion and the resultant pieces of shrapnel."
+
+
+
+toxin_grenade:"Разрыв-граната является единственным полезным изобретением компании \"Flegel-Kraft\", военного подрядчика UNN.  Среди множества эксцентричных, технически сложных единиц вооружения вроде Сернокислого Блина или Магниевого Автомата (ни одно из которых не прошло полевых испытаний), \"Flegel-Kraft\" представила и это маленькое, но смертоносное взрывное устройство.  Радиус взрыва у него гораздо меньший, чем у зажигательных или осколочных гранат, но практически ничто не может уцелеть в центре этого взрыва."
+
+//"The Disruption Grenade is the only profitable product of the UNN military contractor Flegel-Kraft.  Amongst a host of eccentric, technically complex weapons, including the Sulfuric Putty Pancake and the Magnesium Tommygun (neither of which proved themselves in the field) Flegel-Kraft introduced this small, but deadly, explosive.  Its explosive radius is much smaller than that of an Incendiary or Fragmentation Grenade, but almost nothing can withstand the center of the explosion."
+
+
+
+vacc_suit:"Костюм химзащиты \"Нуль-Фаза\" производства Три-Оптимум состоит из трехслойной прорезиненной сетки, отражающего поля и искривляющего силового поля низкого напряжения, и предназначен для защиты носящего его не только от вакуума, но и от других опасностей экосреды, в частности, радиации и химических утечек.  Конкуренты вроде \"HaziShield Group\" и \"Wykodyne\" утверждают, будто длительное ношение генераторов поля так близко к коже может быть канцерогенным, но большинство пользователей больше обеспокоены кратковременной защитой от опасностей и предпочитают ее усиление."
+
+//"The TriOptimum Zero-Phase Hazard Armor uses a combination of triple-layer rubberized mesh, reflective shielding, and low-intensity force field path warps, in order to protect its wearer from not only vacuum but other environmental hazards such as radiation and chemical spills.  Competitors such as the HaziShield Group and Wykodyne have claimed that keeping force field generators so close to the skin for long periods of time can be carcinogenic, but most wearers are more concerned about short-term hazards and prefer the added protection."
+
+
+
+viral_prolif:"Резюме:  Для использования размножителя вирусов необходим 4-й навык владения экзооружием.  Первая модификация этого оружия увеличивает вместимость обоймы, вторая - сокращает расход боеприпасов.  Обе модификации также усиливают наносимый оружием урон.  Это оружие распыляет бактерий-носителей анти-аннелидного вируса в радиусе действия.  Вирус можно подстроить для действия только на чистых аннелидов, или на людей и гибридов людей /аннелидов.  Чтобы выстрелить, необходимо нажать и удерживать курок - а когда курок отпущен, емкость с вирусом взрывается.  Не позволяй ей сдетонировать слишком близко к тебе, если оружие настроено на поражение людей!
+
+Анализ:  Это оружие, похоже, было получено грубым скрещиванием чуждых и человеческих технологий.  Судя по стволу и курку, оно было произведено людьми.  Шестигранная сердцевина состоит из энергонасыщенного материала, она окружена контейнерами, содержащими культуру нанито-вирусного гибрида.  Впрыскивание вирусного гибрида в сердцевину вызывает циклы размножения при скорее нанитной, чем биологической, скорости, и культура множится вплоть до выброса заряда.  Дополнительные энергозаряды рассеивают вирусный заряд в радиусе действия.  Материал сердцевины следует обновлять аннелидными тканями - червей надо собирать в стандартные лабораторные стаканы.  Распылитель можно подстроить на производство вирусного гибрида, поражающего только чистых аннелидов, либо людей и частично человеческих существ.
+
+Рекомендации:  В закрытом помещении, при использовании против аннелидов, это невероятно мощное оружие.  Оно может повредить даже аннелидам, которых не берет другое оружие.  Однако, при стрельбе по людям будет непросто избежать повреждений самому."
+
+//"Summary:  The Viral Proliferator requires an Exotic Weapons skill of 4.  The first modification to this weapon increases the clip size, while the second reduces the ammo usage.  Both modifications also increase weapon damage.  This weapon releases a host of anti-Annelid virus in an explosive radius.  The virus can be tailored to infect pure Annelids, or Humans and Human/Annelid hybrids.  Press and hold down the trigger to fire - when you release the trigger, the viral payload will detonate.  Don't let it detonate too close to you when it's set to affect Humans!
+
+Analysis:  This weapon appears to have been cobbled together from both Human and alien technologies.  Judging by the stock and trigger, it was built by Humans.  The central hexagonal core is an energy-rich media, ringed with receptacles containing nanite-virus hybrids.  Release of the virus hybrids into the core will cause cycles of replication at nanite, rather than biological, speeds, building up until the payload is released.  Additional energetic charges will disperse the viral payload in an explosive radius.  The media must be replenished with Annelid tissue - these worms must be collected in standard laboratory beakers.  The Proliferator can be set to release virus hybrids tailored against pure Annelids, or tailored against Human or partially Human targets. 
+
+Recommendation:  In close quarters against Annelid foes, this weapon is extremely powerful.  It might even hurt Annelids that are unharmed by other weapons.  However, when targeting Human targets, it will be hard to avoid damaging yourself."
+
+
+
+vita_mens_monthly:"Высокотехнологич-\nное издание от \"Natural Dynamics\".  Обложка с интерактивной голограммой, несколько анимированных с помощью нанито-привода статей и полностью трехмерное интервью с дизайнерами модифицированных экосред."
+
+//"A high-tech publication by Natural Dynamics, this magazine includes an interactive cover hologram, several nanite-driven animated articles, and a full 3-D interview with designers of customized ecologies."
+
+
+
+Vodka_Bottle:"Дистиллированное спиртное, из разряда тех вещей, которые репликаторы никогда не воспроизводят правильно.  Реплицированная водка получается ошеломляюще крепкой, но насладиться ей мешает слишком острый привкус."
+
+//"A distilled liquor, vodka is something that the replicators never really got quite right.  The replicated brand is numbingly strong, but one's enjoyment is hindered by a sharp, biting taste."
+
+
+
+worm_beakers:"Этих отвратительных тварей можно применять в качестве боеприпасов для экзооружия на основе аннелидов.  Червей можно собирать, используя на кучках червей пустые лабораторные стаканы."
+
+//"These disgusting things can be used as ammunition by exotic, Annelid-based weaponry.  The worms can be collected by using empty beakers on piles of worms."
+
+
+
+Worm_launcher:"Резюме:  Для использования червемета необходимы сила 3 и 6-й навык владения экзооружием.  Первая модификация этого устройства увеличивает вместимость обоймы, вторая - удваивает скорость снаряда.  Вдобавок обе модификации усиливают наносимые оружием повреждения.  Боеприпасами для устройства служат аннелидные черви, их следует собирать в лабораторные стаканы.  Оружие можно установить в режим нанесения урона либо только аннелидам, либо гибридам и людям.
+
+Анализ:  Это экзотическое устройство сделано из полуразумного органического материала.  Устройство было сильно модифицировано, до состояния, когда уже невозможно определить его изначальные функции.  В теперешней конфигурации этот объект - оружие, заряжаемое аннелидными червями.  Этих червей следует собирать в стандартные лабораторные стаканы, а потом загружать в боковое отделение устройства.  С помощью встроенного химического иньектора можно изменять биохимию червей, делая их смертельными как для людей (или в той или иной степени людей), так и для чистых аннелидов.
+
+Рекомендации:  Если необходимо использовать это оружие, надо не забывать собирать лабораторные стаканы и заполнять их аннелидными червями при малейшей возможности."
+
+//"Summary:  The Annelid Launcher requires a Strength of 3 and an Exotic Weapons skill of 6.  The first modification to this device increases the clip size, while the second doubles projectile speed.  Additionally, both modifications increase weapon damage.  This device uses Annelid worms for ammunition, which must be collected in beakers.  The weapon may be set to damage either pure Annelid creatures or Human and hybrid creatures.
+
+Analysis:  This is an exotic device, made of semi-sentient organic material.  It has been heavily modified, to the point where it is impossible to discern its original function.  As currently configured, this object is a weapon, designed to deliver payloads of Annelid worms.  These worms must be collected in standard laboratory beakers, and loaded into a side compartment of the device.  An integrated chemical injector can alter the chemistry of the worms, so that they can be made deadly either to Human (and partially Human) targets, or to pure Annelids.
+
+Recommendation:  If the use of this weapon is required, care should be taken to collect beakers whenever possible, and fill them with Annelid worms at each opportunity."
+
+
+
+worm_skin:"Резюме:  Эта броня обеспечивает как боевую, так и эко-защиту, а также повышает пси-способности носящего на 2 пункта.  Тем не менее, она медленно истощает пси-силы носящего ее.
+
+Анализ:  ЧервеКоже придана форма грубой одежды, пригодной для ношения человеком.  Кожа намного крепче, чем можно было бы предположить, исходя из ее биохимического состава, а более глубокие исследования показывают наличие неуловимого отталкивающего эффекта, который, видимо, имеет пси-природу.  Сам факт этого в сочетании с неторопливо протекающими в коже процессами обмена веществ указывает на то, что кожа, в каком-то смысле, еще живет.
+
+Рекомендации:  Ношение ЧервеКожи в качестве брони обеспечивает боевую и эко-защиту и увеличивает пси-способности носителя.  Однако, требуется постоянный приток пси-энергии носящего, чтобы защититься от попыток кожи атаковать и поглотить его."
+
+//"Summary:  This armor provides both combat and environmental protection, and increases the wearers Psionic Ability by 2.  However, it slowly drains the user's psi points.
+
+Analysis:  This worm skin has been fashioned into a crude body covering, suitable for a Human to wear.  The skin is far tougher than its biochemical makeup would suggest, and further investigation demonstrates a subtle repulsive effect that appears to be psionically generated.  The fact that the effect is still active, in combination with the slowly continuing metabolic processes in the skin indicates that the skin is in some sense still alive.
+
+Recommendation:  Wearing the worm skin as a piece of armor will provide some physical and environmental protection, and will increase the wearer's Psionic Ability.  However, it will be a continuous psionic drain on the wearer to keep from being attacked and consumed by the skin."
+
+
+
+WormBlend:"Резюме:  Этот имплантант сокращает расстояние, на котором аннелидные создания способны псионически определить носителя имплантанта.
+
+Анализ:  В этом имплантанте содержатся нервные ткани аннелидов, посредством электрохимич. связей, подчиняющиеся нервным импульсам носителя имплантанта.  Доли этих тканей недостаточно, чтобы носитель мог установить пси-контакт с разумом аннелида, но она в достаточной степени корректирует волны мозга носителя, чтобы при поверхностной пси-проверке носитель напоминал аннелидный организм. 
+
+Рекомендации:  Это с большой степенью вероятности позволит носителю стать менее определяемым аннелидными созданиями, по крайней мере, на расстоянии.  Но, вероятно, ничем не поможет носителю, столкнувшемуся с аннелидами лицом к лицу."
+
+//"Summary:  This implant decreases the range at which Annelid creatures will be able to psionically detect the implant user.
+
+Analysis:  This implant contains a portion of Annelid neural tissue, with electrochemical connections to slave the tissue to the user's neural impulses.  The portion of tissue is not substantive enough to allow the user to psionically contact the Annelid mind, but it does coordinate the user's brainwaves enough with the Annelid neural processes that the user will, to a cursory psionic examination, resemble an Annelid organism. 
+
+Recommendation:  This will very likely allow its user to become harder to detect to Annelid creatures, at least at a distance.  It will probably not allow the user to pass for an Annelid in face-to-face contact."
+
+
+
+WormBlood:"Резюме:  Пока данный имплантант активен, ты можешь использовать кучки червей для излечения (при помощи правой кнопки мыши).
+
+Анализ:  Этот имплантант является мощным устройством фильтрации и обработки крови, которое изменяет находящиеся в крови ткани аннелидов, чтобы сделать их доброкачественными для человека-носителя.  Благодаря сильным регенеративным свойствам аннелидов, их ткани в сочетании с этим имплантантом могут заменять поврежденные человеческие ткани.  С этой целью небольшой входной канал имплантанта можно использовать для подачи тканей аннелидов.
+ 
+Рекомендации:  Находясь под воздействием этого имплантанта, можно использовать для регенерации сброшенные ткани аннелидов, вроде тех, что попадаются в кучках червей.  Но при отключенном имплантанте такое использование тканей аннелидов не приведет к положительному результату."
+
+//"Summary:  While this implant is active, you can right-click on a pile of worms to heal yourself.
+
+Analysis:  This implant is a high-powered blood filtering and reprocessing unit which acts to modify blood-borne Annelid tissue to be benign in a Human host.  Because of the highly regenerative nature of these Annelids, their tissue, in conjunction with this implant, can be used as a replacement for damaged Human tissue.  A small insertion port in the implant can be used to import Annelid tissue for this use.  
+
+Recommendation:  While under the effect of this implant, discarded Annelid tissue, such as that found in worm piles, can be used for a regenerative effect.  Use of Annelid tissue in such a fashion while the implant is not powered is strongly discouraged."
+
+
+
+WormHeart:"Резюме:  Пока данный имплантант действует, носителю не причиняют вреда токсины аннелидов, а каждые 30 секунд восстанавливается 1 единица здоровья.  К несчастью, когда имплантант перестает получать питание или удаляется, в кровь носителя попадает большое количество токсинов.  Не забудь заготовить несколько антитоксинных шприц-тюбиков!
+
+Анализ:  Этот имплантант соединяет в себе устройство для очистки крови и восстанавливающий стимулятор, и использует в качестве дополнения регенерационные ткани аннелидов.  Когда имплантант активен, он поглощает весь яд аннелидов, воздействию которого подвергается носитель, предотвращая заражение.  Вдобавок поврежденные ткани быстро обновляются психогенным аннелидным заменителем.  Однако, ткань-заменитель сама производит некоторое количество побочного продукта, который сам по себе токсичен (и поглощается имплантантом).  При этом, когда пропадает питание или имплантант удаляется, высвобождается большое количество поглощенного яда.
+
+Рекомендации:  Этое устройство не рекомендуется использовать часто из-за опасности отравления токсинами при удалении имплантанта.  Однако, восстанавливающие и противотоксинные свойства имплантанта могут оказать неоценимую услугу в опасной ситуации."
+
+//"Summary:  While this implant is powered, the user takes no damage from Annelid toxin and will regenerate one hit point per thirty seconds.  Unfortunately, when the implant ceases being powered, or is removed, a great deal of toxin is released into the user's bloodstream.  Make sure you have some anti-toxin hypos handy!
+
+Analysis:  This implant is a combination of a blood filtering device and a regenerative stimulator, using Annelid regenerative tissue as an adjunct.  While the implant is worn, it sequesters all Annelid venom that the user is subject to, preventing it from acting.  Additionally, damaged tissue is replaced quickly by a psychocreative Annelid substitute.  However, the substitute tissue produces some amount of degradation byproduct, which is itself toxic (and sequestered by the implant).  However, when the implant loses power or is removed, much of the sequestered venom is released.
+
+Recommendation:  This device is not recommended for frequent use, because of the danger of the toxin damage upon removing the implant.  However, its regenerative and toxin-protection properties may well be invaluable in a very dangerous situation."
+
+
+
+WormMind:"Резюме:  Когда носитель имплантанта получает повреждения, каждая четвертая единица урона списывается с пси, а не со здоровья. 
+
+Анализ:  Этот имплантант модифицирует протекание нервных процессов носителя, стимулируя и усиливая зоны нервной системы, имеющие отношение к псионике.  Вдобавок происходят постоянные инъекции нейротранслирующих химических веществ аннелидов в подкорку носителя.  Конечный эффект всего этого - усиление скрытых психогенных способностей носителя, особенно, в области физического самоконтроля.
+ 
+Рекомендации:  Носитель имплантанта может психогенно излечивать часть полученного урона.  Долговременное использование легко может вызвать гипер-иммунную реакцию."
+
+//"Summary:  When the user of this implant is damaged, one point of every four points of damage done is subtracted from psi points instead of hit points.
+
+Analysis:  This implant will alter the user's neural processes, stimulating and amplifying the areas related to psionics.  Additionally, a steady drip of Annelid neurotransmitter chemicals is fed into the user's lower cortex.  The overall effect of this is to enhance the user's latent psychocreative abilities, specifically in the area of bodily self-control.
+
+Recommendation:  The user of the implant will be able to psychocreatively heal some portion of any damage he takes.  Long-term use is likely to cause a hyperimmune reaction."
+
+
+
+wrench:"Многоцелевой инструмент, применяемый, в основном, в технической сфере.  Однако, из него получается эффективное кустарное оружие.  \"Если стукнешь кого-нибудь по голове 22-мя фунтами стали, он вряд поблагодарит тебя за это.\" - Тэз Аманпур, техобслуживание \"Фон Брауна\".  Для использования разводного ключа не требуются никакие военные умения."
+
+//"A multi-purpose tool generally used for engineering purposes.  However, it makes an effective makeshift weapon.  \"When you hit someone over the head with 22 pounds of steel, they tend not to appreciate it.\" - Taz Amanpour, Von Braun Maintenance Crew.  The wrench does not require any weapons skill to use."

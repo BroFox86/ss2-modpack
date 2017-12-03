@@ -1,0 +1,1400 @@
+AAT:"Колба с Токсином-A."  
+//"A vial of Toxin-A."
+
+Abyss_Cart:"Игровой картридж: Свинтус."  
+//"A game cartridge: Hog Wallow."
+
+Air_Conduits:"Воздуховод."  
+//"A conduit."
+
+Air_Duct:"Вентиляционный канал."  
+//"A duct."
+
+Air_Recirculator:"Климатический регулятор."  
+//"An environmental regulator."
+
+Airlock_Door_1:"Дверь переборки."  
+//"A bulkhead door."
+
+Airlock_Door_2:"Дверь переборки."  
+//"A bulkhead door."
+
+AirRecircNoFilter:"Климатический регулятор."  
+//"An environmental regulator."
+
+Annelid_Medpatch:"Лечебная железа аннелида."  
+//"An Annelid healing gland."
+
+Annelid_Psipatch:"Пси-орган аннелида."  
+//"An Annelid psi organ."
+
+AP_Clip:"Коробка с %d бронебойными патронами."  
+//"A box of %d armor-piercing bullets."
+
+Arach_Organ:"Орган паукообразного."  
+//"An arachnid organ."
+
+Arachnid:"Паукообразный аннелид."  
+//"An Annelid Arachnid."
+
+Assassin:"Киборг-убийца."  
+//"A cyborg assassin."
+
+Assault_Rifle:"Штурмовая винтовка M-22. (%s)"  
+//"An M-22 Assault Rifle. (%s)"
+
+AssaultBody:"Обломки робота."  
+//"Some robotic debris."
+
+AssaultCanopy:"Обломки робота."  
+//"Some robotic debris."
+
+AssaultDroid:"Штурмовой робот."  
+//"An assault droid."
+
+AssaultLeftArm:"Обломки робота."  
+//"Some robotic debris."
+
+AssaultRightArm:"Обломки робота."  
+//"Some robotic debris."
+
+AssaultUpper:"Обломки робота."  
+//"Some robotic debris."
+
+AudioLog:"Аудио-запись: %s."  
+//"An audio log: %s."
+
+Aux_Power_W_Out_Battery:"Вспомогательная система открывания двери."  
+//"An auxiliary power override."
+
+B_Sci_Med_Door:"Сломанная дверь."  
+//"A broken door."
+
+Barrel_Loader:"Механизм гравикрана."  
+//"A gravitic crane mechanism."
+
+Basketball:"Баскетбольный мяч."  
+//"A basketball."
+
+Bench:"Скамья."  
+//"A bench."
+
+Big_Cereal:"Большая коробка крупы."  
+//"A large box of cereal."
+
+Big_Orange_Button:"Кнопка лифта."  
+//"An elevator button."
+
+BigBomb:"Симпатический резонатор."  
+//"A Sympathetic Resonator."
+
+Blank:""  
+//""
+
+Blast_Door:"Дверь."  
+//"A door."
+
+Blast_Turret:"Лазерная турель."  
+//"A blast turret."
+
+Blast_Turret_Corpse:"Уничтоженная турель."  
+//"A destroyed turret."
+
+Blood_splat:"Пятно крови...человеческой?"  
+//"A blood stain...human?"
+
+Bloody_MedBed:"Сильно поврежденный хирургический прибор."  
+//"A badly damaged Surgical Unit." 
+
+Body_Bag:"Мешок с трупом."  
+//"A body bag."
+
+BodyBag:"Мешок с трупом."  
+//"A body bag."
+
+Brain_Piece_1:"Останки Множества."  
+//"Remains of the Many."
+
+Brain_Piece_2:"Останки Множества."  
+//"Remains of the Many."
+
+Brain_Piece_3:"Останки Множества."  
+//"Remains of the Many."
+
+Brain_Piece_4:"Останки Множества."  
+//"Remains of the Many."
+
+BrawnBoost:"Имплантант СверхСила(tm)."  
+//"A BrawnBoost(tm) implant."
+
+Breakable_Windows:"Окно." 
+//"A window."
+
+Bridge_Button:"Кнопка управления мостиком."  
+//"Bridge control button."
+
+BridgeCard:"Карта доступа к мостику."  
+//"A Bridge access card."
+
+Broken_Locker:"Сломанный рундук."  
+//"A broken locker."
+
+Broken_Shield_Computer:"Испорченный терминал управления защитным полем."  
+//"A destroyed shield control computer."
+
+Broken_Slot:"Испорченный слот для карты."  
+//"A broken card slot."
+
+BrokenDoor:"Сломанная дверь."  
+//"A broken door."
+
+BrokenEMP:"Сломанное оружие."  
+//"A destroyed weapon."
+
+BrokenLocker:"Сломанный рундук."  
+//"A broken locker."
+
+BrokenShotgun:"Сломанный дробовик."  
+//"A destroyed shotgun."
+
+Bulk_off_button:"Активация люка переборки."  
+//"A bulkhead activation switch."
+
+Bulk_on_button:"Активация люка переборки."  
+//"A bulkhead activation switch."
+
+Bullet_Casings:"Гильзы."  
+//"A few spent bullets."
+
+Bullet_holes:"Пулевые пробоины."  
+//"Bullet holes."
+
+Burro_Hog_Cart:"Игровой картридж: Ослосвин."  
+//"A game cartridge: Burro Hog."
+
+button:"Кнопка."  
+//"A button."
+
+Button_p2:"Кнопка."  
+//"A button."
+
+Can:"Банка."  
+//"A can."
+
+Candy_Card:"Карта доступа к стим. блоку: Кэнди."  
+//"A Stim Unit access card: Candy."
+
+Candy_Slot:"Доступ к стим. блоку: Кэнди."  
+//"Stim Unit access: Candy."
+
+Card_Box:"Устройство контроля."  
+//"Systems Monitoring Unit."
+
+Card_slot:"Слот для ключ-карты."  
+//"A key card slot."
+
+CargoBay2A2B:"Карта доступа к груз. отсеку 2A/2B."  
+//"A Cargo Bay 2A/2B access card."
+
+Casino_Table:"Игровой стол."  
+//"A gambling table."
+
+Ceiling_Console:"Компьютерная консоль."  
+//"A computer console."
+
+Cereal:"Пачка крупы."  
+//"A box of cereal."
+
+Chair_p2:"Стул."  
+//"A chair."
+
+Champagne_bottle:"Бутылка шампанского."  
+//"A bottle of bubbly."
+
+cheeseborger:"Модуль самодиагностики и ремонта робота."  
+//"A robotic Self-Diagnostic and Repair Module."
+
+Chem_p1:"Небольшое количество Фермия (Fm)."  
+//"A small quantity of Fermium (Fm)."
+
+Chem_p10:"Небольшое количество Иридия (Ir)."  
+//"A small quantity of Iridium (Ir)."
+
+Chem_p11:"Небольшое количество Мышьяка (As)."  
+//"A small quantity of Arsenic (As)."
+
+Chem_p12:"Небольшое количество Цезия (Cs)."  
+//"A small quantity of Cesium (Cs)."
+
+Chem_p13:"Небольшое количество Гассия (Hs)."  
+//"A small quantity of Hassium (Hs)."
+
+Chem_p14:"Небольшое количество Теллура (Te)."  
+//"A small quantity of Tellurium (Te)."
+
+Chem_p15:"Небольшое количество Молибдена (Mo)."  
+//"A small quantity of Molybdenum (Mo)."
+
+Chem_p16:"Небольшое количество Технеция (Tc)."  
+//"A small quantity of Technetium (Tc)."
+
+Chem_p17:"Небольшое количество Радия (Ra)."  
+//"A small quantity of Radium (Ra)."
+
+Chem_p18:"Небольшое количество Бария (Ba)."  
+//"A small quantity of Barium (Ba)."
+
+Chem_p19:"Небольшое количество Селена (Se)."  
+//"A small quantity of Selenium (Se)."
+
+Chem_p2:"Небольшое количество Ванадия (V)."  
+//"A small quantity of Vanadium (V)."
+
+Chem_p3:"Небольшое количество Галлия (Ga)."  
+//"A small quantity of Gallium (Ga)."
+
+Chem_p4:"Небольшое количество Сурьмы (Sb)."  
+//"A small quantity of Antimony (Sb)."
+
+Chem_p5:"Небольшое количество Иттрия (Y)."  
+//"A small quantity of Yttrium (Y)."
+
+Chem_p6:"Небольшое количество Меди (Cu)."  
+//"A small quantity of Copper (Cu)."
+
+Chem_p7:"Небольшое количество Калифорния (Cf)."  
+//"A small quantity of Californium (Cf)."
+
+Chem_p8:"Небольшое количество Натрия (Na)."  
+//"A small quantity of Sodium (Na)."
+
+Chem_p9:"Небольшое количество Осмия (Os)."  
+//"A small quantity of Osmium (Os)."
+
+ChipA:"Чип квантового моделирования."  
+//"A Quantum Simulation chip."
+
+ChipB:"Чип линейного моделирования."  
+//"A Linear Simulation chip."
+
+ChipC:"Чип интерполяционного моделирования."  
+//"An Interpolated Simulation chip."
+
+Chips:"Пакет чипсов."  
+//"A bag of chips."
+
+Cigs:"Сигареты."  
+//"Cigarettes."
+
+Circuitboard:"Монтажная плата."  
+//"A circuit board."
+
+Closed_Protocol_Box:"Грузовой контейнер c роботом-инструктором."  
+//"A protocol droid shipping crate."
+
+CompConsole:"Компьютерная консоль."  
+//"A computer console."
+
+Compnpad:"Панель компьютера."  
+//"A computer pad."
+
+Conduit:"Коммуникации."  
+//"A conduit."
+
+Conference_Table:"Стол для собраний."  
+//"A conference table."
+
+Console_w_Overhead:"Компьютерная консоль."  
+//"A computer console."
+
+Console_w_Pipes:"Компьютерная консоль."  
+//"A computer console."
+
+Core_Access:"Компьютер управления доступом к реактору."  
+//"The Core Access Control Computer."
+
+Crane_Button:"Кнопка активации крана."  
+//"Crane activation button."
+
+Crate_p1:"Грузовой контейнер."  
+//"A shipping container."
+
+Crew_Bed:"Койка."  
+//"A bed."
+
+Crew_Card:"Карта доступа к каютам экипажа 2-й палубы."  
+//"A Deck 2 Crew's Quarters access card."
+
+Crew_Card2:"Карта доступа к спорт-отсеку."  
+//"An Athletic Sector access card."
+
+Crew2:"Карта доступа к каютам экипажа 5-й палубы."  
+//"A Deck 5 Crew's Quarters access card."
+
+Cryo_Barrel:"Криогенный бак для хранения."  
+//"A cryogenic storage barrel."
+
+Cryo_Card:"Карта доступа к крио-отсеку."  
+//"A Cryogenics Sector access card."
+
+Cryo_Tube_door:"Дверь крио-капсулы."  
+//"A cryo tube door."
+
+Crystal_Shard:"Кристаллическая ветвь."  
+//"A Crystal Shard."
+
+Crystals:"Светящийся кристалл."  
+//"A luminescent crystal."
+
+Cut_Arm:"Рука."  
+//"An arm."
+
+Cut_Head:"Голова."  
+//"A head."
+
+Cut_Leg:"Нога."  
+//"A leg."
+
+Cylinder_Light:"Осветительный прибор."  
+//"A light fixture."
+
+damaged_corner_of_wall:"Следы битвы."  
+//"Some battle damage."
+
+Damaged_Nerve_Cluster:"Сильно поврежденный нервный узел."  
+//"A badly damaged nerve cluster."
+
+Dead_Power_Cell:"Разряженный аккумулятор."  
+//"A dead power cell."
+
+Debris:"Обломки."  
+//"A piece of debris."
+
+Default_Avatar_1:"Другой игрок."  
+//"Another player."
+
+Default_Avatar_2:"Другой игрок."  
+//"Another player."
+
+Default_Avatar_3:"Другой игрок."  
+//"Another player."
+
+Default_Avatar_4:"Другой игрок."  
+//"Another player."
+
+Desk_p1:"Стол."  
+//"A desk."
+
+Desk_p2:"Стол."  
+//"A desk."
+
+Dinner_Table_p1:"Стол."  
+//"A table."
+
+Dinner_Table_p2:"Стол."  
+//"A table."
+
+Double_Hydro:"Дверь."  
+//"A door."
+
+DroidBody:"Обломки робота."  
+//"Some robotic debris."
+
+DroidCanopy:"Обломки робота."  
+//"Some robotic debris."
+
+DroidLeftArm:"Обломки робота."  
+//"Some robotic debris."
+
+DroidRightArm:"Обломки робота."  
+//"Some robotic debris."
+
+DroidUpper:"Обломки робота."  
+//"Some robotic debris."
+
+Dumpster:"Мусорка."  
+//"A trash dumpster."
+
+Egg:"Яйцо аннелида."  
+//"An Annelid egg."
+
+Egg_Depositor:"Аннелидный сгусток с очень большим отверстием."  
+//"An Annelid blob with a huge orifice."
+
+Eggbit:"Кусок яйца аннелида."  
+//"A fragment of an Annelid egg."
+
+Electro_Shock:"Лазерная рапира марки IV."  
+//"A Laser Rapier Mark IV."
+
+Elev_Door:"Дверь."  
+//"An door."
+
+Elevator_Button:"Двухпозиционная кнопка."  
+//"A two-state button."
+
+Elevator_Screens:"Экран лифта."  
+//"A floor display screen."
+
+EMP_Grenade:"%d ЭМИ-гранат(ы)."  
+//"%d EMP grenades."
+
+EMP_Rifle:"Двухконтурная ЭМИ-винтовка. (%s)"  
+//"A Dual-Circuit EMP Rifle. (%s)"
+
+EndurBoost:"Имплантант СверхВыносливость(tm)."  
+//"An EndurBoost(tm) implant."
+
+Eng_Comp:"Компьютер инженерной коррекции."  
+//"The Engineering Override Computer."
+
+engcard1:"Плата #45U/32X."  
+//"Part #45U/32X."
+
+engcard2:"Плата #332/TY3."  
+//"Part #332/TY3."
+
+engcard3:"Плата #987Z/4HG."  
+//"Part #987Z/4HG."
+
+engcard4:"Плата #95E/34RW."  
+//"Part #95E/34RW."
+
+engcard5:"Плата #45M/dEX."  
+//"Part #45M/dEX."
+
+engcard6:"Плата #3C9/432."  
+//"Part #3C9/432."
+
+engcard7:"Плата #9F2/25EE."  
+//"Part #9F2/25EE."
+
+engcard8:"Плата #9GZ/76G."  
+//"Part #9GZ/76G."
+
+engcard9:"Плата #4E6/93T."  
+//"Part #4E6/93T."
+
+Engineering:"Дверь."  
+//"A door."
+
+Escape_Button:"Кнопка запуска спасательной шлюпки."  
+//"Escape pod launch button."
+
+EXP_Cookies:"%d кибер-модулей."  
+//"%d cyber modules."
+
+ExperTech:"Имплантант ТехЭксперт(tm)."  
+//"An ExperTech(tm) implant."
+
+Explode_Barrel:"Бочка со взрывчатым веществом."  
+//"A barrel containing explosives."
+
+fakekeys:"Рекордер для записи ключ-карт доступа."  
+//"Your keycard-access recorder."
+
+FakeNanites:"%d нанитов."  
+//"%d nanites."
+
+Floor_Comp_p1:"Компьютер (активация по правому щелчку)."  
+//"A computer (Activate by right-clicking)."
+
+Flora:"Растение."  
+//"A plant."
+
+Fluidic_Comp:"Компьютер управления насосами."  
+//"The Fluidics Control Computer."
+
+Force_Door_n252:"Силовое поле."  
+//"A force field."
+
+French_Epstein:"Устройство Френча-Эпштейна."  
+//"A French-Epstein device."
+
+Fusion_Cannon:"Атомная пушка TC-5. (%s)"  
+//"A TC-5 Fusion Cannon. (%s)"
+
+gameboy:"MFD-плейер для игр."  
+//"An MFD game player."
+
+Golden_Egg:"Черное яйцо аннелида."  
+//"A black Annelid egg."
+
+Golf_Cart:"Игровой картридж: Гольф."  
+//"A game cartridge: Golf."
+
+gouged_wall:"Выбоина."  
+//"A gouge."
+
+Gr_Over_Organ:"Орган большого пси-ривера."  
+//"A Greater Psi Reaver organ."
+
+Grate:"Решетка."  
+//"A grate."
+
+Grav_Button:"Управление гравитронным генератором."  
+//"Gravitronic Generator Control."
+
+Gren_Launcher:"Гранатомет TC-11. (%s)"  
+//"A TC-11 Grenade Launcher. (%s)"
+
+Grub:"Червеобразный аннелид."  
+//"A worm-like Annelid."
+
+Grub_Organ:"Орган кокона личинок."  
+//"A grub pod organ."
+
+Grub_Part_1:"Кусок червя."  
+//"A worm bit."
+
+Grub_Part_2:"Кусок червя."  
+//"A worm bit."
+
+Grub_Part_4:"Кусок червя."  
+//"A worm bit."
+
+Gurney:"Каталка."  
+//"A gurney."
+
+Hack_Soft_V1:"Хакерский софт, версия 1."  
+//"A version 1 Hacking Software."
+
+Hack_Soft_V2:"Хакерский софт, версия 2."  
+//"A version 2 Hacking Software."
+
+Hack_Soft_V3:"Хакерский софт, версия 3."  
+//"A version 3 Hacking Software."
+
+Hackable_Crate:"Контейнер с электронной защитой."  
+//"An electronic security crate."
+
+Hanging_Plant:"Вьющееся растение."  
+//"A hanging plant."
+
+HE_Clip:"Коробка с %d разрывными патронами."  
+//"A box of %d anti-personnel bullets."
+
+Heart:"Сердце."  
+//"A heart."
+
+HeartPillow:"Подушка-сердечко."  
+//"A heart-shaped pillow."
+
+Heavy_Armor:"Комплект тяжелой боевой брони."  
+//"A suit of heavy combat armor."
+
+High_Security_Crate:"Контейнер с защитой высшего уровня."  
+//"A high-security crate."
+
+Hogger_Cart:"Игровой картридж: Уличная Свинья."  
+//"A game cartridge: Street Hog."
+
+HumanCorpses:"Труп."  
+//"A corpse."
+
+Hybrid:"Гибрид."  
+//"A hybrid."
+
+HydroCardA:"Карта доступа к отсеку A Гидропоники."  
+//"A Hydroponics Sector A access card."
+
+HydroCardB:"Карта доступа к отсеку B Гидропоники."  
+//"A Hydroponics Sector B access card."
+
+HydroCardD:"Карта доступа к отсеку D Гидропоники."  
+//"A Hydroponics Sector D access card."
+
+HydroSecDoor:"Дверь."  
+//"A door."
+
+ICE_Pick:"ICE-отмычка."  
+//"An ICE-Pick."
+
+IncendGrenade:"%d зажигательных гранат(ы)."  
+//"%d incendiary grenades."
+
+Info_Comp:"Инфо-терминал Три-Оптимум."  
+//"A TriOptimum information terminal."
+
+INT_Boost:"Усилитель Пси."  
+//"A psi booster."
+
+Interrogation_Room:"Дверь."  
+//"A door."
+
+Island_Base:"Пищеблок."  
+//"A food preparation station."
+
+Island_Top:"Пищеблок."  
+//"A food preparation station."
+
+Juice_bottle:"Бутылка сока."  
+//"A bottle of juice."
+
+Junction_Box:"Распределительная коробка."  
+//"A junction box."
+
+KaBacon_Cart:"Игровой картридж: Метание бекона."  
+//"A game cartridge: Hurling Bacon."
+
+Keyboard:"Консоль."  
+//"A console."
+
+Keypad:"Цифровая панель."  
+//"A numeric keypad."
+
+LabAssistant:"Имплантант Лаборант(tm)."  
+//"A LabAssistant(tm) implant."
+
+Ladder_16:"Лестница."  
+//"A ladder."
+
+Lance_Card:"Карта доступа к стим. блоку: Лэнс."  
+//"A Stim Unit access card: Lance."
+
+Lance_Slot:"Доступ к стим. блоку: Лэнс."  
+//"Stim Unit access: Lance."
+
+Large_Beaker:"Большой лабораторный стакан."  
+//"A large beaker."
+
+Large_Prism:"%d призм."  
+//"%d prisms."
+
+Large_Worm_Beaker:"%d сгустков червей."  
+//"%d worm clusters."
+
+Laser_Pistol:"Плазменный пистолет \"Apollo H4\". (%s)"  
+//"An Apollo H4 Plasma Pistol. (%s)"
+
+Laser_Turret:"Плазменная турель."  
+//"A plasma turret."
+
+Laser_Turret_Corpse:"Уничтоженная турель."  
+//"A destroyed turret."
+
+LC_Posters:"Плакат."  
+//"A poster."
+
+Level_Change_Button:"Кнопка лифта."  
+//"An elevator button."
+
+Lift_1:"Гравилифт."  
+//"A grav lift."
+
+Light_Armor:"Комплект легкой боевой брони."  
+//"A suit of light combat armor."
+
+Light_Button:"Рубильник освещения баскетбольной площадки."  
+//"Basketball court circuit breaker."
+
+Lights:"Светильник."  
+//"A light."
+
+Liquor_bottle:"Бутылка спиртного."  
+//"A bottle of liquor."
+
+LockedDoor:"Запертая дверь."  
+//"A sealed door."
+
+Locker:"Рундук."  
+//"A locker."
+
+Lounge_Chair:"Сиденье."  
+//"A chair."
+
+Machinery:"Механизм."  
+//"Some machinery."
+
+Magazines:"Журнал."  
+//"A magazine."
+
+MaintDroid:"Ремонтный робот."  
+//"A maintenance droid."
+
+Maize:"Упаковка кукурузы."  
+//"A package of corn."
+
+Mall_Bench:"Скамья."  
+//"A bench."
+
+Manifest:"Опись химикатов."  
+//"A Chemical Manifest Log."
+
+Many_Boss_Ball:"Псионная защитная проекция."  
+//"A psionic defensive projection."
+
+Many_Boss_Brain:"Мозг Множества."  
+//"The Brain of the Many."
+
+Many_Peas:"Упаковка гороха."  
+//"A carton of peas."
+
+ManyCans:"Банки."  
+//"Several cans."
+
+Marine_Poster:"Пропагандистский плакат."  
+//"A propaganda poster."
+
+Master_Elevator_Button:"Панель управления лифтом."  
+//"An elevator control panel."
+
+MasterPowerComp:"Главный энергокомпьютер."  
+//"The Master Power Computer."
+
+Med_bed:"Хирургический прибор."  
+//"A Surgical Unit."
+
+Med_Patch:"Лечебный шприц-тюбик."  
+//"A medical hypo."
+
+MedBedKey:"Ключ активации хирургического прибора."  
+//"A Surgical Unit Activation Key."
+
+Medical_Kit:"Аптечка самодиагностики."  
+//"An Auto-Diagnostic Medical Kit."
+
+Medium_Armor:"Комплект стандартной боевой брони."  
+//"A suit of standard-issue combat armor."
+
+Membrane:"Мембрана."  
+//"A membrane."
+
+Microscope:"Микроскоп."  
+//"A microscope."
+
+Midwife:"Киборг-акушерка."  
+//"A cyborg midwife."
+
+Midwife_Organ:"Орган акушерки."  
+//"A midwife organ."
+
+Mn_Over_Organ:"Орган пси-ривера."  
+//"A Psi Reaver organ."
+
+Modify_Soft_V1:"Модификационный софт, версия 1."  
+//"A version 1 Modification Software."
+
+Modify_Soft_V2:"Модификационный софт, версия 2."  
+//"A version 2 Modification Software."
+
+Modify_Soft_V3:"Модификационный софт, версия 3."  
+//"A version 3 Modification Software."
+
+Molec_Analyzer:"Прибор авто-ремонта."  
+//"An auto-repair unit."
+
+Monkey:"Обезьяна."  
+//"A monkey."
+
+Monkey_Brain:"Мозг обезьяны."  
+//"A monkey brain."
+
+movie_poster_2:"Киноплакат."  
+//"A movie poster."
+
+movie_poster1:"Киноплакат."  
+//"A movie poster."
+
+Mtool:"Одноразовый ремонтный инструмент."  
+//"A disposable maintenance tool."
+
+Mug:"Керамическая кружка с логотипом Три-Оптимум."  
+//"A ceramic mug with the TriOptimum logo."
+
+Nanites:"%d нанитов."  
+//"%d nanites."
+
+Navy_Salute:"Пропагандистский плакат."  
+//"A propaganda poster."
+
+Nerve_Cluster:"Нервный узел."  
+//"A nerve cluster."
+
+Nerve_Cluster_Chunk:"Фрагмент нервного узла."  
+//"A piece of a nerve cluster."
+
+Nerve_Ladder:"Прочный нерв.  Можно влезть?"  
+//"A sturdy nerve.  Climbable?"
+
+NewOvermindDoor:"Сфинктер."  
+//"A sphincter."
+
+Nikki_Card:"Карта доступа к стим. блоку: Никки."  
+//"A Stim Unit access card: Nikki."
+
+Nikki_Slot:"Доступ к стим. блоку: Никки."  
+//"Stim Unit access: Nikki."
+
+OG_Organ:"Орган гибрида."  
+//"A hybrid organ."
+
+Ops_Comp:"Компьютер коррекции управления."  
+//"The Operations Override Computer."
+
+Ops_Crew:"Дверь."  
+//"A door."
+
+Ops_Override_Card:"Карта доступа к коррекции управления."  
+//"An Ops Override access card."
+
+Ops1:"Компьютерная консоль."  
+//"A computer console."
+
+Ops2:"Компьютерная консоль."  
+//"A computer console."
+
+Ops3:"Компьютерная консоль."  
+//"A computer console."
+
+Ops4:"Компьютерная консоль."  
+//"A computer console."
+
+Overlord:"Проекция пси-ривера."  
+//"A Psi Reaver projection."
+
+Overlord_Brain:"Мозговая структура пси-ривера."  
+//"A Psi Reaver brain structure."
+
+Overlord_Chunk_1:"Кусок мозга пси-ривера."  
+//"A piece of a Psi Reaver brain."
+
+Overlord_Chunk_2:"Кусок мозга пси-ривера."  
+//"A piece of a Psi Reaver brain."
+
+Overlord_Limb_1:"Кусок мозга пси-ривера."  
+//"A piece of a Psi Reaver brain."
+
+Overlord_Tail:"Кусок мозга пси-ривера."  
+//"A piece of a Psi Reaver brain."
+
+Overlord_Trunk:"Кусок мозга пси-ривера."  
+//"A piece of a Psi Reaver brain."
+
+Overworld_Cart:"Игровой картридж: Всемирная Пустота."
+//"A game cartridge: Overworld Zero."
+
+Part_One:"Дверь." 
+//"A door."
+
+Part_Three:"Дверь." 
+//"A door."
+
+Part_Two:"Дверь."  
+//"A door."
+
+PartialMedBed:"Неукомплектованный хирургический прибор."  
+//"An incomplete Surgical Unit."
+
+PDA:"Твоя персональная база данных."  
+//"Your Personal Data Assistant."
+
+PDA_Soft:"Персональная база данных."  
+//"A Personal Data Assistant."
+
+Peas:"Пачка гороха."  
+//"A package of peas."
+
+Pellet_Shot_Box:"Коробка с %d разрывными патронами для дробовика."  
+//"A box of %d anti-personnel shotgun shells."
+
+PersonalBox:"Ящик для личных вещей."  
+//"A personal effects box."
+
+piano:"Пианино."  
+//"A piano."
+
+Picture:"МультиКартина (TM)."  
+//"A MultiPicture (TM)."
+
+Pig_Stacker_Cart:"Игровой картридж: Свиноприемник."  
+//"A game cartridge: Pig Stacker."
+
+Ping_Cart:"Игровой картридж: Свинья 2.0."  
+//"A game cartridge: Pig 2.0."
+
+Pipes:"Труба."  
+//"A pipe."
+
+Pistol:"Пистолет \"Тэлон\" M2A3. (%s)"  
+//"A Talon M2A3 Pistol. (%s)"
+
+Plant_bed:"Клумба."  
+//"A bed of plants."
+
+Plant_p1:"Комнатное растение."  
+//"A potted plant."
+
+Plant_p2:"Комнатное растение."  
+//"A potted plant."
+
+Pool_Table:"Бильярдный стол."  
+//"A pool table."
+
+PoolCue:"Бильярдный кий."  
+//"A pool cue."
+
+Port_Nacelle_Comp:"Компьютер левой гондолы."  
+//"The Port Nacelle Computer."
+
+Portable_Battery:"Портативная батарея."  
+//"A portable battery."
+
+Power_Cell:"Заряженный аккумулятор."  
+//"A charged power cell."
+
+ProtocolDroid:"Робот-инструктор."  
+//"A protocol droid."
+
+ProxGrenade:"%d сенсорных гранат(ы)."  
+//"%d proximity grenades."
+
+Psi_Amp:"Псионный усилитель \"Black-Ops\"."  
+//"A Black-Ops Psionic Amplifier."
+
+Psi_Booster:"Шприц-тюбик Пси."  
+//"A psi hypo."
+
+Psi_Trainer:"Устройство пси-апгрейда."  
+//"A Psionics Upgrade Unit."
+
+Pump:"Насос."  
+//"A pump of some kind."
+
+R_and_D_Card:"Карта доступа к отсеку Исследований и Разработки."  
+//"A Research and Development access card."
+
+Rad_Barrel:"Бак с радиоактивным материалом."  
+//"A barrel containing radioactive material."
+
+Rad_Lethal_Box:"Счетчик радиации."  
+//"A radiation meter."
+
+Rad_Safe_Box:"Счетчик радиации."  
+//"A radiation meter."
+
+Radar_Dish:"Мачта передатчика."  
+//"A Transmitter Tower."
+
+RadKeyCard:"Монтажная плата."  
+//"A circuit board."
+
+RadPatch:"Антирадиационный шприц-тюбик."  
+//"An anti-radiation hypo."
+
+Railings:"Ограждение."  
+//"A railing."
+
+RD_Door_1:"Дверь."  
+//"A door."
+
+Rec_Crew_Key:"Карта доступа к каютам экипажа 5-й палубы."  
+//"A Deck 5 Crew's Quarters access card."
+
+Recharging_Station:"Станция перезарядки."  
+//"An energy recharging station."
+
+Recycler:"Утилизатор."  
+//"A recycler."
+
+Reflective_armor:"Комплект энерго-брони."  
+//"A suit of powered armor."
+
+Refridgerator_Door:"Дверь."  
+//"A door."
+
+Repair_Soft_V1:"Ремонтный софт, версия 1."  
+//"A version 1 Repairing Software."
+
+Repair_Soft_V2:"Ремонтный софт, версия 2."  
+//"A version 2 Repairing Software."
+
+Repair_Soft_V3:"Ремонтный софт, версия 3."  
+//"A version 3 Repairing Software."
+
+RepBase:"Репликатор, работающий на нанитах."  
+//"A nanite-based matter replicator."
+
+RepScreen:"Панель репликатора."  
+//"A replicator panel."
+
+Res_Station_Button:"Снятие квантового образца."  
+//"A Quantum Entanglement Sampler."
+
+Research_Soft:"Исследовательский софт, версия 1."  
+//"A version 1 Research Software."
+
+Research_Soft_V1:"Исследовательский софт, версия 1."  
+//"A version 1 Research Software."
+
+Research_Soft_V2:"Исследовательский софт, версия 2."  
+//"A version 2 Research Software."
+
+Research_Soft_V3:"Исследовательский софт, версия 3."  
+//"A version 3 Research Software."
+
+Researchable:"Неисследованный объект?"  
+//"An unresearched object?"
+
+Residential_Bench:"Скамья."  
+//"A bench."
+
+Residential_Door:"Дверь."  
+//"A door."
+
+ResStation:"Машина квантовой биореконструкции."  
+//"A Quantum Bio-Reconstruction Machine."
+
+Rick_Conduit:"Коммуникации."  
+//"A conduit."
+
+Rick_Conduit_Junction:"Узел коммуникаций."  
+//"A conduit."
+
+Rick_Ladder:"Лестница."  
+//"A ladder."
+
+Rick_Ladder_16:"Лестница."  
+//"A ladder."
+
+Rick_Ladder_4:"Лестница."  
+//"A ladder."
+
+Rick_Ladder_8:"Лестница."  
+//"A ladder."
+
+Rick_Room_Key:"Карта доступа в каюту Диего."  
+//"Diego's Quarters access card."
+
+Rick_Turret:"Защитная турель \"Рикенбакера\"."  
+//"A Rickenbacker defense turret."
+
+RickCard:"Карта доступа на \"Рикенбакер\"."  
+//"A Rickenbacker access card."
+
+Rickenbacker_Door:"Дверь."  
+//"A door."
+
+Rifled_Slug_Box:"Коробка с %d нарезными патронами для дробовика."  
+//"A box of %d rifled slugs."
+
+Ring_Buoy:"Спасательный круг."  
+//"A ring buoy."
+
+Rumbler:"Рамблер."  
+//"A Rumbler."
+
+Rumbler_Organ:"Орган рамблера."  
+//"A Rumbler organ."
+
+RunFast:"Имплантант СверхСкорость(tm)."  
+//"A RunFast(tm) implant."
+
+Salvo:"Готовые к залпу торпеды."  
+//"A torpedo salvo."
+
+Sci_Med_Door_n206:"Дверь."  
+//"A door."
+
+Science_Card:"Карта доступа в Научный отсек."  
+//"A Science Sector access card."
+
+Science_Table:"Стол."  
+//"A table."
+
+Science_Table:"Стол."  
+//"A table."
+
+screens:"Сенсорный экран."  
+//"A touch screen."
+
+Sec_Station_Door:"Дверь участка охраны."  
+//"A security station door."
+
+SecBody:"Обломки робота."  
+//"Some robotic debris."
+
+SecCanopy:"Обломки робота."  
+//"Some robotic debris."
+
+SecLeftArm:"Обломки робота."  
+//"Some robotic debris."
+
+SecRightArm:"Обломки робота."  
+//"Some robotic debris."
+
+SecUpper:"Обломки робота."  
+//"Some robotic debris."
+
+Security_Camera:"Камера охранной системы."  
+//"A security camera."
+
+Security_Card:"Карта доступа охраны."  
+//"A Security access card."
+
+Security_Comp:"Охранный терминал Три-Оптимум."  
+//"A TriOptimum security computer."
+
+Security_Door:"Дверь."  
+//"A door."
+
+SecurityDroid:"Охранный робот."  
+//"A security droid."
+
+Shield_Computer:"Терминал управления защитным полем."  
+//"A shield control computer."
+
+Shield_Generator:"Генератор защитного поля."  
+//"A shield generator."
+
+Shield_Interlock:"Терминал блокировки защитного поля."  
+//"A Shield Interlock Terminal."
+
+shotgun:"Дробовик марки Три-Оптимум. (%s)"  
+//"A TriOptimum Shotgun. (%s)"
+
+Shotgun_Casings:"Гильзы от дробовика."  
+//"Some spent shotgun shells."
+
+Shower:"Душ."  
+//"A shower head."
+
+Shuttle:"Челнок."  
+//"A shuttle."
+
+Shuttle_Shield:"Защищенный полем челнок."  
+//"A shielded shuttle."
+
+ShuttleAccess:"Карта доступа к стыковочному отсеку."  
+//"A Shuttle Bay access card."
+
+SimComp_1:"Компьютер квантового моделирования."  
+//"A Quantum Simulation Computer."
+
+SimComp_2:"Компьютер линейного моделирования."  
+//"A Linear Simulation Computer."
+
+SimComp_3:"Компьютер интерполяционного моделирования."  
+//"An Interpolated Simulation Computer."
+
+Single_Hydro:"Дверь."  
+//"A door."
+
+Sink:"Раковина."  
+//"A sink."
+
+Slot_Machine:"Игровой автомат."  
+//"A slot machine."
+
+Slug_Turret:"Пулеметная турель."  
+//"A slug turret."
+
+Slug_Turret_Corpse:"Уничтоженная турель."  
+//"A destroyed turret."
+
+Small_AP_Clip:"Коробочка бронебойных патронов."  
+//"A small box of armor-piercing bullets."
+
+Small_Beaker:"Малый лабораторный стакан."  
+//"A small beaker."
+
+Small_Conf_Table:"Стол для собраний."  
+//"A conference table."
+
+Small_HE_Clip:"Коробочка разрывных патронов."  
+//"A small box of anti-personnel bullets."
+
+Small_Prism:"%d призм."  
+//"%d prisms."
+
+Small_Standard_Clip:"Коробочка стандартных патронов."  
+//"A small box of standard bullets."
+
+Small_Trioptimum_Crate:"Малый грузовой контейнер Три-Оптимум."  
+//"A small TriOptimum storage crate."
+
+Small_Worm_Beaker:"%d сгустков червей."  
+//"%d worm clusters."
+
+SmallPump:"Небольшой насос."  
+//"A small pump."
+
+SmartBoost:"Имплантант СверхПси(tm)."  
+//"A PsiBoost(tm) implant."
+
+Soda_Can:"Банка колы."  
+//"A can of cola."
+
+Sonik_Tooth_Posters:"Плакат."  
+//"A poster."
+
+Speed_Boost:"Ускоритель."  
+//"A speed booster."
+
+Standard_Clip:"Коробка с %d стандартными патронами."  
+//"A box of %d standard bullets."
+
+Star_Nacelle_Comp:"Компьютер правой гондолы."  
+//"The Starboard Nacelle Computer."
+
+Stasis_Field_Generator:"Генератор статического поля. (%s)"  
+//"A Stasis Field Generator. (%s)"
+
+Stats_Trainer:"Устройство апгрейда основных способностей."  
+//"A Stats Upgrade Unit."
+
+Stellar_Map:"Звездная карта."  
+//"A stellar map."
+
+Stomach:"Желудок."  
+//"A stomach."
+
+Stove_Base:"Плита."  
+//"A stove."
+
+Stove_Top:"Плита."  
+//"A stove."
+
+Strength_Boost:"Увеличитель Силы."  
+//"A strength booster."
+
+Sven_Card:"Карта доступа к стим. блоку: Свен."  
+//"A Stim Unit access card: Sven."
+
+Sven_Slot:"Доступ к стим. блоку: Свен."  
+//"Stim Unit access: Sven."
+
+Swarm_Organ:"Орган кокона роя."  
+//"A swarm pod organ."
+
+Swarmer:"Аннелидный рой."  
+//"An annelid swarm."
+
+SwiftBoost:"Имплантант СверхЛовкость(tm)."  
+//"A SwiftBoost(tm) implant."
+
+SwineHunter_Cart:"Игровой картридж: Охотник на свиней."  
+//"A game cartridge: Swine Hunter."
+
+Swinekeeper:"Игровой картридж: Свинопас."  
+//"A game cartridge: Swinekeeper."
+
+Tall_Machinery:"Механизм."  
+//"Some machinery."
+
+Tall_Plant:"Высокое растение."  
+//"A tall plant."
+
+Tall_Plant_p2:"Высокое растение."  
+//"A tall plant."
+
+Tech_Trainer:"Устройство технического апгрейда."  
+//"A Tech Upgrade Unit."
+
+test_tubes:"Стойка с пробирками."  
+//"A rack of test tubes."
+
+Think_OSA:"Пропагандистский плакат."  
+//"A propaganda poster."
+
+Timed_Grenade:"%d осколочных гранат(ы)."  
+//"%d fragmentation grenades."
+
+Torpedo:"Торпеда."  
+//"A torpedo."
+
+Torpedo_Launch_Button:"Кнопка ручного запуска торпеды."  
+//"A torpedo manual launch button."
+
+ToughSkin:"Имплантант ТолстоКожа(tm)."  
+//"A ToughSkin(tm) implant."
+
+Toxin_Grenade:"%d разрыв-гранат(ы)."  
+//"%d disruption grenades."
+
+ToxinPatch:"Антитоксинный шприц-тюбик."  
+//"An anti-toxin hypo."
+
+Trait_Machine:"Устройство апгрейда OS."  
+//"An OS Upgrade Unit."
+
+Tram:"Поезд."  
+//"A tram."
+
+Tram_Button:"Кнопка запуска авто-поезда."  
+//"An automatic tram control button."
+
+Transmitter_Tower_Off:"Контроллер мачты передатчика."  
+//"A Transmitter Tower Controller."
+
+Transmitter_Tower_On:"Контроллер мачты передатчика."  
+//"A Transmitter Tower Controller."
+
+TTT_Cart:"Игровой картридж: Тик-Так-ТриОп."  
+//"A game cartridge: Tic Tac Triop."
+
+TurretCorpse:"Часть уничтоженной турели."  
+//"Part of a destroyed turret."
+
+Unbreakable_Windows:"Небьющееся окно."  
+//"An unbreakable window."
+
+UNN_and_You:"Пропагандистский плакат."  
+//"A propaganda poster."
+
+Usable_Comp:"Стандартный терминал Три-Оптимум."  
+//"A standard TriOptimum computer terminal."
+
+Vacc_Suit:"Костюм химзащиты."  
+//"A hazard suit."
+
+Viral_Prolif:"Размножитель вирусов. (%s)"  
+//"A Viral Proliferator. (%s)"
+
+Virtual_Assassin:"Виртуальный убийца."  
+//"A Virtual Assassin."
+
+Vodka_bottle:"Бутылка очень крепкой водки."  
+//"A bottle of very strong vodka."
+
+Waste_Barrel:"Мусорный бак."  
+//"A waste container."
+
+Weapon_Trainer:"Устройство апгрейда оружия."  
+//"A Weapons Upgrade Unit."
+
+Wide_Machinery:"Механизм."  
+//"Some machinery."
+
+Wide_Plant:"Растение."  
+//"A plant."
+
+Worm_Collector:"Собиратель червей."  
+//"A Worm Collector."
+
+Worm_Launcher:"Червемет. (%s)"  
+//"An Annelid Launcher. (%s)"
+
+Worm_Skin:"Броня ЧервеКожа."  
+//"A WormSkin armor."
+
+WormBlend:"Имплантант ЧервеСмесь."  
+//"A WormBlend implant."
+
+WormBlood:"Имплантант Кровь Червя."  
+//"A WormBlood implant."
+
+WormGoo:"Кучка отвратительных червей."  
+//"A pile of disgusting worms."
+
+WormHeart:"Имплантант Сердце Червя."  
+//"A WormHeart implant."
+
+WormMind:"Имплантант Разум Червя."  
+//"A WormMind implant."
+
+Wrench:"Очень крепкий разводной ключ."  
+//"A very solid wrench."
+
+XerxesScreen:"Ксеркс."  
+//"Xerxes."

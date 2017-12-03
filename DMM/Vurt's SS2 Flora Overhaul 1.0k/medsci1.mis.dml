@@ -1,0 +1,42 @@
+DML1
+
+// lets make sure the OM dmls are loaded only for OMS, and nothing else
+FINGERPRINT
+{
+   1892 [105.14 -5.11 -2]
+   870 [104.99 -0.17 -2]
+   1131 [97.79 0.96 -2]
+   1939 [94.26 4.32 -2]
+   361 [90.57 9.52 -2]
+   392 [101.62 18.81 -2]
+   1087 [122.71 69.42 -2]
+   388 [127.93 65.88 -2]
+   476 [128.1 61.64 -2]
+   365 [127.73 57.51 -2]
+}
+FINGERPRINT
+{
+   QVAR "scplevel" == 1
+}
+// need to move the hanger a bit
+ObjProp 2273 "Position"
+{
+	"Location" -73.55, -211.289, 14.516
+	"Pitch" 8000
+}
+// moving SCP specific pipes
+-ObjProp 2149 "PhysType"
+ObjProp 2149 "Position"
+{
+	"Location" -73.55, -211.9, 14.85
+}
+-ObjProp 2147 "PhysType"
+ObjProp 2147 "Position"
+{
+	"Location" -73.55, -210.4, 14.51
+}
+-ObjProp 2148 "PhysType"
+ObjProp 2148 "Position"
+{
+	"Location" -73.55, -213.58, 13
+}

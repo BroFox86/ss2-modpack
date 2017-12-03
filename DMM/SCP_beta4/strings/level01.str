@@ -1,0 +1,192 @@
+EmailName10:"POLITO 12.JUL.14\nre: Reset the core\n"
+EmailPortrait10:"Polito"
+EmailIcon10:"OpsIcon"
+EmailText10:"You're now on the engineering deck.  Find the engine core and reset it.  This will restore power to the elevators.  I'm getting some kind of strange readings from down there, so keep your eyes open.\n"
+
+
+EmailName1:"POLITO 12.JUL.14\nre: Utility storage 4\n"
+EmailPortrait1:"Polito"
+EmailIcon1:"OpsIcon"
+EmailText1:"You must move faster.  Your mind cannot conceive of the stakes we are dealing with.  Keep your eyes open for utility storage 4.  I've laid in some supplies there, the pass-code is 59004.  I've got to get to Deck... <<MESSAGE INTERRUPTED>>\n"
+
+
+EmailName3:"POLITO 12.JUL.14\nre: Protective seals\n"
+EmailPortrait3:"Polito"
+EmailIcon3:"OpsIcon"
+EmailText3:"The radiation must have locked the protective seals on Engine Core access.  You're going to have to find some way to purge the radiation from the coolant tubes.  Xerxes is blocking me out of the primary data loop, so I can't get any information to help you.  He's working for them now.\n"
+
+
+EmailName4:"POLITO 12.JUL.14\nre: Purging the tubes\n"
+EmailPortrait4:"Polito"
+EmailIcon4:"OpsIcon"
+EmailText4:"Keep your eyes open... you must find a way to purge these coolant tubes and get into the engine core...  The ship must have some kind of backup system in place for just this kind of situation.\n"
+
+
+EmailName2:"POLITO 12.JUL.14\nre: The xenomorphs\n"
+EmailPortrait2:"Polito"
+EmailIcon2:"OpsIcon"
+EmailText2:"Now listen carefully.  The xenomorphs who have hijacked this ship are presumably from the surface of Tau Ceti 5.  They've been able to infect a number of crew members, through an extremely invasive parasitical technique.  They've also demonstrated the ability to control the actions of others through some form of limited telepathy.  Find the research soft.  Understand them... then kill them.\n"
+
+
+EmailName7:"POLITO 12.JUL.14\nre: Fluidics override\n"
+EmailPortrait7:"Polito"
+EmailIcon7:"OpsIcon"
+EmailText7:"Xerxes is one step ahead of us.  He's performed an override on the fluidics control computer and blocked us out.  But keep an eye open.  You might be able to find some workaround.\n"
+
+
+EmailName6:"POLITO 12.JUL.14\nre: The engine pods\n"
+EmailPortrait6:"Polito"
+EmailIcon6:"OpsIcon"
+EmailText6:"Now get those engine pods online.  You'll have to head into nacelle 1 and 2 and reset the pods manually.  After that, reinitialize the system from core control.  But that system won't come online until you reset both pods.  Keep an eye out.  They're mobilizing their real forces.  And they know exactly where you are.\n"
+
+
+EmailName8:"POLITO 12.JUL.14\nre: Core online\n"
+EmailPortrait8:"Polito"
+EmailIcon8:"OpsIcon"
+EmailText8:"Good work.  The engine core is now back online. Now get to the elevator and come see me on deck 4.  While you were doing that, I've discovered the presence of some annelid artifacts on board the ship.  I think you may be able to use them to your advantage.  I've uploaded the information to the ship's weapons upgrade units.  They'll be able to convey the information to your cybernetic rig.  What are you waiting for?  Get to the elevator now.\n"
+
+
+EmailName9:"SHODAN 12.JUL.14\nre: Go to umbilical\n"
+EmailPortrait9:"Shodan"
+EmailIcon9:"ShodIcon"
+EmailText9:"I can now destroy this infestation at my will.  The Many quake at my power.  You are an effective drone, human.  Now, return to the Command deck, locate the umbilical and evacuate to the Rickenbacker.\n"
+
+
+LogName24:"TRAINER 02.06.11\nre: Test message\n"
+LogPortrait24:"Bayliss"
+LogIcon24:"RickIcon"
+LogText24:"This message is coming from the audio log you just picked up.  You can use your PDA at any time to play any audio-log or e-mail you've received.  In the field, the PDA is also used for keeping track of your current mission objectives and obtaining help information.\n"
+
+
+LogName32:"Chemical Manifest\nEngineering\n"
+LogPortrait32:"Chem"
+LogIcon32:"EngIcon"
+LogText32:"Laboratory Stockroom Inventory: Engineering Stockroom 192\n\nAntimony (Sb) : 2\nBarium (Ba) : 2\nCalifornium (Cf) : 2\nCesium (Cs) : 1\nIridium (Ir) : 2\nOsmium (Os) : 1\nTechnetium (Tc) : 1\nTellurium (Te) : 1\nVanadium (V) : 2\nYttrium (Y) : 2\n\nThis inventory list is required by UNN Safety Code #134882 to be kept on hand in all areas of hazardous chemical storage.  \"Storage\" is defined by UNN Safety Code #195331 to consist of all areas in which hazardous chemicals (see Safety Code #093355) are stored in quantities greater than 50g per 10 square feet, for durations of greater than 24 hours.\n"
+
+
+LogName6:"SIDDONS 02.JUN.14\nre: Lame old me\n"
+LogPortrait6:"Siddons"
+LogIcon6:"OpsIcon"
+LogText6:"To: Suarez, Tommy\nThey aren't making this easy for us, are they?  I miss you. I know it's stupid, but I do.  I think I'll wallow in self pity for an hour or so and then write you again.  Figures, I have to travel 67 trillion miles to meet a man.  Once you're transferred to the Von Braun, everything will be better.  I'll be better, I promise.  Great, someone's coming.  Counting the seconds...\n"
+
+
+LogName16:"DELACROIX 30.JUN.14\nre: Tau Ceti 5\n"
+LogPortrait16:"Delacroix"
+LogIcon16:"EngIcon"
+LogText16:"To: Korenchkin, Anatoly\nAnatoly, you MUST open up the planet to the scientific staff of this vessel.  If there IS something down there, it's bigger than TriOp, it's bigger than the UNN and it's bigger than you.  And why have you and Diego shut off deck 3?  What's going on?\n"
+
+
+LogName21:"MALONE 03.JUL.14\nre: Psionic chimps!\n"
+LogPortrait21:"testport"
+LogIcon21:"RickIcon"
+LogText21:"To: Mak Pao research authority\nA laboratory worker from Med/Sci called me down to the vivisection room yesterday.  He felt the lab chimps were exhibiting uncommon intelligence.  I sat with one for four hours and tried to probe it with the psi amp on a beta 4 cycle.  It failed to respond.  I of course assumed it was because it was incapable of reacting to the sophisticated beta 4 cycle.  But then I realized it was blocking the probe intentionally!  As soon as I raised the psi amp to attack it, the creature lashed out with its arms and projected a cryokinetic field towards me, paralyzing my arm.  I immediately psi-dampened the monkey and then stunned it with an electric prod.\n"
+
+
+LogName17:"DELACROIX 04.JUL.14\nre: Taking action\n"
+LogPortrait17:"Delacroix"
+LogIcon17:"EngIcon"
+LogText17:"To: Korenchkin, Anatoly\nI'm not sure what secrets you and your new buddy Captain Diego have got going up on deck 3, but I intend to find out.  If you continue to refuse to meet with me and my staff, you will leave me no choice but to register a complaint with corporate.  If you won't take me seriously, perhaps Sgt. Bronson and her security staff will.\n"
+
+
+LogName9:"SANGER 04.JUL.14\nre: Delacroix\n"
+LogPortrait9:"Sanger"
+LogIcon9:"EngIcon"
+LogText9:"I don't know where we'd be without Delacroix.  This whole ship is falling apart and she's the only one who knows what from what.  I saw her arguing with that creep Anatoly Koretzkin or whatever his name is, and she was giving it to him but good.  But that freak job stares her straight in the eye and starts babbling about how she doesn't know the pleasure of the joyful unity or some such.  Mama mia, the clowns are running the circus...\n"
+
+
+LogName2:"DELACROIX 05.JUL.14\nre: Be brave\n"
+LogPortrait2:"Delacroix"
+LogIcon2:"EngIcon"
+LogText2:"To: Sanger, Constance\nConstance, I fear now for my life.  I think this has gone beyond any imaginings of Diego and Korenchkin.  I do not believe they are in control at all.  We must discover what it was they found down on the surface of Tau Ceti 5 and why they guard their secret so jealously.  I think this is more important than my life or your life or the life of this ship.  Be brave.  And be careful.\n"
+
+
+LogName7:"DELACROIX 05.JUL.14\nre: Fluidics backdoor\n"
+LogPortrait7:"Delacroix"
+LogIcon7:"EngIcon"
+LogText7:"Somebody's been tampering with the Xerxes unit.  In the interest of keeping secrets from the powers that be, I've installed a back door to the fluidics control computer.  To activate it, install hardware override 45m/dEx in the systems monitoring unit in command control.  You can find 45m/dEx in auxiliary storage 5 in the coolant tubes, keycode: 34760.\n"
+
+
+LogName3:"SANGER 05.JUL.14\nre: The soldiers\n"
+LogPortrait3:"Sanger"
+LogIcon3:"EngIcon"
+LogText3:"Before, I couldn't get rid of those jarheads from the Rickenbacker, and now I can't find one for love or money.  That creepy OSA guy followed me around for two months until he got the hint.  Now I tried to contact him to see if he knew what was going on, but all of a sudden he won't return my mail.\n"
+
+
+LogName22:"BRONSON 06.JUL.14\nre: Turret problems\n"
+LogPortrait22:"Bronson"
+LogIcon22:"OpsIcon"
+LogText22:"Due to the tenuous situation as of late, I've ordered security defense turrets placed at key locations.  Yesterday, one went off accidentally and critically injured crewman Wells.  However, somebody must have tampered with the Xerxes security sub-systems because now my technicians are unable to take them off line.  Until we get to the bottom of this, I've ordered all security turrets recalled to storage... but now I can't get in touch with the team I sent out to do the recall.\n"
+
+
+LogName18:"MALONE 06.JUL.14\nre: Further experiments\n"
+LogPortrait18:"testport"
+LogIcon18:"RickIcon"
+LogText18:"To: Mak Pao research authority\nTaking precautions, I proceeded with further experiments.  Since we've reached Tau Ceti, the creatures have gotten smarter and somehow gained limited psi abilities.  I probed another subject with a beta 5 cycle and sensed many things, but mostly an incredible empathy.  The chimps have become acutely aware of their own history, of the vivisections and experiments that have been performed on them while on board the Von Braun.  They have anger, and they are ready to express it.  Clearly they are both a fascinating scientific resource and an incredible security risk.  My recommendation... either freeze them in cryo storage for the remainder of the mission or liquidate them immediately.  Who knows what other abilities they'll acquire?\n"
+
+
+LogName23:"BRONSON 06.JUL.14\nre: Hacking turrets\n"
+LogPortrait23:"Bronson"
+LogIcon23:"OpsIcon"
+LogText23:"Well, we can't get the malfunctioning turrets off line and now Xerxes isn't even talking to us.  Pollard thought of a workaround.  By running bypass into central control, we can hack into the turrets locally and take control of them.  However, that means walking right up to the little sons of bitches and hoping they don't go off.  One thing is sure... I'm going to figure out what the hell happened here.\n"
+
+
+LogName4:"CURTIZ 07.JUL.14\nre: That leak again\n"
+LogPortrait4:"Curtiz"
+LogIcon4:"EngIcon"
+LogText4:"Delacroix was right, this ship was NOT ready for prime time.  Ok, the automatic safety seals have shut due to the radiation leak in the tubes.  I'm gonna head down to engineering control... I think I can use the fluidics monitoring computer to purge the tubes.\n"
+
+
+LogName13:"SANGER 10.JUL.14\nre: Locking Eng. Control\n"
+LogPortrait13:"Sanger"
+LogIcon13:"EngIcon"
+LogText13:"God, get me out of here.  I've re-coded  the lock to this room.  Maybe that will hold them.  I'm heading to cargo bay 2, come find me there.\n"
+
+
+LogName14:"MARTIN 10.JUL.14\nre: Cargo bay 2\n"
+LogPortrait14:"Martin"
+LogIcon14:"EngIcon"
+LogText14:"I'm not sure what's creeping me out worse: The hybrids with their pipes and shotguns, the berserk turrets, or our supposed allies.  I don't trust those UNN bastards.  I've got to find Sanger.  She knows the access code to fluidics control.  I'm gonna make my way over to cargo bay 2 to find her.\n"
+
+
+LogName5:"SANGER 10.JUL.14\nre: Locked in\n"
+LogPortrait5:"Sanger"
+LogIcon5:"EngIcon"
+LogText5:"Malone's dead.  I was just talking to him and this... cyborg came up behind him and...  Okay, Connie, get a grip.  Get a grip.  I've re-coded the door lock in engineering control to 15061.  I think I'll be safe in here.  I'll be safe in here.\n"
+
+
+LogName8:"MARTIN 10.JUL.14\nre: Ambush\n"
+LogPortrait8:"Martin"
+LogIcon8:"EngIcon"
+LogText8:"They hit us six hours ago.  Malone, the OSA spook, tried to take one of things out with pyrokinesis attack, but it didn't even break stride.  Then it unloaded both barrels into his stomach.  Falzone said there's a weapons cache in one of the engine nacelles.  Maybe I can find him and the others there...\n"
+
+
+LogName1:"CURTIZ 10.JUL.14\nre: Just us\n"
+LogPortrait1:"Curtiz"
+LogIcon1:"EngIcon"
+LogText1:"It's down to just a few of us now.  Right after Valdez died, I guess I went a little nuts and started tearing things apart... but what do you know, I found two more rad hypes.  Hopefully that will keep me going long enough to figure a way past that damn turret...  Who is that?  Delacroix?  Sanger?\n"
+
+
+LogName11:"DELACROIX 11.JUL.14\nre: A new friend?\n"
+LogPortrait11:"Delacroix"
+LogIcon11:"EngIcon"
+LogText11:"I've been contacted by some kind of artificial intelligence that wants to help me reclaim control of the Von Braun from whomever... or whatever is now in charge.  I don't know where it came from, but I must confess I'm happy it is here.\n"
+
+
+LogName12:"SUAREZ 11.JUL.14\nre: Hang tight\n"
+LogPortrait12:"Suarez"
+LogIcon12:"RickIcon"
+LogText12:"To: Siddons, Rebecca\nStay where you are, Bec, I mean it.  This isn't something you can fight, this isn't something you can run from.  If you love me, you won't come looking for me.  Just hang tight... I won't let you down.\n"
+
+
+LogName19:"DIEGO 11.JUL.14\nre: Resist the call\n"
+LogPortrait19:"Diego"
+LogIcon19:"RickIcon"
+LogText19:"My duty is to the UNN and to this ship.  But can I resist the call of the Many?  My father's weakness brought SHODAN into existence.  MY weakness has invited these things aboard the Von Braun... can I undo the wrong I have done?\n"
+
+
+LogName20:"DIEGO 11.JUL.14\nre: Is it so bad?\n"
+LogPortrait20:"Diego"
+LogIcon20:"RickIcon"
+LogText20:"In some ways, the Many is not unlike the UNN.  There is a joy in working towards a collective goal, in being able to put aside the things that draw us apart and make us separate.  Why do we fear the loss of our individuality so much?  Man can dream, but the Many can accomplish.\n"
+
+

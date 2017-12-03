@@ -1,0 +1,772 @@
+aarocket:""  
+//""
+
+AAT:"Колба с Токсином-A"  
+//"Vial of Toxin-A"
+
+aaviral:""  
+//""
+
+Abyss_Cart:"Свинтус"  
+//"Hog Wallow"
+
+ahrocket:""  
+//""
+
+ahviral:""  
+//""
+
+Annelid_Medpatch:"Леч. железа аннелида"  
+//"Annelid healing gland"
+
+Annelid_Psipatch:"Пси-орган аннелида"  
+//"Annelid psi organ"
+
+AP_Clip:"%d бронебойных патронов"  
+//"%d armor piercing bullets"
+
+APBullet:"Броне-\nбойные"  
+//"AP"
+
+Arach_Organ:"Орган паукообразного"  
+//"Arachnid organ"
+
+Arachnid:"Паукообразный аннелид"  
+//"Annelid arachnid"
+
+Assassin:"Киборг-убийца"  
+//"Cyborg assassin"
+
+Assault_Rifle:"Штурмовая винтовка"  
+//"Assault rifle"
+
+AssaultAP:"Броне-\nбойные"  
+//"AP"
+
+AssaultBody:"Уничтоженный штурмовой робот"  
+//"Destroyed assault droid"
+
+AssaultHE:"Разрыв-\n  ные"  
+//"Anti-Pers."
+
+AssaultStandard:"  Стан-\nдартные"  
+//"Standard"
+
+AudioLog:"Стандартный диск с данными\n\n\n%s"
+//"Standard Data Disc\n\n\n%s"
+
+Basketball:"Баскетбольный мяч"  
+//"Basketball"
+
+BDisruptionGrenade:"Разрыв."  
+//"Disrupt."
+
+BEMPGrenade:"ЭМИ"  
+//"EMP"
+
+BigBomb:"Симп. резонатор"  
+//"Sympathetic Resonator"
+
+BigEMPShot:"ЭМИ"  
+//"EMP"
+
+BigFusionShot:"Атомные"  
+//"Fusion"
+
+biglasershot:""  
+//""
+
+BIncendGrenade:"Зажигат."  
+//"Incend."
+
+Blank:""  
+//""
+
+Blast_Turret:"Порт доступа турели"  
+//"Turret access port"
+
+Blast_Turret_Corpse:"Уничтоженная турель"  
+//"Destroyed turret"
+
+BNormalGrenade:"Осколочн."  
+//"Frag."
+
+Body_Bag:"Мешок с трупом"  
+//"Body bag"
+
+BProxGrenade:"Сенсорные"  
+//"Prox."
+
+BrawnBoost:"Импл. СверхСила(tm)"  
+//"BrawnBoost(tm) implant"
+
+Bridge_Card:"Карта доступа к мостику"  
+//"Bridge access card"
+
+BrokenEMP:"Сломанное оружие"  
+//"Destroyed weapon"
+
+BrokenShotgun:"Сломанный дробовик"  
+//"Destroyed shotgun"
+
+bullet_casings:""  
+//""
+
+Burro_Hog_Cart:"Ослосвин"  
+//"Burro Hog"
+
+Can:"Банка"  
+//"Can"
+
+Candy_Card:"Карта доступа к стим. блоку: Кэнди"  
+//"Stim Unit access card: Candy"
+
+CargoBay2A2B:"Карта доступа к груз. отсеку 2A/2B"  
+//"Cargo Bay 2A/2B access card"
+
+Champagne_Bottle:"Бутылка шампанского"  
+//"Champagne bottle"
+
+cheeseborger:"Модуль диагностики/ремонта"  
+//"Diagnostic/Repair Module"
+
+Chem_p1:"Фермий (Fm)"  
+//"Fermium (Fm)"
+
+Chem_p10:"Иридий (Ir)"  
+//"Iridium (Ir)"
+
+Chem_p11:"Мышьяк (As)"  
+//"Arsenic (As)"
+
+Chem_p12:"Цезий (Cs)"  
+//"Cesium (Cs)"
+
+Chem_p13:"Гассий (Hs)"  
+//"Hassium (Hs)"
+
+Chem_p14:"Теллур (Te)"  
+//"Tellurium (Te)"
+
+Chem_p15:"Молибден (Mo)"  
+//"Molybdenum (Mo)"
+
+Chem_p16:"Технеций (Tc)"  
+//"Technetium (Tc)"
+
+Chem_p17:"Радий (Ra)"  
+//"Radium (Ra)"
+
+Chem_p18:"Барий (Ba)"  
+//"Barium (Ba)"
+
+Chem_p19:"Селен (Se)"  
+//"Selenium (Se)"
+
+Chem_p2:"Ванадий (V)"  
+//"Vanadium (V)"
+
+Chem_p3:"Галлий (Ga)"  
+//"Gallium (Ga)"
+
+Chem_p4:"Сурьма (Sb)"  
+//"Antimony (Sb)"
+
+Chem_p5:"Иттрий (Y)"  
+//"Yttrium (Y)"
+
+Chem_p6:"Медь (Cu)"  
+//"Copper (Cu)"
+
+Chem_p7:"Калифорний (Cf)"  
+//"Californium (Cf)"
+
+Chem_p8:"Натрий (Na)"  
+//"Sodium (Na)"
+
+Chem_p9:"Осмий (Os)"  
+//"Osmium (Os)"
+
+ChipA:"Чип квантового модел."  
+//"Quantum Simulation chip"
+
+ChipB:"Чип линейного модел."  
+//"Linear Simulation chip"
+
+ChipC:"Чип интерполяц. модел."  
+//"Interpolated Simulation chip"
+
+Chips:"Пакет чипсов"  
+//"Bag of chips"
+
+Cigs:"Сигареты"  
+//"Cigarettes"
+
+Circuitboard:"Монтажная плата"  
+//"Circuit board"
+
+CompConsole:"Компьютерная консоль"  
+//"Computer console"
+
+compounds:"Инертный химикат"  
+//"Inert chemical"
+
+Crate_p1:"Контейнер"  
+//"Crate"
+
+Crew_2_Card:"Карта \"Каюты экипажа 5-й палубы\""  
+//"Deck 5 Crew's Quarters"
+
+Crew_Card:"Карта \"Каюты экипажа 2-й палубы\""  
+//"Deck 2 Crew's Quarters"
+
+Crew_Card2:"Карта \"Спорт-отсек\""
+//"Athletic Sector"
+
+Cryo_Card:"Карта \"Крио-отсек\""  
+//"Cryogenics Sector"
+
+Crystal_Shard:"Кристаллическая ветвь"  
+//"Crystal Shard"
+
+Dead_Power_Cell:"Разряж. аккумулятор"  
+//"Dead power cell"
+
+Desk_p1:"Стол"  
+//"Desk"
+
+Desk_p2:"Стол"  
+//"Desk"
+
+DoublePellet:"Картечь"  
+//"Pellet"
+
+DoubleSlug:"Пуля"  
+//"Slug"
+
+DroidBody:"Уничтоженный ремонтный робот"  
+//"Destroyed maintenance droid"
+
+Egg:"Яйцо аннелида"  
+//"Annelid egg"
+
+Electro_shock:"Лазерная рапира"  
+//"Laser Rapier"
+
+EMP_Grenade:"Обойма ЭМИ-гранат"  
+//"EMP grenade clip"
+
+EMP_Rifle:"ЭМИ-винтовка"  
+//"EMP Rifle"
+
+EMPSHot:"ЭМИ" 
+//"EMP"
+
+EndurBoost:"Импл. СверхВыносл-ть(tm)"  
+//"EndurBoost(tm) implant"
+
+EXP_Cookies:"%d кибер-модулей"  
+//"%d cyber modules"
+
+ExperTech:"Импл. ТехЭксперт(tm)"  
+//"ExperTech(tm) implant"
+
+Flora:"Растение"  
+//"Plant"
+
+French_Epstein:"Устр-во Френча-Эпштейна"  
+//"French-Epstein device"
+
+FrenchnEpstein_Device:"Устр-во Френча-Эпштейна"  
+//"French-Epstein device"
+
+Fusion_Cannon:"Атомная пушка"  
+//"Fusion Cannon"
+
+FusionShot:"Атомные"  
+//"Fusion"
+
+gameboy:"MFD-плейер для игр"  
+//"MFD game player"
+
+Golf_Cart:"Гольф"  
+//"Golf"
+
+Gr_Over_Organ:"Орган большого пси-ривера"  
+//"Greater Psi Reaver organ"
+
+Gren_Launcher:"Гранатомет"  
+//"Grenade Launcher"
+
+Grub_Organ:"Орган кокона личинок"  
+//"Grub pod organ"
+
+Gurney:"Каталка"  
+//"Gurney"
+
+hack_soft_v1:"Хакерский софт, в. 1"  
+//"Version 1 Hacking Software"
+
+hack_soft_v2:"Хакерский софт, в. 2"  
+//"Version 2 Hacking Software"
+
+hack_soft_v3:"Хакерский софт, в. 3"  
+//"Version 3 Hacking Software"
+
+Hackable_Crate:"Контейнер с защитой"  
+//"Security Crate"
+
+HE_Clip:"%d разрывных патронов"  
+//"%d anti-personnel bullets"
+
+HeartPillow:"Подушка-сердечко"  
+//"Heart-shaped pillow"
+
+Heavy_Armor:"Тяжелая броня"  
+//"Heavy armor"
+
+HEBullet:"Разрыв-\n  ные"  
+//"Anti-Pers."
+
+High_Security_Crate:"Конт-р с защ. выс. уровня"  
+//"High-security crate."
+
+Hogger_Cart:"Уличная свинья"  
+//"Street Hog"
+
+Human_Corpses:"Труп"  
+//"Corpse"
+
+Hybrid:"Гибрид"  
+//"Hybrid"
+
+Hydro_Card_A:"Карта \"Гидропоника, отсек A\""  
+//"Hydroponics Sector A"
+
+Hydro_Card_B:"Карта \"Гидропоника, отсек B\""  
+//"Hydroponics Sector B"
+
+Hydro_Card_D:"Карта \"Гидропоника, отсек D\""  
+//"Hydroponics Sector D"
+
+ICE_Pick:"ICE-отмычка"  
+//"ICE-Pick"
+
+IDisruptionGrenade:"Разрыв."  
+//"Disrupt.
+"
+IEmpGrenade:"ЭМИ"  
+//"EMP"
+
+IIncendGrenade:"Зажигат."  
+//"Incend."
+
+IncendGrenade:"Обойма зажиг. гранат"  
+//"Incendiary grenade clip"
+
+INormalGrenade:"Осколочн."  
+//"Frag."
+
+int_boost:"Усилитель Пси"  
+//"Psi booster"
+
+IProxGrenade:"Сенсорн."  
+//"Prox."
+
+Juice_bottle:"Бутылка сока"  
+//"Bottle of juice"
+
+KaBacon_Cart:"Метание бекона"  
+//"Hurling Bacon"
+
+keypad:"Панель"  
+//"Keypad"
+
+LabAssistant:"Импл. Лаборант(tm)"  
+//"LabAssistant(tm) implant"
+
+Lance_Card:"Карта доступа к стим. блоку: Лэнс"  
+//"Stim Unit access card: Lance"
+
+Large_Beaker:"Большой лаб. стакан"  
+//"Large beaker"
+
+Large_Prism:"%d призм"  
+//"%d prisms"
+
+Large_Worm_Beaker:"%d сгустков червей"  
+//"%d worm clusters"
+
+Laser_Pistol:"Плазменный пистолет"  
+//"Plasma Pistol"
+
+Laser_Turret:"Порт доступа турели"  
+//"Turret access port"
+
+Laser_Turret_Corpse:"Уничтоженная турель"  
+//"Destroyed turret"
+
+lasershot:""  //""
+
+Light_Armor:"Легкая боевая броня"  
+//"Light combat armor"
+
+Liquor_bottle:"Бутылка спиртного"  
+//"Bottle of liquor"
+
+Locker:"Рундук"  
+//"Locker"
+
+Magazines:"Журнал"  
+//"Magazine"
+
+Manifest:"Опись"  
+//"Manifest Log"
+
+ManyCans:"Банки"  
+//"Several cans"
+
+MasterPowerComp:"Главный энергокомпьютер"  
+//"Master Power Computer"
+
+med_card:""  
+//""
+
+Med_Patch:"Лечебный шприц-тюбик"  
+//"Medical hypo"
+
+MedBedKey:"Ключ актив. хир. прибора"  
+//"Surgical Unit Activation Key"
+
+Medical_Kit:"Аптечка"  
+//"Medical kit"
+
+Medium_Armor:"Средняя броня"  
+//"Medium armor"
+
+Midwife:"Киборг-акушерка"  
+//"Cyborg midwife"
+
+Midwife_Organ:"Орган акушерки"  
+//"Midwife organ"
+
+Mn_Over_Organ:"Орган пси-ривера"  
+//"Psi Reaver organ"
+
+Modify_Soft_V1:"Модификационный софт, в. 1"  
+//"Version 1 Modification Software"
+
+Modify_Soft_V2:"Модификационный софт, в. 2"  
+//"Version 2 Modification Software"
+
+Modify_Soft_V3:"Модификационный софт, в. 3"  
+//"Version 3 Modification Software"
+
+Molec_Analyzer:"Прибор авто-ремонта"  
+//"Auto-repair unit"
+
+Monkey:"Обезьяна"  
+//"Monkey"
+
+Monkey_Brain:"Мозг обезьяны"  
+//"Monkey brain"
+
+Monkey_Corpse:"Труп обезьяны"  
+//"Monkey corpse"
+
+Mtool:"Однораз. рем. инструмент"  
+//"Disposable maintenance tool"
+
+Mug:"Кружка"  
+//"Mug"
+
+Nanites:"%d нанитов"  
+//"%d nanites"
+
+Nikki_Card:"Карта доступа к стим. блоку: Никки"  
+//"Stim Unit access card: Nikki"
+
+OG_Organ:"Орган гибрида"  
+//"Hybrid organ"
+
+Ops_Override_Card:"Карта \"Коррекция управления\"" 
+//"Ops Override"
+
+Overworld_Cart:"Всемирная Пустота"  
+//"Overworld Zero"
+
+Pellet_Shot_Box:"Разрывные патроны"  
+//"Anti-personnel shotgun shells"
+
+PelletProjectile:"Картечь"  
+//"Pellet"
+
+Personal_Effects_Box:"Ящик для личных вещей"  
+//"Personal effects box"
+
+PersonalBox:"Ящик для личных вещей"  
+//"Personal effects box"
+
+picture:""  
+//""
+
+picturekeys:"Фрагмент фотографии"  
+//"Photograph fragment"
+
+Pig_Stacker_Cart:"Свиноприемник"  
+//"Pig Stacker"
+
+Ping_Cart:"Свинья 2.0"  
+//"Pig 2.0"
+
+Pistol:"Пистолет"  
+//"Pistol"
+
+Plant_p1:"Комнатное растение"  
+//"Potted plant"
+
+Plant_p2:"Комнатное растение"  
+//"Potted plant"
+
+PoolCue:"Бильярдный кий"  
+//"Pool cue"
+
+Port_Nacelle_Comp:"Компьютер левой гондолы"  
+//"Port Nacelle Computer"
+
+Portable_Battery:"Портативная батарея"  
+//"Portable battery"
+
+Power_Cell:"Заряж. аккумулятор"  
+//"Charged power cell"
+
+ProxGrenade:"Обойма сенс. гранат"  
+//"Proximity grenade clip"
+
+Psi_Amp:"Пси-усилитель"  
+//"Psi Amp"
+
+Psi_Booster:"Шприц-тюбик Пси"  
+//"Psi hypo"
+
+R_and_D_Card:"Карта \"Медицина, отсек И&Р\""
+//"Medical - R&D Sector"
+
+RadKeyCard:"Монтажная плата"  
+//"Circuit board"
+
+RadPatch:"Антирад. шприц-тюбик"  
+//"Anti-radiation hypo"
+
+Rec_Crew_Key:"К каютам экипажа 5-й палубы"  
+//"Deck 5 Crew's Quarters"
+
+Recycler:"Утилизатор"  
+//"Recycler"
+
+Reflective_Armor:"Энерго-броня"  
+//"Powered armor"
+
+Repair_Soft_V1:"Ремонтный софт, в. 1"  
+//"Version 1 Repairing Software"
+
+Repair_Soft_V2:"Ремонтный софт, в. 2"  
+//"Version 2 Repairing Software"
+
+Repair_Soft_V3:"Ремонтный софт, в. 3"  
+//"Version 3 Repairing Software"
+
+RepBase:"Репликатор"  
+//"Replicator"
+
+Research_Soft_V1:"Исследоват. софт, в. 1"  
+//"Version 1 Research Software"
+
+Research_Soft_V2:"Исследоват. софт, в. 2"  
+//"Version 2 Research Software"
+
+Research_Soft_V3:"Исследоват. софт, в. 3"  
+//"Version 3 Research Software"
+
+Researchable:"Неисследов. объект"  
+//"Unresearched object"
+
+ResStation:"Машина квантовой биореконструкции"  
+//"Quantum Bio-Reconstruction Machine"
+
+Rick_Room_Key:"К каюте Диего"  
+//"Diego's Quarters"
+
+Rick_Turret:"Порт доступа турели"  
+//"Turret access port"
+
+Rickenbacker_Card:"Карта \"Рикенбакер\""
+//"Rickenbacker"
+
+Rifled_Slug_Box:"Нарезные патроны"  
+//"Rifled slugs"
+
+RifledSlug:"Пуля"  
+//"Slug"
+
+Ring_Buoy:"Спасательный круг"  
+//"Ring buoy"
+
+Rumbler:"Рамблер"  
+//"Rumbler"
+
+Rumbler_Organ:"Орган рамблера"  
+//"Rumbler organ"
+
+RunFast:"Импл. СверхСкорость(tm)"  
+//"RunFast(tm) implant"
+
+Science_Card:"Карта \"Медицина - Научный отсек\""
+//"Medical - Science Sector"
+
+SecBody:"Уничтоженный охранный робот"  
+//"Destroyed security droid"
+
+Security_Card:"Карта \"Охрана\""
+//"Security"
+
+Security_Comp:"Охранный терминал" 
+//"Security computer"
+
+Shield_Computer:"Терминал управления защитным полем"  
+//"Shield control computer"
+
+Shield_Generator:"Терминал генератора защитного поля"  
+//"Shield generator computer"
+
+Shield_Interlock:"Терминал блокировки защитного поля"  
+//"Shield Interlock Computer"
+
+shotgun:"Помповый дробовик"  
+//"Shotgun"
+
+ShuttleAccess:"Карта стык. отсека"  
+//"Shuttle Bay"
+
+Slug_Turret:"Порт доступа турели"  
+//"Turret access port"
+
+Slug_Turret_Corpse:"Уничтоженная турель"  
+//"Destroyed turret"
+
+Small_AP_Clip:"Коробочка бронебойных патронов"  
+//"Small box of armor-piercing bullets"
+
+Small_Beaker:"Малый лаб. стакан"  
+//"Small beaker"
+
+Small_HE_Clip:"Коробочка разрывных патронов"  
+//"Small box of anti-personnel bullets"
+
+Small_Prism:"%d призм"  
+//"%d prisms"
+
+Small_Standard_Clip:"Коробочка стандартных патронов"  
+//"Small box of standard bullets"
+
+Small_Trioptimum_Crate:"Контейнер"  
+//"Crate"
+
+SmartBoost:"Импл. СверхПси(tm)"  
+//"PsiBoost(tm) implant"
+
+Soda_Can:"Банка содовой"  
+//"Soda can"
+
+Speed_Boost:"Ускоритель"  
+//"Speed booster"
+
+Standard_Clip:"%d стандартных патронов"  
+//"%d standard bullets"
+
+StandardBullet:"  Стан-\nдартные"  
+//"Standard"
+
+Star_Nacelle_Comp:"Компьютер правой гондолы"  
+//"Starboard Nacelle Computer"
+
+Stasis_Field_Generator:"Генератор стат. поля"  
+//"Stasis Field Generator"
+
+stasisshot:""  
+//""
+
+Strength_Boost:"Увеличитель Силы"  
+//"Strength booster"
+
+Sven_Card:"Карта доступа к стим. блоку: Свен"  
+//"Stim Unit access card: Sven"
+
+Swarm_Organ:"Орган кокона роя"  
+//"Swarm pod organ"
+
+SwiftBoost:"Импл. СверхЛовкость(tm)"  
+//"SwiftBoost(tm) implant"
+
+SwineHunter_Cart:"Охотник на свиней"  
+//"Swine Hunter"
+
+Swinekeeper:"Свинопас"  
+//"Swinekeeper"
+
+timed_grenade:"Обойма оскол. гранат"  
+//"Fragmentation grenade clip"
+
+ToughSkin:"Импл. ТолстоКожа"  
+//"ToughSkin(tm) implant"
+
+Toxin_Grenade:"Обойма разрыв-гранат"  
+//"Disruption grenade clip"
+
+ToxinPatch:"Антитокс. шприц-тюбик"  
+//"Anti-toxin hypo"
+
+TTT_Cart:"Тик-Так-ТриОп"  
+//"Tic Tac Triop"
+
+Vacc_Suit:"Костюм химзащиты"  
+//"Hazard suit"
+
+Viral_Prolif:"Размножитель вирусов"  
+//"Viral Proliferator"
+
+Virtual_Assassin:"Виртуальный убийца"  
+//"Virtual Assassin"
+
+Vodka_Bottle:"Бутылка водки"  
+//"Bottle of vodka"
+
+Waste_Barrel:"Мусорный бак"  
+//"Waste barrel"
+
+Worm_Beakers:"%d сгустков червей"  
+//"%d clusters of worms"
+
+Worm_Collector:"Собиратель червей"  
+//"Worm Collector"
+
+Worm_Launcher:"Червемет"  
+//"Annelid Launcher"
+
+Worm_Skin:"Броня ЧервеКожа"  
+//"WormSkin armor"
+
+WormBlend:"Импл. Червесмесь"  
+//"WormBlend implant"
+
+WormBlood:"Импл. Кровь Червя"  
+//"WormBlood implant"
+
+WormHeart:"Импл. Сердце Червя"  
+//"WormHeart implant"
+
+WormMind:"Импл. Разум Червя"  
+//"WormMind implant"
+
+wrench:"Разводной ключ"  
+//"Wrench"
