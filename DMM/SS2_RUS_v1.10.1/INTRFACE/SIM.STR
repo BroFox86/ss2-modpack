@@ -1,0 +1,21 @@
+continue:" Продолжить"  
+//"Continue"
+
+quit:"  Главное меню"  
+//"    Quit to \nMain Menu"
+
+options:" Настройки"  
+//"Options"
+
+load_game:" Загрузить" 
+//"Load Game"
+
+save_game:" Сохранить"  
+//"Save Game"
+
+
+
+
+
+
+

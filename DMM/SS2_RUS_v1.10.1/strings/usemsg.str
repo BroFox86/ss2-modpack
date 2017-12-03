@@ -1,0 +1,319 @@
+Air_Recirculator:"Вставь Токсин-A."  
+//"Insert Toxin-A."
+
+AuxPower:"Вставь заряженный аккумулятор."  
+//"Insert charged power cell."
+
+Bballbutton:"Освещение баскетбольной площадки восстановлено."  
+//"Basketball Court lights restored."
+
+Botcoming:"Грузовой лифт отключен.  Техобслуживание оповещено."  
+//"Cargo Lift Offline.  Maintenance Has Been Notified."
+
+Broken:"Лифт не работает.  Техобслуживание скоро прибудет...  Пожалуйста, ждите..."  
+//"This lift is malfunctioning.  Maintenance will arrive shortly...  Please wait..."
+
+card1:"Используй карту доступа, чтобы открыть дверь."  
+//card1:"Using access card to open door."
+
+Closed:"Доступ закрыт."  
+//"Access Denied."
+
+Comp_Online:"Компьютер управления насосами включен."  
+//"Fluidics Control Computer online."
+
+ElevQuest:"Доступ закрыт системой охраны Ксеркса."  
+//"Access denied by Xerxes-level security."
+
+exp1:""
+free2:""
+Free3:""
+free4:""
+
+LIFTED:"Охранная блокировка снята - доступ открыт."  
+//"Security Lockdown Lifted - Access Granted."
+
+LOCKDOWN:"Охранная блокировка - доступ закрыт."  
+//" Security Lockdown - Access Denied."
+
+Nac1OL:"Левая гондола включена."  
+//"Port Nacelle Online."
+
+Nacomp2_OL:"Правая гондола включена."  
+//"Starboard Nacelle Online."
+
+NeedOverride:"Требуется плата коррекции."  
+//"Hardware override required."
+
+NotFrobbed:"Гондолы двигателя отключены."  
+//NotFrobbed:"Engine Nacelles Offline"
+
+Offline:"Управление насосами отключено."  
+//"Fluidics Control Offline."
+
+Online:"Управление насосами включено... Радиация выводится."  
+//"Fluidics Control Online... Flushing Radiation."
+
+OpenHatch:"Служебный люк открыт."  
+//"Maintenance hatch opened."
+
+Ops_Over:"Коррекция управления произведена."  
+//Ops_Over:"Ops override set."
+
+OutOfOrder:"Лифт на ремонте."  
+//"This lift has been taken offline for repairs."
+
+Pad1:"Требуется код доступа к шахте."  
+//"Conduit Access Code required."
+
+pad2:"Требуется код доступа к малой оружейной."  
+//"Sub-Armory Code required."
+
+
+Post1:"Задание: Грузовой корабль UNN \"Гэлло\"
+Помощник оружейника
+(Приобретается: +2 силы)"
+//Post1:"Mission Posting: Ordnance Master's Mate
+(Gain: +2 Strength)"
+
+
+Post10:"Задание: Корабль UNN \"Люсиль\"
+Управление кораблем
+(Приобретается: +1 взлома и +1 силы)"
+//Post10:"Mission Posting: Ship's Ops
+(Gain: +1 Hack and +1 Strength)"
+
+
+Post11:"Задание: Корабль UNN \"Люсиль\"
+Помощник инженера
+(Приобретается: +1 ремонта и +1 силы)"
+//Post11:"Mission Posting: Engineer's Mate
+(Gain: +1 Repair and +1 Strength)"
+
+
+Post12:"Задание: Корабль UNN \"Люсиль\"
+Военная полиция
+(Приобретается: +1 модификации и +1 силы)"
+//Post12:"Mission Posting: Military Police
+(Gain: +1 Modify and +1 Strength)"
+
+
+Post13:"Задание: Корабль UNN \"Карфэкс\"
+Помощник навигатора
+(Приобретается: +2 кибернетики)"
+//Post13:"Mission Posting: Navigator's Mate
+(Gain: +2 Cyber-Affinity)"
+
+
+Post14:"Задание: Корабль UNN \"Пирс\"
+Мастер-оружейник
+(Приобретается: +1 техобслуживания)"
+//Post14:"Mission Posting: Ordnance Master
+(Gain: +1 Maintenance)"
+
+
+Post15:"Задание: Школа тактического тренинга ЛаВерн
+(Приобретается: +2 стандартного оружия)"
+//Post15:"Mission Posting: Tactical Training School
+(Gain: +2 Standard Weapons)"
+
+
+Post16:"Задание: Исследовательская база \"Мария Кюри\"
+Лаборант
+(Приобретается: +1 исследования)"
+//Post16:"Mission Posting: Lab Assistant
+(Gain: +1 Research)"
+
+
+Post17:"Задание: Школа выживания на Ио
+Тренинг на выживание
+(Приобретается: +2 выносливости)"
+//Post17:"Mission Posting: Survival Training
+(Gain: +2 Endurance)"
+
+
+Post18:"Задание: Орбитальная станция Ямамото
+Тренинг в невесомости
+(Приобретается: +2 ловкости)"
+//Post18:"Mission Posting: Zero-G Training
+(Gain: +2 Agility)"
+
+
+Post19:"Задание: Орб. станция Шао Линь, бункер ограничения сенс. инф-ции 925/NP5: Кибер-эмпатия
+(Приобретается: 2-й уровень пси-способностей, криокинез 
+и психогенная кибернетика)"
+//Post19:"Mission Posting: Sens Dep Tank 925/NP5: Cyber Empathy
+(Gain: Second Tier Neural Capacity, Cryokinesis and Psychogenic Cyber-Affinity)"
+
+
+Post2:"Задание: Школа выживания на Ио
+Тренинг на выживание
+(Приобретается: +2 выносливости)"
+//Post2:"Mission Posting: Survival Training
+(Gain: +2 Endurance)"
+
+
+Post20:"Задание: Орб. станция Ру Нанг, бункер ограничения сенс. инф-ции 437/WH1: Кинетическая эмпатия
+(Приобретается: 2-й уровень пси-способностей, криокинез 
+и пси-притяжение)"
+//Post20:"Mission Posting: Sens Dep Tank 437/WH1: Kinetic Empathy
+(Gain: Second Tier Neural Capacity, Cryokinesis and Kinetic Redirection)"
+
+
+Post21:"Задание: Орб. станция Чу Лон, бункер ограничения сенс. инф-ции 003/MU5: Управление массой
+(Приобретается: 2-й уровень пси-способностей, криокинез 
+и пси-рефлективный экран)"
+//Post21:"Mission Posting: Sens Dep Tank 003/MU5: Mass Alteration
+(Gain: Second Tier Neural Capacity, Cryokinesis and Psycho-Reflective Screen)"
+
+
+Post22:"Задание: Центр OSA
+Телепатическое вмешательство/Анализ следа памяти
+(Приобретается: +2 псионики)"
+//Post22:"Mission Posting: Telepathic Interrogation/Engramanalysis
+(Gain: +2 Psionic Ability)"
+
+
+Post23:"Задание: Орб. станция Ки Луан, экспериментальная лаборатория 
+(Приобретается: +1 исследования)"
+//Post23:"Mission Posting: Experimental Lab, TOS Ki Luan
+(Gain: +1 Research)"
+
+
+Post24:"Задание: Школа выживания на Ио
+Тактический псионный тренинг/Толстая кожа
+(Приобретается: +2 выносливости)"
+//Post24:"Mission Posting: Tactical Psionic Training/Deep Cover
+(Gain: +2 Endurance)"
+
+
+Post25:"Задание: Центр OSA
+Полевые операции, антитеррор\n(Приобретается: +1 силы, +1 ловкости, +1 кибернетики \nи психогенная ловкость)"
+//Post25:"Mission Posting: Field Operations, Anti-Terrorism\n(Gain: +1 Strength, +1 Agility, +1 Cyber-Affinity,\n and Psychogenic Agility)"
+
+
+Post26:"Задание: Полевая база OSA
+Полев. операции, подбор группы\n(Приобретается: +1 силы, +1 ловкости, +1 кибернетики \nи нейро-рефлекторный амортизатор)"
+//Post26:"Mission Posting: Field Operations, Selections Group\n(Gain: +1 Strength, +1 Agility, +1 Cyber-Affinity,\n and Neuro-Reflex Dampening)"
+
+
+Post27:"Задание: Полевая база OSA
+Полевые операции, Ио\n(Приобретается: +1 силы, +1 ловкости, +1 кибернетики \nи удаленное электронное вмешательство)"
+//Post27:"Mission Posting: Field Operations, Io\n(Gain: +1 Strength, +1 Agility, +1 Cyber-Affinity,\n and Remote Electron Tampering)"
+
+
+Post3:"Задание: Орбитальная станция Гуадаканал
+Тренинг в невесомости
+(Приобретается: +2 ловкости)"
+//Post3:"Mission Posting: Zero-G Training
+(Gain: +2 Agility)"
+
+
+Post4:"Задание: Корабль UNN \"Антигуа\"
+Помощник артиллериста
+(Приобретается: +1 энергооружия и +1 кибернетики)"
+//Post4:"Mission Posting: Gunnery Mate
+(Gain: +1 Energy Weapons and +1 Cyber-Affinity)"
+
+
+Post5:"Задание: Астероид JM-432
+Патруль на астероиде
+(Приобретается: +1 тяжелого оружия и +1 кибернетики)"
+//Post5:"Mission Posting: Asteroid Pickets
+(Gain: +1 Heavy Weapons and +1 Cyber-Affinity)"
+
+
+Post6:"Задание: Порт МакАртур
+Помощник на стрелковом полигоне
+(Приобретается: +2 стандартного оружия)"
+//Post6:"Mission Posting: Staff Assistant, Weapons Range
+(Gain: +2 Standard Weapons)"
+
+
+Post7:"Задание: Управление UNN
+Почетный караул, военная полиция
+(Приобретается: +1 техобслуживания)"
+//Post7:"Mission Posting: Honor Guard, MP
+(Gain: +1 Maintenance)"
+
+
+Post8:"Задание: Тренировочная станция Полидис
+Подавление восстания
+(Приобретается: +1 модификации)"
+//Post8:"Mission Posting: Quash Rebellion
+(Gain: +1 Modify)"
+
+
+Post9:"Задание: Корабль UNN \"Антигуа\"
+Консультант по системам корабля
+(Приобретается: +1 ремонта)"
+//Post9:"Mission Posting: Ship's System Consultant
+(Gain: +1 Repair)"
+
+ 
+PowerOff:"Главное питание отключено."  
+//"Main Power Offline."
+
+Psi1:"Кибер-устройство апгрейда пси-навыков"  
+//"Cybernetic Upgrade Unit for Psionic Disciplines"
+
+Rep1:"Репликатор ремонту не подлежит."  
+//"Replicator beyond repair."
+
+Rep2:"Репликатор неисправен."  
+//"Replicator is unusable."
+
+Rep5:"Цепи сожжены."  
+//"Circuits Fried."
+
+Rep6:"Цепи сожжены."  
+//"Circuits Fried."
+
+seccrew1:"Требуется доступ экипажа."  
+//"Crew Access required."
+
+ShieldBroken:"Компьютер защитного поля неисправен."  
+//"Shield computer inoperative."
+
+ShieldOff:"Защитное поле челнока отключено."  
+//"Shuttle shield deactivated."
+
+Slideshow1:"Удаленный доступ к протоколу кибер-интерфейса включен..."  
+//"Cybernetic Interface Remote Access Protocol online..."
+
+Slideshow2:"Пользователь: БОГИНЯ"  
+//"Username: GODDESS"
+
+Slideshow3:"Пароль: ********************************"  
+//Slideshow3:"Password: ********************************"
+
+Slideshow4:"Удаленный доступ открыт."  
+//"Remote access granted."
+
+Slideshow5:"Вызывающий внешний перцепционный поток данных..."  
+//"Accessing external perceptual data stream..."
+
+Stat1:"Кибер-устройство апгрейда основных способностей"  
+//"Cybernetic Upgrade Unit for Basic Abilities"
+
+Swimpad:"Введи код, чтобы открыть дверь."  
+//"Enter code to open door."
+
+SympResInst:"Симпатический резонатор установлен."  
+//"Sympathetic Resonator Installed."
+
+tech1:"Кибер-устройство апгрейда технических навыков"  
+//"Cybernetic Upgrade Unit for Technical Skills"
+
+TrainingLog:"Нажми клавишу \"U\", чтобы воспроизвести только что подобранную запись."  
+//"Press the \"U\" key to play the log you just picked up."
+
+Trap:"Местное питание восстановлено."  
+//"Local power restored."
+
+trip0201:"Большинство дверей открывается при приближении."  
+//"Most doors open as you approach them."
+
+Weap1:"Кибер-устройство апгрейда оружейных навыков"  
+//"Cybernetic Upgrade Unit for Weapon Skills"
+

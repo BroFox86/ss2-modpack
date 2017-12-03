@@ -1,0 +1,20 @@
+delete:"Удалить"  
+//"Delete"
+
+failed:"Загрузка неудачна"  
+//"Load Failed"
+
+loading:"Загрузка..."  
+//"Loading..."
+
+initial:"Выберите файл для загрузки:"  
+//"Select a file to load."
+
+unused:"< ПУСТО >"  
+//"< EMPTY >"
+
+done:"Назад"  
+//"Done"
+
+load:"Загрузить"  
+//"Load"

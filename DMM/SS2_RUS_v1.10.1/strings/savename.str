@@ -1,0 +1,74 @@
+Command1:"Командная A"
+//"Command A"
+
+Command2:"Командная B"
+//"Command B"
+
+Earth:"Вербовочный центр Рэмси"
+//"Ramsey Center"
+
+Eng1:"Инженерная A"
+//"Engineering A"
+
+Eng2:"Инженерная B"
+//"Engineering B"
+
+Hydro1:"Гидропоника A"
+//"Hydroponics A"
+
+Hydro2:"Гидропоника B/C"
+//"Hydroponics B/C"
+
+Hydro3:"Гидропоника D"
+//"Hydroponics D"
+
+Many:"Тело Множества"
+//"Body of the Many"
+
+Medsci1:"МедНаука/Научн. отсек"
+//"MedSci - Science Sector"
+
+Medsci2:"МедНаука/Медотсек"
+//"MedSci - Medical Sector"
+
+Ops1:"Управление A"
+//"Operations A"
+
+Ops2:"Управление B"
+//"Operations B"
+
+Ops3:"Управление C"
+//"Operations C"
+
+Ops4:"Управление D"
+//"Operations D"
+
+Rec1:"Развлечения A"
+//"Recreation A"
+
+Rec2:"Развлечения B"
+//"Recreation B"
+
+Rec3:"Развлечения C"
+//"Recreation C"
+
+Rick1:"Рикенбакер, отсек 1"
+//"Rickenbacker Pod 1"
+
+Rick2:"Рикенбакер, отсек 2"
+//"Rickenbacker Pod 2"
+
+Rick3:"Кап. мостик Рикенбакера"
+//"Rickenbacker Bridge"
+
+shodan:"Где я?"
+//"Where am I?"
+
+station0:"Станция Вэйк Айленд"
+//"Wake Island Station"
+
+station1:"Станция Чесапик Бэй"
+//"Chesapeake Bay Station"
+
+station2:"Станция Чан Лоу"
+//"Chun Lo Station"

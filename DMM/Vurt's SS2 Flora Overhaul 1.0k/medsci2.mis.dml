@@ -1,0 +1,35 @@
+DML1
+
+// lets make sure the OM dmls are loaded only for OMS, and nothing else
+FINGERPRINT
+{
+   1209 [-67.27 -126.62 2]
+   536 [-101.9 -168.81 0]
+   1144 [-56.57 -280.48 2]
+   218 [-109 -282.48 1.17]
+   224 [-9.01 -197.53 5.78]
+   1250 [53.51 -171.86 -2.05]
+   480 [74.08 -280.33 4.35]
+   726 [43.31 -268.7 -2]
+   478 [43.09 -274.22 -2]
+   727 [42.98 -281.24 -2]
+}
+FINGERPRINT
+{
+   QVAR "scplevel" == 1
+}
+// need to fix the hanger a bit
+-ObjProp 1461 "PhysType"
+ObjProp 1461 "Position"
+{
+	"Location" -118.803, -114.885, 7.85
+	"Bank" 4000
+}
++ObjProp 1461 "ModelName"
+{
+	"" cpipe_02
+}
++ObjProp 1461 "Scale"
+{
+	"" 1, 0.25, 1
+}

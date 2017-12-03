@@ -1,0 +1,29 @@
+AssaultRifle:"\nРежим стрельбы очередями."
+//"This is the continual-fire mode."
+
+EMP:"Высокоэнергети-\nческий импульсн. режим. Выстрелы наносят боль-\nший урон, но требуют больше энергии."
+//"This is the high-energy pulse mode.  Individual shots will do more damage, but be less energy efficient."
+
+Fusion:"Меньшая скорость стрельбы, но урон значительно больше."
+//"Shots will fire at slower velocity but deal significantly more damage."
+
+GrenLauncher:"Гранаты \nв этом режиме отскаки-\nвают и взрываются через 3 сек. после того, как остановятся."
+//"Grenades fired in this mode will bounce around, and explode three seconds after coming to rest."
+
+laser:"Выстрел более мощный, но требует больше энергии, время между выстрелами также увеличивается."
+//"You will fire a powerful but energy- inefficient blast, and have to wait longer between shots."
+
+Pistol:"\nСтреляет очередями по 3 выстрела."
+//"This is the 3-shot rapid burst mode."
+
+Shotgun:"В этом режиме дробовик наносит двойной урон, но и боеприпасы расходуются втройне."
+//"In this mode, the shotgun will do double damage, but use up three times as much ammo."
+
+Stasis_Field_Generator:"Обездвиживает существ на некоторой площади, но расходует боеприпасы вдвойне."
+//"Immobilizes creatures in an area around impact, but uses twice the ammo."
+
+Viral_Prolif:"\nВ этом режиме поражаются аннелиды."
+//"This setting damages Annelids."
+
+Worm_Launcher:"\nВ этом режиме поражаются аннелиды."
+//"This setting damages Annelids."

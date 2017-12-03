@@ -1,0 +1,151 @@
+DML1
+
+// lets make sure the OM dmls are loaded only for OMS, and nothing else
+FINGERPRINT
+{
+   1647 [-241 -12 0]
+   1646 [-241 -18 0]
+   1645 [-241 -24 0]
+   1489 [-241 -30 0]
+   1644 [-249 -12 0]
+   1643 [-249 -18 0]
+   1642 [-249 -24 0]
+   1494 [-249 -30 0]
+   426 [-249 -36 0]
+   425 [-249 -42 0]
+}
+FINGERPRINT
+{
+   QVAR "scplevel" == 1
+}
+// lillies
+ObjProp 291 "Position"
+{
+	"Location" -112, -12.5, -16.88
+}
++ObjProp 291 "RenderOrder"
+{
+	"Pass" "Post Opaque 2"
+}
+ObjProp 383 "Position"
+{
+	"Location" -112.4, -18.5, -16.87
+}
++ObjProp 383 "RenderOrder"
+{
+	"Pass" "Post Opaque 2"
+}
+ObjProp 384 "Position"
+{
+	"Location" -132.1, -17.5, -16.88
+}
++ObjProp 384 "RenderOrder"
+{
+	"Pass" "Post Opaque 2"
+}
+ObjProp 1140 "Position"
+{
+	"Location" -139, -20, -16.87
+}
++ObjProp 1140 "RenderOrder"
+{
+	"Pass" "Post Opaque 2"
+}
+ObjProp 1204 "Position"
+{
+	"Location" -145.5, -17.5, -16.88
+}
++ObjProp 1204 "RenderOrder"
+{
+	"Pass" "Post Opaque 2"
+}
+ObjProp 1138 "Position"
+{
+	"Location" -136, -12.5, -16.885
+}
++ObjProp 1138 "RenderOrder"
+{
+	"Pass" "Post Opaque 2"
+}
+// and more lillies
+ObjProp 604 "Position"
+{
+	"Location" -205.717, -128.905, -9.13
+}
++ObjProp 604 "RenderOrder"
+{
+	"Pass" "Post Opaque 2"
+}
+ObjProp 1378 "Position"
+{
+	"Location" -199.717, -127.405, -9.12
+}
++ObjProp 1378 "RenderOrder"
+{
+	"Pass" "Post Opaque 2"
+}
+ObjProp 1373 "Position"
+{
+	"Location" -198.217, -128.905, -9.13
+}
++ObjProp 1373 "RenderOrder"
+{
+	"Pass" "Post Opaque 2"
+}
+ObjProp 1374 "Position"
+{
+	"Location" -200.217, -120.905, -9.13
+}
++ObjProp 1374 "RenderOrder"
+{
+	"Pass" "Post Opaque 2"
+}
+ObjProp 1379 "Position"
+{
+	"Location" -204.217, -116.905, -9.12
+}
++ObjProp 1379 "RenderOrder"
+{
+	"Pass" "Post Opaque 2"
+}
+// water plants need to be moved up a bit
+ObjProp 769 "Position"
+{
+	"Location" -203.334, -99.7085, -11.85
+}
+ObjProp 842 "Position"
+{
+	"Location" -179, -104, -11.85
+}
+ObjProp 292 "Position"
+{
+	"Location" -114, -18, -19.85
+}
+ObjProp 295 "Position"
+{
+	"Location" -124, -18, -19.85
+}
+ObjProp 1205 "Position"
+{
+	"Location" -130, -20, -19.85
+}
+ObjProp 1209 "Position"
+{
+	"Location" -134, -16, -19.85
+}
+ObjProp 1209 "Position"
+{
+	"Location" -134, -16, -19.85
+}
+ObjProp 1210 "Position"
+{
+	"Location" -136, -8, -19.85
+}
+ObjProp 1211 "Position"
+{
+	"Location" -144.1, -16, -19.85
+}
+ObjProp 1212 "Position"
+{
+	"Location" -152, -16, -19.85
+}

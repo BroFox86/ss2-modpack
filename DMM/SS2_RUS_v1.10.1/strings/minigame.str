@@ -1,0 +1,583 @@
+GameName1:"Слоты"  
+// "Slots"
+
+GameName2:"Супер Свин Турбо CE Альфа"  
+// "Super Pig Turbo CE Alpha"
+
+YouHave:"У тебя"  
+// "You Have"
+
+ComputerHas:"У Ксеркса"  
+// "Xerxes Has"
+
+Won:"Победа"  
+// "Won"
+
+Scored:"Счет"  
+// "Scored"
+
+YouScore:"Ты: %d"  
+// "You: %d"
+
+ComputerScore:"Ксеркс: %d"  
+// "Xerxes: %d"
+
+GameName3:"Свинопас"  
+// "Swinekeeper"
+
+SwineLose:"Ты наступил на зерно!\nИгра окончена."
+// "You stepped on the corn!\nGame over."
+
+SwineWin:"Ты нашел все зерно!  Ты выиграл!"  
+// "You found all the corn!  You win!"
+
+SwineStart:"Свиньи любят зерно. Не наступай на зерно!  Подними зерно."
+// "Corn attracts swine. Don't step on corn!  Flag the corn."
+
+GameName5:"Метание бекона"  
+// "Hurling Bacon"
+
+kb_score:"Бекон пойман: %d"  
+// "Bacon Caught: %d"
+
+kb_gameover:"Игра окончена"  
+// "Game Over"
+
+kb_missed:"Ты упустил кусок бекона"  
+// "You missed a piece of bacon."
+
+GameName6:"Свинтус"  
+// "Hog Wallow"
+
+ab_gameover:"Игра окончена"  
+// "Game Over"
+
+GameName4:"Всемирная Пустота"  
+// "OverWorld Zero"
+
+ow_stats_hp:"Здор: %d / %d"  
+// "Hp: %d / %d"
+
+ow_stats_gp:"Зол: %d"  
+// "GP: %d"
+
+ow_stats_lplus:"Уров: %d / %d"  
+// "Lvl: %d / %d"
+
+ow_stats_lnorm:"Уров: %d"  
+// "Level: %d"
+
+ow_stats_xp:"Экспа: %d"
+// "Xp: %d"
+
+ow_gameover:"Игра окончена"
+// "Game Over"
+
+ow_newlevel:"Текущий уровень %d."
+// "Now level %d."
+
+ow_gainxp:"Ты получил %dэкспы."
+// "You got %dxp."
+
+ow_goshrine:"Помолись в Храме на этом уровне"
+// "Pray at Shrine for level"
+
+ow_missed:"%s -промах."
+// "%s missed."
+
+ow_damage:"%s нанес(ла) %d ед. урона."
+// "%s did %d damage."
+
+ow_nodamage:"%s не нанес(ла) урона."
+// "%s did no damage."
+
+ow_youdied:"%s убил(а) тебя."
+// "A %s has killed you."
+
+ow_itdied:"%s умер(ла)."
+// "A %s has died."
+
+ow_gotgold:"Получено %d золота."
+// "Acquired %d gold."
+
+ow_impass:"Непроходимо"
+// "Impassable"
+
+ow_wereseen:"Тебя заметили."
+// "You were seen."
+
+ow_payheal:"Ты платишь %dзол за лечение."
+// "You pay %dgp to heal."
+
+ow_nocash:"У тебя нет %dзол."
+// "You don't have %dgp."
+
+ow_startpray:"Начинай молиться..."
+// "Begin praying..."
+
+ow_keeppray:"Омммммм..."
+// "Ommmmmm..."
+
+ow_stoppray:"Молитвы запрещены."
+// "Prayers abandoned."
+
+ow_moreturn:"Еще 256 ходов."
+// "Another 256 turns."
+
+ow_restart:"Рестарт..."
+// "Restarting..."
+
+ow_entergame:"Вход в Всемирную Пустоту."
+// "Entering OverWorld Zero."
+
+ow_resume:"Завершение игры..."
+// "Game Resuming..."
+
+ow_id_monst:"Это %s."
+// "It's a %s."
+
+ow_id_loot:"Ты видишь %dзол."
+// "You see %dgp."
+
+ow_id_terr:"Местность: %s."
+// "Terrain: %s."
+
+ow_get_exotic:"Твоя броня улучшена."
+// "Your armor is improved."
+
+ow_dragon:"Когда закончишь молитву, услышишь хлопанье крыльев Дракона."
+// "As you finish your prayer you hear the flapping of a Dragon's Wings."
+
+ow_stats_intro:"Ты видишь игрока."
+// "You see the Player."
+
+ow_stats_ac:"Защ: %d     Нет задания"
+// "Def: %d     No Quest"
+
+ow_stats_dmg:"Ты нанес %dd%d+%d ед. ущерба."
+// "You do %dd%d+%d damage."
+
+ow_stats_thaco:"Ты убил %d%% за все время."
+// "You hit %d%% of the time."
+
+ow_silent:"Они подозрительно молчаливы."
+// "They are strangely silent."
+
+ow_hello:"Имя? Работа? Пока."
+// "Name? Job? Bye."
+
+ow_wiseman_0:"Дракон начнет атаку, когда ты достигнешь 12-го уровня."
+// "The Dragon will attack when you reach 12th level."
+
+ow_wiseman_1:"Молись в храмах, чтобы повысить свой уровень."
+// "Pray at shrines for many turns to achieve your level."
+
+ow_wiseman_2:"Щелкни по себе правой кнопкой, чтобы посмотреть боевые параметры."
+// "Right-click on self to see combat stats."
+
+ow_wiseman_3:"Поищи близ озер Экзотическую Броню."
+// "Search near lakes for Exotic Armor."
+
+ow_wiseman_4:"Это еще хуже, чем дракон..."
+// "There is a worse threat than one Dragon..."
+
+ow_wiseman_bye:"Мне надо идти."
+// "Now, I must go."
+
+ow_monster_00:"Игрок"
+// "Player"
+
+ow_monster_01:"Гоблин"
+// "Goblin"
+
+ow_monster_02:"Безголовый"
+// "Headless"
+
+ow_monster_03:"Летучая мышь"
+// "Bat"
+
+ow_monster_04:"Свинья"
+// "Swine"
+
+ow_monster_05:"Тролль"
+// "Troll"
+
+ow_monster_06:"Дух"
+// "Ghost"
+
+ow_monster_07:"Морской Конь"
+// "PondSquid"
+
+ow_monster_08:"Демон"
+// "Demon"
+
+ow_monster_09:"Дракон"
+// "Dragon"
+
+ow_monster_10:"Мудрец"
+// "Wiseperson"
+
+ow_terrain_0:"Равнины"
+// "Plains"
+
+ow_terrain_1:"Лес"
+// "Forest"
+
+ow_terrain_2:"Гора"
+// "Mountain"
+
+ow_terrain_3:"Вода"
+// "Water"
+
+ow_terrain_4:"Деревня"
+// "Village"
+
+ow_terrain_5:"Город"
+// "City"
+
+ow_terrain_6:"Дорога"
+// "Road"
+
+ow_terrain_7:"Храм"
+// "Shrine"
+
+GameName8:"Тик-Так-ТриОп"
+// "Tic-Tac-Triop"
+
+ow_find_loot_3:"Ты откопал экзотическую броню!"
+// "You dug up the exotic armor!"
+
+find_loot_4:"Ты отыскал Мотыгу Разрушения!"
+// "You found the Hoe of Destruction!"
+
+ow_find_loot_5:"Ты отыскал волшебный щит."
+// "You found the magic shield."
+
+ow_find_loot_6:"Ты отыскал Легендарный Волшебный Меч!"
+// "You found the Legendary Magic Sword!"
+
+ow_find_loot_7:"Ты взял лечебное зелье."
+// "You take the healing potion."
+
+GameName7:"Уличная свинья"
+// "Street Hog"
+
+HoggerLose:"Хлюп!"
+// "Squish!"
+
+HoggerWin:"Уинк!"
+// "Oink!"
+
+HoggerScore:"Побед:%d"
+// "Wins:%d"
+
+ow_potion_used:"Ты выпил зелье."
+// "You drank the potion."
+
+minig_newscore:"Счет %d"
+// "Score Number %d"
+
+minig_topscore:"Новый рекорд!"
+// "A New High Score!"
+
+minig_youlose:"Не вошел в десятку."
+// "Score not in top 10."
+
+kb_score_form:"%d беконов изловлено"
+// "%d Bacon Caught"
+
+ab_score_form:"%d очков уровень %d"
+// "%d pts level %d"
+
+GameName9:"Охотник на свиней"
+// "Swine Hunter"
+
+sh_lives:"Жизни:"
+// "Lives:"
+
+sh_score:"Счет:"
+// "Score:"
+
+sh_gameover:"Игра окончена"
+// "Game Over"
+
+GameName10:"Свиноприемник"
+// "Pig Stacker"
+
+GameName11:"Ослосвин"
+// "Burro Hog"
+
+ow_id_city:"Ты видишь %s."
+// "You see %s."
+
+ow_getquest:"Доставь это к %s."
+// "Deliver this to %s."
+
+ow_doquest:"Спасибо за предложение."
+// "Thanks for the package."
+
+ow_nopotion:"У тебя нет зелья."
+// "You have no potions."
+
+ow_stats_acquest:"Защ:%d  Задание: %s"
+// "Def:%d  Quest: %s"
+
+ow_monster_11:"Гипнотизер"
+// "Gazer"
+
+ow_dragondead:"Когда дракон умирает, ты слышишь дальний гром, и темный ужас накрывает землю."
+// "As the dragon dies you hear a far off rumbling, and a dark dread covers the land."
+
+ow_win:"Ты убил всех четырех Драконов Стихий!  Ты принес земле мир!"
+// "You have slain all four elemental dragons!  You have brought peace to the land!"
+
+ow_merchant_1:"Поговори со мной еще раз, и я продам тебе зелье за 50 золотых."
+// "Talk to me again and I will sell you a potion for 50 gold."
+
+ow_merchant_2:"Вот твое зелье!  А я поищу лучшие рынки."
+// "Here is your potion!  I am off to find foreign markets."
+
+ow_wiseman_5:"Тролли наращивают свои силы..."
+// "The trolls are building their forces..."
+
+ow_snickers_1:"В храмах очень скучно.   Но ты привыкнешь!  Ля-ля-ля..."
+// "Shrines are very boring.   But there you'll practice warring!  La la la..."
+
+ow_snickers_2:"Я посеял мой легендарный меч, ты его не видел?  Ля-ля-ля..."
+// "I lost my legendary sword, have you seen it?  La la la..."
+
+ow_snickers_3:"Я слышал, экзотическая броня сделана из слез кальмара.  Ля-ля-ля..."
+// "I hear exotic armor is made from the tears of a pond squid.  La la la ..."
+
+ow_snickers_4:"Тебе нужно пить зелья!  Ля-ля-ля..."
+// "If you get drunk on potions, you might salt the fries!  La la la..."
+
+ow_snickers_5:"Хочешь сделать карьеру на разноске пакетов!  Ля-ля-ля..."
+// "Consider a career in the lucative field of package delivery!  La la la..."
+
+ow_snickers_6:"Имя!  Работа!  Пока!  Ля-ля-ля..."
+// "Name!  Job!  Bye!  La la la..."
+
+ow_snickers_7:"Тролли, повсюду тролли!  Ля-ля-ля..."
+// "Troll holes with whole rolls of trolls!  La la la ..."
+
+ow_snickers_8:"Ты не видел одежду профессора Дога?"
+// "Have you seen Professor Dog's tire?"
+
+ow_snickers_9:"Монстры ищут себе подобных!  Ля-ля-ля..."
+// "Monsters watch out for their own kind!  La la la..."
+
+ow_snickers_10:"Даже монстры не так внимательны, как ты!  Ля-ля-ля..."
+// "Even monsters don't have as much attention span as you do!  La la la..."
+
+ow_snickers_11:"Фнорд."
+// "Fnord."
+
+ow_snickers_12:"Шмитти говорит: 'Тащи кирпич!'  Ля-ля-ля..."
+// "Schmitty sez, 'Drag the Brick!'  La la la..."
+
+ow_snickers_13:"Я слышал, в Новой Атланте есть секретная баскетбольная площадка!  Ля-ля-ля..."
+// "I hear there is a secret basketball hidden in New Atlanta!  La la la..."
+
+ow_snickers_14:"Я слышал, там есть разные типы Драконов.  Ля-ля-ля..."
+// "I hear there is not just one kind of Dragon. La la la..."
+
+ow_snickers_15:"Они назвали меня чокнутым из школы менестрелей!  Ля-ля-ля..."
+// "They called me mad at bard school!  La la la..."
+
+ow_snickers_16:"Я слышал, что хлеб очень полезен.  Ля-ля-ля..."
+// "I hear baking bread is very profitable. La la la..."
+
+ow_snickers_17:"Некоторые вещи можно найти только если хорошенько поискать!  Ля-ля-ля..."
+// "Some things can only be found if you go looking for them!  La la la..."
+
+ow_snickers_18:"Крестьяне так бедны, что даже не могут позволить себе длинные имена!  Ля-ля-ля..."
+// "Villages are so poor, they can't even afford long names!  La la la..."
+
+ow_snickers_19:"В большом городе лечиться легче.  Ля-ля-ля..."
+// "Health care is more affordable in the big city.  La la la...."
+
+ow_snickers_20:"Героизм?  Но я просто встретил ее!  Ля-ля-ля..."
+// "Valor?  But I just met her!  La la la..."
+
+ow_lb_1:"Перекрытия в Храме Стихий сломаны!  Почини Храм и возвращайся ко мне."
+// "Seals on the elemental temple are broken!  Repair the temple, then return to me."
+
+ow_lb_2:"4 Дракона Стихий сбежали!  Ты должен убить их всех, чтобы наконец вернуть мир."
+// "4 Elemental Dragons have escaped!  You must slay them all to finally bring peace."
+
+TetrisScore:"Уровень: %d Счет: %d"
+// "Level: %d Score: %d"
+
+TetrisGameOver:"Игра окончена"
+// "Game Over"
+
+TetrisScoreForm:"%d очков счет %d"
+// "%d pts level %d"
+
+ow_snickers_0:"Оно тебя укусило!  Ля-ля-ля..."
+// "It's gonna bite you!  La la la...."
+
+ow_merchant_0:"Ты не можешь позволить себе зелье!  Я ухожу..."
+// "Hey, you cant afford a potion!  I'm outta here..."
+
+ow_monster_12:"Потрошитель"
+// "Reaper"
+
+ow_monster_13:"Мимик"
+// "Mimic"
+
+ow_monster_14:"Шныг"
+// "Lurker"
+
+ow_monster_15:"Слизь"
+// "Slime"
+
+ow_monster_16:"Летучая мышь"
+// "Mingbat"
+
+ow_monster_17:"Сникерс"
+// "Snickers"
+
+ow_monster_18:" 'LB'"
+// " 'LB'"
+
+ow_monster_19:"Торговец"
+// "Merchant"
+
+ow_temple:"Ты закрыл храм и понял, что 4 Дракона Стихий ушли!"
+// "You seal the temple, and realize the 4 Elemental Dragons are loose!"
+
+ow_terrain_8:"Лагерь монстров."
+// "Monster camp."
+
+ow_terrain_9:"Храм Стихий"
+// "The Elemental Temple"
+
+ow_destroycamp:"Ты разрушил лагерь монстров и отвел угрозу от земли."
+// "You raze the monster's camp, and it will stop threatening the land."
+
+ow_youwon:"Ты победил"
+// "You Won"
+
+ow_enrage:"Ближайшие монстры в ярости!"
+// "Nearby monsters are enraged!"
+
+ow_score_win:"выиграл ход %d L%d"
+// "won turn %d L%d"
+
+ow_score_lose:"уровень %d, %d ходов"
+// "level %d, %d turns"
+
+ow_id_loot_3:"Экзотическая броня"
+// "Exotic Armor"
+
+ow_id_loot_4:"Мотыга разрушения"
+// "Hoe of Destruction"
+
+ow_id_loot_5:"Магический щит"
+// "Magic Shield"
+
+ow_id_loot_6:"Магический меч"
+// "Magic Sword"
+
+ow_id_loot_7:"Лечебное зелье"
+// "Healing Potion"
+
+GameName12:"Гольф"
+// "Golf"
+
+gf_par_c_0:"454344453"
+
+gf_status:"Лунка %d удар %d при %+d"
+// "Hole %d Stroke %d At %+d"
+
+gf_sink_shot:"Попадает %d"
+// "Sinks it in %d"
+
+gf_hole_one:"Хороший удар!"
+// "A Hole in One!"
+
+gf_sink_2:"Попал в птичку"
+// "Drops in a birdie"
+
+gf_sink_1:"Орел!"
+// "An Eagle!"
+
+gf_sink_3:"Счет сравнялся"
+// "Makes Par"
+
+gf_sink_4:"О, класс"
+// "Oh, a Bogey"
+
+gf_sink_5:"Ого! Чудесно"
+// "Argh! A Double Bogey"
+
+gf_over:"Ты попал на %d выше"
+// "You were %d over"
+
+gf_under:"Ты попал на %d ниже"
+// "You were %d under"
+
+rc_score_form:"%d очков"
+// "%d Points"
+
+ow_id_camp:"Выглядит как логово %s"
+// "Looks like a %s lair"
+
+ow_id_drag_0:"Дракон древней горы"
+// "The Ancient Mountain Dragon"
+
+ow_id_drag_1:"Дракон древней воды"
+// "The Ancient Water Dragon"
+
+ow_id_drag_2:"Дракон древнего леса"
+// "The Ancient Forest Dragon"
+
+ow_id_drag_3:"Дракон древней дороги"
+// "The Ancient Road Dragon"
+
+ow_spell_1:"Огненный шар"
+// "Fireball"
+
+ow_spell_2:"Волшебный Дротик"
+// "Magical Dart"
+
+ow_wiseman_6:"Смерть или победа - вот твой единственный способ выбраться из Всемирной Пустоты."
+// "Death and Victory are your only escape from OverWorld."
+
+ow_wiseman_7:"Всемирная Пустота закрыта, возвращайся."
+// "The OverWorld is hosed, come on down."
+
+gf_dist:"%dm"
+// "%dm"
+
+ow_score_long_win:"Решил Всемирную Пустоту за \n%d ходов, уровень %d\n%dgp %dxp"
+// "Solved OverWorld\n%d turns, level %d\n%dgp %dxp"
+
+ow_score_long_lose:"Убит за %s\n%d ходов, уровень %d\n%dgp %dxp"
+// "Killed by a %s\n%d turns, level %d\n%dgp %dxp"
+
+gf_score_long:"Закончил %+d (%d выстрелов)\n"
+// "Ended %+d (%d shots)\n"
+
+ow_tomb_1:" ____"
+ow_tomb_2:"/     \\   {*}"
+ow_tomb_3:"| R I P |    |"
+ow_tomb_4:"|_____|__\\|/__"
+
+gf_status_3line:"Лунка %d\nУдар %d\nПри %+d"
+// "Hole %d\nStroke %d\nAt %+d"
+
+gf_water:"Всплеск! Штрафной удар"
+// "Splash! Penalty Stroke"
+
+gf_oob:"Аут"
+// "Out of Bounds"
+
+gf_show_par:"Равенство:"
+// "Par:"
+
+ow_stats_hp_short:"Жз:%d/%d"
+// "Hp:%d/%d"
+

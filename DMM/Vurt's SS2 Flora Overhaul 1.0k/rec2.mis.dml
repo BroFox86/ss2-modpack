@@ -1,0 +1,46 @@
+DML1
+
+// lets make sure the OM dmls are loaded only for OMS, and nothing else
+FINGERPRINT
+{
+   503 [-233.682 -212.545 -23]
+   1289 [-239.076 -202.044 -21.9052]
+   1333 [-201.658 -177.397 -19.1932]
+   1293 [-254.531 -140.747 -24.928]
+   714 [-258.127 -135.928 -19.8609]
+   233 [8.15881 -163.446 -3.16406]
+   171 [-239.419 -134.798 -23]
+   721 [-244.437 -144.387 -6.56267]
+   760 [-78.9117 -52.1386 -19.5113]
+   761 [-85.0766 -52.0627 -19.5113]
+}
+FINGERPRINT
+{
+   QVAR "scplevel" == 1
+}
+// use chainless model for this bunch
++ObjProp 1282 "ModelName"
+{
+	"" planth2
+}
++ObjProp 1207 "ModelName"
+{
+	"" planth2
+}
++ObjProp 1208 "ModelName"
+{
+	"" planth2
+}
+// moving SCP specific pipes
+-ObjProp 1539 "PhysType"
+ObjProp 1539 "Position"
+{
+	"Location" -220.942, -105.957, 1.57
+}
++ObjProp 1539 "Scale" = 1, 0.5, 1
+-ObjProp 1540 "PhysType"
+ObjProp 1540 "Position"
+{
+	"Location" -243.16, -103.713, 1.47
+}
++ObjProp 1540 "Scale" = 1, 0.5, 1

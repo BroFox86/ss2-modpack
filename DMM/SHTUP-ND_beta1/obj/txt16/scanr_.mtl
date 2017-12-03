@@ -1,0 +1,15 @@
+ani_frames 1
+force_ani_settings 1
+render_material_only 1
+no_mipmap 1
+
+render_pass {
+	texture $TEXTURE
+	uv_mod scroll 0 1.15
+}
+
+render_pass {
+	texture $TEXTURE
+	blend ONE ONE
+	uv_mod scroll 0 0.4
+}

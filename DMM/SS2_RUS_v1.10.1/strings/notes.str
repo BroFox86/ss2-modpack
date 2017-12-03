@@ -1,0 +1,339 @@
+Note_1_11:"Припасы находятся на складе 4, код: 59004."
+NoteOrder_1_11:"1"
+//"Supplies are in utility storage 4, code: 59004."
+
+
+Note_1_6:"Код доступа в ин-\nженерную рубку - в грузовом отсеке 2."
+NoteOrder_1_6:"2"
+//"The code for Engineering Control is in Cargo Bay 2."
+
+
+Note_1_8:"Код доступа в ин-\nженерную рубку: 15061."
+NoteOrder_1_8:"3"
+//"The code for Engineering Control is 15061."
+
+
+Note_1_13:"Найди способ произ-\nвести коррекцию на комп. упр. насосами."
+NoteOrder_1_13:"4"
+//"Find a way to override the Fluidics Computer."
+
+
+Note_1_10:"Возьми у-во 45m/dEx на резервн. складе 5, код: 34760."
+NoteOrder_1_10:"5"
+//"Get unit 45m/dEx from aux. storage 5, code: 34760."
+
+
+Note_1_9:"Установи устройство 45m/dEx в команд-\nной рубке."
+NoteOrder_1_9:"6"
+//"Install unit 45m/dEx in Command Control."
+
+
+Note_1_7:"Исп. комп. упр. насо-\nсами в инж. рубке д/очист. коридоров."
+NoteOrder_1_7:"7"
+//"Use Fluidics Computer in Eng. Control to purge the tubes."
+
+
+Note_1_2:"Очисти коридоры от радиации, чтобы по-\nпасть к гл. реактору."
+NoteOrder_1_2:"8"
+//"Purge radiation from coolant tubes to re-open Engine Core."
+
+
+Note_1_4:"Перезапусти правую гондолу двигателя."
+NoteOrder_1_4:"9"
+//"Reset Starboard Engine Nacelle."
+
+
+Note_1_3:"Перезапусти левую гондолу двигателя."
+NoteOrder_1_3:"10"
+//"Reset Port Engine Nacelle."
+
+
+Note_1_5:"Перезапусти глав-\nный энергокомпью-\nтер."
+NoteOrder_1_5:"11"
+//"Reset Main Power Computer."
+
+
+Note_1_1:"Включи подачу энер-\nгии с реактора, что-\nбы запустить лифты."
+NoteOrder_1_1:"12"
+//"Reset Main Power at the Engine Core to restart elevators."
+
+
+Note_1_14:"Отправляйся на 4-ю палубу для встречи с доктором Полито."
+NoteOrder_1_14:"13"
+//"Get to Deck 4 to meet Dr. Polito."
+
+
+Note_1_12:"Установи главный реактор на пере-\nгрузку, код: 94834."
+NoteOrder_1_12:"14"
+//"Set the Engine Core to overload, code: 94834."
+
+
+Note_2_2:"Пройди через аварийный шлюз."
+NoteOrder_2_2:"202"
+//"Get through a secure airlock."
+
+
+Note_2_10:"Заряди аккумулятор, чтобы открыть дверь в Мед. крыло."
+NoteOrder_2_10:"204"
+//"Recharge the power cell and use it to open the door to Medical."
+
+
+Note_2_9:"Возьми карту экипа-\nжа у Грасси в Мед-\nотсеке, у Биопсии."
+NoteOrder_2_9:"205"
+//"Get a Crew card from Grassi.  He's near Biopsy in Medical."
+
+
+Note_2_5:"Найди каюту докто-\nра Уоттса в отсеке экипажа."
+NoteOrder_2_5:"206"
+//"Find Dr. Watts' room in the Crew sector."
+
+
+Note_2_3:"Ищи д-ра Уоттса в его офисе в отсеке И & Р."
+NoteOrder_2_3:"207"
+//"Look for Dr. Watts in his office in R&D"
+
+
+Note_2_6:"Узнай у д-ра Уоттса код доступа к слу-\nжебной шахте."
+NoteOrder_2_6:"208"
+//"Get the Maintenance Access Shaft code from Dr. Watts."
+
+
+Note_2_7:"Код доступа к слу-\nжебной шахте: 12451."
+NoteOrder_2_7:"209"
+//"The code for the Maintenance Access Shaft is 12451."
+
+
+Note_2_1:"Отправляйся на 4-ю палубу для встречи с доктором Полито."
+NoteOrder_2_1:"210"
+//"Get to Deck 4 to meet Dr. Polito."
+
+
+Note_2_8:"Код доступа к оружейной: 98383."
+NoteOrder_2_8:"211"
+//"The code to the Armory is 98383."
+
+
+Note_3_2:"Найди и исследуй Токсин-А."
+NoteOrder_3_2:"302"
+//"Find and Research Toxin-A."
+
+
+Note_3_3:"Помести Токсин-А во все 4 климатических регулятора."
+NoteOrder_3_3:"303"
+//"Place Toxin-A in all 4 Environmental Regulators."
+
+
+Note_3_1:"Очисти шахту лифта от биомассы."
+NoteOrder_3_1:"304"
+//"Clear the biomaterial from the elevator shaft."
+
+
+Note_3_4:"Отправляйся на 4-ю палубу для встречи с доктором Полито."
+NoteOrder_3_4:"305"
+//"Get to Deck 4 to meet Dr. Polito."
+
+
+Note_4_6:"Код доступа к оружию: 13433."
+NoteOrder_4_6:"401"
+//"Weapons lockup code is 13433."
+
+
+Note_4_2:"Перепрограммируй три моделирующих устройства."
+NoteOrder_4_2:"402"
+//Note_4_2:"Reprogram the three Sim Units."
+
+
+Note_4_5:"Малик поставил ловушку у модели-\nрующего устр-ва 3."
+NoteOrder_4_5:"403"
+//Note_4_5:"Malick has booby-trapped Sim Unit 3."
+
+
+Note_4_4:"Отправляйся на палубу развлечений."
+NoteOrder_4_4:"404"
+//Note_4_4:"Go to the Recreation Deck"
+
+
+Note_4_3:"Отправляйся на командную палубу."
+NoteOrder_4_3:"405"
+//Note_4_3:"Go to the Command Deck."
+
+
+Note_4_1:"Найди код к малой оружейной отсека МедНаука2."
+NoteOrder_4_1:"406"
+//Note_4_1:"Find the passcode for the MedSci2 sub armory."
+
+
+Note_4_8:"Создай канал доступа к базам данных из Ком. Центра."
+NoteOrder_4_8:"407"
+//Note_4_8:"Create a data access channel from the Command Center."
+
+
+Note_4_9:"Иди к главному реактору на инже-\nнерной палубе."
+NoteOrder_4_9:"408"
+//Note_4_9:"Go to the Engine Core on the Engineering Deck."
+
+
+Note_5_8:"Экзооружие на 2-м этаже в крыле экипажа. Код: 11111."
+NoteOrder_5_8:"501"
+//Note_5_8:"An exotic weapon is on Level 2 of the Crew Annex, code 11111."
+
+
+Note_5_6:"Код доступа к слу-\nжебному туннелю сада: 34093."
+NoteOrder_5_6:"502"
+//Note_5_6:"The code for the Garden maintenance tunnel is 34093."
+
+
+Note_5_5:"Рубильник освещ. баскет. площадки - рядом с бассейном."
+NoteOrder_5_5:"503"
+//Note_5_5:"A circuit breaker for the basketball court lights is near the pool."
+
+
+Note_5_4:"Запусти передатчик кодом, скрытым в арт-терминалах."
+NoteOrder_5_4:"504"
+//Note_5_4:"Activate Transmitter with code hidden in art terminals."
+
+
+Note_5_7:"Найди передатчик и включи его."
+NoteOrder_5_7:"505"
+//Note_5_7:"Find the Transmitter and activate it."
+
+
+Note_5_2:"Возвращайся на палубу управления."
+NoteOrder_5_2:"506"
+//Note_5_2:"Return to the Ops Deck."
+
+
+Note_5_3:"Отправляйся на командную палубу."
+NoteOrder_5_3:"507"
+//Note_5_3:"Go to the Command Deck."
+
+
+Note_5_10:"Найден код арт-терминала: [1."
+NoteOrder_5_10:"510"
+
+
+Note_5_11:"Найден код арт-терминала: 4."
+NoteOrder_5_11:"511"
+
+
+Note_5_12:"Найден код арт-терминала: 6]."
+NoteOrder_5_12:"512"
+
+
+Note_5_13:"Найден код арт-терминала: 10."
+NoteOrder_5_13:"513"
+
+
+Note_5_14:"Код передатчика: 14106."
+NoteOrder_5_14:"514"
+
+
+Note_6_1:"Найди карту дос-\nтупа к коррекции управления."
+NoteOrder_6_1:"601"
+//Note_6_1:"Find the Ops Override access card."
+
+
+Note_6_3:"Иди в командный центр на палубе управления."
+NoteOrder_6_3:"602"
+//Note_6_3:"Go to the Command Center on the Ops Deck."
+
+
+Note_6_5:"Встреться с д-ром Делакруа в груз. отсеке А."
+NoteOrder_6_5:"603"
+//Note_6_5:"Meet Dr. Delacroix in cargo bay A."
+
+
+Note_6_11:"Код доступа в пункт охраны: 83273."
+NoteOrder_6_11:"604"
+//Note_6_11:"The code for the Security Station is 83273."
+
+
+Note_6_10:"Карта доступа к че-\nлнокам -в пункте СБ в каютах офицеров."
+NoteOrder_6_10:"605"
+//Note_6_10:"The Shuttle card is in the Security Station in the Officers' Quarters."
+
+
+Note_6_12:"Отключи защ. поле вокруг челноков из рубки управления."
+NoteOrder_6_12:"606"
+//Note_6_12:"Deactivate the shields around the shuttles from the Control Chamber."
+
+
+Note_6_13:"После отключения защитного поля уничтожь челноки."
+NoteOrder_6_13:"607"
+//Note_6_13:"Once the shields are down, destroy the shuttles."
+
+
+Note_6_6:"Чтобы получить сим. резонатор, взломай репликатор в рубке."
+NoteOrder_6_6:"608"
+//Note_6_6:"Hack the shuttle control rep. to get a Sympathetic Resonator."
+
+
+Note_6_7:"Подключи сим. резо-\nнатор к генератору защ. поля... и беги!"
+NoteOrder_6_7:"609"
+//Note_6_7:"Attach the Sympathetic Resonator to the Shield Generator... and run!"
+
+
+Note_6_9:"Уничтожь челноки \nна этой палубе."
+NoteOrder_6_9:"610"
+//Note_6_9:"Destroy the shuttles on this deck."
+
+
+Note_6_14:"Отправляйся на \"Рикенбакер\" через стыковочный узел на центральной станции поезда."
+NoteOrder_6_14:"611"
+//Note_6_14:"Go to the Rickenbacker via the central tram station."
+
+
+Note_7_4:"Уничтожь все яйца."
+NoteOrder_7_4:"701"
+//Note_7_4:"Destroy all the eggs."
+
+
+Note_7_8:"Карта доступа к Гондоле B - за проломом в корпусе."
+NoteOrder_7_8:"702"
+//Note_7_8:"The access card for Nacelle B is beyond the hull breach."
+
+
+Note_7_2:"Иди в гондолу B двигателя."
+NoteOrder_7_2:"703"
+//Note_7_2:"Go to Engine Nacelle B."
+
+
+Note_7_6:"Реверсируй гравитр. генераторы, чтобы пройти в отсек 2."
+NoteOrder_7_6:"704"
+//Note_7_6:"Reverse the Gravitronic Generators in order to safely access Pod 2."
+
+
+Note_7_3:"Отправляйся в отсек 2."
+NoteOrder_7_3:"705"
+//Note_7_3:"Proceed to Pod 2."
+
+
+Note_7_1:"Встреться с капитаном Диего в лазарете."
+NoteOrder_7_1:"706"
+//Note_7_1:"Meet Captain Diego in the sick bay."
+
+
+Note_7_9:"Диего спрятал в своей каюте что-то важное."
+NoteOrder_7_9:"707"
+//Note_7_9:"Diego hid something useful in his quarters."
+
+
+Note_7_7:"Используй спасат. шлюпку на мостике, чтобы атаковать Множество."
+NoteOrder_7_7:"708"
+//Note_7_7:"Use the escape pod on the bridge to attack the Many."
+
+
+Note_8_1:"Двери-сфинктеры управляются нерв-\nными узлами."
+NoteOrder_8_1:"801"
+//Note_8_1:"The sphincter doors are controlled by the nerve clusters."
+
+
+Note_8_2:"У Множества есть центральная нервная система... найди и уничтожь ее!"
+NoteOrder_8_2:"802"
+//Note_8_2:"The Many has a centralized nervous system... find and destroy it!"
+
+
+Note_9_1:"Останови SHODAN... как угодно..."
+NoteOrder_9_1:"901"
+//Note_9_1:"Stop SHODAN... somehow..."
+

@@ -1,0 +1,54 @@
+DML1
+
+// lets make sure the OM dmls are loaded only for OMS, and nothing else
+FINGERPRINT
+{
+   852 [119.58 -610.71 -27.35]
+   857 [121.51 -604.94 -27.35]
+   861 [124.51 -594.94 -27.35]
+   856 [131.63 -599.69 -27.35]
+   858 [131.72 -589.75 -27.35]
+   862 [125.51 -581.94 -27.35]
+   859 [127.68 -576.44 -27.35]
+   864 [121.51 -569.94 -27.35]
+   865 [118.51 -560.94 -27.35]
+   860 [126.45 -560.13 -28.35]
+}
+//fixing the corpse positions
+ObjProp 44 "Position"
+{
+	"Location" 7.88871, -720.868, 18.4533
+	"Heading" 6bbe
+	"Pitch" fb08
+	"Bank" 378
+}
++ObjProp 354 "ModelName"
+{
+	"" corpse_f
+}
+ObjProp 354 "Position"
+{
+	"Location" -64.5552, -690.532, -30.7
+	"Heading" 78f5
+	"Pitch" fc80
+	"Bank" 0
+}
+ObjProp 354 "CretPose"
+{
+	"Motion" humdieup3
+}
++ObjProp 152 "ModelName"
+{
+	"" crpsf_arm
+}
++ObjProp 152 "Scale"
+{
+	"" 1, 0.9, 1
+}
+ObjProp 152 "Position"
+{
+	"Location" -65.6512, -685.371, -31.7
+	"Heading" 6eaf
+	"Pitch" 8000
+	"Bank" 0
+}

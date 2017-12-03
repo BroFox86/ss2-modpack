@@ -1,0 +1,1 @@
+// Part of the following texture sets://	MSG	C_DUCT5//	MsgTest	MC0006terrain_scale 64render_material_only 1render_pass	{	texture FAM\_ACC\C_DUCT5	shaded 1	}

@@ -1,0 +1,479 @@
+EmailName15:"ПОЛИТО 12.ИЮЛ.14\nКорабль поврежден\n"
+EmailPortrait15:"Polito"
+EmailIcon15:"OpsIcon"
+EmailText15:"Осторожно... я получаю странные данные с того радара за окном.  Положение становится нестабильным из-за... Быстро! В укрытие!\n"
+
+//EmailName15:"POLITO 12.JUL.14\nre: Ship damage\n"
+//EmailPortrait15:"Polito"
+//EmailIcon15:"OpsIcon"
+//EmailText15:"Watch out... I'm getting strange readings from that radar dish outside the window.  It's become unstable due to... Move! Take cover!\n"
+
+
+
+EmailName1:"ПОЛИТО 12.ИЮЛ.14\nДекомпрессия отсека\n"
+EmailPortrait1:"Polito"
+EmailIcon1:"OpsIcon"
+EmailText1:"Весь этот отсек разгерметизирован, защитное анти-вакуумное поле долго не протянет.  Доберись до аварийного шлюза, покуда тебя не вытянуло в космос.  Давай!\n"
+
+//EmailName1:"POLITO 12.JUL.14\nre: Sector depressurizing\n"
+//EmailPortrait1:"Polito"
+//EmailIcon1:"OpsIcon"
+//EmailText1:"The entire sector is depressurizing and the blue vacuum shield won't last long.  Get through a secure airlock before you are sucked into space.  Move it!\n"
+
+
+
+EmailName2:"ПОЛИТО 12.ИЮЛ.14\nКоды\n"
+EmailPortrait2:"Polito"
+EmailIcon2:"OpsIcon"
+EmailText2:"Некоторые из этих дверей закрыты кодовыми замками.  Перед тобой - тело человека из обслуживающего персонала этого отсека.  Возможно, при нем есть код.  Нечего брезговать, обыщи его.  Ему уже все равно.\n"
+
+//EmailName2:"POLITO 12.JUL.14\nre: Keycodes\n"
+//EmailPortrait2:"Polito"
+//EmailIcon2:"OpsIcon"
+//EmailText2:"Some of these doors are sealed off by keycode locks.  The body in front of you belongs to the maintenance man for this sector.  He probably has the number on him.  Don't be squeamish about searching his body.  He won't mind.\n"
+
+
+
+EmailName9:"ПОЛИТО 12.ИЮЛ.14\nЗаряди аккумулятор\n"
+EmailPortrait9:"Polito"
+EmailIcon9:"OpsIcon"
+EmailText9:"Этот аккумулятор разряжен.  Рядом с тобой должна быть станция перезарядки... просто используй ее, и она зарядит все энергозависимые устройства, которые у тебя есть.  Когда зарядишь аккумулятор, вставь его в вспомогательную силовую установку.  Это должно открыть дверь шлюза.  Поторапливайся, вакуумные уплотнения долго не продержатся.\n"
+
+//EmailName9:"POLITO 12.JUL.14\nre: Dead power cell\n"
+//EmailPortrait9:"Polito"
+//EmailIcon9:"OpsIcon"
+//EmailText9:"This power cell is dead.  There should be a recharger nearby... just use it and it will recharge all the power-driven devices in your possession.  After you've recharged the cell, plug it into the auxiliary power unit.  That should open the airlock door.  Be quick about it, the vacuum seals won't hold up much longer.\n"
+
+
+
+EmailName21:"ПОЛИТО 12.ИЮЛ.14\nУстройства апгрейда\n"
+EmailPortrait21:"Polito"
+EmailIcon21:"OpsIcon"
+EmailText21:"Отлично.  Ты сумел уйти до полной разгерметизации отсека.  Я только что загрузила тебе несколько кибер-модулей.  Можешь использовать их для апгрейда своей кибер-оснастки в устройствах апгрейда в этом отсеке.  В следущем помещении находятся четыре типа устройств, по одному на каждую из подсистем твоего кибер-снаряжения: основные способности, псионика, оружие и технические навыки.  Но используй модули аккуратно... их трудно получить.\n"
+
+//EmailName21:"POLITO 12.JUL.14\nre: Upgrade units\n"
+//EmailPortrait21:"Polito"
+//EmailIcon21:"OpsIcon"
+//EmailText21:"Good.  You've managed to get out before the whole area depressurized.  I've just uploaded you some cybernetic modules.  You can use them to upgrade your cybernetic rig at the upgrade units in this area.  There are four types of units in the next room, one for each subsystem of your cybernetic gear: stats, psi, weapons and tech.  But use the modules carefully... they're hard to come by.\n"
+
+
+
+EmailName13:"ПОЛИТО 12.ИЮЛ.14\nКибер-модули\n"
+EmailPortrait13:"Polito"
+EmailIcon13:"OpsIcon"
+EmailText13:"Эти кибер-модули используются для улучшения индивидуальных подсистем твоего психогенного совершенствования.  Помни, существует 4 типа устройств апгрейда, так что не трать все кибер-модули в одном из них, если только ты не хочешь сфокусировать твое аппаратное обеспечение в одной области.\n"
+
+//EmailName13:"POLITO 12.JUL.14\nre: Cyber upgrade units\n"
+//EmailPortrait13:"Polito"
+//EmailIcon13:"OpsIcon"
+//EmailText13:"These cybernetic modules are used to enhance individual subsystems of your neural enhancements.  Remember, there are 4 unique types of upgrade units, so don't spend all of your cyber modules on one unless you are sure you want to focus your hardware in that particular area.\n"
+
+
+
+EmailName3:"ПОЛИТО 12.ИЮЛ.14\nЗапустить лифты\n"
+EmailPortrait3:"Polito"
+EmailIcon3:"OpsIcon"
+EmailText3:"Этот тупой компьютер Ксеркс обесточил лифт.  Ты можешь подать энергию с главного реактора на 1-й палубе, это снова запустит лифт.  Но ты не можешь использовать лифт, чтобы спуститься туда.  Подожди-ка... рядом по коридору есть вход в какую-то служебную шахту.  Ты можешь воспользоваться ей, чтобы попасть на 1-ю палубу. Однако, вход закрыт, и Ксеркс скрывает от меня код доступа.  Доктор Уоттс должен знать этот код.  Возможно, он в отсеке экипажа.  У Грасси есть ключ-карта от входа туда, но он в медотсеке, вероятно, где-то поблизости от лаборатории биопсии.  Направляйся в медотсек и найди Грасси.\n"
+
+//EmailName3:"POLITO 12.JUL.14\nre: Fixing the elevators\n"
+//EmailPortrait3:"Polito"
+//EmailIcon3:"OpsIcon"
+//EmailText3:"That insipid computer Xerxes has shut down the elevator as well.  You can transfer power at the engine core on deck 1, which will get the elevator up and running again. But you can't use the elevator to get down there.  Wait... there's some kind of maintenance access right on this hallway.  You can use it to reach deck one.  However, it's locked and Xerxes is hiding the passcode from me.  Dr. Watts should have the code.  He's probably in the Crew sub-section.  Grassi has the key to get in there, but he's in the Medical sub-section, probably near the biopsy lab.  Now get to the Medical sub-section and find Grassi.\n"
+
+
+
+EmailName17:"ПОЛИТО 12.ИЮЛ.14\nПитание двери\n"
+EmailPortrait17:"Polito"
+EmailIcon17:"OpsIcon"
+EmailText17:"Проклятье.  Питание перестало поступать, и эта переборка тоже не открывается.  А в медотсек можно пройти только здесь.  Подбери с пола батарею и найди станцию перезарядки.  Та, которую ты использовал раньше, боюсь, теперь уже в полном вакууме, но на этой палубе должна быть еще одна.  Когда зарядишь батарею, помести ее во вспомогательную систему открывания двери.\n"
+
+//EmailName17:"POLITO 12.JUL.14\nre: Powering the door\n"
+//EmailPortrait17:"Polito"
+//EmailIcon17:"OpsIcon"
+//EmailText17:"Damn.  The power outage has also taken out access to this bulkhead.  It's the only way to get to the Medical subsection.  Pick up the battery from the floor and find a recharger.  The one you used before is in hard vacuum now, I'm afraid, but there should be another one on this deck.  Once you get the battery recharged, place it in the auxiliary override.\n"
+
+
+
+EmailName19:"ПОЛИТО 12.ИЮЛ.14\nБиореконструкция\n"
+EmailPortrait19:"Polito"
+EmailIcon19:"OpsIcon"
+EmailText19:"На большинстве палуб ты сможешь найти квантовые устройства биореконструкции.  Ксеркс вырубил все, но я по очереди включаю их.  Ты должен взаимодействовать с каждой такой машиной поблизости от тебя, чтобы получить квантовый образец.  Как только ты сделаешь это, устройство будет способно восстановить твое тело почти из ничего.  Приятного мало, но это лучше, чем медленное разложение.\n"
+
+//EmailName19:"POLITO 12.JUL.14\nre: Bio-reconstruction\n"
+//EmailPortrait19:"Polito"
+//EmailIcon19:"OpsIcon"
+//EmailText19:"On most decks, you'll find a quantum bio-reconstruction device.  Xerxes shut them all down, but I've discretely put them back online.  You'll need to interface with each machine locally to provide a quantum entanglement sample.  Once you do that, the device will be able to rebuild your body essentially from scratch.  It's not pleasant, but it's preferable to slow decomposition.\n"
+
+
+
+EmailName10:"ПОЛИТО 12.ИЮЛ.14\nОхранная система\n"
+EmailPortrait10:"Polito"
+EmailIcon10:"OpsIcon"
+EmailText10:"Ксеркс взял под контроль охранную систему корабля.  Избегай или уничтожай все камеры охраны, которые увидишь.  А если сумеешь - взламывай охранные терминалы, чтобы отключить камеры.  Только не испорти все дело, иначе сам вызовешь тревогу.  Твой труп мне без надобности.\n"
+
+//EmailName10:"POLITO 12.JUL.14\nre: The security system\n"
+//EmailPortrait10:"Polito"
+//EmailIcon10:"OpsIcon"
+//EmailText10:"Xerxes has control of the ship's security system.  Avoid or destroy any security cameras you see.  You can hack security computers to power down the cameras too, if you're good enough.  But don't botch the job, or you'll set off the alarm yourself.  Your corpse is useless to me.\n"
+
+
+
+EmailName22:"ПОЛИТО 12.ИЮЛ.14\nСклады химикатов\n"
+EmailPortrait22:"Polito"
+EmailIcon22:"OpsIcon"
+EmailText22:"На каждой палубе есть хранилище химикатов, где ты можешь найти все необходимое для исследования артефактов, подобранных на корабле.  Не пытайся унести все химикаты за раз.  Это не практично, и в этом нет необходимости.  Твой исследовательский софт скажет, какой химикат нужен... и когда.\n"
+
+//EmailName22:"POLITO 12.JUL.14\nre: Chemical stores\n"
+//EmailPortrait22:"Polito"
+//EmailIcon22:"OpsIcon"
+//EmailText22:"Each deck has a chemical store room where you can find the resources you need to research the artifacts you'll find around the ship.  Don't try to carry around all the chemicals at once.  It's impractical and unnecessary.  Your research software will tell you what chemicals it needs... and when.\n"
+
+
+
+EmailName4:"ПОЛИТО 12.ИЮЛ.14\nДоступ к Уоттсу\n"
+EmailPortrait4:"Polito"
+EmailIcon4:"OpsIcon"
+EmailText4:"Отлично, ты сумел попасть в медотсек.  Теперь найди Грасси и возьми ключ-карту от отсека экипажа.  Он - именно тот, кто наблюдал за твоим крио-сном, и, может быть, захочет присоединиться к тебе... если его еще не выпотрошили.\n"
+
+//EmailName4:"POLITO 12.JUL.14\nre: Watts' access card\n"
+//EmailPortrait4:"Polito"
+//EmailIcon4:"OpsIcon"
+//EmailText4:"Good, you've managed to get into Med.  Now find Grassi and get the keycard to the crew sector.  He's the one who monitored your cryo-sleep, so he might be interested in joining you... if he hasn't been butchered yet.\n"
+
+
+
+EmailName7:"ПОЛИТО 12.ИЮЛ.14\nКлюч-карта к И&Р\n"
+EmailPortrait7:"Polito"
+EmailIcon7:"OpsIcon"
+EmailText7:"Отлично, вот ты и в отсеке экипажа.  Теперь найди каюту доктора Уоттса...\n"
+
+//EmailName7:"POLITO 12.JUL.14\nre: Keycard to R&D\n"
+//EmailPortrait7:"Polito"
+//EmailIcon7:"OpsIcon"
+//EmailText7:"Good, you've made it into the crew sector.  Now find Dr. Watts' room...\n"
+
+
+
+EmailName20:"ПОЛИТО 12.ИЮЛ.14\nПризраки\n"
+EmailPortrait20:"Polito"
+EmailIcon20:"OpsIcon"
+EmailText20:"Ты можешь заметить некоторые странные явления.  Твоя кибер-оснастка военного образца снабжена экспериментальным улучшением, которое теоретически может обнаруживать фоновые психические эманации.  Эти эманации обычно исходят от недавно умерших.  Литературно это называется призраками.  Я называю их самогипнотическими дефектами в приборе военного образца.  Не позволяй им отвлекать тебя от дела.\n"
+
+//EmailName20:"POLITO 12.JUL.14\nre: Ghosts\n"
+//EmailPortrait20:"Polito"
+//EmailIcon20:"OpsIcon"
+//EmailText20:"You might witness some strange phenomena.  Your R-grade cyber rig has an experimental perception enhancement that can theoretically detect residual psychic emanations.  These emanations traditionally come from the recently dead.  Literature might call them ghosts.  I call them self-hypnotic defects in the R-grade unit.  Don't let it distract you from the job at hand.\n"
+
+
+
+EmailName5:"ПОЛИТО 12.ИЮЛ.14\nВзлом репликаторов\n"
+EmailPortrait5:"Polito"
+EmailIcon5:"OpsIcon"
+EmailText5:"Ты можешь взломать этот репликатор, чтобы получить непредусмотренные материалы.  Пользуйся этим и любыми другими доступными средствами, чтобы попасть на 4-ю палубу.  Это совсем не игра.\n"
+
+//EmailName5:"POLITO 12.JUL.14\nre: Hacking replicators\n"
+//EmailPortrait5:"Polito"
+//EmailIcon5:"OpsIcon"
+//EmailText5:"You can hack this replicator to get at the unauthorized materials.  Use this and any means possible to get up to deck 4.  This isn't a game.\n"
+
+
+
+EmailName18:"ПОЛИТО 12.ИЮЛ.14\nКарта к отсеку И&Р\n"
+EmailPortrait18:"Polito"
+EmailIcon18:"OpsIcon"
+EmailText18:"Уоттса тут нет, возможно, он у себя в кабинете, в отсеке И&Р.  Может быть, он оставил здесь запасную карту для доступа в отсек И&Р.  Посмотри-ка кругом.\n"
+
+//EmailName18:"POLITO 12.JUL.14\nre: R&D card\n"
+//EmailPortrait18:"Polito"
+//EmailIcon18:"OpsIcon"
+//EmailText18:"Watts isn't here, so he's probably in his office in the R&D sector.  Maybe he's got a backup R&D card in here.  Take a look around.\n"
+
+
+
+EmailName14:"ПОЛИТО 12.ИЮЛ.14\nНайди д-ра Уоттса\n"
+EmailPortrait14:"Polito"
+EmailIcon14:"OpsIcon"
+EmailText14:"Доктор Уоттс жив и находится у себя в кабинете.  Он должен знать код доступа к служебной шахте.  Торопись... он сильно ранен.  Не дай ему умереть до того, как он скажет тебе номер!\n\n"
+
+//EmailName14:"POLITO 12.JUL.14\nre: Find Dr. Watts\n"
+//EmailPortrait14:"Polito"
+//EmailIcon14:"OpsIcon"
+//EmailText14:"Dr. Watts is alive and in his office.  He should know the code to the maintenance access shaft.  Hurry... he's been badly wounded.  Don't let him die before he tells you that number!\n\n"
+
+
+
+EmailName6:"ПОЛИТО 12.ИЮЛ.14\nДоступ к 1-й палубе\n"
+EmailPortrait6:"Polito"
+EmailIcon6:"OpsIcon"
+EmailText6:"Не трать время понапрасну.  Спускайся по этой шахте на инженерную палубу и перезапусти главный реактор.  Это возобновит подачу энергии к лифту, и ты сможешь попасть на 4-ю палубу.  Шевелись!\n"
+
+//EmailName6:"POLITO 12.JUL.14\nre: Access to Deck 1\n"
+//EmailPortrait6:"Polito"
+//EmailIcon6:"OpsIcon"
+//EmailText6:"Do not waste time patting yourself on the back.  Get down to that shaft to Engineering and reset the primary reactor core.  That will restore power to the elevator and you will  be able to get up to deck 4.  Get going!\n"
+
+
+
+LogName32:"Хим. декларация:\nМедНаука\n"
+LogPortrait32:"Chem"
+LogIcon32:"MedIcon"
+LogText32:"Опись лабораторного хранилища: Хранилище 143 в \"МедНауке\"\n\nСурьма (Sb) : 2\nБарий (Ba) : 1\nКалифорний (Cf) : 2\nФермий (Fm) : 2\nГаллий (Ga) : 1\nИридий (Ir) : 2\nОсмий (Os) : 1\nТехнеций (Tc) : 1\nТеллур (Te) : 2\nИттрий (Y) : 2\n\nЭтот инвентарный список требуется по инструкции UNN #134882 по безопасности химических хранилищ.  \"Хранилище\" определяется инструкцией безопасности UNN #195331 как место, в котором опасные химикаты  (см. инструкцию #093355) хранятся в количестве, большем чем 50 г на 10 кв. футов в течение более 24-х часов.\n"
+
+//LogName32:"Chemical Manifest:\nMedSci\n"
+//LogPortrait32:"Chem"
+//LogIcon32:"MedIcon"
+//LogText32:"Laboratory Stockroom Inventory: Med/Sci Stockroom 143\n\nAntimony (Sb) : 2\nBarium (Ba) : 1\nCalifornium (Cf) : 2\nFermium (Fm) : 2\nGallium (Ga) : 1\nIridium (Ir) : 2\nOsmium (Os) : 1\nTechnetium (Tc) : 1\nTellurium (Te) : 2\nYttrium (Y) : 2\n\nThis inventory list is required by UNN Safety Code #134882 to be kept on hand in all areas of hazardous chemical storage.  \"Storage\" is defined by UNN Safety Code #195331 to consist of all areas in which hazardous chemicals (see Safety Code #093355) are stored in quantities greater than 50g per 10 square feet, for durations of greater than 24 hours.\n"
+
+
+
+LogName18:"ДИЕГО 17.МАР.14\nНе доставай меня\n"
+LogPortrait18:"Diego"
+LogIcon18:"RickIcon"
+LogText18:"Кому: Анатолию Коренчкину\nАнатолий, меня уже тошнит от этой корпоративной болтологии, давай-ка поговорим начистоту.  Мы не любим друг друга.  У каждого из нас есть свои причины принять участие в этой миссии.  Я хочу предупредить тебя.  Меня нельзя обмануть, обвести вокруг пальца, мною нельзя манипулировать, и меня нельзя купить.  Обращайся ко мне прямо и оставь свои увертки для следующей встречи с экипажем.  Если мой отец плавал с акулами, еще не значит, что я буду делать то же самое.\n"
+
+//LogName18:"DIEGO 17.MAR.14\nre: Yanking my chain\n"
+//LogPortrait18:"Diego"
+//LogIcon18:"RickIcon"
+//LogText18:"To: Korenchkin, Anatoly\nAnatoly, there's only so much corporate calisthenics I can go through before I start to feel a little queasy, so let's get down to brass tacks here.  We don't like each other.  We each have our own motivations for undertaking this mission,  so let me give you a little warning.  I cannot be circumvented, I cannot be tricked, I cannot be manipulated, and I cannot be bought.  You come at me straight and keep the fancy maneuvers for your next board meeting.  Just because my father swam with the sharks doesn't mean that I do.\n"
+
+
+
+LogName21:"ДЕЛАКРУА 04.АПР.14\nКсеркс\n"
+LogPortrait21:"Delacroix"
+LogIcon21:"EngIcon"
+LogText21:"Почему меня никто не слушает?  Протоколы безопасности системы \"Ксеркс\" очень несовершенны.  Прошлой ночью какой-то идиот вломился в главную базу данных и заставил Ксеркса в течение трех часов распевать песни Элвиса Пресли.  В конце концов, мне пришлось отключить голосовую подсистему.  А что если бы у этого человека на самом деле были дурные намерения?\n"
+
+//LogName21:"DELACROIX 04.APR.14\nre: Xerxes\n"
+//LogPortrait21:"Delacroix"
+//LogIcon21:"EngIcon"
+//LogText21:"Why is it that no one listens to me?  The security protocols on the Xerxes system are clearly immature.  Some idiot hacked into the primary data loop last night and made Xerxes sing Elvis Presley songs for three hours.  I finally had to pull the voice sub-system off line.  What would happen if someone with a real agenda got into him?\n"
+
+
+
+LogName22:"ГРАССИ 12.МАЙ.14\nЧертовы шимпанзе\n"
+LogPortrait22:"Grassi"
+LogIcon22:"MedIcon"
+LogText22:"Взять на борт 150 шимпанзе - чья это была идея?  Интересы науки?  А как насчет интересов гигиены?  Кто-нибудь подумал, сколько дерьма получается за день от 150-ти подопытных обезьян?  Бедные шимпанзе... им довелось участвовать в самой грандиозной миссии всех времен и народов, а они закончат свои деньки, будучи порезанными на мелкие кусочки, и все это - во имя прогресса.\n"
+
+//LogName22:"GRASSI 12.MAY.14\nre: Damn chimps\n"
+//LogPortrait22:"Grassi"
+//LogIcon22:"MedIcon"
+//LogText22:"Whose idea was it to bring 150 chimpanzees on board anyway?  The interests of science?  What about the interests of hygiene?  Does anybody have any idea how much crap 150 lab monkeys make in a day?  The poor chimps... they come on board for the most historic mission of all time, and they end up being chopped into little pieces in the name of progress.\n"
+
+
+
+LogName6:"КОРЕНЧКИН 14.ИЮН.14\nПервый контакт\n"
+LogPortrait6:"Korench"
+LogIcon6:"ComIcon"
+LogText6:"Кому: Владимиру Жукову\nМы поймали передачу с поверхности Тау Кита 5.  Я вел переговоры с Диего, капитаном \"Рикенбакера\", и после некоторого... давления он согласился совершить совместную высадку.  Только представь, эта историческая миссия может стать еще более исторической.  Первый контакт.  И кто будет обладать эксклюзивными правами на все медиа-материалы, патенты и предоставление земель?  Три-Оптимум.  Володя, я тебе говорил, овчинка стоит выделки.\n"
+
+//LogName6:"KORENCHKIN 14.JUN.14\nre: First contact\n"
+//LogPortrait6:"Korench"
+//LogIcon6:"ComIcon"
+//LogText6:"To: Zhukov, Vladimir\nWe have picked up a transmission from the surface of Tau Ceti 5.  I have been in negotiation with Captain Diego of the Rickenbacker and after some... coercion, he's agreed to go planetside as a joint venture.  Imagine, this historic mission might even become more historic.  First Contact.  And who is there to get exclusive rights to all media, patents and land grants?  TriOptimum.  Miri, I told you this would be worth it.\n"
+
+
+
+LogName19:"СУАРЕС 20.ИЮН.14\nЧто за пытка!\n"
+LogPortrait19:"Suarez"
+LogIcon19:"RickIcon"
+LogText19:"Кому: Ребекке Сиддонс\nАх... ты просто потрясная, ты хоть знаешь об этом?  Я тут решил было испытать, как долго смогу не думать о тебе.  Вот же идиот.  Я люблю тебя, Ребекка.  И у меня есть идея.  Я уговорил капитана перевести меня с \"Рикенбакера\" в команду добровольцев на \"Фон Брауне\".  Скоро-скоро мы будем неразлучны.\n"
+
+//LogName19:"SUAREZ 20.JUN.14\nre:100% Torture\n"
+//LogPortrait19:"Suarez"
+//LogIcon19:"RickIcon"
+//LogText19:"To: Siddons, Rebecca\nWow... you are incredible, do you know that?  I made this game where I tried to make myself not think about you.  What a moron.  I love you, Rebecca.  And I've got a plan.  I've been buttering up the captain to transfer me from the Rickenbacker to the goodwill team on the Von Braun.  Pretty soon, nothing will keep us apart.\n"
+
+
+
+LogName1:"ГРАССИ 20.ИЮН.14\nПеретрудился\n"
+LogPortrait1:"Grassi"
+LogIcon1:"MedIcon"
+LogText1:"Примерно в 04:30 меня позвали помочь разгрузить челнок, возвратившийся с Тау Кита.  В нем прилетел Коренчкин.  Боже мой, что с ним случилось?  Он потерял почти все волосы, и надо было видеть эти вздутия у него на шее.  И этот запах.  Я сказал ему, что он должен обратиться к доктору Уоттсу, а он мне - чтобы я не лез не в свое дело.  Ну, начальству видней.\n"
+
+//LogName1:"GRASSI 20.JUN.14\nre: All work, no play\n"
+//LogPortrait1:"Grassi"
+//LogIcon1:"MedIcon"
+//LogText1:"I got called up around 0430 to help unload the shuttle coming back from Tau Ceti.  Korenchkin was there alone.  Jesus, what the hell happened to him?  He'd lost most of his hair, and you could see these lumps on the side of his neck.  And that smell.  I told him he should go see Dr. Watts, but he told me to mind my own business.  Well, la-dee-da.\n"
+
+
+
+LogName12:"ПОЛИТО 25.ИЮН.14\nСтранный ИИ\n"
+LogPortrait12:"Polito"
+LogIcon12:"OpsIcon"
+LogText12:"Кому: Д-ру Марии Делакруа\nМария... прошу прощения, что не выходила на связь, я работала с тем артефактом, который Бэйлисс притащил с Тау Кита 5.  Я провела анализ третьего уровня... думаю, это какая-то разновидность искуственного интеллекта.  Мне удалось вытащить обрывок аудио-файла из его памяти... послушай сама... Мария... думаю, он говорит по-английски...\n"
+
+//LogName12:"POLITO 25.JUN.14\nre: Strange AI\n"
+//LogPortrait12:"Polito"
+//LogIcon12:"OpsIcon"
+//LogText12:"To: Delacroix, Dr. Marie\nMarie... I'm sorry I've been out of touch, but I've been working on that artifact Bayliss brought back from Tau Ceti 5.  I've done a level 3 analysis on it...  I think it's some kind of Artificial Intelligence.  I've managed to pull an audio tag file out of its memory...  I'll let you be the judge...  Marie... I think it's speaking English...\n"
+
+
+
+LogName23:"ГРАССИ 26.ИЮН.14\nПрава животных?\n"
+LogPortrait23:"Grassi"
+LogIcon23:"MedIcon"
+LogText23:"С тех пор, как мы достигли Тау Кита, подопытные обезьяны ведут себя очень странно.  Сестра Лоссэр достала одну из клетки, чтобы отнести ее на вивисекцию, а оставшиеся, я имею в виду, вся остальная группа, встали на ноги и завыли.  Это не было случайной выходкой, это был протест.\n"
+
+//LogName23:"GRASSI 26.JUN.14\nre: Animal rights?\n"
+//LogPortrait23:"Grassi"
+//LogIcon23:"MedIcon"
+//LogText23:"Ever since we reached Tau Ceti, the lab monkeys have been acting strangely.  Nurse Loesser picked one out of a cage to be brought in for vivisection and the rest of them, I mean the entire group, stood up on their legs and howled.  This wasn't just a random display, it was a protest.\n"
+
+
+
+LogName24:"УОТТС 30.ИЮН.14\nЧушь\n"
+LogPortrait24:"Watts"
+LogIcon24:"MedIcon"
+LogText24:"Кому: Анжеле Лоссэр\nАнжела, хотя и кажется, что подопытные обезьяны общаются между собой, уверяю вас, это невозможно.  Вы утверждаете, что одна обезьяна жестами показала другой код для шкафа с припасами, и та отправилась открывать его.  Как вы, конечно, знаете, были проведены десятки тысяч исследований разума приматов, и даже намека на такой уровень не было выявлено.  Так что либо вы в одиночку превзошли всю кучу психологов, наблюдающих за поведением животных, либо вам позарез нужен отдых.\n"
+
+//LogName24:"WATTS 30.JUN.14\nre: Nonsense\n"
+//LogPortrait24:"Watts"
+//LogIcon24:"MedIcon"
+//LogText24:"To: Loesser, Angela\nAngela, while it may appear that the lab monkeys are communicating with each other, I assure you it's quite impossible.  You claim that one monkey signed the passcode for a supply closet to another and the latter proceeded to open it.  As I'm sure you know, there have literally been tens of thousands of studies of primate intelligence and there is no evidence of behavior even remotely that sophisticated.  So either you've single handedly trumped the entire field of animal behaviorists or you're badly in need of a vacation.\n"
+
+
+
+LogName9:"УОТТС 01.ИЮЛ.14\nПациент Уотсон\n"
+LogPortrait9:"Watts"
+LogIcon9:"MedIcon"
+LogText9:"После возвращения с поверхности Тау Кита 5 у пациента появились многочисленные неизвестные ранее симптомы, подтверждаемые воспаленными бугристыми опухолями и присутствием большого червеобразного паразита.  Сегодня утром паразит вышел через грудь пациента... изнутри... и присосался одним своим концом к его лбу.  Если я удалю его, я могу убить парня.  Если я оставлю его...  Окончательный диагноз: черт меня подери.  Хотел бы я сообщить об этом Мадорски из Центрального Медицинского Центра, но он, к несчастью, в 67-и триллионах миль отсюда.\n"
+
+//LogName9:"WATTS 01.JUL.14\nre: Patient Watson\n"
+//LogPortrait9:"Watts"
+//LogIcon9:"MedIcon"
+//LogText9:"Since returning from the Surface of Tau Ceti 5, patient has experienced numerous novel phenomena, evidenced by inflammatory nodular growth and the presence of a large worm-like parasite.  This morning, the parasite penetrated the subject's chest... from the inside... and attached one end of itself to the subject's forehead.  If I remove it, I could kill the kid. If I leave it...  Final Diagnosis: beats the hell out me.  I'd love to refer this to Madorsky at CDC, but unfortunately, he's 67 trillion miles away.\n"
+
+
+
+LogName15:"КЕРТИЦ 02.ИЮЛ.14\nАнтирад. шприц-тюбики\n"
+LogPortrait15:"Curtiz"
+LogIcon15:"EngIcon"
+LogText15:"Медики сообщили, что понаделали в репликаторе целую кучу антирадиационных шприц-тюбиков.  Я заберу их и раздам инженерному персоналу, пока никто не подкинет идеи получше.  Еще Уоттс просил меня посмотреть репликатор в комнате отдыха экипажа... говорит, это просто рай для хакеров.\n"
+
+//LogName15:"CURTIZ 02.JUL.14\nre: Rad Hypos\n"
+//LogPortrait15:"Curtiz"
+//LogIcon15:"EngIcon"
+//LogText15:"Medical tells me they've replicated a whole bunch of Rad Hypos.  I'm gonna pick those up and distribute them to the engineering staff unless anyone gets a better idea.  Watts also asked me to check on the replicator in the crew lounge... he says it's a hacker's paradise.\n"
+
+
+
+LogName4:"КЕРТИЦ 06.ИЮЛ.14\nУтечки охладителя\n"
+LogPortrait4:"Curtiz"
+LogIcon4:"EngIcon"
+LogText4:"Кому: Д-ру Марии Делакруа\nМария, я должен ограничить доступ к инженерной палубе, пока мы не придумаем, что еще можно сделать.  Там уже вовсю припекает.  Не знаю, куда подевались все костюмы химзащиты, поэтому все, что я могу, - подкинуть антирадиационных шприц-тюбиков.  У меня голова трещит от всего этого.\n"
+
+//LogName4:"CURTIZ 06.JUL.14\nre: Coolant leaks\n"
+//LogPortrait4:"Curtiz"
+//LogIcon4:"EngIcon"
+//LogText4:"To:  Delacroix, Dr. Marie\nMarie, I've got to restrict access to Engineering until we can figure out what to do down there.  It's just too hot.  I don't know where all the Hazard Suits went, so I'm reduced to bringing down an armful of Rad Hypos.  Those damn things always give me a headache.\n"
+
+
+
+LogName7:"ГРАССИ 07.ИЮЛ.14\nИмплантанты\n"
+LogPortrait7:"Grassi"
+LogIcon7:"MedIcon"
+LogText7:"Кому: Д-ру Джэнис Полито\nЭй, док... тут нарисовался охранный робот с вашим распоряжением поместить этого солдата в крио-камеру.  Я не кибер-доктор, но узнаю заводскую работу, когда ее вижу.  Я полагаю, что кибер-штучки военного образца запрещены после того случая на станции Цитадель... но, эй, я ж тут просто работаю, ведь так?\n"
+
+//LogName7:"GRASSI 07.JUL.14\nre: Implant job\n"
+//LogPortrait7:"Grassi"
+//LogIcon7:"MedIcon"
+//LogText7:"To: Polito, Dr. Janice\nHey, doc... a security bot showed up with orders from you to place this grunt into the recovery freezer.  I'm no cyberdoc, but I know a plant job when I see one.  I suppose you know they outlawed R-grade cyber-goodies after that fiasco back on Citadel Station... but, hey, I just work here, right?\n"
+
+
+
+LogName20:"АМАНПУР 07.ИЮЛ.14\nНовый код\n"
+LogPortrait20:"Amanpour"
+LogIcon20:"MedIcon"
+LogText20:"Прекрасно.  Опять надо поменять коды доступа к выходу из отсека Крио-A!  Можно подумать, мне больше нечем заняться.  Думаю, Грасси просто нравится придумывать мне работу.  Установлю новый код на 45100.  Это будет достаточно легко запомнить.\n"
+
+//LogName20:"AMANPOUR 07.JUL.14\nre: New code\n"
+//LogPortrait20:"Amanpour"
+//LogIcon20:"MedIcon"
+//LogText20:"Great.  I've got to change the access codes out of Cryo A again!  Like I've got nothing better to do.  I think Grassi just likes to make work for me.  I'll set the new code to 45100.  That should be easy enough to remember.\n"
+
+
+
+LogName10:"УОТТС 07.ИЮЛ.14\nПациент Уотсон, ч. 2\n"
+LogPortrait10:"Watts"
+LogIcon10:"MedIcon"
+LogText10:"Пациент Уотсон умер в 02:40 по непонятной причине.  Несмотря на отсутствие дыхания и функционирования мозга, тело все еще проявляет автономные моторные функции.  Похоже на паразита.  В 08:47 пациент даже еще разговаривал с одной из сестер.  Вскрытие назначено на 16:30, посмотрим, что заставляет этого Лазаря шевелиться...\n"
+
+//LogName10:"WATTS 07.JUL.14\nre: Patient Watson, pt. 2\n"
+//LogPortrait10:"Watts"
+//LogIcon10:"MedIcon"
+//LogText10:"Patient Watson died at 0240 of non-specific causes.  Despite zero respiratory and brain function, the body is still displaying autonomous motor function, as does the parasite.  At 0847, the patient even spoke to one of the nurses.  Autopsy is set for 1630 and then we'll see what makes this Lazarus tick...\n"
+
+
+
+LogName5:"КЕРТИЦ 07.ИЮЛ.14\nМало нам проблем\n"
+LogPortrait5:"Curtiz"
+LogIcon5:"EngIcon"
+LogText5:"Не могу связаться с Делакруа... вся эта махина летит в тартарары... люди из моей команды продолжают исчезать.  Утечки в вентиляционных шахтах перекрыли главный канал доступа... это значит, что нам придется пользоваться вспомогательной энергосистемой, покуда мы не приведем все в порядок.  Это значит, что ВСЕ лифты не работают... Мария, куда ты подевалась, черт бы тебя побрал?!\n"
+
+//LogName5:"CURTIZ 07.JUL.14\nre: More trouble\n"
+//LogPortrait5:"Curtiz"
+//LogIcon5:"EngIcon"
+//LogText5:"I've been unable to get in touch with Delacroix... this place is falling apart... members of my team keep disappearing.  The leaks in the venting shafts shorted out the primary access channel... and that means we'll all be on auxiliary power until we can get it back up.  That means ALL the lifts are out... Marie, where the hell are you?\n"
+
+
+
+LogName8:"КЕРТИЦ 07.ИЮЛ.14\nЛифты вырублены\n"
+LogPortrait8:"Curtiz"
+LogIcon8:"EngIcon"
+LogText8:"Мне некого отправить вниз, на инженерную палубу.  Лифты вырублены, и мне придется самому спуститься туда по аварийной шахте в Научном крыле.  Скорее всего, код доступа - в лаборатории Уоттса.\n"
+
+//LogName8:"CURTIZ 07.JUL.14\nre: Lifts are out\n"
+//LogPortrait8:"Curtiz"
+//LogIcon8:"EngIcon"
+//LogText8:"I can't raise anybody down in Engineering.  With the lifts out, I'll need to get down there through the emergency conduit in the Sci Annex.  I think the access code is in Watts' lab.\n"
+
+
+
+LogName14:"УОТТС 07.ИЮЛ.14\nСлужебная шахта\n"
+LogPortrait14:"Watts"
+LogIcon14:"MedIcon"
+LogText14:"Кому: Хуану Кертицу\nВсе впорядке, успокойся... код доступа к шахте - 12451.  У меня в 16:30 назначено вскрытие, но почему бы нам потом не выпить пивка на палубе развлечений.  Как думаешь?\n"
+
+//LogName14:"WATTS 07.JUL.14\nre: Maintenance conduit\n"
+//LogPortrait14:"Watts"
+//LogIcon14:"MedIcon"
+//LogText14:"To: Curtiz, Juan\nAll right, calm down already... the access code to the conduit is 12451.  I've got an autopsy at 1630, but let's grab a beer on the Recreation Deck afterwards.  Sound good?\n"
+
+
+
+LogName16:"ТЕРНБУЛЛ 07.ИЮЛ.14\nПравила\n"
+LogPortrait16:"Turnbull"
+LogIcon16:"OpsIcon"
+LogText16:"Провалиться бы этой Бронсон со своими идиотскими правилами!  Опять она изменила код к малой оружейной в МедНауке 2.  Теперь мне придется топать на 4-ю палубу, чтобы его узнать... Ох, подавится она гранатой в один прекрасный день...\n"
+
+//LogName16:"TURNBULL 07.JUL.14\nre: Procedures\n"
+//LogPortrait16:"Turnbull"
+//LogIcon16:"OpsIcon"
+//LogText16:"Goddamn Bronson and her stupid procedures.  She's changed the code on the MedSci 2 sub armory again. Now I've got to head back up to deck 4 to find out what it is...  Somebody's gonna frag her but good some day...\n"
+
+
+
+LogName11:"УОТТС 07.ИЮЛ.14\nВскрытие Уотсона\n"
+LogPortrait11:"Watts"
+LogIcon11:"MedIcon"
+LogText11:"Время - 16:30.  Вскрываемый: \nА. Уотсон.  Сейчас мы делаем первый надрез в... держите его, сестра!  Сестра!  Держите его!  Ааа!  Эй!  АААААА!!!\n"
+
+//LogName11:"WATTS 07.JUL.14\nre: Watson autopsy\n"
+//LogPortrait11:"Watts"
+//LogIcon11:"MedIcon"
+//LogText11:"The time is 1630.  Autopsy subject: A. Watson.  Now we're going to make the first incision in... hold him down nurse!  Nurse!  Hold him down!  Aahhh!!!  Hey!  AAAHHH!!!\n"
+
+
+
+LogName2:"ДЕЛАКРУА 08.ИЮЛ.14\nПоторопились\n"
+LogPortrait2:"Delacroix"
+LogIcon2:"EngIcon"
+LogText2:"Кому: Анатолию Коренчкину\nЭту миссию надо было отложить до того, как мы покинули Землю.  Мы не можем справиться с утечками охладителя на 1-й палубе.  Я распорядилась доставить туда костюмы химзащиты.  Знаю, ты решишь, что это вызовет панику, но это все-таки лучше, чем если все будут страдать от радиации, ведь так?\n"
+
+//LogName2:"DELACROIX 08.JUL.14\nre: Not ready\n"
+//LogPortrait2:"Delacroix"
+//LogIcon2:"EngIcon"
+//LogText2:"To: Korenchkin, Anatoly\nThis mission should have been scrubbed before it left Earth.  We've been unable to contain the reactant coolant leaks on deck 1.  I've put an order requiring Hazard Suits down there.  I know you think this will cause a panic, but it's better than giving everybody radiation sickness, don't you think?\n"
+
+

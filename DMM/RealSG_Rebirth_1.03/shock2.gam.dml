@@ -1,0 +1,87 @@
+DML1
+
+//first, hybrid shotgun needs scale fixed
++ObjProp -4073 "Scale"
+{
+	"" 0.7, 0.7, 0.7
+}
+//and normal shotgun as well
++ObjProp -19 "Scale"
+{
+	"" 0.7, 0.7, 0.7
+}
+//lets shrink all shotguns already placed in levels
+ObjProp -19 "Scripts"
+{
+	"Script 0" ShotgunModify
+	"Script 1" NVRemovePropertyTrap
+	"Script 2" ""
+	"Script 3" ""
+}
++ObjProp -19 "ObjList"
+{
+	"" NVRemovePropertyTrapOn="BeginScript"; NVRemovePropertyTrapProp="Scale"; NVRemovePropertyTrapReAdd=1; NVRemovePropertyTrapCount=1;
+}
+//add all the required scripts for the hybrid
++ObjProp -396 "Scripts"
+{
+	"Script 0" NVRelayTrap2
+	"Script 1" NVRelayTrap3
+	"Script 2" NVRelayTrap4
+	"Script 3" NVCreateAndLink3
+}
+//setting up the dummy shotgun
++ObjProp -1377 "Scale"
+{
+	"" 0.7, 0.7, 0.7
+}
++ObjProp -1377 "ModelName"
+{
+	"" sg_w
+}
++ObjProp -1377 "PhysType"
+{
+	"Type" None
+}
++ObjProp -1377 "FrobInfo"
+{
+	"World Action" None
+}
++ObjProp -1377 "HUDSelect"
+{
+	"" False
+}
+//relay trap2 will spawn the hybrid shotgun upon init signal (must be placed on -396 to make sure this is compatible with the Shotgun Flash mod, but only -175 OG-shotgun receives the init so all should be good. and signal the shotgun when hybrid changes states with relay trap3 and 4)
++ObjProp -396 "ObjList"
+{
+	"" NVRelayTrap2On="BeginScript"; NVRelayTrap2Off="Null"; NVRelayTrap2TDest="*OG-Shotgun"; NVRelayTrap2TOn="Init"; NVRelayTrap2OnDelay=500; NVRelayTrap2TCount=1; NVRelayTrap3On="Slain"; NVRelayTrap3Off="null"; NVRelayTrap3TDest="&Contains"; NVRelayTrap3TOn="shotlink"; NVRelayTrap3OnDelay=10; NVRelayTrap4On="shotfrob"; NVRelayTrap4Off="null"; NVRelayTrap4TDest="&~DetailAttachement"; NVRelayTrap4TOn="shotkill"; NVCreateAndLink3On="Init"; NVCreateAndLink3Count=1; NVCreateAndLink3Create="Broken Shotgun"; NVCreateAndLink3LinkType="~DetailAttachement"; NVCreateAndLink3LinkData1Field="Type"; NVCreateAndLink3LinkData1Value="2"; NVCreateAndLink3LinkData2Field="vhot/sub #"; NVCreateAndLink3LinkData2Value="0"; NVCreateAndLink3LinkData3Field="joint"; NVCreateAndLink3LinkData3Value="10"; NVCreateAndLink3LinkData4Field="rel pos"; NVCreateAndLink3LinkData4Value="-0.1, -1.1, -0.15"; NVCreateAndLink3LinkData5Field="rel rot"; NVCreateAndLink3LinkData5Value="2.00, 282.00, 182.00";
+}
+//now the script for the dummy hybrid shotgun
++ObjProp -1377 "Scripts"
+{
+	"Script 0" NVSlayMeTrap
+	"Script 1" ""
+	"Script 2" ""
+	"Script 3" ""
+}
++ObjProp -1377 "ObjList"
+{
+	"" NVSlayMeTrapOn="shotkill";
+}
+//add scripts and objlist on hybrid shotgun
++ObjProp -4073 "Scripts"
+{
+	"Script 0" ShotgunModify
+	"Script 1" TrashedShotgun
+	"Script 2" NVLinkBuilder
+	"Script 3" NVRelayTrap
+}
++ObjProp -4073 "ObjList"
+{
+	"" NVLinkBuilderOn="shotlink"; NVLinkBuilderOff="null"; NVLinkBuilderLinkType="~ScriptParams"; NVLinkBuilderLinkSource=[Source]; NVLinkBuilderLinkDest="[Me]"; NVRelayTrapOn="Contained"; NVRelayTrapTDest="&?ScriptParams"; NVRelayTrapKillLinks=1; NVRelayTrapTOn="shotfrob"; NVRelayTrapOff="null";
+}
+//and change the hybrid model name to make sure the empty handed model will show
+ObjProp -175 "ModelName"
+{
+	"" grunt_ns
+}

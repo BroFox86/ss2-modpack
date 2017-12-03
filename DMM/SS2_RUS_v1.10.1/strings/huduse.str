@@ -1,0 +1,137 @@
+Air_Recirculator:"Вставить Токсин-А"  
+//"Insert Toxin-A"
+
+Bridge_Button:"Активация мостика"   
+//"Activate bridge"
+
+button:"Нажать кнопку"   
+//"Press button"
+
+Button_p2:"Нажать кнопку"  
+//"Press button"
+
+card_slot:"Использовать слот для карты доступа"   
+//"Use access card slot"
+
+Card_Slot_Box:"Установить плату коррекции"   
+//"Install hardware override"
+
+computers:"Доступ к терминалу"   
+//"Access computer"
+
+containers:"Обыскать контейнер"   
+//"Search container"
+
+Crane_Button:"Активация крана"   
+//"Activate crane"
+
+DefaultPickup:"Щелкни правой кнопкой мыши, чтобы подобрать"   
+//"Right-click to pick up"
+
+DefaultUse:"Щелкни правой кнопкой мыши, чтобы использовать"   
+//"Right-click to use"
+
+Elevator_Button:"Нажать кнопку"   
+//"Press button"
+
+Eng_Comp:"Активация компьютера инженерной коррекции"   
+//"Activate Engineering Override Computer"
+
+Engineering_Comp:"Активация компьютера инженерной коррекции"   
+//"Activate Engineering Override Computer"
+
+Fluidic_Comp:"Активация компьютера управления насосами"   
+//"Activate Fluidics Control Computer"
+
+Grav_Button:"Реверс энергетической решетки"   
+//"Reverse power grid"
+
+human_corpses:"Обыскать труп"   
+//"Search corpse"
+
+keypad:"Ввести код"   
+//"Enter code"
+
+lever:"Потянуть за рычаг"   
+//"Pull lever"
+
+Light_Button:"Включить освещение баскетбольной площадки"   
+//"Reset lights on basketball court"
+
+Master_Power_Comp:"Активация главного энергокомпьютера"   
+//"Activate Master Power Computer"
+
+med_bed:"Использовать хирургический прибор"   
+//"Use surgical unit"
+
+medsci_power:"Включить подачу энергии"   
+//"Restore power"
+
+Nacelle_Comp_1:"Активация компьютера левой гондолы"   
+//"Activate Port Nacelle Computer"
+
+Nacelle_Comp_2:"Активация компьютера правой гондолы"   
+//"Activate Starboard Nacelle Computer"
+
+Ops_Comp:"Активация компьютера коррекции управления"   
+//"Activate Ops Override Computer"
+
+PartialMedBed:"Установить ключ активации хирургич. прибора"   
+//"Install surgical unit activation key"
+
+psi_trainer:"Доступ к устройству пси-апгрейда"   
+//"Access Psi Upgrade Unit"
+
+Recharging_Station:"Активация станции перезарядки"   
+//"Activate recharger"
+
+shield_computer:"Деактивация  защитного поля челнока"   
+//"Deactivate shuttle shield"
+
+Shuttle_Button:"Запуск спасательной шлюпки"   
+//"Launch escape pod"
+
+SimComps:"Перепрограммирование компьютера моделирования"   
+//"Reprogram simulation computer"
+
+stats_trainer:"Доступ к устройству апгрейда основных способностей"   
+//"Access Stats Upgrade Unit"
+
+tech_trainer:"Доступ к устройству технического апгрейда"   
+//"Access Tech Upgrade Unit"
+
+Training_Button:"Щелкни правой кнопкой мыши, чтобы повторить монолог тренинга"   
+//"Right-click to replay training speech"
+
+training_wheel_1:"Щелкни правой кнопкой мыши, чтобы обыскать тело"   
+//"Right-click to search body"
+
+training_wheel_2:"Щелкни правой кнопкой мыши, чтобы нажать кнопку"   
+//"Right-click to press button"
+
+training_wheel_3:"Щелкни правой кнопкой мыши, чтобы воспользоваться слотом для карты"   
+//"Right-click to use card slot"
+
+training_wheel_4:"Щелкни правой кнопкой мыши, чтобы перезарядить все"   
+//"Right-click to recharge all items"
+
+training_wheel_5:"Щелкни правой кнопкой мыши, чтобы подобрать карту"   
+//"Right-click to pick up card"
+
+training_wheel_6:"Щелкни правой кнопкой мыши, чтобы воспользоваться инфо-терминалом"   
+//"Right-click to use information kiosk"
+
+training_wheel_7:"Щелкни правой кнопкой мыши, чтобы ввести код"   
+//"Right-click to enter code"
+
+trait_machine:"Доступ к устройству апгрейда OS"   
+//"Access OS Upgrade Unit"
+
+Tram_Button:"Запуск поезда"   
+//"Start tram"
+
+Transmitter_Tower_Off:"Активация башни передатчика"   
+//"Activate Transmitter Tower"
+
+weapon_trainer:"Доступ к устройству апгрейда оружия"   
+//"Access Weapons Upgrade Unit"

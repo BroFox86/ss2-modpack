@@ -1,0 +1,29 @@
+AssaultRifle:"Уменьшает время перезарядки."
+//"Decrease reload time."
+
+EMP:"Повышает запас энергии на 50%."
+//"Increase energy storage capacity by 50%."
+
+Fusion:"Повышает емкость батарей."
+//"Increase battery size."
+
+GrenLauncher:"Увеличивает вместимость обоймы."
+//"Increase clip size."
+
+laser:"Повышает запас энергии на 50%."
+//"Increase energy storage capacity by 50%."
+
+Pistol:"Увеличивает вместимость обоймы с 12-и до 24-х."
+//"Increase clip size from 12 to 24."
+
+Shotgun:"Уменьшает время перезарядки."
+//"Decrease reload time."
+
+Stasis_Field_Generator:"Увеличивает скорострельность на 100%."
+//"Increase shot speed by 100%."
+
+Viral_Prolif:"Увеличивает вместимость обоймы."
+//"Increase clip size."
+
+Worm_Launcher:"Увеличивает вместимость обоймы."
+//"Increase clip size."

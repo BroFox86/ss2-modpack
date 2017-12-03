@@ -1,0 +1,206 @@
+JargonSkill0:"Навык взлома %d: -%d%%\n"
+//"Hack skill %d: -%d%%\n"
+
+JargonStat0:"КИБ %d: -%d%%\n"
+//"CYB stat %d: -%d%%\n"
+
+JargonImplant0:"ТехЭксперт: -%d%%\n"
+//"ExperTech: -%d%%\n"
+
+JargonSoft0:"Хакерский софт в.%d: -%d%%\n"
+//"HackSoft v%d: -%d%%\n"
+
+JargonBaseDiff0:"Начальная \nсложность: %d%%.\n"
+//"Initial difficulty: %d%%.\n"
+
+JargonFinalDiff0:"Финальная \nсложность: %d%%.\n"
+//"Final difficulty: %d%%.\n"
+
+JargonMines0:"ICE-узлы: %d.\n"
+//"%d ICE nodes.\n"
+
+JargonMinesOne0:"ICE-узел: %d.\n"
+//"%d ICE node.\n"
+
+JargonLit10:"Узел обработан.\n"
+//"Node infiltrated.\n"
+
+JargonLit20:"Использован резервный доступ.\n"
+//"Backdoor access utilized.\n"
+
+JargonLit30:"Пароль принят.\n"
+//"Password spoof successful.\n"
+
+JargonLit40:"Перенаправление системы защиты.\n"
+//"Re-routing security.\n"
+
+JargonLit50:"Начата передача данных.\n"
+//"Data transfer initiated.\n"
+
+JargonBurnt10:"Обнаружен несанкционированный доступ!\n"
+//"Access violation detected!\n"
+
+JargonBurnt20:"Несанкционированный доступ к ядру!\n"
+//"Illegal core access!\n"
+
+JargonBurnt30:"Переполнение буфера!\n"
+//"Buffer overflow!\n"
+
+JargonBurnt40:"Ошибка в ходе проверки!\n"
+//"Verification failed!\n"
+
+JargonBurnt50:"Нарушена целостность данных!\n"
+//"Data integrity compromised!\n"
+
+JargonMineLit0:"ICE-узел отключен.\n"
+//"ICE node disabled.\n"
+
+JargonMineBurnt0:"Сработал ICE-узел! ДОСТУП ЗАКРЫТ!\n"
+//"ICE activated! ACCESS TERMINATED!\n"
+
+JargonWin0:"Система взломана!\n"
+//"System hacked!\n"
+
+JargonWin1:"Устройство починено!\n"
+//"Device repaired!\n"
+
+JargonWin2:"Оружие модернизировано!\n"
+//"Weapon upgraded!\n"
+
+JargonSkill1:"Навык ремонта %d: -%d%%\n"
+//"Repair skill %d: -%d%%\n"
+
+JargonStat1:"КИБ %d: -%d%%\n"
+//"CYB stat %d: -%d%%\n"
+
+JargonImplant1:"ТехЭксперт: -%d%%\n"
+//"ExperTech: -%d%%\n"
+
+JargonSoft1:"Ремонтный софт в.%d: -%d%%\n"
+//"RepairSoft v%d: -%d%%\n"
+
+JargonBaseDiff1:"Начальная \nсложность: %d%%.\n"
+//"Initial difficulty: %d%%.\n"
+
+JargonFinalDiff1:"Финальная \nсложность: %d%%.\n"
+//"Final difficulty: %d%%.\n"
+
+JargonMines1:"Поврежденные узлы: %d.\n"
+//"%d Damaged nodes.\n"
+
+JargonMinesOne1:"Поврежденный узел: %d.\n"
+//"%d Damaged node.\n"
+
+JargonLit11:"Узел пройден.\n"
+//"Node bypassed.\n"
+
+JargonLit21:"Использована резервная система.\n"
+//"Backup system utilized.\n"
+
+JargonLit31:"Диагностика прошла успешно.\n"
+//"Diagnostic successful.\n"
+
+JargonLit41:"Подача энергии восстановлена.\n"
+//"Primary power restored.\n"
+
+JargonLit51:"Цепь функционирует.\n"
+//"Circuit functional.\n"
+
+JargonBurnt11:"Всплеск напряжения!\n"
+//"Power surge!\n"
+
+JargonBurnt21:"Перегрузка!\n"
+//"Power overload!\n"
+
+JargonBurnt31:"Диагностика неудачна!\n"
+//"Diagnostic failed!\n"
+
+JargonBurnt41:"Гарантия нарушена!\n"
+//"Warranty voided!\n"
+
+JargonBurnt51:"Ошибка в ходе самотестирования!\n"
+//"Self-test failed!\n"
+
+JargonMineLit1:"Поврежденный узел починен.\n"
+//"Damaged node repaired.\n"
+
+JargonMineBurnt1:"Короткое замыкание! Предмет уничтожен!\n"
+//"Short circuit! Item destroyed!\n"
+
+JargonSkill2:"Навык модификации %d: -%d%%\n"
+//"Modify skill %d: -%d%%\n"
+
+JargonStat2:"КИБ %d: -%d%%\n"
+//"CYB stat %d: -%d%%\n"
+
+JargonImplant2:"ТехЭксперт: -%d%%\n"
+//"ExperTech: -%d%%\n"
+
+JargonSoft2:"Модификационный софт в.%d: -%d%%\n"
+//"ModifySoft v%d: -%d%%\n"
+
+JargonBaseDiff2:"Начальная \nсложность: %d%%.\n"
+//"Initial difficulty: %d%%.\n"
+
+JargonFinalDiff2:"Финальная \nсложность: %d%%.\n"
+//"Final difficulty: %d%%.\n"
+
+JargonMines2:"Блокирующие замки: %d.\n"
+//"%d Safety interlocks.\n"
+
+JargonMinesOne2:"Блокирующий замок: %d.\n"
+//"%d Safety interlock.\n"
+
+JargonLit12:"Узел модифицирован.\n"
+//"Node modified.\n"
+
+JargonLit22:"Запущены параллельные системы.\n"
+//"Parallel systems activated.\n"
+
+JargonLit32:"Энергия перенаправлена.\n"
+//"Power re-routed.\n"
+
+JargonLit42:"Инициализация новых параметров.\n"
+//"Initializing new parameters.\n"
+
+JargonLit52:"Задействована новая цепь.\n"
+//"New clip circuit operational.\n"
+
+JargonBurnt12:"Переключатель заклинило!\n"
+//"Trigger jammed!\n"
+
+JargonBurnt22:"Подача боеприпасов нарушена!\n"
+//"Ammo feed misaligned!\n"
+
+JargonBurnt32:"Переполнение обоймы!\n"
+//"Clip storage overflow!\n"
+
+JargonBurnt42:"Гарантия нарушена!\n"
+//"Warranty voided!\n"
+
+JargonBurnt52:"Цепь сгорела!\n"
+//"Circuit burnt out!\n"
+
+JargonMineLit2:"Блокирующий замок пройден.\n"
+//"Safety interlock bypassed.\n"
+
+JargonMineBurnt2:"Сработал блокирующий замок! Оружие заклинило!\n"
+//"Safety interlock tripped! Weapon jammed!\n"
+
+JargonBonus0:"Режимы OS: -%d%%\n"
+//"OS mods: -%d%%\n"
+
+JargonBonus1:"Режимы OS: -%d%%\n"
+//"OS mods: -%d%%\n"
+
+JargonBonus2:"Режимы OS: -%d%%\n"
+//"OS mods: -%d%%\n"
+
+JargonPsiBonus0:"Псионика: -%d%%\n"
+//"Psionics: -%d%%\n"
+
+JargonPsiBonus1:"Псионика: -%d%%\n"
+//"Psionics: -%d%%\n"
+
+JargonPsiBonus2:"Псионика: -%d%%\n"
+//"Psionics: -%d%%\n"
