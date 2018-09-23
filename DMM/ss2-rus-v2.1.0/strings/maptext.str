@@ -1,0 +1,296 @@
+MapText_Command1_0:"Шахта гл. лифта / Зона ожидания"  
+//"Primary Elevator Shaft / Waiting Area"
+
+MapText_Command1_1:"Узел стыковки с \"Рикенбакером\""
+//"Umbilical to Rickenbacker"
+
+MapText_Command1_2:"Отсеки челноков"  
+//"Shuttle Bays"
+
+MapText_Command1_3:"Рубка упр. челноками"  
+//"Shuttle Control"
+
+MapText_Command2_0:"Капитанский мостик"  
+//"Bridge"
+
+MapText_Command2_2:"Душевые"  
+//"Bathrooms"
+
+MapText_Command2_3:"Каюта капитана"  
+//"Captain's Quarters"
+
+MapText_Command2_4:"Зал для собраний"  
+//"Bridge Conference Area"
+
+MapText_Command2_5:"Каюты офицеров"  
+//"Officers Quarters"
+
+MapText_Command2_7:"Комната отдыха офицеров"  
+//"Officers Lounge"
+
+MapText_Command2_8:"Спасательные шлюпки"  
+//"Escape Pods"
+
+MapText_Eng1_1:"Коридоры охлаждения"  
+//"Coolant Tubes"
+
+MapText_Eng1_10:"Коридоры охлаждения"  
+//"Coolant Tubes"
+
+MapText_Eng1_2:"Левая гондола"  
+//"Port Nacelle"
+
+MapText_Eng1_3:"Правая гондола"  
+//"Starboard Nacelle"
+
+MapText_Eng1_4:"Рубка управления реактором"  
+//"Core Control"
+
+MapText_Eng1_5:"Инженерная рубка"  
+//"Engineering Control"
+
+MapText_Eng1_6:"Коридоры охлаждения"  
+//"Coolant Tubes"
+
+MapText_Eng1_7:"Главный реактор"  
+//"Engine Core"
+
+MapText_Eng2_0:"Командная рубка"  
+//"Command Control"
+
+MapText_Eng2_1:"Грузовой отсек 2B"  
+//"Cargo Bay 2B"
+
+MapText_Eng2_2:"Рубка управления челноками"  
+//"Shuttle Control"
+
+MapText_Eng2_3:"Отсек челноков"  
+//"Shuttle Bay"
+
+MapText_Eng2_5:"Грузовой отсек 1B"  
+//"Cargo Bay 1B"
+
+MapText_Eng2_7:"Грузовой отсек 2A"  
+//"Cargo Bay 2A"
+
+MapText_Eng2_8:"Грузовой отсек 1A"  
+//"Cargo Bay 1A"
+
+MapText_Hydro1_0:"Оранжереи"  
+//"Cultivation Cells"
+
+MapText_Hydro1_1:"Склады"  
+//"Storage Area"
+
+MapText_Hydro1_2:"Обзорная каюта"  
+//"Observation Lounge"
+
+MapText_Hydro1_3:"Оранжереи"  
+//"Cultivation Cells"
+
+MapText_Hydro1_4:"Оранжереи"  
+//"Cultivation Cells"
+
+MapText_Hydro2_0:"Эксперименты"  
+//"Experimental Office"
+
+MapText_Hydro2_2:"Склад отсека B"  
+//"Sector B Storage"
+
+MapText_Hydro2_3:"Техобслуживание отсека B"  
+//"Sector B Maintenance"
+
+MapText_Hydro2_4:"Администрация"  
+//"Administrative Offices"
+
+MapText_Hydro2_5:"Охрана"
+//"Security"
+
+MapText_Hydro2_6:"Техобслуживание отсека C"  
+//"Sector C Maintenance"
+
+MapText_Hydro2_7:"Водохранилище"  
+//"Water Storage"
+
+MapText_Hydro2_9:"Биолаборатории"  
+//"Biological Survey Labs"
+
+MapText_Hydro3_0:"Турбины"  
+//"Turbines"
+
+MapText_Hydro3_1:"Управление турбинами"  
+//"Turbine Control"
+
+MapText_Hydro3_2:"Турбины"  
+//"Turbines"
+
+MapText_Medsci1_0:"Электростанция"  
+//"Power Station"
+
+MapText_Medsci1_1:"Исследования и Разработка"  
+//"Research & Development"
+
+MapText_Medsci1_2:"Крио-лаборатория"  
+//"Cryo Retraining Facility"
+
+MapText_Medsci1_3:"Крио-восстановление B"  
+//"Cryo Recovery B"
+
+MapText_Medsci1_5:"Крио-восстановление A"  
+//"Cryo Recovery A"
+
+MapText_Medsci1_7:"Приемный покой"  
+//"Medical Reception Area"
+
+MapText_Medsci1_8:"Изучение образцов"  
+//"Specimen Analysis"
+
+MapText_Medsci2_0:"Каюты экипажа"  
+//"Crew Quarters"
+
+MapText_Medsci2_1:"Комната отдыха СБ и экипажа"  
+//"Security / Crew Lounge"
+
+MapText_Medsci2_2:"Исследования приматов"  
+//"Primate Research"
+
+MapText_Medsci2_3:"Исследования приматов"  
+//"Primate Research"
+
+MapText_Medsci2_4:"Реанимация / Биопсия"  
+//"ICU / Biopsy"
+
+MapText_Medsci2_5:"Каюты экипажа"  
+//"Crew Quarters"
+
+MapText_Medsci2_6:"Каюты экипажа"  
+//"Crew Quarters"
+
+MapText_Medsci2_7:"Радиац. лабор. / Хранилище"  
+//"Radiation Lab / Storage"
+
+MapText_Ops1_0:"Голографич. проекционный театр"  
+//"Holographic Projection Theater"
+
+MapText_Ops2_0:"Системная администрация"  
+//"Systems Administration"
+
+MapText_Ops2_1:"Комната отдыха"  
+//"Lounge"
+
+MapText_Ops2_2:"Каюты экипажа"  
+//"Crew's Quarters"
+
+MapText_Ops2_3:"Системная администрация"  
+//"Systems Administration"
+
+MapText_Ops2_4:"Ксеркс"  
+//"Xerxes Core"
+
+MapText_Ops2_5:"Каюты экипажа"  
+//"Crew's Quarters"
+
+MapText_Ops2_6:"Каюты экипажа"  
+//"Crew's Quarters"
+
+MapText_Ops2_8:"Каюты экипажа"  
+//"Crew's Quarters"
+
+MapText_Ops3_0:"Энергетики"  
+//"Power Administration"
+
+MapText_Ops3_1:"Комната отдыха"  
+//"Lounge"
+
+MapText_Ops3_3:"Душевые"  
+//"Bathrooms"
+
+MapText_Ops3_4:"Банк данных"  
+//"Data Storage"
+
+MapText_Ops3_5:"Камбуз / Кладовая"  
+//"Galley / Pantry"
+
+MapText_Ops3_6:"Столовая"  
+//"Mess Hall"
+
+MapText_Ops3_8:"Комната отдыха"  
+//"Lounge"
+
+MapText_Ops4_0:"Охрана"  
+//"Security"
+
+MapText_Ops4_1:"Охрана"  
+//"Security"
+
+MapText_Ops4_2:"Гауптвахта"  
+//"Brig"
+
+MapText_Ops4_3:"Энергетики"  
+//"Power Operations"
+
+MapText_Ops4_4:"Энергетики"  
+//"Power Operations"
+
+MapText_Ops4_5:"Системщики"  
+//"Systems Operations"
+
+MapText_Ops4_6:"Казармы"  
+//"Barracks"
+
+MapText_Ops4_7:"Охрана"  
+//"Security"
+
+MapText_Rec1_0:"Верхние каюты экипажа"  
+//"Upper Crew Quarters"
+
+MapText_Rec1_1:"Спортзалы"  
+//"Athletic Facilities"
+
+MapText_Rec1_2:"Медицинское крыло"  
+//"Medical Annex"
+
+MapText_Rec1_3:"Каюты экипажа / Шахта гл. лифта"  
+//"Crew Quarters / Primary Elevator Shaft"
+
+MapText_Rec1_4:"Спортзалы"  
+//"Athletic Facilities"
+
+MapText_Rec2_0:"Сад"  
+//"Garden"
+
+MapText_Rec2_1:"Техобслуживание сада"  
+//"Garden Maintenance"
+
+MapText_Rec2_2:"Столовая"  
+//"Dining"
+
+MapText_Rec2_3:"Служебные туннели"  
+//"Maintenance Tunnels"
+
+MapText_Rec2_5:"Комната отдыха \"Bon Chance\""
+//"The Bon Chance Lounge"
+
+MapText_Rec2_6:"Столовые"  
+//"Mess Area"
+
+MapText_Rec3_0:"Галерея Три-Оп"  
+//"TriOp Galleria"
+
+MapText_Rec3_1:"Центр чувств. стимуляции"  
+//"Sensual Stim Center"
+
+MapText_Rec3_2:"Казино"  
+//"Casino"
+
+MapText_Rec3_3:"Галерея Три-Оп"  
+//"TriOp Galleria"
+
+MapText_Rec3_4:"Галерея Три-Оп"  
+//"TriOp Galleria"
+
+MapText_Rec3_5:"Кинотеатр"  
+//"Movie Theater"
+
+MapText_Rec3_6:"Зона охраны"  
+//"Security Area"

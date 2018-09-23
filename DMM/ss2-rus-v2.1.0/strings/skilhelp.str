@@ -1,0 +1,38 @@
+Weapon0:"Навык увеличивает урон, наносимый с помощью обычного оружия.  Некоторые виды обычного оружия требуют минимального навыка."
+//"This skill increases the amount of damage you inflict with standard weapons.  Some standard weapons have a minimum skill requirement."
+
+Weapon1:"Навык увеличивает урон, наносимый с помощью энергооружия.  Некоторые виды энергооружия требуют минимального навыка."
+//"This skill increases the amount of damage you inflict with energy weapons.  Some energy weapons have a minimum skill requirement."
+ 
+Weapon2:"Навык увеличивает урон, наносимый с помощью тяжелого оружия.  Некоторые виды тяже-\nлого оружия требуют минимального навыка."
+//"This skill increases the amount of damage you inflict with heavy weapons.  Some heavy weapons have a minimum skill requirement."
+
+Weapon3:"Навык увеличивает урон, наносимый с помощью экзооружия.  Некоторые виды экзооружия требуют минимального навыка."
+//"This skill increases the amount of damage you inflict with exotic weapons.  Some exotic weapons have a minimum skill requirement."
+
+Tech0:"От навыка взлома зависят твои шансы взломать различные компьютерные системы."
+//"The Hack skill determines your chances of hacking various computer systems."
+
+Tech1:"От навыка ремонта зависят твои шансы починить сломанное оружие или компьютерные системы."
+//"The Repair skill determines your chances of repairing broken weapons or computer systems."
+
+Tech2:"От навыка модификации зависят твои шансы модифицировать оружие, улучшив его."
+//"The Modify skill determines your chances of modifying a weapon to an improved state."
+
+Tech3:"От навыка т/о зависит твое умение поддержи-\nвать оружие в должном состоянии. Чтобы исполь-\nзовать этот навык, надо иметь рем. инструмент."
+//"The Maintenance skill determines the amount of improvement you can make to the condition of a weapon.  You must have a Maintenance Tool to use this skill."
+
+Tech4:"Опред. эффективность твоих иссл-ний. Изучение чужд. органов может дать немало полезн. инф-ции, а нек. предметы нельзя использовать, не изучив их."
+//"The Research skill determines the efficiency of your research.  Researching alien organs can yield useful information, and some items cannot be used without first being researched."
+
+Tech6:"Хакерский софт повышает твой навык взлома.  Но при минимальном навыке он не поможет."
+//"Hacking software provides a bonus to your Hack skill.  It does not help for meeting minimum skill requirements."
+
+Tech7:"Модификационный софт повышает твой навык модификации.  Но при минимальном навыке он не поможет."
+//"Modification software provides a bonus to your Modify skill.  It does not help for meeting minimum skill requirements."
+
+Tech8:"Ремонтный софт повышает твой навык ремонтника.  Но при минимальном навыке он не поможет."
+//"Repairing software provides a bonus to your Repair skill.  It does not help for meeting minimum skill requirements."
+
+Tech9:"Исследовательский софт повышает твой навык исследователя.  Но при минимальном навыке он не поможет."
+//"Research software provides a bonus to Research skill.  It does not help for meeting minimum skill requirements."

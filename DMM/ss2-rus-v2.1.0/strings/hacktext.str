@@ -1,0 +1,20 @@
+ArchReplicator:"Взломай и получи лучший выбор вещей."
+//"Hack to gain a superior selection of items."
+
+ArchComputer:"Это просто дурацкая временная замена текста.  Для этого компьютера нужен специфический текст."
+//"This is just goofy placeholder text.  Specific text for this computer is needed."
+
+ArchSecurityComp:"Взломай и временно отключи с-му охраны."
+//"Hack to temporarily disable security."
+
+KeypadHack:"Взломай панель, чтобы открыть дверь."
+//"Hack keypad to open door."
+
+HackCrate:"Взломай и открой кон-\nтейнер. Критическая ошибка уничтожит его."
+//"Hack to open crate.  Critical failure destroys it."
+
+TurretHack:"Взломав, заставишь турель стрелять по твоим врагам."
+//"Hack to make turret shoot your foes."
+
+Shield_Interlock:"Взломав все 3 блок. замка, отключишь защ. поля."
+//"Hack all three Interlocks to disable shields."

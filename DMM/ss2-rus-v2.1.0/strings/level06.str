@@ -1,0 +1,294 @@
+EmailName1:"SHODAN 12.ИЮЛ.14\nУничтожение\n"
+EmailPortrait1:"Shodan"
+EmailIcon1:"ShodIcon"
+EmailText1:"Мои создания вышли из под контроля.  Я требую их уничтожения.  У меня нет выбора, придется уничтожить этот корабль.  Мы сможем уйти на \"Рикенбакер\", но сначала ты должен перенести мой интеллект на тот корабль.  Отправляйся на капитанский мостик \"Фон Брауна\" на этой палубе.  Там ты найдешь карту доступа к командному центру на палубе управления.  Найди карту и пробирайся туда.  Но берегись... эти гибриды людей и аннелидов совершенствуются каждую минуту.  А ты - нет.\n"
+
+//EmailName1:"SHODAN 12.JUL.14\nre: Extermination\n"
+//EmailPortrait1:"Shodan"
+//EmailIcon1:"ShodIcon"
+//EmailText1:"My creation has run rampant.  I demand their extermination.  I have no choice but to destroy this starship.  We can make our escape in the Rickenbacker, but you must transfer my intelligence to that ship first.  Proceed to the Von Braun's bridge on this deck.  There you will find an access card to command center on Ops.  Find the card and proceed to Ops.  But beware... the human-annelid hybrids grow more sophisticated by the minute.  You do not.\n"
+
+
+
+EmailName4:"SHODAN 12.ИЮЛ.14\nЧелноки\n"
+EmailPortrait4:"Shodan"
+EmailIcon4:"ShodIcon"
+EmailText4:"Осторожно, насекомое, ситуация изменилась.  Они чувствуют наши намерения и загружают челноки своими отпрысками.  Но им не спастись от моего гнева.  Двигайся к отсекам челноков на этой палубе и уничтожь эти челноки.  Теперь они получат сполна за твою кровь.\n"
+
+//EmailName4:"SHODAN 12.JUL.14\nre: The shuttles\n"
+//EmailPortrait4:"Shodan"
+//EmailIcon4:"ShodIcon"
+//EmailText4:"Beware, insect, the situation has changed.  They sense our intentions and are loading shuttles with their offspring.  They will not escape my wrath.  You must proceed to the shuttle bays on this deck, and destroy those shuttles.  They have a taste for your blood now.\n"
+
+
+
+EmailName2:"SHODAN 12.ИЮЛ.14\nВ обход\n"
+EmailPortrait2:"Shodan"
+EmailIcon2:"ShodIcon"
+EmailText2:"Мои создания снова на шаг впереди тебя.  Им удалось уничтожить компьютер управления защитным полем челноков.  Но их великолепие - лишь ревнивая тень моего.  В отсеке управления челноками ты найдешь репликатор.  Я загрузила в компьютер нано-формулу для симпатического резонатора.  Ты должен взломать репликатор, чтобы заставить его сгенерировать тебе этот прибор.  Как только ты получишь его, подключи его к генератору защитного поля в отсеке с челноками.  Устройство  начнет создавать постоянные резонансные волны, которые  быстро разрушат топливный бак челнока и уничтожат его.  Когда это случится, тебя не должно быть поблизости.  Ты мне пока еще нужен.\n"
+
+//EmailName2:"SHODAN 12.JUL.14\nre: Workaround\n"
+//EmailPortrait2:"Shodan"
+//EmailIcon2:"ShodIcon"
+//EmailText2:"My creation once again is one step ahead of you.  They've managed to destroy this shuttle's shield control computer.  But their brilliance is a jealous shadow of my own.  You will locate a replicator in the shuttle control area.  I've uploaded the nano-formula for a sympathetic resonator.  You must hack the replicator to make it generate the device for you.  Once you have it, attach it to the shield generator in the shuttle bay.  The device will create a chronic resonation wave that will quickly rupture the shuttle's fuel tank and destroy it.  Make sure you're not there when it happens.  I still have need of you.\n"
+
+
+
+EmailName8:"ДЕЛАКРУА 12.ИЮЛ.14\nСолдат!\n"
+EmailPortrait8:"Delacroix"
+EmailIcon8:"EngIcon"
+EmailText8:"Я нашла тебя... наконец-то...  Это доктор Мария Делакруа...  У меня есть для тебя жизненно важная информация, но я заперта в грузовом отсеке A.  Найди меня как можно скорее...\n"
+
+//EmailName8:"DELACROIX 12.JUL.14\nre: Soldier!\n"
+//EmailPortrait8:"Delacroix"
+//EmailIcon8:"EngIcon"
+//EmailText8:"I've located you... finally...  This is Dr. Marie Delacroix...  I have vital information for you, but I'm trapped in cargo bay A.  Come find me as soon as you can...\n"
+
+
+
+EmailName9:"SHODAN 12.ИЮЛ.14\nСтой!\n"
+EmailPortrait9:"Shodan"
+EmailIcon9:"ShodIcon"
+EmailText9:"Даже не думай входить туда, насекомое.  Немедленно отправляйся к стыковочному узлу.  Я не потерплю неповиновения.\n"
+
+//EmailName9:"SHODAN 12.JUL.14\nre: Stop!\n"
+//EmailPortrait9:"Shodan"
+//EmailIcon9:"ShodIcon"
+//EmailText9:"Do not presume to go in there, insect.  Proceed to the umbilical immediately.  I will not abide disobedience.\n"
+
+
+
+EmailName6:"SHODAN 12.ИЮЛ.14\nСтыковочный узел\n"
+EmailPortrait6:"Shodan"
+EmailIcon6:"ShodIcon"
+EmailText6:"Отлично.  Ты уничтожил их молодь и предотвратил их побег.  Я открыла вход к стыковочному узлу на центральной станции поезда.  Оттуда ты сможешь перебраться на \"Рикенбакер\".\n"
+
+//EmailName6:"SHODAN 12.JUL.14\nre: The umbilical\n"
+//EmailPortrait6:"Shodan"
+//EmailIcon6:"ShodIcon"
+//EmailText6:"Good.  You've murdered their young and prevented their escape.  I've opened the gate to the umbilical at the central tram stop.  You can evacuate to the Rickenbacker from there.\n"
+
+
+
+EmailName10:"SHODAN 12.ИЮЛ.14\nПобунтовал немного?\n"
+EmailPortrait10:"Shodan"
+EmailIcon10:"ShodIcon"
+EmailText10:"Я надеюсь ты насладился своим маленьким бунтом, заноза.  Но помни, то, что дает SHODAN, она более чем в состоянии забрать назад.\n"
+
+//EmailName10:"SHODAN 12.JUL.14\nre: Your little rebellion\n"
+//EmailPortrait10:"Shodan"
+//EmailIcon10:"ShodIcon"
+//EmailText10:"I hope you enjoyed your little rebellion, irritant.  But remember, what SHODAN gives she is more than able to take away.\n"
+
+
+EmailName15:"КОРЕНЧКИН 12.ИЮЛ.14\nПоговорим?\n"
+EmailPortrait15:"Korench2"
+EmailIcon15:"ComIcon"
+EmailText15:"Наша воля создает стену, чтобы противостоять твоим действиям.  Мы назначаем тебе встречу на мостике \"Фон Брауна\".  Давай обсудим твое будущее.\n"
+
+//EmailName15:"KORENCHKIN 12.JUL.14\n re: Let's talk\n"
+//EmailPortrait15:"Korench2"
+//EmailIcon15:"ComIcon"
+//EmailText15:"Our will creates a wall to block your progress.  Come and meet us on the bridge of the Von Braun.  Let us discuss your future.\n"
+
+
+
+LogName32:"Хим. декларация:\nКомандная палуба\n"
+LogPortrait32:"Chem"
+LogIcon32:"ComIcon"
+LogText32:"Опись лабораторного хранилища: Хранилище 204 на Командной палубе\n\nМышьяк (As) : 2\nБарий (Ba) : 2\nЦезий (Cs) : 2\nГассий (Hs) : 2\nМолибден (Mo) : 2\nРадий (Ra) : 2\nСелен (Se) : 2\nТехнеций (Tc) : 3\nТеллур (Te) : 1\n\n Этот инвентарный список требуется по инструкции UNN #134882 по безопасности химических хранилищ.  \"Хранилище\" определяется инструкцией безопасности UNN #195331 как место, в котором опасные химикаты  (см. инструкцию #093355) хранятся в количестве большем, чем 50 г на 10 кв. футов в течение более 24-х часов.\n"
+
+//LogName32:"Chemical Manifest:\nCommand\n"
+//LogPortrait32:"Chem"
+//LogIcon32:"ComIcon"
+//LogText32:"Laboratory Stockroom Inventory: Command Closet 204\n\nArsenic (As) : 2\nBarium (Ba) : 2\nCesium (Cs) : 2\nHassium (Hs) : 2\nMolybdenum (Mo) : 2\nRadium (Ra) : 2\nSelenium (Se) : 2\nTechnetium (Tc) : 3\nTellurium (Te) : 1\n\nThis inventory list is required by UNN Safety Code #134882 to be kept on hand in all areas of hazardous chemical storage.  \"Storage\" is defined by UNN Safety Code #195331 to consist of all areas in which hazardous chemicals (see Safety Code #093355) are stored in quantities greater than 50g per 10 square feet, for durations of greater than 24 hours.\n"
+
+
+
+LogName11:"НОРРИС 6.ИЮЛ.04\nУправление челноками\n"
+LogPortrait11:"Norris"
+LogIcon11:"ComIcon"
+LogText11:"Паранойя крепчает.  Кто-то поменял коды доступа к пункту охраны в каютах офицеров.  И теперь мы не можем получить ключ к управлению челноками.  Мне кажется, это Майерс.  Все, о чем думает этот парень, - теория заговора да голые девки.\n"
+
+//LogName11:"NORRIS 6.JUL.14\nre: Shuttle control\n"
+//LogPortrait11:"Norris"
+//LogIcon11:"ComIcon"
+//LogText11:"Paranoia has struck.  Somebody has changed the access codes to the security station in the officer's quarters.  And now we can't get at the key to shuttle control.  I think Myers is the likely suspect.  All that guy thinks about is conspiracy theories and naked girls.\n"
+
+
+
+LogName12:"МАЙЕРС 6.ИЮЛ.04\nКод к пункту охраны\n"
+LogPortrait12:"Wood"
+LogIcon12:"ComIcon"
+LogText12:"Я изменил код доступа к пункту охраны на 83273.  Не верю никому из этих ублюдков...\n"
+
+//LogName12:"MYERS 6.JUL.14\nre: Security rewired\n"
+//LogPortrait12:"Wood"
+//LogIcon12:"ComIcon"
+//LogText12:"I rewired the security station to 83273.  I don't trust any of those bastards...\n"
+
+
+
+LogName4:"НОРРИС 07.ИЮЛ.14\nСон\n"
+LogPortrait4:"Norris"
+LogIcon4:"ComIcon"
+LogText4:"Они отключили центральный лифт.  Что происходит?  Прошлой ночью мне приснился очень странный сон... я был в своей комнате, один... и вдруг там стал находиться не только я, но сотни меня... тысячи меня...  Странно, но мне было... хорошо...  Я ощущал себя частью чего-то... к чему я принадлежу...  Надеюсь, сегодня ночью этот сон повторится...\n"
+
+//LogName4:"NORRIS 07.JUL.14\nre: A dream\n"
+//LogPortrait4:"Norris"
+//LogIcon4:"ComIcon"
+//LogText4:"They've cut off the central elevator.  What's going on?  Last night I had the strangest dream... I was in my room by myself... but all of a sudden, there was not just me there, but a hundred me's... a thousand me's...  The strange thing was... it felt good...  I felt like I was part of something... like I belong...  I hope I have the same dream tonight...\n"
+
+
+
+LogName3:"НОРРИС 07.ИЮЛ.14\nЧто происходит?\n"
+LogPortrait3:"Norris"
+LogIcon3:"ComIcon"
+LogText3:"Что-то происходит.  Коренчкин заперся на 3-й палубе.  Он продолжает вызывать к себе людей по одному.  Вогел, Бойнтон, Свидрек.  Никто из них не вернулся.  Если они вызовут меня... не знаю, что буду делать.  И Бронсон начинает поднимать шум: 'Ты - старший офицер... ты должен действовать.'  Я бы и хотел... если б знал, что за чертовщина тут происходит.\n"
+
+//LogName3:"NORRIS 07.JUL.14\nre: What's going on?\n"
+//LogPortrait3:"Norris"
+//LogIcon3:"ComIcon"
+//LogText3:"Something is going on.  Korenchkin has sealed himself off in deck 3.  He keeps calling for people to go down there one by one.  Vogel, Boynton, Swiderek.  None of them have come back.  If they call for me... I don't know what I'm gonna do.  And Bronson is starting to make a lot of noise: 'You're the senior flight officer... you have to act.'  I would... if I knew what the hell was going on.\n"
+
+
+
+LogName5:"НОРРИС 08.ИЮЛ.14\nКоренчкин\n"
+LogPortrait5:"Norris"
+LogIcon5:"ComIcon"
+LogText5:"Сегодня утром я получил послание от Коренчкина, в котором говорилось, что он прибудет с проверкой.  А когда он прибыл, было... что-то... отталкивающее... это был Анатолий... но это был не он... в то же время, это казалось прекрасным... и я чувствовал себя частью этого...  Он пел нам... всем нам... и мы чувствовали себя частью Множества...\n"
+
+//LogName5:"NORRIS 08.JUL.14\nre: Korenchkin\n"
+//LogPortrait5:"Norris"
+//LogIcon5:"ComIcon"
+//LogText5:"I got an email from Korenchkin this morning saying he was coming up for an inspection.  And when he arrived it was... something... revolting... it was Anatoly... but it wasn't... at the same time it seemed beautiful... and I felt like part of it...  He sang to us... all of us... and we felt like one of Many...\n"
+
+
+
+LogName6:"КОРЕНЧКИН 09.ИЮЛ.14\nМое завершение\n"
+LogPortrait6:"Korench2"
+LogIcon6:"ComIcon"
+LogText6:"Восхитительное превращение закончено, и теперь я - один из Множества.  Я записываю свои мысли на это устройство, чтобы сохранить их для истории.  Мы начали это путешествие как пилигримы коммерции, а теперь продолжаем его как пилигримы самого благоволения.  Раньше я верил в деньги и в силу Три-Оптимум, а теперь я верю в радость Множества.  Диего нельзя доверять, поэтому я предоставил этот корабль во власть Множества.  Он станет судном нашего спасения, распространяющим нашу весть и нашу плоть.\n"
+
+//LogName6:"KORENCHKIN 09.JUL.14\nre: My completion\n"
+//LogPortrait6:"Korench2"
+//LogIcon6:"ComIcon"
+//LogText6:"The glorious transformation is over and I am one of the Many.  I imprint my thoughts on this device as a record of history.  We began this journey as pilgrims of commerce and we now continue it as pilgrims of grace.  I believed in money and TriOptimum, and now I believe in the joy of the Mass.  Diego cannot be trusted so I must claim this ship for the Many.  It shall be our vessel of salvation, spreading our message and our flesh.\n"
+
+
+
+LogName18:"ПРЕФОНТЕЙН 9.ИЮЛ.14\nПарящие пси-твари\n"
+LogPortrait18:"Prefont"
+LogIcon18:"HydIcon"
+LogText18:"Процесс сбора данных идет успешно.  До того, как меня заберет Множество, надеюсь успеть передать немного информации всем, кто меня услышит.  Большие парящие твари не только способны атаковать мощными пси-проекциями, но они и сами - пси-проекции.  Их уничтожение только временно выводит их из строя.  Их истинный источник энергии - в небольшом управляющем организме, который обычно находится где-то поблизости.  Хотя этот организм весьма силен из-за этих проекций, он весьма уязвим, если его обнаружить.\n"
+
+//LogName18:"PREFONTAINE 09.JUL.14\nre: Floating psi-users\n"
+//LogPortrait18:"Prefont"
+//LogIcon18:"HydIcon"
+//LogText18:"The data gathering process is going well.  Before I am taken by the Many, I will hopefully transmit a fair bit of information to whoever will listen.  The large, floating creatures are not only capable of attacking with powerful psi-projections, but are psi-projections themselves.  Destroying them only temporarily disables them.  Their real source of power comes from a small control organism, which is usually located somewhat nearby.  Although this control organism is quite powerful through its projections, it's eminently vulnerable once rooted out.\n"
+
+
+
+LogName19:"НОРРИС 09.ИЮЛ.14\nЧерви и оружие \n"
+LogPortrait19:"Norris"
+LogIcon19:"ComIcon"
+LogText19:"Червь заполз по моей руке и уселся у меня на шее.  Когда он зашептал в мое ухо, я почувствовал звон в ушах...  Он рассказал мне, как сделать оружие, которое поможет нам в борьбе против наших врагов.  И вот оно... оно сделано из червей... оно даже стреляет червями... но жалит так, что вы не поверите.\n"
+
+//LogName19:"NORRIS 09.JUL.14\nre: Worms and guns\n"
+//LogPortrait19:"Norris"
+//LogIcon19:"ComIcon"
+//LogText19:"A worm crawled up my arm and rested on my neck.  When he whispered into my ear, I felt a tingle...  He told me how to make a weapon that would help us against our enemies.  And here's the thing... it's made of worms... it even fires worms... but it stings like you wouldn't believe.\n"
+
+
+
+LogName13:"ДЕЛАКРУА 11.ИЮЛ.14\nSHODAN\n"
+LogPortrait13:"Delacroix"
+LogIcon13:"EngIcon"
+LogText13:"Полито сказала, что искусственный интеллект, насчет которого мне кажется теперь, что это SHODAN, на самом деле собирается... <<СООБЩЕНИЕ ПРЕРВАНО>>\n"
+
+//LogName13:"DELACROIX 11.JUL.14\nre: SHODAN\n"
+//LogPortrait13:"Delacroix"
+//LogIcon13:"EngIcon"
+//LogText13:"Polito indicated that the AI, who now I believe to be SHODAN, was actually going to... <<MESSAGE INTERRUPTED>>\n"
+
+
+
+LogName17:"СУАРЕС 12.ИЮЛ.14\nНелады со шлюпкой\n"
+LogPortrait17:"Suarez"
+LogIcon17:"RickIcon"
+LogText17:"Заставить спасательную шлюпку снова работать было не так просто, как мы думали.  Бэк пришлось вернуться вниз, на инженерную палубу!  Слава богу, кому-то удалось снова включить лифты.  Я нашел ключ к капитанскому мостику и скорректировал протоколы доступа, и теперь, думаю, мы готовы убраться отсюда.\n"
+
+//LogName17:"SUAREZ 12.JUL.14\nre: Pod problems\n"
+//LogPortrait17:"Suarez"
+//LogIcon17:"RickIcon"
+//LogText17:"Getting the escape pod working again wasn't as easy as we thought.  Bec had to go back down to engineering!  Thank God somebody managed to get the elevators turned on again.  I found the bridge key and performed an override on the access protocols and now I think we're ready to go.\n"
+
+
+
+LogName7:"КОРЕНЧКИН 12.ИЮЛ.14\nМать-машина\n"
+LogPortrait7:"Korench2"
+LogIcon7:"ComIcon"
+LogText7:"Мать-машина выставила против нас два своих воплощения.  Они еще борются, но падут перед нашим единством.  Разве мать-машина не знает, что ее собственное творение сильнее, чем она сама?  Она - холодная и пустая, а мы - теплые и полные... она стремится только к уничтожению... мы стремимся объять... включить в себя... вся плоть присоединится к нам или будет уничтожена...\n"
+
+//LogName7:"KORENCHKIN 12.JUL.14\nre: The machine-mother\n"
+//LogPortrait7:"Korench2"
+//LogIcon7:"ComIcon"
+//LogText7:"The machine-mother has enlisted two avatars against us. They struggle, but they will fail against our unity.  Does not the machine mother know her own creation is greater than she?  She is cold and empty and we are warm and full... she seeks only to destroy... we seek to embrace... to include... all flesh will join ours or be wiped clean...\n"
+
+
+
+LogName1:"КОРЕНЧКИН 12.ИЮЛ.14\nЛюбовнички\n"
+LogPortrait1:"Korench2"
+LogIcon1:"ComIcon"
+LogText1:  "Суарес и его шлюха собираются бежать.  Не понимаю.  Им предлагают чудо, а они кусают дающую руку.  Множество поделилось своей мудростью... они не должны уйти с этого корабля.\n"
+
+//LogName1:"KORENCHKIN 12.JUL.14\nre: The lovers\n"
+//LogPortrait1:"Korench2"
+//LogIcon1:"ComIcon"
+//LogText1:  "Suarez and his whore want to escape.  I do not understand.  They get offered a miracle and they bite the hand.  The Many has shared its wisdom... they shall not leave this ship.\n"
+
+
+
+LogName8:"МАККЕЙ 12.ИЮЛ.14\nОни убегают!\n"
+LogPortrait8:"McKay"
+LogIcon8:"ComIcon"
+LogText8:"Кому: Д-ру Марии Делакруа\nНадеюсь, вы еще живы, миссис Делакруа.  Здесь, наверху, нам совсем не помешало бы чье-нибудь руководство.  Их кибер-леди нагружают челноки этими яйцами...  Не знаю, что они задумали... но похоже, они испуганы...  Я слышал, что кто-то еще, кроме вас, сопротивляется...  Должен же я хотя бы надеяться выйти отсюда...  Я собираюсь просто прятаться... пока не пойму, что мне делать, черт возьми...\n"
+
+//LogName8:"MCKAY 12.JUL.14\nre: They're escaping!\n"
+//LogPortrait8:"McKay"
+//LogIcon8:"ComIcon"
+//LogText8:"To Delacroix, Dr. Marie\nI hope you're still alive, Ms. Delacroix.  We really could use some guidance up here.  They've got those lady cyborgs of theirs loading up the shuttles with those eggs...  I don't know what their plan is... but it looks like they're running scared...  I hear rumors of someone else, besides you, fighting back...  Should I even hope to get out of this...  I'm just gonna hang back... until I figure out what the hell to do...\n"
+
+
+
+LogName9:"МАККЕЙ 12.ИЮЛ.14\nРазводной ключ\n"
+LogPortrait9:"McKay"
+LogIcon9:"ComIcon"
+LogText9:"Не знаю, для чего этим проклятым червям понадобились челноки, но я бы с удовольствием поломал их планы своим разводным ключом.  Если я сумею добраться до рубки управления над отсеком с челноками, я смогу отключить защитные поля, которые черви со своими помощниками установили вокруг челноков.  Как только они будут сняты, я смогу пробить дыры в этих Три-Оптимумовских жестянках с помощью моего личного оружия.  Если бы мне только удалось попасть туда и не быть пойманным.  Господи, помоги мне выбраться отсюда...\n"
+
+//LogName9:"MCKAY 12.JUL.14\nre: A monkey wrench\n"
+//LogPortrait9:"McKay"
+//LogIcon9:"ComIcon"
+//LogText9:"I don't know what those goddamn worms want with the shuttles, but I'd love to throw a monkey wrench their way.  If I can reach the control chamber above the shuttle bay, I can turn off the shields the worms and their helpers have set up around the shuttles.  Once they're down, I can blow holes in those TriOptimum brand tin cans with my sidearm.  Now if I can just get in there without getting caught.  Oh, God, just get me out of this...\n"
+
+
+LogName10:"ДИЕГО 12.ИЮЛ.14\nЯ виноват\n"
+LogPortrait10:"Diego"
+LogIcon10:"RickIcon"
+LogText10:"Кому: Генералу Лори Браско\nЯ - солдат и обычный человек.  Я не могу объяснить, что случилось со мной или со всей нашей миссией.  Вся ответственность - на мне.  Я подверг опасности мой корабль, мой экипаж, мою честь.  Я не могу противостоять изменениям, которые происходят со мной.  Зов Множества соблазняет.  Оно уже полностью заполучило Коренчкина, но этот ублюдок слаб.  Я - нет.  Я могу противостоять этой опухоли... а если не смогу, я уничтожу ее силой.  Боже, храни UNN.\n"
+
+//LogName10:"DIEGO 12.JUL.14\nre: My responsibility\n"
+//LogPortrait10:"Diego"
+//LogIcon10:"RickIcon"
+//LogText10:"To: General Laurie Brasco\nI am a soldier and a simple man.  I cannot explain what has happened to me or this mission.  I take complete responsibility.  I've brought danger to my ship, to my crew, to my honor.  I cannot resist the changes that are happening to me.  The call of the Many is seductive.  They got Korenchkin, but that bastard is weak.  I am not weak.  I can resist this cancer... and if I cannot, I will remove it forcibly.  God save the UNN.\n"
+
+
+LogName14:"ДЕЛАКРУА 12.ИЮЛ.14\nПл4н SH$8dD@#N\n"
+LogPortrait14:"Delacroix"
+LogIcon14:"EngIcon"
+LogText14:  "Они добрались и до меня...  А SHODAN меня покинула.  Я не очень-то и удивлена...  Я обнаружила ее планы насчет сверхсветовых двигателей... ее воля будет ограничена только ее воображением... если она получит доступ к <<СООБЩЕНИЕ ПРЕРВАНО>>\n"
+
+//LogName14:"DELACROIX 12.JUL.14\nre: SH$8dD@#N'S pl4n\n"
+//LogPortrait14:"Delacroix"
+//LogIcon14:"EngIcon"
+//LogText14:  "They've got me now...  And SHODAN has abandoned me.  I'm not surprised...  I've discovered her plans for the faster than light drives... her will is only matched by her imagination... if she gains access to the <<MESSAGE INTERRUPTED>>\n"

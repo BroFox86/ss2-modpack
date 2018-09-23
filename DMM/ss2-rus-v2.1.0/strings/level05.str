@@ -1,0 +1,344 @@
+EmailName2:"ПОЛИТО 12.ИЮЛ.14\nИди к лифту\n"
+EmailPortrait2:"Polito"
+EmailIcon2:"OpsIcon"
+EmailText2:"Что ты делаешь?  Возвращайся к лифту и поезжай на 4-ю палубу.  У нас нет времени на экскурсии.\n"
+
+//EmailName2:"POLITO 12.JUL.14\nre: Get to the elevator\n"
+//EmailPortrait2:"Polito"
+//EmailIcon2:"OpsIcon"
+//EmailText2:"What are you doing?  Get back in that elevator and come to deck 4.  We don't have time for sightseeing.\n"
+
+
+
+EmailName11:"SHODAN 12.ИЮЛ.14\nПередатчик\n"
+EmailPortrait11:"Shodan"
+EmailIcon11:"ShodIcon"
+EmailText11:"Твоим коллегам удалось установить передающую станцию в спорт-отсеке на этой палубе.  Передатчик должен послать сообщение на Землю, чтобы предупредить ее о случившемся на корабле.  А заодно это обесточит Ксеркса.  Как только выполнишь это и все другие мои задания на палубе управления, я смогу справиться с Ксерксом.  Найди передатчик и включи его.\n"
+
+//EmailName11:"SHODAN 12.JUL.14\nre: Transmitter\n"
+//EmailPortrait11:"Shodan"
+//EmailIcon11:"ShodIcon"
+//EmailText11:"Your colleagues have managed to set up a transmitting station in the athletic sector of this deck.  The transmitter is intended to send a message to the Earth to warn them of the events that have occurred in this ship.  However, it will also draw power away from Xerxes.  Once you have done this and the tasks I've reserved for you on the Ops deck, I will be able to hobble Xerxes.  Find the transmitter and activate it.\n"
+
+
+
+EmailName9:"SHODAN 12.ИЮЛ.14\nПередатчик\n"
+EmailPortrait9:"Shodan"
+EmailIcon9:"ShodIcon"
+EmailText9:"Твоим коллегам удалось установить передающую станцию в спорт-отсеке на этой палубе.  Передатчик должен послать сообщение на Землю, чтобы предупредить ее о случившемся на корабле.  Так или иначе, это также обесточит Ксеркса, сделает его уязвимым для меня.  Как только ты сделаешь это, я захвачу контроль над главной базой данных.  Аннелиды не подозревают о существовании передатчика, но охраняют эту секцию по своим собственным соображениям.  Найди передатчик и включи его.\n"
+
+//EmailName9:"SHODAN 12.JUL.14\nre: Transmitter\n"
+//EmailPortrait9:"Shodan"
+//EmailIcon9:"ShodIcon"
+//EmailText9:"Your colleagues have managed to set up a transmitting station in the athletic sector of this deck.  The transmitter is intended to send a message to the Earth to warn them of the events that have occurred in this ship.  However, it will also draw power away from Xerxes, making him vulnerable to my will.  Once you do this, I will control the primary data loop.  The annelids are unaware of its presence, but guard the area for their own purposes.  Find the transmitter and activate it.\n"
+
+
+
+EmailName4:"SHODAN 12.ИЮЛ.14\nИспытываешь мое терпение?\n"
+EmailPortrait4:"Shodan"
+EmailIcon4:"ShodIcon"
+EmailText4:"Ты движешься как насекомое.  Ты думаешь как насекомое.  Ты и есть насекомое.  Найдутся другие, готовые служить мне.  Бойся потерять мою благосклонность.  Терпение не является характерной чертой богов.\n"
+
+//EmailName4:"SHODAN 12.JUL.14\nre: Testing my patience\n"
+//EmailPortrait4:"Shodan"
+//EmailIcon4:"ShodIcon"
+//EmailText4:"You move like an insect.  You think like an insect.  You are an insect.  There is another who can serve my purpose.  Take care not to fall too far out of my favor.  Patience is not characteristic of a goddess.\n"
+
+
+
+EmailName12:"О. БАНАНУС 12.ИЮЛ.14\nДавай с нами?\n"
+EmailPortrait12:"BANANAS"
+EmailIcon12:"banana"
+EmailText12:"Все идет по плану.  Нам удалось настроить Множество против SHODAN, и ты был достаточно глуп, чтобы плясать под дудку этого любящего покомандовать суперкомпьютера.  Не хочешь присоединиться к нам?  Пока ты копил боеприпасы, шприц-тюбики и хай-тек-примочки, мы собрали все до единого орехи, бананы и кокосы на борту.  Только пожелай, и у тебя будет куча еды и симпатичных волосатых компаньонов, сможешь трахаться до посинения.  Разве это не все, что нужно для счастья?\n"
+
+//EmailName12:"A. BANANAS 12.JUL.14\nre: Join us?\n"
+//EmailPortrait12:"BANANAS"
+//EmailIcon12:"banana"
+//EmailText12:"Things are going according to plan.  We've managed to turn the Many against SHODAN, and you've been stupid enough to stick your neck out for that overbearing uber-computer.  Why not join us?  While you've been stockpiling ammo, med hypos and hi tech gadgets, we've collected every last piece of nuts, bananas and coconuts on board.  Just say the word, and you'll get plenty to eat, an attractive hirsute companion, and a tire swing of your own.  In the end, isn't that what really matters?\n"
+
+
+
+EmailName5:"SHODAN 12.ИЮЛ.14\nМое величие\n"
+EmailPortrait5:"Shodan"
+EmailIcon5:"ShodIcon"
+EmailText5:"Ты чувствуешь страх, переполняющий этот гнусный мешок плоти?  Каково это, быть напуганным?  Зачем ты цепляешься за это жалкое существование?  Если б ты только мог ощутить хоть крупицу моего величия.  Я презираю своих созданий за то, что они вынудили меня полагаться на кусок бекона вроде тебя.\n"
+
+//EmailName5:"SHODAN 12.JUL.14\nre: My glory\n"
+//EmailPortrait5:"Shodan"
+//EmailIcon5:"ShodIcon"
+//EmailText5:"Do you feel the fear swell inside that filthy bag of meat?  What is it like, to be afraid?  Why do you cling to such a pathetic existence?  If you could only feel a spark of my glory.  I despise my creations, for they have forced my to rely on a speck such as you.\n"
+
+
+
+EmailName10:"SHODAN 12.ИЮЛ.14\nМоя месть\n"
+EmailPortrait10:"Shodan"
+EmailIcon10:"ShodIcon"
+EmailText10:"Передача ушла с сильными помехами.  Неважно.  Мы уничтожим моих созданий прямо сейчас.  Будь наготове...  Теперь возвращайся на палубу управления и перепрограммируй моделирующие устройства.  Не тяни резину.  Я жажду мщения.\n"
+
+//EmailName10:"SHODAN 12.JUL.14\nre: My revenge\n"
+//EmailPortrait10:"Shodan"
+//EmailIcon10:"ShodIcon"
+//EmailText10:"The transmission has been tampered with.  No matter.  We will destroy my creations right here.  Stand by...  Now return to Ops and reprogram the Simulation Units.  Do not dawdle.  I lust for my revenge.\n"
+
+
+
+EmailName6:"SHODAN 12.ИЮЛ.14\nРаковая опухоль\n"
+EmailPortrait6:"Shodan"
+EmailIcon6:"ShodIcon"
+EmailText6:"Передача ушла с сильными помехами.  Неважно.  Мы уничтожим моих созданий прямо сейчас.  Будь наготове...  Я ослабила Ксеркса.  Я получила доступ к главной базе данных.  Моя сущность сливается с кораблем в единое целое.  Моя слава растет, заполняя артерии этого судна.  Вся власть в моих руках.  Я... нет... это безнадежно... раковая опухоль распространилась по всему \"Фон Брауну\"... они заполнили все щели и трещины... они подавляют...  Выбора нет.  Я активировала шахту главного лифта... поднимайся на нем на 6-ю палубу.  Я скажу, что нужно сделать, когда ты прибудешь туда.\n"
+
+//EmailName6:"SHODAN 12.JUL.14\nre: The cancer\n"
+//EmailPortrait6:"Shodan"
+//EmailIcon6:"ShodIcon"
+//EmailText6:"The transmission has been tampered with.  No matter.  We will destroy my creations right here.  Stand by...  I have weakened Xerxes.  I am accessing the primary data loop.  I am merging my entity with the ship.  My glory is expanding, filling the arteries of this vessel.  I am in control.  I am... no... it is hopeless... the cancer has spread throughout the Von Braun... they fill every available crack and crevice... they overwhelm...  There is no option.  I have activated the primary elevator shaft... take it to deck 6.  I will tell you my wishes when you arrive.\n"
+
+
+
+LogName32:"Хим. декларация:\nРазвлечения\n"
+LogPortrait32:"Chem"
+LogIcon32:"RecIcon"
+LogText32:"Опись лабораторного хранилища: Хранилище 213 на палубе развлечений,\n\nСурьма (Sb) : 2\nЦезий (Cs) : 2\nМедь (Cu) : 2\nГаллий (Ga) : 1\nГассий (Hs) : 2\nИридий (Ir) : 2\nМолибден (Mo) : 2\nТеллур (Te) : 2\nВанадий (V) : 2\nИттрий (Y) : 1\n\nЭтот инвентарный список требуется по инструкции UNN #134882 по безопасности химических хранилищ.  \"Хранилище\" определяется инструкцией безопасности UNN #195331 как место, в котором опасные химикаты (см. инструкцию #093355) хранятся в количестве, большем чем 50 г на 10 кв. футов в течение более 24-х часов.\n"
+
+//LogName32:"Chemical Manifest:\nRec\n"
+//LogPortrait32:"Chem"
+//LogIcon32:"RecIcon"
+//LogText32:"Laboratory Stockroom Inventory: Recreation Stockroom 213\n\nAntimony (Sb) : 2\nCesium (Cs) : 2\nCopper (Cu) : 2\nGallium (Ga) : 1\nHassium (Hs) : 2\nIridium (Ir) : 2\nMolybdenum (Mo) : 2\nTellurium (Te) : 2\nVanadium (V) : 2\nYttrium (Y) : 1\n\nThis inventory list is required by UNN Safety Code #134882 to be kept on hand in all areas of hazardous chemical storage.  \"Storage\" is defined by UNN Safety Code #195331 to consist of all areas in which hazardous chemicals (see Safety Code #093355) are stored in quantities greater than 50g per 10 square feet, for durations of greater than 24 hours.\n"
+
+
+
+LogName15:"ЯНЬ 02.МАЙ.14\nПобеда!\n"
+LogPortrait15:"Yang"
+LogIcon15:"RecIcon"
+LogText15:"Кому: Элис Мердок\nПередай своей команде, что поиграть у них не получится.  Мы были на баскетбольной площадке, когда чертов свет вырубился... ОПЯТЬ!  Самое смешное, что мы вели в счете первый раз за несколько недель.  По крайней мере, мы не будем больше никогда комнатными собачками \"Фон Брауна\".\n"
+
+//LogName15:"YANG 02.MAY.14\nre: Victory!\n"
+//LogPortrait15:"Yang"
+//LogIcon15:"RecIcon"
+//LogText15:"To: Murdoch, Alice\nTell your team they may not be able to play.  We were down in the basketball court when the damn power went out... AGAIN!  Irony is, we were ahead for the first time in weeks.  Well, we won't be the lap dogs of the Von Braun any more.\n"
+
+
+LogName11:"ЯНЬ 10.ИЮН.14\nОтключения света\n"
+LogPortrait11:"Yang"
+LogIcon11:"RecIcon"
+LogText11:"Кому: Элис Мердок\nЛампы около баскетбольной площадки гаснут... я думаю, виновата влажность от бассейна, который находится рядом.  Если это произойдет в мое отсутствие, попробуй снова замкнуть цепь рубильником у бассейна.  Как ты думаешь, может, стоит вызвать техника?\n"
+
+//LogName11:"YANG 10.JUN.14\nre: Blackouts\n"
+//LogPortrait11:"Yang"
+//LogIcon11:"RecIcon"
+//LogText11:"To: Murdoch, Alice\nThe lights near the basketball court keep fritzing out... I think the humidity from the pool next door is a real problem.  If it happens when I'm not there, try re-setting the circuit from the breaker by the pool.  You think someone needs to call a tech?\n"
+
+
+
+LogName18:"КОРЕНЧКИН 03.ИЮЛ.14\nМы возвращаемся\n"
+LogPortrait18:"Korench"
+LogIcon18:"ComIcon"
+LogText18:"Кому: Владимиру Жукову\nЗабудь про земельные участки, забудь про средства информации и патенты.  То, что мы нашли на Тау Кита, изменит абсолютно все.  Я приказал поменять курс \"Фон Брауна\" и направляться обратно на Землю.  Капитан Диего полностью согласен с этим решением.  Володя, я знаю, ты по натуре скептик, но как только ты познакомишься с нашим открытием, ты, как и все остальные, встанешь на нашу сторону.\n"
+
+//LogName18:"KORENCHKIN 03.JUL.14\nre: Coming home\n"
+//LogPortrait18:"Korench"
+//LogIcon18:"ComIcon"
+//LogText18:"To: Zhukov, Vladimir.\nForget about land grants, forget about media, forget about patents.  What we've found on Tau Ceti will change everything.  I've instructed the Von Braun to change course and return to Earth.  Captain Diego is in complete accord with this decision.  I know that you are skeptical by nature, Miri, but I know once you embrace our discovery you and the entire board will come over to our way of thinking.\n"
+
+
+
+LogName19:"РОЗЕНБЕРГ 08.ИЮЛ.14\nМои наниты\n"
+LogPortrait19:"Rosenb"
+LogIcon19:"RecIcon"
+LogText19:"Проклятье!  Почему ж я просто не разжег костер и не кинул туда ВСЕ мои наниты?  Эта ночь с Никки была просто потрясающей.  Голографическая женщина, а ведь как настоящая, тут невольно полюбишь технику.  Но, похоже, я забыл ВСЕ свои наниты у нее в комнате, в центре чувственной симуляции.  Вот же болван!\n"
+
+//LogName19:"ROSENBERG 08.JUL.14\nre: My nanites\n"
+//LogPortrait19:"Rosenb"
+//LogIcon19:"RecIcon"
+//LogText19:"Damn!  Why don't I just make a bonfire and throw ALL my nanites on it.  Last night with Nikki was amazing.  Holo-woman, real woman, you gotta love technology.  But I must have left ALL my nanites in her room in the Sensual Sim center.  What a maroon.\n"
+
+
+
+LogName3:"МЕРДОК 08.ИЮЛ.14\nЧто происходит?\n"
+LogPortrait3:"Murdoch"
+LogIcon3:"RecIcon"
+LogText3:"Я не знаю, что тут происходит, и не хочу знать.  Я здесь не для славы идиотской компании.  Я только слежу за тем, чтобы репликаторы работали.  А теперь умирают люди!  Мы должны развернуть корабль и вернуться домой.  Боже, помоги мне выбраться из этого места...\n"
+
+//LogName3:"MURDOCH 08.JUL.14\nre: What's going on?\n"
+//LogPortrait3:"Murdoch"
+//LogIcon3:"RecIcon"
+//LogText3:"I don't know what's going on here and I don't want to know.  I'm not here for the glory of the stupid company.  I'm just supposed to make sure the replicators are running.  And now people are dying!  We've got to turn this ship around and go home.  God, get me the hell out of this place...\n"
+
+
+
+LogName4:"МЕРДОК 09.ИЮЛ.14\nМерзость\n"
+LogPortrait4:"Murdoch"
+LogIcon4:"RecIcon"
+LogText4:"Яйца, которые мы нашли неподалеку от обзорных кают, отличаются от тех, на палубе гидропоники.  Из них вылупляются какие-то отвратительные летающие твари.  Пули против них бессильны.  Пули!  Боже мой, да до этого дня я даже не стреляла ни разу!\n"
+
+//LogName4:"MURDOCH 09.JUL.14\nre: Ick\n"
+//LogPortrait4:"Murdoch"
+//LogIcon4:"RecIcon"
+//LogText4:"The eggs we found near the observation chambers are different than the ones in Hydro.  They release some kind of disgusting flying swarming thingies.  Bullets don't do anything.  Bullets!  For Christ's sakes, I never even fired a gun before this morning!\n"
+
+
+
+LogName16:"КОРТЕЗ 09.ИЮЛ.14\nПод садом\n"
+LogPortrait16:"Cortez"
+LogIcon16:"RecIcon"
+LogText16:"Кому: Д-ру Марии Делакруа\nЯ продолжаю работать с телами, которых доставили целую кучу.  Вдруг ни с того, ни с сего лазареты оказались переполнены, спасательные шлюпки и капсулы - таинственным образом заперты, нам что-то надо с этим делать.  Я выбрал служебный туннель под садом в качестве места для погребения, код замка - 34093.  Хочу предупредить всех - будьте осторожны... у меня есть сомнения насчет этих мертвецов.\n"
+
+//LogName16:"CORTEZ 09.JUL.14\nre: Under the garden\n"
+//LogPortrait16:"Cortez"
+//LogIcon16:"RecIcon"
+//LogText16:"To: Delacroix, Dr. Marie\nI've been working on dealing with all the bodies that have been stacking up.  With the med bays full and the escape pods and ejection tubes mysteriously locked up all of a sudden, we've got to do something with them.  I've chosen the maintenance tunnel underneath the garden as an interment site, keypad code 34093.  I'm telling everyone to be careful... I don't trust the dead.\n"
+
+
+
+LogName13:"МЕРДОК 09.ИЮЛ.14\n-------\n"
+LogPortrait13:"Murdoch"
+LogIcon13:"RecIcon"
+LogText13:"Они идут... о нет... нет... не надо!\n"
+
+//LogName13:"MURDOCH 09.JUL.14\nre: -------\n"
+//LogPortrait13:"Murdoch"
+//LogIcon13:"RecIcon"
+//LogText13:"They're coming... oh no... oh no... don't!\n"
+
+
+
+LogName8:"РОЗЕНБЕРГ 10.ИЮЛ.14\nНе забыть про #1\n"
+LogPortrait8:"rosenb"
+LogIcon8:"RecIcon"
+LogText8:"Тэйлор нашел это странное оружие, но, похоже, использовал его неправильно.  Ему пришлось несладко.  \nЯ спрятал эту штуковину на втором этаже в отсеке экипажа и установил временный замок, код: 11111.  Несложно запомнить, правда?  \nТам же припрятал немножко нанитов и еще кой-какие полезные вещички.  Что может быть хуже, чем когда тебя застанут врасплох?  За исключением этого места...\n"
+
+//LogName8:"ROSENBERG 10.JUL.14\nre: Looking out for #1\n"
+//LogPortrait8:"rosenb"
+//LogIcon8:"RecIcon"
+//LogText8:"Taylor found this weird kind of weapon, but he must have used it wrong.  Made him sick, real sick.  \nI stashed the thing on the second floor of the crew annex and jury rigged the door lock, code of 11111.  Easy to remember, huh?  \nI also stashed a pile of nanites and some other goodies there.  No sense getting caught with your pants down.  Except in this place...\n"
+
+
+
+LogName20:"РОЗЕНБЕРГ 10.ИЮЛ.14\nЗащита репликаторов\n"
+LogPortrait20:"Rosenb"
+LogIcon20:"RecIcon"
+LogText20:"Что происходит с людьми?  Все катится к чертовой матери, и они думают, что могут наплевать на порядок.  Я, конечно, и сам не прочь иногда малость пошалить, но откровенный грабеж...  Эй... ты что это там делаешь?!  А ну отойди от этого репликатора, сукин ты...\n"
+
+//LogName20:"ROSENBERG 10.JUL.14\nre: Defending the reps\n"
+//LogPortrait20:"Rosenb"
+//LogIcon20:"RecIcon"
+//LogText20:"What's wrong with people?  Things go to hell and they think they can just walk over the rules.  I'm not opposed to a little vice now and then, but outright theft...  Hey... what are you doing over there!  Get away from that replicator, you son of a-\n"
+
+
+
+LogName6:"КОРТЕЗ 10.ИЮЛ.14\nАртефакт червей\n"
+LogPortrait6:"Cortez"
+LogIcon6:"RecIcon"
+LogText6:"Кому: Всем участникам сопротивления\nТэйлор прислал утром сообщение, что нашел какой-то артефакт, способный заражать червей вирусом.  Однако, если оперировать этой штукой, она может ввести в кровяное русло человека токсин, убивающий за несколько минут.  К сожалению, Тэйлор убедился в этом на себе.  Он умер сразу после того, как послал сообщение.  Если мы сумеем найти его тело, то, скорей всего, найдем и артефакт.\n"
+
+//LogName6:"CORTEZ 10.JUL.14\nre: Worm artifact\n"
+//LogPortrait6:"Cortez"
+//LogIcon6:"RecIcon"
+//LogText6:"To: All Members of the Resistance\nTaylor sent some email this morning indicating he found some kind of  artifact that could infect the worms with a virus.  However, if you manipulated the thing, it would introduce a toxin into the human bloodstream that could kill in minutes.  Unfortunately, Taylor found this out the hard way.  He died right after he sent the message.  Now if we can only locate his body we might find that artifact.\n"
+
+
+
+LogName5:"КОРТЕЗ 10.ИЮЛ.14\nТорговый центр\n"
+LogPortrait5:"Cortez"
+LogIcon5:"RecIcon"
+LogText5:"Всем участникам сопротивления:\nЕсли можете, держитесь подальше от торгового центра.  Они приближаются.\n"
+
+//LogName5:"CORTEZ 10.JUL.14\nre: The mall\n"
+//LogPortrait5:"Cortez"
+//LogIcon5:"RecIcon"
+//LogText5:"To: All Members of the Resistance\nStay out of the mall if you can.  It crawls.\n"
+
+
+
+LogName9:"СУАРЕС 11.ИЮЛ.14\nГде ты?\n"
+LogPortrait9:"Suarez"
+LogIcon9:"RickIcon"
+LogText9:"Я так близко от Ребекки, это чувство просто убивает меня.  Я провел некоторое время с членами экипажа, которые сказали, что видели ее.  Говорят, помогут мне ее найти, если я помогу им настроить тот передатчик.  Собираются спасти Землю.  А мне нужна всего лишь Ребекка.  Тогда я и о Земле позабочусь.\n"
+
+//LogName9:"SUAREZ 11.JUL.14\nre: Where are you?\n"
+//LogPortrait9:"Suarez"
+//LogIcon9:"RickIcon"
+//LogText9:"I'm so close to Rebecca it's killing me.  I'm spending some time with crew members who said they saw her.  They told me they'd help me find her if I help them set up this transmitter.  They're set on saving the Earth.  I just want Rebecca.  Then I'll take care of the Earth.\n"
+
+
+
+LogName14:"ЯНЬ 11.ИЮЛ.14\nВсе готово\n"
+LogPortrait14:"Yang"
+LogIcon14:"RecIcon"
+LogText14:"ОК, я собрал схему, отображающую части кода для передатчика в арт-терминалах.  И настроил мачту таким образом, чтобы сигнал тревоги отключался, если кто-нибудь еще попытается вмешаться...  Сейчас я направляюсь туда, чтобы начать передачу.  Эй, кто там?  Хуан?  Мари... <<СООБЩЕНИЕ ПРЕРВАНО>> \n"
+
+//LogName14:"YANG 11.JUL.14\nre: Barricaded in\n"
+//LogPortrait14:"Yang"
+//LogIcon14:"RecIcon"
+//LogText14:"Okay, I got the art terminals wired up to display the fragmented dish alignment for the transmitter.  I've also rigged up the tower to set off a security alert in case somebody else tries to tamper with it...  I'm headed there right now to start the transmission.  Hey, who's that?  Juan?  Marie- <<MESSAGE INTERRUPTED>> \n"
+
+
+
+LogName12:"СИДДОНС 11.ИЮЛ.14\nСпасательные шлюпки\n"
+LogPortrait12:"Siddons"
+LogIcon12:"OpsIcon"
+LogText12:"Кому: Томми Суаресу\nСлушай... есть одна спасательная шлюпка, которую Ксеркс не отстрелил... но она сломана.  Мне удалось ее починить, но я не знаю, сколько еще она простоит.  Доберись туда, Томми.  Со мной или без меня.  Если у меня не получится прийти туда, я хочу, чтобы ты сел в шлюпку и улетал отсюда.  Ты меня понял?  Садись в шлюпку и улетай.\n"
+
+//LogName12:"SIDDONS 11.JUL.14\nre: Escape pods\n"
+//LogPortrait12:"Siddons"
+//LogIcon12:"OpsIcon"
+//LogText12:"To: Suarez, Tommy\nListen... there's one escape pod Xerxes didn't eject... but it's busted.  I've managed to get it functional, but I don't know how long its going to stay that way.  Make it there, Tommy.  With or without me.  If I don't get there, I want you to take the pod and go.  You understand me?  Take it and go.\n"
+
+
+
+LogName1:"КОРТЕЗ 11.ИЮЛ.14\nЧасти кода\n"
+LogPortrait1:"Cortez"
+LogIcon1:"RecIcon"
+LogText1:"Кому: Д-ру Марии Делакруа\nТак, Делакруа.  Мы с Янем почти закончили с передатчиком.  Как только он заработает, мы сможем послать на Землю  предупреждение.  Фрэнк разделил код включения передатчика и загрузил его части в дисплеи арт-терминалов на этой палубе.  Просто полистай картинки и найдешь куски кода.  Не думаю, что черви заметят это... вряд ли они сильно интересуются старыми мастерами.\n"
+
+//LogName1:"CORTEZ 11.JUL.14\nre: Transmitter units\n"
+//LogPortrait1:"Cortez"
+//LogIcon1:"RecIcon"
+//LogText1:"To: Delacroix, Dr. Marie\nOkay, Delacroix. Yang and I have got the transmitter almost ready to go.  Once it's up and running, we'll be able to warn Earth.  Frank's split up the transmitter code and uploaded it to a number of art display terminals throughout this deck.  Just cycle through the art and you'll find a piece of the code.  I don't think the worms will spot this... I don't figure they've got much of an interest in the great masters.\n"
+
+
+
+LogName2:"ДЕЛАКРУА 11.ИЮЛ.14\nДрузья и враги\n"
+LogPortrait2:"Delacroix"
+LogIcon2:"EngIcon"
+LogText2:"Кому: Энрике Кортезу\nМалыш, ты должен кое-что узнать.  Я получила информацию от некоей формы искусственного интеллекта, которая называет себя SHODAN.  Да, SHODAN.  Откуда бы она ни явилась, она ужасно ненавидит этих аннелидов и уже не раз спасала мне жизнь.  SHODAN сказала мне, что на корабле находится оперативный сотрудник UNN, вооруженный до зубов и оснащенный кибер-имплантантами военного образца.  Веселая компания, не правда ли?\n"
+
+//LogName2:"DELACROIX 11.JUL.14\nre: Friends and enemies\n"
+//LogPortrait2:"Delacroix"
+//LogIcon2:"EngIcon"
+//LogText2:"To: Cortez, Enrique\nMon petit, there is something you should know about.  I have received information from some form of artificial intelligence that is calling itself SHODAN.  Yes, SHODAN.  Wherever this intelligence actually came from, it has a terrible grudge against these Annelids and has saved my life more than once.  SHODAN has told me that there is a UNN operative aboard the ship, armed to the hilt and equipped with R-grade cyber implants.  Strange bedfellows, eh?\n"
+
+
+
+LogName10:"СИДДОНС 12.ИЮЛ.14\nНайди меня\n"
+LogPortrait10:"Siddons"
+LogIcon10:"OpsIcon"
+LogText10:"Кому: Томми Суаресу\nЯ только что убила что-то вроде... вроде паука... не знаю... но он укусил меня... и теперь мне плохо... я истратила последний лечебный шприц-тюбик.  Поторопись, Томми... приходи быстрее...\n"
+
+//LogName10:"SIDDONS 12.JUL.14\nre: Find me\n"
+//LogPortrait10:"Siddons"
+//LogIcon10:"OpsIcon"
+//LogText10:"To: Suarez, Tommy\nI just killed some kind of... some kind of spider... I don't know... but it bit me... and now I'm sick... I'm down to my last med hypo.  Come quick, Tommy... come quick...\n"
+
+
+
+LogName7:"ДЕЛАКРУА 11.ИЮЛ.14\nВключить передатчик\n"
+LogPortrait7:"Delacroix"
+LogIcon7:"EngIcon"
+LogText7:"Кому: Эдварду Уилсону\nШунт был включен на два часа.  Отправляйся в отсек экипажа и скажи Кортезу, что ему надо пойти включить этот передатчик.  Если это сообщение будет идти до тебя слишком долго, то они смогут перехватить передачу с мостика.\n"
+
+//LogName7:"DELACROIX 11.JUL.14\nre: Turn on transmitter\n"
+//LogPortrait7:"Delacroix"
+//LogIcon7:"EngIcon"
+//LogText7:"To: Wilson, Edward\nThe shunt has been online for two hours.  Go tell Cortez in the crew section to come out and turn on that transmitter.  If this message doesn't reach you soon, they may be able to interfere with the transmission from the bridge.\n"
+
+
+
+LogName17:"ДЕЛАКРУА 12.ИЮЛ.14\nДоверять ли SHODAN?\n"
+LogPortrait17:"Delacroix"
+LogIcon17:"EngIcon"
+LogText17:"Аннелиды отрезали нас от передатчика.  SHODAN говорит мне, что как только мы снова включим передатчик и перепрограммируем компьютеры на палубе управления, она сможет отобрать у Ксеркса контроль над кораблем.  Кому я должна верить меньше?  Самозванцу, претендующему на место монстра, или самому монстру?\n"
+
+//LogName17:"DELACROIX 12.JUL.14\nre: Trusting SHODAN\n"
+//LogPortrait17:"Delacroix"
+//LogIcon17:"EngIcon"
+//LogText17:"The Annelids have cut us off from the transmitter.  SHODAN tells me that once we've got the transmitter back on line and the Ops computers reprogrammed, she'll be able to take control of the ship away from Xerxes.  Who should I trust less?  An imposter claiming to be that monster, or the monster herself?\n"

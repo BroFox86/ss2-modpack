@@ -1,0 +1,594 @@
+Psi0:"1-й уровень\nпси-способностей
+Требуется для пси-навы-\nков 1-го уровня.  Повыша-\nшает макс. значение пси на 2 ед.  Все навыки 1-го уровня потребляют при использ. 1 ед. пси-силы."
+
+//"First Tier Neural Capacity
+
+This is required for First Tier psionic disciplines.  It increases your maximum psi points by 2.  All First Tier disciplines cost 1 psi point per use."
+
+
+
+Psi1:"Пси-рефлективный щит
+
+Снижает весь урон, полученный в бою, на 15%.
+
+Длится: 20 сек + 30 сек за ПСИ"
+
+//"Psycho-Reflective Screen
+
+Protects you from 15% of all combat damage.
+
+Duration: 20 seconds + 30 seconds per PSI"
+
+
+
+Psi2:"Нейро-рефлекторный амортизатор
+
+Уменьшает отдачу любого оружия.
+Длится: 1 мин + 20 сек за ПСИ"
+
+//"Neuro-Reflex Dampening
+
+Eliminates all weapon kickback.
+
+Duration: 1 minute + 20 seconds per PSI"
+
+
+
+Psi9:"Поле анти-энтропии
+
+Устраняет ухудшение и поломку стрелков. оружия на период действия данного навыка.  Длится: 10 сек + 20 сек за ПСИ"
+
+//"Anti-Entropic Field
+
+While this discipline is active, your ranged weapons cannot break, and their condition will not degrade.
+Duration: 10 seconds + 20 seconds per PSI"
+
+
+
+Psi3:"Пси-притяжение
+
+Притягивает объект к персонажу.
+
+Длится: 1 сек за ПСИ"
+
+//"Kinetic Redirection
+
+Pulls an object toward you.  
+
+Duration: 1 second per PSI"
+
+
+
+Psi4:"Психогенная ловкость
+
+Увеличивает характерис-\nтику Ловкость на 2 ед.
+
+Длится: 2 мин + 1 мин за ПСИ"
+
+//"Psychogenic Agility
+
+Increases your Agility by 2.
+
+Duration: 2 minutes + 1 minute per PSI"
+
+
+
+Psi6:"Направленный криокинез
+
+Выпускает в цель теплопоглощающий заряд.
+
+Чем выше ПСИ, тем больше урон."
+
+//"Projected Cryokinesis
+
+Launches a heat-draining projectile at a target.  Higher PSI increases damage."
+
+
+
+Psi5:"Психогенная кибернетика
+
+Увеличивает характерис-\nтику Кибернетика на 2 ед.
+
+Длится: 2 мин + 1 мин за ПСИ"
+
+//"Psychogenic Cyber-Affinity
+
+Increases your Cybernetic Affinity by 2.
+
+Duration: 2 minutes + 1 minute per PSI"
+
+
+
+Psi8:"2-й уровень\nпси-способностей
+Требуется для пси-навы-\nков 2-го уровня.  Повыша-\nет макс. значение пси на 4 ед.  Все навыки 2-го уровня потребляют при использ. 2 ед. пси-силы."
+
+//"Second Tier Neural Capacity
+
+This is required for Second Tier psionic disciplines.  It increases your maximum psi points by 4.  All Second Tier disciplines cost 2 psi points per use."
+
+
+
+Psi11:"Психогенное обеззараживание
+
+Снижает урон от радиации на 80%.
+Длится: 10 сек + 5 сек за ПСИ"
+
+// "Neural Decontamination
+
+Shields you from 80% of radiation damage.
+
+Duration: 10 seconds + 5 seconds per PSI"
+
+
+
+
+Psi12:"Церебро-стимулируемая регенерация
+
+Восстанавливает здоровье.
+
+Объем лечения: 2 пункта за ПСИ"
+
+// "Cerebro-Stimulated Regeneration
+
+Regenerates lost hit points.
+
+Amount Healed: 2 hit points per PSI"
+
+
+
+
+Psi13:"Психогенная сила
+
+Увеличивает характерис-\nтику Сила на 2 единицы.
+
+Длится: 2 мин + 1 мин за ПСИ"
+
+// "Psychogenic Strength
+
+Increases your Strength by 2.
+
+Duration: 2 minutes + 1 minute per PSI"
+
+
+
+
+Psi17:"Молекулярный дубликатор
+Использует наниты для дублирования одной обоймы боеприпасов или шприц-тюбика.  Шанс успеха: 30% + 10% за ПСИ"
+
+// "Molecular Duplication
+
+Use some nanites to duplicate one ammo clip or hypo.
+
+Chance of Success: 30% + 10% per PSI"
+
+
+
+
+Psi14:"Рекурсивное псионное усиление
+Увеличивает характерис-\nтику Псионика на 2 ед.  Затраты пси-энергии на все пси-навыки удваивают-\nся. Длится: 10 сек + 10 сек за ПСИ"
+
+// "Recursive Psionic Amplification
+
+Increases your Psionic Ability by 2.  Psi point costs are doubled while active.
+
+Duration: 10 seconds + 10 seconds per PSI"
+
+
+
+
+Psi18:"Электронный каскад
+
+Заряжает отдельный предмет или оружие.
+Зарядка: 20% за 1 пункт ПСИ, до макс. уровня, поз-\nволяемого твоим навыком техобслуживания."
+
+// "Electron Cascade
+
+Recharges a single charged item or weapon.
+Recharge amount: 20% per point of PSI, up to the maximum allowed by your Maintenance skill."
+
+
+
+
+Psi15:"Локальный пирокинез
+Наносит урон всем существам в радиусе полутора метров.  Чем выше ПСИ, тем больше урон врагам.  Длится: 15 сек + 8 сек за ПСИ"
+
+// "Localized Pyrokinesis
+Damages all creatures within a five foot radius.  Higher PSI increases damage to enemies.
+Duration: 15 seconds + 8 seconds per PSI"
+
+
+
+
+Psi16:"3-й уровень\nпси-способностей
+Требуется для пси-навы-\nков 3-го уровня.  Повыша-\nет макс. значение пси на 6 ед.  Все навыки 3-го уровня потребляют при использ. 3 ед. пси-силы."
+
+// "Third Tier Neural Capacity
+
+This is required for Third Tier psionic disciplines.  It increases your maximum psi points by 6.  All Third Tier disciplines cost 3 psi points per use."
+
+
+
+
+Psi19:"Отражатель энергии
+
+Обеспечивает 50%-ную защиту от всех энерг. источников урона.
+
+Длится: 20 сек за ПСИ"
+
+// "Energy Reflection
+
+Provides 50% immunity to all energy-based damage sources.
+
+Duration: 20 seconds per PSI"
+
+
+
+
+Psi20:"Психогенная блокировка токсинов
+
+На 100% защищает тебя от токсинов.
+Длится: 10 сек + 5 сек за ПСИ"
+
+// "Neural Toxin-Blocker
+
+Shields you from 100% of toxin absorption.
+
+Duration: 10 seconds + 5 seconds per PSI"
+
+
+
+
+Psi21:"Радар поиска живых существ
+
+Показывает расположение всех существ поблизости.
+
+Длится: 30 сек за ПСИ"
+
+// "Enhanced Motion Sensitivity
+
+Shows the location of all nearby creatures.
+
+Duration: 30 seconds per PSI"
+
+
+
+
+Psi22:"Направленный пирокинез
+
+Запускает в цель огненный заряд.
+
+Чем выше ПСИ, тем выше урон."
+
+// "Projected Pyrokinesis
+
+Launches a fiery projectile at a target.  Higher PSI increases damage."
+
+
+
+
+Psi7:"Удаленное электронное вмешательство
+Заставляет сработавшую тревогу отключаться быстрее.
+Уменьшение времени: 
+5 сек + 5 сек за ПСИ"
+
+// "Remote Electron Tampering
+
+Makes active alarms time out faster.
+
+Time Reduction: 5 seconds + 5 seconds per PSI"
+
+
+
+
+Psi10:"Выброс адреналина
+
+Умножает урон, наносимый в рукопашном бою, эквивалентно ПСИ.
+
+Длится: 10 сек за ПСИ"
+
+// "Adrenaline Overproduction
+
+Increases hand-to-hand damage by a factor equal to PSI.
+
+Duration: 10 seconds per PSI"
+
+
+
+
+Psi23:"Пси-гипноз
+Пораженное не-механичес-\nкое существо будет стоять неподвижно.  Если существо получит урон, действие эффекта закончится.  Длится: 20 сек за ПСИ."
+
+// "Psionic Hypnogenesis
+
+Target non-robotic creature will stand still and docile.  If the creature takes damage, the effect ends.
+
+Duration: 20 seconds per PSI."
+
+
+
+Psi24:"4-й уровень\nпси-способностей
+Требуется для пси-навы-\nков 4-го уровня.  Повыша-\nет макс. значение пси на 8 ед.  Все навыки 4-го уровня потребляют при использ. 4 ед. пси-силы."
+
+// "Fourth Tier Neural Capacity
+
+This is required for Fourth Tier psionic disciplines.  It increases your maximum psi points by 8.  All Fourth Tier disciplines cost 4 psi points per use."
+
+
+
+Psi25:"Рассеивание фотонов
+
+Делает тебя невидимым для всех существ.  Стрельба из оружия прервет эффект.  Длится: 5 сек + 5 сек за ПСИ"
+
+// "Photonic Redirection
+
+Renders you invisible to all creatures.  Firing a weapon will end the effect.
+
+Duration: 5 seconds + 5 seconds per PSI"
+
+
+
+
+Psi26:"Детектор полезных предметов
+Показывает расположение мн. полезных вещей (нани-\nты, боеприпасы, шприц-\nтюбики, имплантанты и аудио-записи).  Длится: 1 мин за ПСИ"
+
+// "Remote Pattern Detection
+
+Shows the location of many useful items, including nanites, ammo, hypos, implants and audio logs.
+
+Duration: 1 minute per PSI"
+
+
+
+
+Psi27:"Электронное подавление
+
+Обездвиживает любых роботов.
+
+Длится: 3 сек за ПСИ"
+
+// "Electron Suppression
+
+Immobilizes any robotic target.
+
+Duration: 3 seconds per PSI"
+
+
+
+
+Psi28:"Психогенная выносливость
+
+Повышает твою выносливость на 2 ед.
+
+Длится: 2 мин + 1 мин за ПСИ"
+
+// "Psychogenic Endurance
+
+Increases your Endurance by 2.
+
+Duration: 2 minutes + 1 minute per PSI"
+
+
+
+
+Psi29:"Молекулярное преобразование
+
+Превращает боеприпасы и шприц-тюбики в наниты."
+
+// "Molecular Transmutation
+
+Turns ammunition and hypos into nanites."
+
+
+
+
+Psi30:"Дистанционный взлом
+Позволяет взламывать любое взламываемое уст-во, не обладая навыком взлома, используя характ-ку Пси вместо Кибернетики и затрачивая пси-силу вместо нанитов."
+
+// "Remote Circuitry Manipulation
+
+Allows you to hack psionically.  Uses half your Psionic Ability (rounded up) in place of both Hacking skill and Cyber-Affinity, and costs psi points instead of nanites."
+
+
+
+
+Psi31:"Церебрально-энергетиче-\nский усилитель, пси-меч
+
+Превращает твой пси-усилитель в мощное оружие рукопашного боя.
+Длится: 10 сек за ПСИ"
+
+// "Cerebro-Energetic Extension
+
+Turns your Psi-Amp into a powerful melee weapon.
+
+Duration: 10 seconds per PSI"
+
+
+
+
+Psi32:"5-й уровень\nпси-способностей
+Требуется для пси-навы-\nков 5-го уровня.  Повыша-\nет макс. значение пси на 10 ед.  Все навыки 5-го уровня потребляют при использ. 5 ед. пси-силы."
+
+// "Fifth Tier Neural Capacity
+
+This is required for Fifth Tier psionic disciplines.  It increases your maximum psi points by 10.  All Fifth Tier disciplines cost 5 psi points per use."
+
+
+
+
+Psi33:"Улучшенная церебро-стимулируемая регенерация
+
+Восстанавливает здоровье.
+Лечение: 5 ед. + 5 ед. за ПСИ"
+
+// "Advanced Cerebro-Stimulated Regeneration
+
+Regenerates lost hit points.
+
+Amount Healed: 5 hit points + 5 hit points per PSI"
+
+
+
+Psi34:"Вампиризм
+
+Вытягивает здоровье из не-механических существ и добавляет его тебе."
+
+// "Soma Transference
+
+Drains target non-robotic creature of hit points, and adds those hit points to your total."
+
+
+
+
+Psi35:"Телепорт
+Телепортирует тебя в помеченное маркером место.  Если место не отмечено, маркер ставится в текущем месте.  Маркер убирается по Alt-T."
+
+// "Instantaneous Quantum Relocation
+Teleports you to a marked location.  If there is no marked location, this will set a marker at your current position.  You can clear an obsolete teleport marker by hitting Alt-T."
+
+
+
+
+Psi36:"Налагаемая психогенная реструктуризация
+Вынуждает не-механичес-\nкую цель нападать на другие существа.  Длится: 10 сек за ПСИ или до повреждения человеком."
+
+// "Imposed Neural Restructuring
+
+Causes a non-robotic target to become hostile toward all non-human creatures.
+
+Duration: 10 seconds per PSI, or until damaged by a human."
+
+
+
+Psi37:"Силовой барьер
+
+Создает псионную стену непосредственно перед тобой.  Прочность стены: 150 + 50 за ПСИ больше 5-и. Длится: 4 мин"
+
+// "Metacreative Barrier
+
+Creates a wall of psionic force directly in front of you.
+
+Wall's hit points: 150 + 50 per PSI over 5
+Duration: 4 minutes"
+
+
+
+
+Psi38:"Пси-мина
+Закладывается пси-чувствительная мина.  Не вредит роботам, но пси-чувствительным созданиям наносит двойной урон. Действие: 4 мин"
+
+// "External Psionic Detonation
+
+Drops a psionic proximity mine.  Does no damage to robots, and double damage to psionically sensitive creatures.
+Duration: 4 minutes"
+
+
+
+Psi39:"Психо-рефлективная аура
+
+Снижает весь урон, полу-\nченный в бою, на 60%.
+
+Длится: 10 сек + 20 сек за ПСИ"
+
+// "Psycho-Reflective Aura
+
+Protects you from 60% of all combat damage.
+
+Duration: 10 seconds + 20 seconds per PSI"
+
+
+
+PsiIcon0:"picn00"
+PsiIcon1:"picn01"
+PsiIcon2:"picn02"
+PsiIcon3:"picn04"
+PsiIcon4:"picn05"
+PsiIcon5:"picn06"
+PsiIcon6:"picn07"
+PsiIcon7:"picn21"
+PsiIcon8:"picn08"
+PsiIcon9:"picn03"
+PsiIcon10:"picn22"
+PsiIcon11:"picn10"
+PsiIcon12:"picn11"
+PsiIcon13:"picn12"
+PsiIcon14:"picn13"
+PsiIcon15:"picn15"
+PsiIcon16:"picn16"
+PsiIcon17:"picn09"
+PsiIcon18:"picn14"
+PsiIcon19:"picn17"
+PsiIcon20:"picn18"
+PsiIcon21:"picn19"
+PsiIcon22:"picn20"
+PsiIcon23:"picn23"
+PsiIcon24:"picn24"
+PsiIcon25:"picn25"
+PsiIcon26:"picn26"
+PsiIcon27:"picn27"
+PsiIcon28:"picn28"
+PsiIcon29:"picn29"
+PsiIcon30:"picn30"
+PsiIcon31:"picn31"
+PsiIcon32:"picn32"
+PsiIcon33:"picn33"
+PsiIcon34:"picn34"
+PsiIcon35:"picn35"
+PsiIcon36:"picn36"
+PsiIcon37:"picn37"
+PsiIcon38:"picn38"
+PsiIcon39:"picn39"
+
+
+
+BuyText0:"Этими кнопками выбирается уровень пси-навыков, который ты хочешь приобрести."
+//"These buttons select which Tier of psionic disciplines you wish to purchase."
+
+BuyText2:"Показывает, сколько кибер-модулей ты можешь потратить."
+//"This shows how many cyber modules you have available to spend."
+
+BuyText3:"Эти кнопки - для навигации между различными MFD персонажа."
+//"These buttons navigate between various character MFDs."
+
+AmpText0:"Эти кнопки - для переключения между разными уровнями пси-навыков."
+//"These buttons switch between the different Tiers of psionic disciplines."
+
+PsiShort0:"Это баг"  //"This is a bug"
+PsiShort1:"Пси-щит"  //"Psi Shield"
+PsiShort2:"Рефлекс"  //"Reflex"
+PsiShort9:"Анти-энтропия"  //"Anti-Entropy"
+PsiShort3:"Пси-притяжение"  //"Psi Pull"
+PsiShort4:"Ловкость"  //"Agility"
+PsiShort5:"Кибер"  //"Cyber"
+PsiShort6:"Криокинез"  //"Cryokinesis"
+PsiShort8:"Это баг"  //"This is a bug"
+PsiShort17:"Дубликатор"  //"Duplicate"
+PsiShort11:"Антирад. щит"  //"Rad Shield"
+PsiShort12:"Регенерация"  //"Regenerate"
+PsiShort13:"Сила"  //"Strength"
+PsiShort14:"Рекурсивная Пси"  //"Recursive Psi"
+PsiShort18:"Электрон"  //"Electron"
+PsiShort15:"Пиро-поле"  //"Pyro Field"
+PsiShort16:"Это баг"  //"This is a bug"
+PsiShort19:"Отражатель"  //"Reflect"
+PsiShort20:"Токсинный щит"  "Toxin Sheld"
+PsiShort21:"Радар движения"  //"Sense Motion"
+PsiShort22:"Пирокинез"  //"Pyrokinesis"
+PsiShort7:"Стоп-тревога"  //"Stop Alarm"
+PsiShort10:"Адреналин"  //"Adrenaline"
+PsiShort23:"Гипноз"  //"Hypnosis"
+PsiShort24:"Это баг"  //"This is a bug"
+PsiShort25:"Невидимость"  //"Invisibility"
+PsiShort26:"Детектор предметов"  //"Detect Items"
+PsiShort27:"Подавление"  //"Suppression"
+PsiShort28:"Выносливость"  //"Endurance"
+PsiShort29:"Превращение"  //"Transmute"
+PsiShort30:"Пси-взлом"  //"Psi Hack"
+PsiShort31:"Пси-оружие"  //"Psi Weapon"
+PsiShort32:"Это баг"  //"This is a bug"
+PsiShort33:"Турборегенерация"  //"Adv. Regen"
+PsiShort34:"Вампиризм"  //"Transfer"
+PsiShort35:"Перемещение"  //"Relocation"
+PsiShort36:"Реструктуризация"  //"Restructure"
+PsiShort37:"Барьер"  //"Barrier"
+PsiShort38:"Детонация"  //"Detonation"
+PsiShort39:"Аура"  //"Aura"
