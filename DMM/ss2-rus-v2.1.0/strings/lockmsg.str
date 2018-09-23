@@ -1,0 +1,17 @@
+No_Card:"Вставь плату коррекции."
+//"Please insert hardware override."
+
+NeedChipA:"Нужен чип квантового моделирования."
+//"Quantum Simulation Chip required."
+
+NeedChipB:"Нужен чип линейного моделирования."
+//"Linear Simulation Chip required."
+
+NeedChipC:"Нужен чип интерполяционного моделирования."
+//"Interpolated Simulation Chip required."
+
+NeedOps:"Нужен доступ к коррекции управления."
+//"Ops Override access required."
+
+AuxPower:"Вставь заряженный аккумулятор."
+//"Insert charged power cell."

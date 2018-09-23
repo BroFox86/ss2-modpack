@@ -1,0 +1,29 @@
+AssaultRifle:"Увеличивает вместимость обоймы с 36-и до 72-х."
+//"Increase the clip size from 36 to 72."
+
+EMP:"Снижает расход энергии и увеличивает скорострельность на 50%."
+//"Reduce energy usage and increase shot speed 50%."
+
+Fusion:"Снижает расход боеприпасов на 50%."
+//"Reduce ammo use by 50%."
+
+GrenLauncher:"Увеличивает скорость вылета гранат и уменьшает время перезарядки."
+//"Increase speed of grenades, and reduce reload time."
+
+laser:"Снижает расход энергии на 33%."
+//"Reduce energy consumption by 33%."
+
+Pistol:"Уменьшает время перезарядки."
+//"Decrease reload time."
+
+Shotgun:"Уменьшает отдачу при стрельбе."
+//"Reduce the amount of kickback when fired."
+
+Stasis_Field_Generator:"Уменьшает расход боеприпасов на 50%."
+//"Reduce ammo use by 50%."
+
+Viral_Prolif:"Уменьшает количество боеприпасов, нужное для выстрела."
+//"Reduce the amount of ammo used per shot."
+
+Worm_Launcher:"Увеличивает скорость снаряда."
+//"Increase speed of projectile."

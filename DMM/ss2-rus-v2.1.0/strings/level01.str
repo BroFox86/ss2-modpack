@@ -1,0 +1,484 @@
+EmailName10:"ПОЛИТО 12.ИЮЛ.14\nЗапустить реактор\n"
+EmailPortrait10:"Polito"
+EmailIcon10:"OpsIcon"
+EmailText10:"Ты - на инженерной палубе.  Найди главный реактор и запусти его.  Тогда подача энергии к лифтам восстановится.  Оттуда, где ты находишься, ко мне поступают какие-то странные данные, так что будь начеку.\n"
+
+//EmailName10:"POLITO 12.JUL.14\nre: Reset the core\n"
+//EmailPortrait10:"Polito"
+//EmailIcon10:"OpsIcon"
+//EmailText10:"You're now on the engineering deck.  Find the engine core and reset it.  This will restore power to the elevators.  I'm getting some kind of strange readings from down there, so keep your eyes open.\n"
+
+
+
+EmailName1:"ПОЛИТО 12.ИЮЛ.14\nСклад 4\n"
+EmailPortrait1:"Polito"
+EmailIcon1:"OpsIcon"
+EmailText1:"Двигайся быстрее.  Ты даже представить себе не можешь, как высоки ставки.  Внимательно осмотри склад оборудования 4.  Я кое-что положила там про запас, код доступа - 59004.  Я направляюсь на палубу... <<СООБЩЕНИЕ ПРЕРВАНО>>\n"
+
+//EmailName1:"POLITO 12.JUL.14\nre: Utility storage 4\n"
+//EmailPortrait1:"Polito"
+//EmailIcon1:"OpsIcon"
+//EmailText1:"You must move faster.  Your mind cannot conceive of the stakes we are dealing with.  Keep your eyes open for utility storage 4.  I've laid in some supplies there, the pass-code is 59004.  I've got to get to Deck... <<MESSAGE INTERRUPTED>>\n"
+
+//(Early)
+//EmailName1:"POLITO XX.JUL.04\n\re: X"
+//EmailPortrait1:"testport"
+//EmailIcon1:"testicon"
+//EmailText1:"You must move faster. Your mind cannot conceive of the stakes we are dealing with. Keep your eyes open for utility storage 4... I’ve laid in some supplies there, the passcode is 59004. Have you found a Research soft yet? You can use it analyze the xenomorphs and their artifacts...I’ve got to.\n"
+
+
+
+
+
+EmailName3:"ПОЛИТО 12.ИЮЛ.14\nЗащитные затворы\n"
+EmailPortrait3:"Polito"
+EmailIcon3:"OpsIcon"
+EmailText3:"Из-за радиации доступ к главному реактору перекрыт защитными затворами.  Тебе надо найти какой-то способ откачать радиацию из коридоров охлаждения.  Ксеркс блокировал мне доступ к главной базе данных, так что я не могу получить никакой информации, которая помогла бы тебе.  Он работает на них.\n"
+
+//EmailName3:"POLITO 12.JUL.14\nre: Protective seals\n"
+//EmailPortrait3:"Polito"
+//EmailIcon3:"OpsIcon"
+//EmailText3:"The radiation must have locked the protective seals on Engine Core access.  You're going to have to find some way to purge the radiation from the coolant tubes.  Xerxes is blocking me out of the primary data loop, so I can't get any information to help you.  He's working for them now.\n"
+
+//(Early)
+//EmailName3:"POLITO XX.JUL.04\n\re: X"
+//EmailPortrait3:"testport"
+//EmailIcon3:"testicon"
+//EmailText3:"The radiation must have locked the protective seals on Engine Core access. You’re going to have to find some way to purge the radiation from the coolant tubes. Something’s taken control of the ship’s computer. It’s working for them now, I won’t be much help to you.\n"
+
+
+
+
+EmailName4:"ПОЛИТО 12.ИЮЛ.14\nОчистка коридоров\n"
+EmailPortrait4:"Polito"
+EmailIcon4:"OpsIcon"
+EmailText4:"Будь начеку... тебе надо найти способ очистить от радиации эти коридоры и добраться до главного реактора...  На корабле должна быть какая-то резервная система на случай возникновения такой ситуации.\n"
+
+//EmailName4:"POLITO 12.JUL.14\nre: Purging the tubes\n"
+//EmailPortrait4:"Polito"
+//EmailIcon4:"OpsIcon"
+//EmailText4:"Keep your eyes open... you must find a way to purge these coolant tubes and get into the engine core...  The ship must have some kind of backup system in place for just this kind of situation.\n"
+
+//(Early)
+//EmailName4:"POLITO XX.JUL.04\n\re: X"
+//EmailPortrait4:"testport"
+//EmailIcon4:"testicon"
+//EmailText4:"Stop where you are...if you heat up the engine core with the //Fuel Scoop open, you could flood the catalyst chambers with reactant and incinerate the entire ship. Head down to the Fuel Scoop and set the scoop modulation to 4523. Careful...modulating the scoop will send out a class B alert to the security system...you might get some company.\n"
+
+
+
+
+EmailName2:"ПОЛИТО 12.ИЮЛ.14\nКсеноморфы\n"
+EmailPortrait2:"Polito"
+EmailIcon2:"OpsIcon"
+EmailText2:"Теперь слушай внимательно.  Ксеноморфы, напавшие на этот корабль, по-видимому, с поверхности Тау Кита 5.  Они сумели инфицировать многих членов экипажа посредством мгновенного внедрения паразитов.  А кроме того, они продемонстрировали способность управлять действиями других при помощи каких-то форм ограниченной телепатии.  Найди исследовательский софт.  Выясни, что они такое... а потом убей их.\n"
+
+//EmailName2:"POLITO 12.JUL.14\nre: The xenomorphs\n"
+//EmailPortrait2:"Polito"
+//EmailIcon2:"OpsIcon"
+//EmailText2:"Now listen carefully.  The xenomorphs who have hijacked this ship are presumably from the surface of Tau Ceti 5.  They've been able to infect a number of crew members, through an extremely invasive parasitical technique.  They've also demonstrated the ability to control the actions of others through some form of limited telepathy.  Find the research soft.  Understand them... then kill them.\n"
+
+//(Early)
+//EmailName2:"POLITO XX.JUL.04\n\re: X"
+//EmailPortrait2:"testport"
+//EmailIcon2:"testicon"
+//EmailText2:"Now listen carefully...The xenomorphs who have hijacked this ship are presumably from the surface of Canopus 5. They’ve been able to infect a number of crew members, through an extremely invasive parasitical technique. Find the research soft. Understand them...then kill them.\n"
+
+
+
+
+EmailName7:"ПОЛИТО 12.ИЮЛ.14\nКоррекция насосов\n"
+EmailPortrait7:"Polito"
+EmailIcon7:"OpsIcon"
+EmailText7:"Ксеркс обогнал нас.  Он прибрал к рукам компьютер управления насосами и блокировал нас.  Будь внимателен.  Может быть, ты найдешь что-нибудь поблизости.\n"
+
+//EmailName7:"POLITO 12.JUL.14\nre: Fluidics override\n"
+//EmailPortrait7:"Polito"
+//EmailIcon7:"OpsIcon"
+//EmailText7:"Xerxes is one step ahead of us.  He's performed an override on the fluidics control computer and blocked us out.  But keep an eye open.  You might be able to find some workaround.\n"
+
+
+
+EmailName6:"ПОЛИТО 12.ИЮЛ.14\nБлоки реактора\n"
+EmailPortrait6:"Polito"
+EmailIcon6:"OpsIcon"
+EmailText6:"Теперь надо включить блоки реактора.  Направляйся в гондолы 1 и 2 и запусти блоки вручную.  После этого перезапусти систему из рубки управления реактором.  Но система не заработает, пока ты не перезапустишь оба блока.  Будь осторожен.  Они поднимают все свои силы.  И они точно знают, где ты находишься.\n"
+
+//EmailName6:"POLITO 12.JUL.14\nre: The engine pods\n"
+//EmailPortrait6:"Polito"
+//EmailIcon6:"OpsIcon"
+//EmailText6:"Now get those engine pods online.  You'll have to head into nacelle 1 and 2 and reset the pods manually.  After that, reinitialize the system from core control.  But that system won't come online until you reset both pods.  Keep an eye out.  They're mobilizing their real forces.  And they know exactly where you are.\n"
+
+
+
+EmailName8:"ПОЛИТО 12.ИЮЛ.14\nРеактор запущен\n"
+EmailPortrait8:"Polito"
+EmailIcon8:"OpsIcon"
+EmailText8:"Отличная работа.  Главный реактор снова включен.  Теперь отправляйся к лифту, увидимся на 4-й палубе.  Пока ты разбирался с этим, я обнаружила наличие каких-то аннелидных артефактов на борту корабля.  Я думаю, ты сможешь использовать их себе на пользу.  Я загрузила информацию в корабельные устройства апгрейда оружия.  Они смогут передавать информацию на твою кибер-оснастку.  Чего ты ждешь?  Давай, двигай к лифту.\n"
+
+//EmailName8:"POLITO 12.JUL.14\nre: Core online\n"
+//EmailPortrait8:"Polito"
+//EmailIcon8:"OpsIcon"
+//EmailText8:"Good work.  The engine core is now back online. Now get to the elevator and come see me on deck 4.  While you were doing that, I've discovered the presence of some annelid artifacts on board the ship.  I think you may be able to use them to your advantage.  I've uploaded the information to the ship's weapons upgrade units.  They'll be able to convey the information to your cybernetic rig.  What are you waiting for?  Get to the elevator now.\n"
+
+
+
+EmailName9:"SHODAN 12.ИЮЛ.14\nИди к стыков. узлу\n"
+EmailPortrait9:"Shodan"
+EmailIcon9:"ShodIcon"
+EmailText9:"Теперь я могу уничтожить эту заразу, если пожелаю.  Множество дрожит при виде моей силы.  Ты - эффективное устройство, человек.  А сейчас возвращайся на командную палубу, найди стыковочный узел и переходи на \"Рикенбакер\".\n"
+
+//EmailName9:"SHODAN 12.JUL.14\nre: Go to umbilical\n"
+//EmailPortrait9:"Shodan"
+//EmailIcon9:"ShodIcon"
+//EmailText9:"I can now destroy this infestation at my will.  The Many quake at my power.  You are an effective drone, human.  Now, return to the Command deck, locate the umbilical and evacuate to the Rickenbacker.\n"
+
+
+
+LogName24:"ТРЕНЕР 06.ФЕВ.11\nТестовое сообщение\n"
+LogPortrait24:"Bayliss"
+LogIcon24:"RickIcon"
+LogText24:"Это сообщение исходит из аудио-записи, которую ты подобрал.  В любой момент ты можешь использовать свой PDA, чтобы прослушать любую аудио-запись или полученное тобой электронное письмо.  В полевых условиях PDA используется также для записи текущих заданий и получения справочной информации.\n"
+
+//LogName24:"TRAINER 02.06.11\nre: Test message\n"
+//LogPortrait24:"Bayliss"
+//LogIcon24:"RickIcon"
+//LogText24:"This message is coming from the audio log you just picked up.  You can use your PDA at any time to play any audio-log or e-mail you've received.  In the field, the PDA is also used for keeping track of your current mission objectives and obtaining help information.\n"
+
+
+
+LogName32:"Хим. декларация:\nИнженерная палуба\n"
+LogPortrait32:"Chem"
+LogIcon32:"EngIcon"
+LogText32:"Опись лабораторного хранилища: Хранилище 192 на инженерной палубе\n\nСурьма (Sb) : 2\nБарий (Ba) : 2\nКалифорний (Cf) : 2\nЦезий (Cs) : 1\nИридий (Ir) : 2\nОсмий (Os) : 1\nТехнеций (Tc) : 1\nТеллур (Te) : 1\nВанадий (V) : 2\nИттрий (Y) : 2\n\nЭтот инвентарный список требуется по инструкции UNN #134882 по безопасности химических хранилищ.  \"Хранилище\" определяется инструкцией безопасности UNN #195331 как место, в котором опасные химикаты (см. инструкцию #093355) хранятся в количестве, большем чем 50г на 10 кв. футов в течение более 24-х часов.\n"
+
+//LogName32:"Chemical Manifest:\nEngineering\n"
+//LogPortrait32:"Chem"
+//LogIcon32:"EngIcon"
+//LogText32:"Laboratory Stockroom Inventory: Engineering Stockroom 192\n\nAntimony (Sb) : 2\nBarium (Ba) : 2\nCalifornium (Cf) : 2\nCesium (Cs) : 1\nIridium (Ir) : 2\nOsmium (Os) : 1\nTechnetium (Tc) : 1\nTellurium (Te) : 1\nVanadium (V) : 2\nYttrium (Y) : 2\n\nThis inventory list is required by UNN Safety Code #134882 to be kept on hand in all areas of hazardous chemical storage.  \"Storage\" is defined by UNN Safety Code #195331 to consist of all areas in which hazardous chemicals (see Safety Code #093355) are stored in quantities greater than 50g per 10 square feet, for durations of greater than 24 hours.\n"
+
+
+
+LogName6:"СИДДОНС 02.ИЮН.14\nДепрессняк\n"
+LogPortrait6:"Siddons"
+LogIcon6:"OpsIcon"
+LogText6:"Кому: Томми Суаресу\nНикто не хочет облегчить нам жизнь  Я скучаю по тебе.  Знаю, что это глупо, но это так.  Думаю, буду мучиться час-другой, а потом напишу тебе опять.  Только представь, пролететь 67 триллионов миль, чтобы встретить человека.  Когда ты переведешься на \"Фон Браун\", дела пойдут лучше.  Я буду лучше, я обещаю.  Так, кто-то идет.  Считаю секунды...\n"
+
+//LogName6:"SIDDONS 02.JUN.14\nre: Lame old me\n"
+//LogPortrait6:"Siddons"
+//LogIcon6:"OpsIcon"
+//LogText6:"To: Suarez, Tommy\nThey aren't making this easy for us, are they?  I miss you. I know it's stupid, but I do.  I think I'll wallow in self pity for an hour or so and then write you again.  Figures, I have to travel 67 trillion miles to meet a man.  Once you're transferred to the Von Braun, everything will be better.  I'll be better, I promise.  Great, someone's coming.  Counting the seconds...\n"
+
+//(Early)
+//LogName6:"SIDDONS XX.JUL.04\n\re: X"
+//LogText6:"To:Suarez, Tommy\n\
+They aren’t making this easy for us, are they? I miss you. I know it’s stupid, but I do.  I think I’ll wallow in self pity for an hour or so and then write you again. Why couldn’t we have met back on Earth. Once your transferred to the Von Braun everything will be better. I’ll be better, I promise. Great, someone’s coming. Counting the seconds...\n"
+
+
+
+LogName16:"ДЕЛАКРУА 30.ИЮН.14\nТау Кита 5\n"
+LogPortrait16:"Delacroix"
+LogIcon16:"EngIcon"
+LogText16:"Кому: Анатолию Коренчкину\nАнатолий, ты ДОЛЖЕН открыть планету для научного персонала корабля.  Если там внизу ЕСТЬ что-то, это больше, чем Три-Оп, это больше, чем UNN, и это больше, чем ты.  И зачем это вы с Диего закрыли 3-ю палубу?  Что происходит?\n"
+
+//LogName16:"DELACROIX 30.JUN.14\nre: Tau Ceti 5\n"
+//LogPortrait16:"Delacroix"
+//LogIcon16:"EngIcon"
+//LogText16:"To: Korenchkin, Anatoly\nAnatoly, you MUST open up the planet to the scientific staff of this vessel.  If there IS something down there, it's bigger than TriOp, it's bigger than the UNN and it's bigger than you.  And why have you and Diego shut off deck 3?  What's going on?\n"
+
+
+
+LogName21:"МЭЛОУН 03.ИЮЛ.14\nШимпанзе-псионики!\n"
+LogPortrait21:"testport"
+LogIcon21:"RickIcon"
+LogText21:"Куда: В исследоват. центр Мак Пао\nЛаборант из МедНауки вчера позвал меня вниз, в помещение вивисекции.  Ему показалось, что подопытные обезьяны проявляют необычную разумность.  Я провел с одной из них четыре часа и пытался прозондировать ее пси-усилителем в режиме бета 4.  Результата не было.  Я решил, что это потому, что она не может реагировать на высокий четвертый режим.  Но затем я понял, что она намеренно блокирует зондирование!  Когда я поднял пси-усилитель, чтобы воздействовать на нее,  создание протянуло руки и направило на меня криокинетическое поле, парализовав мою руку.  Я немедленно ударил обезъяну пси-энергией, а затем применил электрошок.\n"
+
+//LogName21:"MALONE 03.JUL.14\nre: Psionic chimps!\n"
+//LogPortrait21:"testport"
+//LogIcon21:"RickIcon"
+//LogText21:"To: Mak Pao research authority\nA laboratory worker from MedSci called me down to the vivisection room yesterday.  He felt the lab chimps were exhibiting uncommon intelligence.  I sat with one for four hours and tried to probe it with the psi amp on a beta 4 cycle.  It failed to respond.  I of course assumed it was because it was, naturally, incapable of reacting to the sophisticated beta 4 cycle.  But then I realized it was blocking the probe intentionally!  As soon as I raised the psi-amp to attack it, the creature lashed out with its arms and projected a cryokinetic field towards me, paralyzing my arm.  I immediately psi-dampened the monkey and then stunned it with an electric prod.\n"
+
+
+
+LogName17:"ДЕЛАКРУА 04.ИЮЛ.14\nЯ приму меры\n"
+LogPortrait17:"Delacroix"
+LogIcon17:"EngIcon"
+LogText17:"Кому: Анатолию Коренчкину\nНе знаю, что за секреты вы с твоим новым дружком капитаном Диего скрываете на 3-й палубе, но я разберусь с этим.  Если вы будете по-прежнему отказываться встретиться со мной и моим персоналом, вы не оставите мне выбора, и мне придется обратиться к корпорации.  Если вы не воспринимаете меня всерьез, возможно, сержант Бронсон и ее люди поставят вас на место.\n"
+
+//LogName17:"DELACROIX 04.JUL.14\nre: Taking action\n"
+//LogPortrait17:"Delacroix"
+//LogIcon17:"EngIcon"
+//LogText17:"To: Korenchkin, Anatoly\nI'm not sure what secrets you and your new buddy Captain Diego have got going up on deck 3, but I intend to find out.  If you continue to refuse to meet with me and my staff, you will leave me no choice but to register a complaint with corporate.  If you won't take me seriously, perhaps Sgt. Bronson and her security staff will.\n"
+
+
+
+LogName9:"СЭНГЕР 04.ИЮЛ.14\nДелакруа\n"
+LogPortrait9:"Sanger"
+LogIcon9:"EngIcon"
+LogText9:"Я не знаю, где бы мы были без Делакруа.  Весь этот корабль разваливается на части, и она единственная что-то понимает в этом.  Я видела, как она спорила с этим гаденышем Анатолием Корецкиным, или как там его зовут, и пыталась объяснить ему все по-хорошему.  Но этот засранец уставился ей прямо в глаза и начал плести про то, что она не знает радости единения, или что-то типа того.  Мама родная, клоуны сбежали из цирка...\n"
+
+//LogName9:"SANGER 04.JUL.14\nre: Delacroix\n"
+//LogPortrait9:"Sanger"
+//LogIcon9:"EngIcon"
+//LogText9:"I don't know where we'd be without Delacroix.  This whole ship is falling apart and she's the only one who knows what from what.  I saw her arguing with that creep Anatoly Koretzkin or whatever his name is, and she was giving it to him but good.  But that freak job stares her straight in the eye and starts babbling about how she doesn't know the pleasure of the joyful unity or some such.  Mama mia, the clowns are running the circus...\n"
+
+//(Early)
+//LogName9:"FONTAINE XX.JUL.04\n\re: Delacroix"
+//LogText9:"I don’t know where we’d be without Delacroix. This whole ship is falling apart and she’s the only one who knows what from what. I saw her arguing with that creep Anatoly Koretzkin or whatever his name is, and she was giving it to him but good. But that freako stares her straight in the eye and starts babbling about how she doesn’t know the pleasure of the joyful unity or somesuch. Mama mia, the clowns are running the circus...\n"
+
+
+
+LogName2:"ДЕЛАКРУА 05.ИЮЛ.14\nХвост пистолетом\n"
+LogPortrait2:"Delacroix"
+LogIcon2:"EngIcon"
+LogText2:"Кому: Констанс Сэнгер\nКонстанс, я теперь боюсь за свою жизнь.  Думаю, что это превзошло все ожидания Диего и Коренчкина.  Я вообще сомневаюсь, что они хоть что-нибудь держат под контролем.  Мы должны разузнать, что они нашли на поверхности Тау Кита 5, и почему так рьяно берегут свою тайну.  Думаю, это более важно, чем моя жизнь, твоя жизнь или вообще весь этот корабль. \nДержи хвост пистолетом. \nИ будь осторожнее.\n"
+
+//LogName2:"DELACROIX 05.JUL.14\nre: Be brave\n"
+//LogPortrait2:"Delacroix"
+//LogIcon2:"EngIcon"
+//LogText2:"To: Sanger, Constance\nConstance, I fear now for my life.  I think this has gone beyond any imaginings of Diego and Korenchkin.  I do not believe they are in control at all.  We must discover what it was they found down on the surface of Tau Ceti 5 and why they guard their secret so jealously.  I think this is more important than my life or your life or the life of this ship.  Be brave.  And be careful.\n"
+
+//(Early)
+//LogName2:"DELACROIX XX.JUL.04\n\re:X"
+//LogText2:"To:Fontaine, Constance\n\
+Constance, I fear now for my life. I think this has gone beyond any imaginings of Forrest and Korenchkin. I do not believe they are in control at all. We must discover what was they found down on the surface of Canopus and why they guard their secret so jealously. I think this is more important than my life or your life or the life of this ship.  Be brave. And be careful.\n"
+
+
+
+LogName7:"ДЕЛАКРУА 05.ИЮЛ.14\nПотайная дверь\n"
+LogPortrait7:"Delacroix"
+LogIcon7:"EngIcon"
+LogText7:"Кто-то копался в настройках Ксеркса.  Чтобы уберечься от подобных вмешательств я устроила тайный доступ к компьютеру управления насосами.  Чтобы активировать его, вставь плату коррекции 45m/dEx в устройство системного мониторинга в командной рубке.  Ты найдешь ее во вспомогательном хранилище 5 в коридорах охлаждения, код: 34760.\n"
+
+//LogName7:"DELACROIX 05.JUL.14\nre: Fluidics backdoor\n"
+//LogPortrait7:"Delacroix"
+//LogIcon7:"EngIcon"
+//LogText7:"Somebody's been tampering with the Xerxes unit.  In the interest of keeping secrets from the powers that be, I've installed a back door to the fluidics control computer.  To activate it, install hardware override 45m/dEx in the systems monitoring unit in command control.  You can find 45m/dEx in auxiliary storage 5 in the coolant tubes, keycode: 34760.\n"
+
+//(Early)
+//LogName7:"DELACROIX XX.JUL.04\n\re: Procedure 432A/54G"
+//LogText7:"To: All Engineering Staff\n\
+This ship's safety systems are a total mess. I told those idiots...In the event of total failure of the reactant coolant systems, you leech the contaminant from the deck by a controlled rapid decompression. You can do this by opening the shuttle bay doory. There's a control system in command control that controls the shuttle door protocols. You can override these protocols with an systems override chip 45M/dEX. The chip's stored in auxilary storage 5 in the coolant tubes, keycode: 34760.\n"
+
+
+
+LogName3:"СЭНГЕР 05.ИЮЛ.14\nСолдатики\n"
+LogPortrait3:"Sanger"
+LogIcon3:"EngIcon"
+LogText3:"Раньше я не знала, куда деваться от этих тупоголовых с \"Рикенбакера\", а теперь днем с огнем не могу найти ни одного.  Тот урод из OSA ходил за мной целых два месяца, пока я не вдолбила в его башку, что он мне не нужен.  А сейчас пытаюсь связаться с ним, спросить, может он знает, что происходит, и ни с того ни с сего он не отвечает на мою почту.\n"
+
+//LogName3:"SANGER 05.JUL.14\nre: The soldiers\n"
+//LogPortrait3:"Sanger"
+//LogIcon3:"EngIcon"
+//LogText3:"Before, I couldn't get rid of those jarheads from the Rickenbacker, and now I can't find one for love or money.  That creepy OSA guy followed me around for two months until he got the hint.  Now I tried to contact him to see if he knew what was going on, but all of a sudden he won't return my mail.\n"
+
+//(Early)
+//LogName3:"FONTAINE XX.JUL.04\n\re:Where's a Good Marine When You Need One?"
+//LogText3:"Before I couldn’t rid of those jarheads from the Rickenbacker and now I can’t locate one for the life of me. One of the creeps from the OSA detachment followed me around for two months until he got the hint. I tried to contact him to see if he knew what was going on, but now he won’t return MY mail.\n"
+
+
+
+LogName22:"БРОНСОН 06.ИЮЛ.14\nПроблема с турелями\n"
+LogPortrait22:"Bronson"
+LogIcon22:"OpsIcon"
+LogText22:"Из-за странных событий, происходящих в последнее время, я приказала разместить на ключевых позициях защитные турели.  Вчера из-за неисправности одна из них сильно ранила члена экипажа Уэллса.  Так или иначе, похоже, кто-то балуется с охранной подсистемой Ксеркса, потому что мои техники не могут отключить их.  Пока мы разберемся во всем этом, я приказала отправить турели на склад... но теперь не могу связаться с командой, которую я послала сделать это.\n"
+
+//LogName22:"BRONSON 06.JUL.14\nre: Turret problems\n"
+//LogPortrait22:"Bronson"
+//LogIcon22:"OpsIcon"
+//LogText22:"Due to the tenuous situation as of late, I've ordered security defense turrets placed at key locations.  Yesterday, one went off accidentally and critically injured crewman Wells.  However, somebody must have tampered with the Xerxes security sub-systems because now my technicians are unable to take them off line.  Until we get to the bottom of this, I've ordered all security turrets recalled to storage... but now I can't get in touch with the team I sent out to do the recall.\n"
+
+
+
+LogName18:"МЭЛОУН 06.ИЮЛ.14\nДальнейшие опыты\n"
+LogPortrait18:"testport"
+LogIcon18:"RickIcon"
+LogText18:"Куда: В исследоват. центр Мак Пао\nСоблюдая все меры предосторожности, я приступил к дальнейшим экспериментам.  С тех пор, как мы достигли Тау Кита, создания становились умнее и каким-то образом даже приобрели пси-способности.  Я прозондировал еще одного объекта в режиме бета 5 и почувствовал много чего, но прежде всего, невероятную эмпатию.  Шимпанзе были в курсе своей собственной истории, знали о вивисекции и экспериментах, которые проводились над ними на борту \"Фон Брауна\".  Они были в гневе, и они показывали это.  Совершенно ясно, что они одновременно являются источником потрясающих научных исследований и невероятно большого риска.  Мои рекомендации... либо заморозить их в крио-хранилище на оставшуюся часть миссии, либо уничтожить немедленно.  Кто знает, какие еще способности у них могут появиться?\n"
+
+//LogName18:"MALONE 06.JUL.14\nre: Further experiments\n"
+//LogPortrait18:"testport"
+//LogIcon18:"RickIcon"
+//LogText18:"To: Mak Pao research authority\nTaking precautions, I proceeded with further experiments.  Since we've reached Tau Ceti, the creatures have gotten smarter and somehow gained limited psi abilities.  I probed another subject with a beta 5 cycle and sensed many things, but mostly an incredible empathy.  The chimps have become acutely aware of their own history, of the vivisections and experiments that have been performed on them while on board the Von Braun.  They have anger, and they are ready to express it.  Clearly they are both a fascinating scientific resource and an incredible security risk.  My recommendation... either freeze them in cryo storage for the remainder of the mission or liquidate them immediately.  Who knows what other abilities they'll acquire?\n"
+
+
+
+LogName23:"БРОНСОН 06.ИЮЛ.14\nВзлом турелей\n"
+LogPortrait23:"Bronson"
+LogIcon23:"OpsIcon"
+LogText23:"Что ж, мы не можем отключить неисправные турели, и Ксеркс теперь даже не разговаривает с нами.  Поллард предложил пойти в обход.  Обойдя центральное управление, мы можем взломать турели локально и установить контроль над ними.  Однако это означает прямую дорогу к сукиным детям, остается надеяться, что они не помешают.  Точно одно... Я собираюсь выяснить, что, черт возьми, здесь происходит.\n"
+
+//LogName23:"BRONSON 06.JUL.14\nre: Hacking turrets\n"
+//LogPortrait23:"Bronson"
+//LogIcon23:"OpsIcon"
+//LogText23:"Well, we can't get the malfunctioning turrets off line and now Xerxes isn't even talking to us.  Pollard thought of a workaround.  By running bypass into central control, we can hack into the turrets locally and take control of them.  However, that means walking right up to the little sons of bitches and hoping they don't go off.  One thing is sure... I'm going to figure out what the hell happened here.\n"
+
+
+
+LogName4:"КЕРТИЦ 07.ИЮЛ.14\nСнова утечка\n"
+LogPortrait4:"Curtiz"
+LogIcon4:"EngIcon"
+LogText4:"Делакруа оказалась права, этот корабль был НЕ ГОТОВ к полету.  Да, автоматические защитные затворы сработали из-за утечки радиации в коридорах охлаждения.  Я направляюсь в инженерную рубку... думаю, у меня получится использовать компьютер управления насосами, чтобы очистить коридоры от радиации.\n"
+
+//LogName4:"CURTIZ 07.JUL.14\nre: That leak again\n"
+//LogPortrait4:"Curtiz"
+//LogIcon4:"EngIcon"
+//LogText4:"Delacroix was right, this ship was NOT ready for prime time.  Ok, the automatic safety seals have shut due to the radiation leak in the tubes.  I'm gonna head down to engineering control... I think I can use the fluidics monitoring computer to purge the tubes.\n"
+
+//(Early)
+//LogName4:"CURTIZ XX.JUL.04\n\re: That Leak Again"
+//LogText4:"Delacroix was right, this ship was NOT ready for prime time. Okay, the automatic safety seals have shut due to the radiation leak in the tubes. I’m going to head down to engineering control...I can use the fluidic monitoring computer to purge the tubes.  On a stranger note...James Waters went after Constance Fontaine with a crowbar this morning. It took six of us to restrain the guy...we sent him up to Med...but apparently, they’ve got their hands full. I wonder if we brought some kind of virus up from that planet...\n"
+
+
+
+LogName13:"СЭНГЕР 10.ИЮЛ.14\nЗакрыла инж. рубку\n"
+LogPortrait13:"Sanger"
+LogIcon13:"EngIcon"
+LogText13:"Боже, вызволи меня отсюда.  Я перекодировала замок на этой комнате.  Может быть, это их удержит.  Направляюсь в грузовой отсек 2, ищите меня там.\n"
+
+//LogName13:"SANGER 10.JUL.14\nre: Locking Eng. Control\n"
+//LogPortrait13:"Sanger"
+//LogIcon13:"EngIcon"
+//LogText13:"God, get me out of here.  I've re-coded  the lock to this room.  Maybe that will hold them.  I'm heading to cargo bay 2, come find me there.\n"
+
+//(Early)
+//LogName13:"SIDDONS XX.JUL.04\n\re: X"
+//LogText13:"I'm gonna recode the lock to this room and head down to Cargo bay 2. If anybody needs it, you'll find me there. But don't mess around...I'm ready for anything.\n"
+
+
+
+LogName14:"МАРТИН 10.ИЮЛ.14\nГрузовой отсек 2\n"
+LogPortrait14:"Martin"
+LogIcon14:"EngIcon"
+LogText14:"Не знаю, что пугает меня больше: гибриды со своими трубами и дробовиками, обезумевшие турели, или наши так называемые союзники.  Я не верю этим ублюдкам из UNN.  Мне надо найти Сэнгер.  Она знает код доступа к управлению насосами.  Я собираюсь пойти в грузовой отсек 2 и найти ее.\n"
+
+//LogName14:"MARTIN 10.JUL.14\nre: Cargo bay 2\n"
+//LogPortrait14:"Martin"
+//LogIcon14:"EngIcon"
+//LogText14:"I'm not sure what's creeping me out worse: The hybrids with their pipes and shotguns, the berserk turrets, or our supposed allies.  I don't trust those UNN bastards.  I've got to find Sanger.  She knows the access code to fluidics control.  I'm gonna make my way over to cargo bay 2 to find her.\n"
+
+//(Early)
+//LogName14:"MARTIN XX.JUL.04\n\re: X"
+//LogText14:"I'm not sure what's creeping me out worse: The once grunts with their pipes and shotguns, the beserk turrets, or our supposed allies. I don't trust those UNN bastards. I've got to find Sanger. She says she knows a way to clear the radiation out and get into the engine core. I'm gonna make my way over to Cargo bay 1.\n"
+
+
+
+
+LogName5:"СЭНГЕР 10.ИЮЛ.14\nВзаперти\n"
+LogPortrait5:"Sanger"
+LogIcon5:"EngIcon"
+LogText5:"Мэлоун мертв.  Я как раз разговаривала с ним, а этот... киборг подкрался сзади и...  Ладно, Конни, держи себя в руках.  Держи себя в руках.  Я сменила код замка на инженерной рубке на 15061.  Думаю, здесь я в безопасности.  Да, здесь я в безопасности.\n"
+
+//LogName5:"SANGER 10.JUL.14\nre: Locked in\n"
+//LogPortrait5:"Sanger"
+//LogIcon5:"EngIcon"
+//LogText5:"Malone's dead.  I was just talking to him and this... cyborg came up behind him and...  Okay, Connie, get a grip.  Get a grip.  I've re-coded the door lock in engineering control to 15061.  I think I'll be safe in here.  I'll be safe in here.\n"
+
+//(Early)
+//LogName5:"FONTAINE XX.JUL.04\n\re: Locked In"
+//LogText:"Malone’s dead. I was just talking to him and this Raptor bot came up behind him and...What am I going to tell Jenna? But I’ve got to get a grip. I’ve locked myself in Cargo Bay 2 and re-coded the door lock in engineering control to 1506. I think I’ll be safe in here.\n"
+
+
+
+LogName8:"МАРТИН 10.ИЮЛ.14\nЗасада\n"
+LogPortrait8:"Martin"
+LogIcon8:"EngIcon"
+LogText8:"Они напали на нас шесть часов назад.  Мэлоун, агент из OSA, пытался перехватить одно из этих существ пирокинезом, но оно даже не притормозило на бегу.  А потом разрядило оба ствола прямо ему в живот.  Фэлзон говорил, что в одной из гондол двигателя есть тайник с оружием.  Может, там я найду его и других...\n"
+
+//LogName8:"MARTIN 10.JUL.14\nre: Ambush\n"
+//LogPortrait8:"Martin"
+//LogIcon8:"EngIcon"
+//LogText8:"They hit us six hours ago.  Malone, the OSA spook, tried to take one of things out with pyrokinesis attack, but it didn't even break stride.  Then it unloaded both barrels into his stomach.  Falzone said there's a weapons cache in one of the engine nacelles.  Maybe I can find him and the others there...\n"
+
+//(Early)
+//LogName8:"MARTIN XX.JUL.04\n\re: Ambush"
+//LogText8:"They hit us six hours ago. Malone, the OSA spook, tried to take one of things out with a psi attack, but it didn’t even break stride. Then it unloaded both barrels into his stomach. Falzone said there’s a weapons cache in one of the engine nacelles. Maybe I can find him and the others there...\n"
+
+
+
+LogName1:"КЕРТИЦ 10.ИЮЛ.14\nТолько мы\n"
+LogPortrait1:"Curtiz"
+LogIcon1:"EngIcon"
+LogText1:"Нас осталось совсем немного.  После смерти Вэлдеза я потерял контроль над собой и не понимал, что делаю... и что вы думаете, я нашел еще два антирадиационных шприц-тюбика.  Надеюсь, этого мне хватит, чтобы обойти стороной ту чертову турель... Кто там?  Делакруа?  Сэнгер?\n"
+
+//LogName1:"CURTIZ 10.JUL.14\nre: Just us\n"
+//LogPortrait1:"Curtiz"
+//LogIcon1:"EngIcon"
+//LogText1:"It's down to just a few of us now.  Right after Valdez died, I guess I went a little nuts and started tearing things apart... but what do you know, I found two more Rad Hypes.  Hopefully that will keep me going long enough to figure a way past that damn turret...  Who is that?  Delacroix?  Sanger?\n"
+
+//(Early)
+//LogName1:"CURTIZ XX.JUL.04\n\re: X"
+//LogText1:"It’s down to just a few of us now. Right after Valdez died, I guess I went a little nuts and started tearing things apart...and what do you know, I found two more Rad Hypos. Hopefully that will keep me going long enough to figure a way past that damn turret...Who is that? Delacroix? Fontaine?\n"
+
+
+
+
+LogName11:"ДЕЛАКРУА 11.ИЮЛ.14\nНовый друг?\n"
+LogPortrait11:"Delacroix"
+LogIcon11:"EngIcon"
+LogText11:"Со мной вошел в контакт какой-то искусственный интеллект.  Хочет помочь мне отобрать контроль над \"Фон Брауном\" у того, кто... или что... теперь тут заправляет.  Не знаю, откуда он взялся, но, должна признаться, я очень рада, что он здесь оказался.\n"
+
+//LogName11:"DELACROIX 11.JUL.14\nre: A new friend?\n"
+//LogPortrait11:"Delacroix"
+//LogIcon11:"EngIcon"
+//LogText11:"I've been contacted by some kind of artificial intelligence that wants to help me reclaim control of the Von Braun from whomever... or whatever is now in charge.  I don't know where it came from, but I must confess I'm happy it is here.\n"
+
+//(Early)
+//LogName11:"DELACROIX XX.JUL.04\n\re: A New Friend?"
+//LogText11:"I almost died this morning. One of the infected crewmen found my hiding place. At the last second, a electrical surge from a maintenance panel killed my assailant. The surge was caused by some kind of artificial intelligence. It wants to help me reclaim control of the Von Braun from whomever...or whatever is now in charge.  It led me a custom boosted psi amp and supplied a proto interface for me to use it to defend myself. I performed a database access can’t find any reference of it in the ship’s AI register.  I don’t know where it came from, but I must confess I’m happy it is here.\n"
+
+
+
+LogName12:"СУАРЕС 11.ИЮЛ.14\nДержись\n"
+LogPortrait12:"Suarez"
+LogIcon12:"RickIcon"
+LogText12:"Кому: Ребекке Сиддонс\nОставайся на месте, Бэк, я не шучу.  Ты не сможешь с этим справиться и не сможешь от этого убежать.  Если ты меня любишь, то не ищи меня.  Просто затаись... я тебя не брошу.\n"
+
+//LogName12:"SUAREZ 11.JUL.14\nre: Hang tight\n"
+//LogPortrait12:"Suarez"
+//LogIcon12:"RickIcon"
+//LogText12:"To: Siddons, Rebecca\nStay where you are, Bec, I mean it.  This isn't something you can fight, this isn't something you can run from.  If you love me, you won't come looking for me.  Just hang tight... I won't let you down.\n"
+
+//(Early)
+//LogName12:"SUAREZ XX.JUL.04\n\re: X"
+//LogText12:"To:Siddins, Rebecca\n\
+Stay where you are, Bec. I mean it. This isn't something you can fight, this isn't something you can run from. If you love me, you won't come looking for me. Just hang tight. I won't let you down.\n"
+
+
+
+
+LogName19:"ДИЕГО 11.ИЮЛ.14\nПротивиться зову\n"
+LogPortrait19:"Diego"
+LogIcon19:"RickIcon"
+LogText19:"Моя служба - UNN и этот корабль.  Но смогу ли я не поддаваться зову Множества?  Слабость моего отца вызвала к жизни SHODAN.  МОЯ слабость впустила эту дрянь на борт \"Фон Брауна\"... сумею ли я исправить то, что наделал?\n"
+
+//LogName19:"DIEGO 11.JUL.14\n re: Resist the call\n"
+//LogPortrait19:"Diego"
+//LogIcon19:"RickIcon"
+//LogText19:"My duty is to the UNN and to this ship.  But can I resist the call of the Many?  My father's weakness brought SHODAN into existence.  MY weakness has invited these things aboard the Von Braun... can I undo the wrong I have done?\n"
+
+
+
+LogName20:"ДИЕГО 11.ИЮЛ.14\nТак ли все плохо?\n"
+LogPortrait20:"Diego"
+LogIcon20:"RickIcon"
+LogText20:"В какой-то мере, Множество не отличается от UNN.  Это такое удовольствие - работать в команде и отбрасывать вещи, которые нас разделяют.  Почему мы так боимся утратить свою индивидуальность?  Один человек может только мечтать, а Множество может воплотить эти мечты в жизнь.\n"
+
+//LogName20:"DIEGO 11.JUL.14\nre: Is it so bad?\n"
+//LogPortrait20:"Diego"
+//LogIcon20:"RickIcon"
+//LogText20:"In some ways, the Many is not unlike the UNN.  There is a joy in working towards a collective goal, in being able to put aside the things that draw us apart and make us separate.  Why do we fear the loss of our individuality so much?  Man can dream, but the Many can accomplish.\n"
+
+
+
+
+(Early)
+//EmailName5:"POLITO XX.JUL.04\n\re: X"
+//EmailText5:"The lifts should be back on line. Now get moving. Take the sub elevator to deck four. I’ll meet you there. Hurry...\n"
+
+//LogName10:"DELACROIX XX.JUL.04\n\re: X"
+//LogText10:"To:Fontaine, Constance\n\
+Constance, I fear now for my life. I think this has gone beyond any imaginings of Forrest and Korenchkin. I do not believe they are in control at all. Whatever is behind all of this is now after me. I sense this.\n"
+
+//LogName15:"DELACROIX XX.JUL.04\n\re: X"
+//LogText15:"To: All Engineering Staff\n\
+After placing chp 45M/dEX into place in Command Control, you may open the shuttle door from Shuttle Control. You'll be safe in shuttle control room. This is NOT a proven procedure and should only be used in an emergency.\n"

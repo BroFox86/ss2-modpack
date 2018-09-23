@@ -1,0 +1,21 @@
+Text0:"Сила (СИЛ) влияет на вместимость рюкзака и урон, наносимый тобой в рукопашн. бою.  Вся броня и некоторые виды оружия требуют мин. уровня силы."
+//"Strength (STR) determines your inventory capacity and the amount of damage you inflict in hand-to-hand combat.  All armor and some weapons have a minimum STR requirement."
+
+Text1:"Выносливость (ВНС) влияет на макс. уровень твоего здоровья и твою сопротивляемость радиации и токсинам."
+//"Endurance (END) determines your maximum hit points and your resistance to radiation and toxins."
+
+Text2:"Псионика (ПСИ) влияет на твое умение использовать пси-навыки.  Длительность, дальность и урон, причиняемый пси-навыками, зависят от уровня ПСИ."
+//"Psionic Ability (PSI) determines your skill in using psionic disciplines.  The duration, range, and damage inflicted by psionic disciplines can be dependent on PSI."
+
+Text3:"Ловкость (ЛВК) влияет на скорость твоего передвижения, снижает урон при падении и отдачу при стрельбе."
+//"Agility (AGI) determines your movement speed and reduces falling damage and weapon kickback."
+
+Text4:"Кибернетика (КИБ) повы-\nшает твои шансы успешно использов. навыки взлома, ремонта и модификации, а также уменьшает коли-\nчество опасных узлов."
+//"Cybernetic Affinity (CYB) improves your chances of successfully using the Hack, Repair, and Modify skills, and also lessens the number of dangerous nodes."
+
+Text8:"Кибер-модули расходуются на повышение твоих параметров, навыков и пси-способностей."
+//"Cyber Modules are spent to increase your stats, skills, and psi abilities."
+
+Text9:"Эти кнопки позволяют переключаться между различными MFD персонажа."
+//"These buttons navigate between various character MFDs."
+

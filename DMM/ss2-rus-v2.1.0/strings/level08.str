@@ -1,0 +1,159 @@
+EmailName10:"SHODAN 12.ИЮЛ.14\nСам по себе\n"
+EmailPortrait10:"Shodan"
+EmailIcon10:"ShodIcon"
+EmailText10:"Здесь правит Множество...  Даже я не могу поддерживать контакт.  Теперь ты сам по себе, человек.  Не подведи меня.\n"
+
+//EmailName10:"SHODAN 12.JUL.14\nre: On your own\n"
+//EmailPortrait10:"Shodan"
+//EmailIcon10:"ShodIcon"
+//EmailText10:"The Many hold sway here...  Even I cannot maintain contact.  You are on your own, human.  Fail me not.\n"
+
+
+
+LogName32:"Хим. декларация:\n\"Рикенбакер\"\n"
+LogPortrait32:"Chem"
+LogIcon32:"RickIcon"
+LogText32:"Опись лабораторного хранилища: Хранилище 23C на \"Рикенбакере\"\n\nМышьяк (As) : 1\nСурьма (Sb) : 1\nБарий (Ba) : 2\nКалифорний (Cf) : 1\nЦезий (Cs) : 2\nМедь (Cu) : 1\nФермий (Fm) : 1\nГаллий (Ga) : 1\nГассий (Hs) : 3\nИридий (Ir) : 1\nМолибден (Mo) : 1\nОсмий (Os) : 1\nРадий (Ra) : 3\nСелен (Se) : 3\nНатрий (Na) : 1\nТехнеций (Tc) : 1 \nТеллур (Te) : 4\nВанадий (V) : 1\nИттрий (Y) : 3\n\n Этот инвентарный список требуется по инструкции UNN #134882 по безопасности химических хранилищ.  \"Хранилище\" определяется инструкцией безопасности UNN #195331 как место, в котором опасные химикаты (см. инструкцию #093355) хранятся в количестве, большем чем 50 г на 10 кв. футов в течение более 24-х часов.\n"
+
+//LogName32:"Chemical Manifest:\n Rickenbacker\n"
+//LogPortrait32:"Chem"
+//LogIcon32:"RickIcon"
+//LogText32:"Laboratory Stockroom Inventory: Rickenbacker Storage Room 23C\n\nArsenic (As) : 1\nAntimony (Sb) : 1\nBarium (Ba) : 2\nCalifornium (Cf) : 1\nCesium (Cs) : 2\nCopper (Cu) : 1\nFermium (Fm) : 1\nGallium (Ga) : 1\nHassium (Hs) : 3\nIridium (Ir) : 1\nMolybdenum (Mo) : 1\nOsmium (Os) : 1\nRadium (Ra) : 3\nSelenium (Se) : 3\nSodium (Na) : 1\nTechnetium (Tc) : 1 \nTellurium (Te) : 4\nVanadium (V) : 1\nYttrium (Y) : 3\n\nThis inventory list is required by UNN Safety Code #134882 to be kept on hand in all areas of hazardous chemical storage.  \"Storage\" is defined by UNN Safety Code #195331 to consist of all areas in which hazardous chemicals (see Safety Code #093355) are stored in quantities greater than 50g per 10 square feet, for durations of greater than 24 hours.\n"
+
+
+
+LogName1:"ПРЕФОНТЕЙН 12.ИЮЛ.14\nВлип по уши\n"
+LogPortrait1:"prefont"
+LogIcon1:"HydIcon"
+LogText1:"Прошлой ночью одна из этих летучих штуковин притащила меня и Дэвида сюда.  Я мало что помню по пути...  Похоже, я отключился и пробыл большую часть времени в полубессознательном состоянии.  Вспоминается та сцена из \"Пиноккио\", ну, знаете, когда старик идет искать куклу внутри кита.  Только меня здесь искать никто не станет...\n"
+
+//LogName1:"PREFONTAINE 12.JUL.14\nre: Stuck in here\n"
+//LogPortrait1:"prefont"
+//LogIcon1:"HydIcon"
+//LogText1:"One of those flying things dragged me and David in here last night.  I don't remember much about the trip...  I guess I must have blocked it out, half- conscious most of the time.  I keep remembering that part from Pinocchio, you know, where the old man goes looking for the puppet inside the whale.  Except I don't think anyone's coming in here to save me...\n"
+
+//LogName1:"PREFONTAINE XX.JUL.04\n\re: X"
+//LogText1:"One of the flying things dragged me and David in here last night. I don’t remember much about the trip...I guess I must have blocked it out, half conscious most of the time. I keep remembering that scene from Pinocchio, you know, where the old man goes looking for the puppet inside the whale. Except I don’t think anybody’s coming looking for me in here.\n"
+
+
+
+
+LogName9:"ПРЕФОНТЕЙН 12.ИЮЛ.14\nЦикл аннелидов\n"
+LogPortrait9:"prefont"
+LogIcon9:"HydIcon"
+LogText9:"Хотя я не полностью понимаю жизненный цикл аннелидов, он, несомненно, чрезвычайно разнообразен.  Яйца производят или мужскую или женскую спору.  Мужские особи, трутни, - небольшие, похожие на ос, существа.  Женские особи, червеобразные аннелиды, ищут тело, чтобы его заразить.  После заражения тело хозяина начинает превращаться в гибрид человека и аннелида.  С этого момента развитие может пойти разными путями.  Я думаю, что путь развития определяется самим Множеством.  Существа объединены потребностью увеличивать биомассу, так что я полагаю, что биологический материал является их первичным ресурсом.  Вот поэтому каждый путь развития имеет свои издержки и преимущества.  Прото-паукообразные чрезвычайно быстры и потенциально сравнительно дешевы по биомассе.  Крупные мясистые существа очень сильны, но, несомненно, требуют больших вложений.  Что касается летающих организмов - я видел только один экземпляр.  Единственное, что радует, - производство более опасных организмов весьма дорого, что ограничивает их количество.\n"
+
+//LogName9:"PREFONTAINE 12.JUL.14\nre: Annelid life cycle\n"
+//LogPortrait9:"prefont"
+//LogIcon9:"HydIcon"
+//LogText9:"While I don't understand the Annelid life cycle fully, it's clearly extremely diverse.  The eggs produce either a male or female spore.  The male, the drones, are small wasp-like creatures.  The females are worm-like annelids that seek a host to infect.  Following infection, the host begins to transform into a human/annelid hybrid.  From that point, the life form can take numerous paths.  I believe this path is determined by the Many itself.  The creatures have communicated their need to grow the biomass, so I imagine that biological material is their primary resource.  Therefore, each path has costs and benefits.  The proto-arachnid is extremely quick and potentially relatively cheap in biomass.  The hulking, fleshy ones are powerful, but are clearly a larger investment.  I've observed only one example of the floating organisms.  The only comfort is that the more dangerous organisms are quite costly to produce, limiting their numbers.\n"
+
+
+
+LogName7:"ПРЕФОНТЕЙН 12.ИЮЛ.14\nМножество\n"
+LogPortrait7:"prefont"
+LogIcon7:"HydIcon"
+LogText7:"Ясно, что та штуковина, внутри которой я оказался, тесно связана со всеми организмами, которые я наблюдал на борту \"Фон Брауна\".  Я вдруг понял... это существо - единый организм.  Возможно, наилучший путь описать это, или, возможно, единственный для меня путь осознать это, - что этот организм служит для выполнения высших умственных функций сразу всех особей.  Меньшие создания существуют только для того, чтобы выполнять его волю... это дошло до меня не сразу.  Все особи действуют как единое целое, подобно разным органам в теле, причем, это существо действует, в основном, как мозг.  Интересно, если кто-нибудь уничтожит эту самую большую особь, погибнут ли все остальные?\n"
+
+//LogName7:"PREFONTAINE 12.JUL.14\nre: The Many\n"
+//LogPortrait7:"prefont"
+//LogIcon7:"HydIcon"
+//LogText7:"It's clear that this thing I'm trapped inside of is intimately linked with all of the organisms I observed aboard the Von Braun.  Strike that... this creature IS the same organism.  Perhaps the best way to describe it, or perhaps the only way I can comprehend it, is that this organism serves to perform the highest mental functions of the entire species.  The smaller creatures exist only to enact its will... no strike that, too.  All of the specimens act as a whole, like different organs in a single body, with this entity acting primarily as a brain.  If one were to destroy this large specimen, I wonder, would it snuff out all the others?\n"
+
+
+
+LogName10:"ПРЕФОНТЕЙН 12.ИЮЛ.14\nМножество и мы\n"
+LogPortrait10:"prefont"
+LogIcon10:"HydIcon"
+LogText10:"Помимо паразитического поведения, очевидного в жизненном цикле гибридов человека и аннелида, мне становится ясно, что SHODAN научила Множество использовать людей в других целях.  Прежде всего, Множество, несомненно, обладает способностью преобразовывать человеческую плоть в энергию... оно может есть нас.  Но также оно может непосредственно использовать нас для создания своих яиц-коконов... тела скармливаются какому-то трубчатому анатомическому образованию... а яйца появляются из соседней трубки.  Я не в состоянии определить, преобразует ли организм непосредственно трупы в яйцеобразные структуры, или нет, но очевидно, что есть некая связь между питательными веществами, которые мы поставляем, и производимыми яйцами.\n"
+
+//LogName10:"PREFONTAINE 12.JUL.14\nre: The Many and us\n"
+//LogPortrait10:"prefont"
+//LogIcon10:"HydIcon"
+//LogText10:"Besides the parasitic behavior evidenced in the life cycle of the human/annelid hybrids, it's becoming clear to me that SHODAN has bred the Many to use humans for other purposes.  First of all, the Many clearly has the capability to convert human flesh to energy... it can eat us.  But it can also directly use us in the creation of its egg pods... corpses are fed into some kind of tubular structure... and eggs are birthed through a nearby tube.  I've been unable to determine whether the organism is directly converting the corpses into the egg structures or not, but it's clear that there's some connection between the nutrient pool we provide and the eggs that are being produced.\n"
+
+
+
+LogName8:"ПРЕФОНТЕЙН 12.ИЮЛ.14\nЭволюция Множества\n"
+LogPortrait8:"prefont"
+LogIcon8:"HydIcon"
+LogText8:"За столь ничтожный для эволюции срок они развились до такой степени, что смогли захватить этот космический корабль, величайшее создание человечества.  Какими были мы после сорока лет эволюции?  В каком болоте плавали, одноклеточные и безмозглые?  Что если творения SHODAN выше нас?  Кем они станут через миллион лет, через 10 миллионов лет?  Ясно одно, нельзя допустить, чтобы SHODAN играла в бога.  Слишком хорошо у нее это получается.\n"
+
+//LogName8:"PREFONTAINE 12.JUL.14\nre: Many's Evolution\n"
+//LogPortrait8:"prefont"
+//LogIcon8:"HydIcon"
+//LogText8:"With only a few short years of evolution, they've been able to conquer this starship, mankind's mightiest creation.  Where were we after forty years of evolution?  What swamp were we swimming around in, single celled and mindless?  What if SHODAN's creations are superior to us?  What will they become in a million years, in ten million years?  What's clear is that SHODAN shouldn't be allowed to play God.  She's far too good at it.\n"
+
+
+
+LogName6:"ПРЕФОНТЕЙН 12.ИЮЛ.14\nОткрыть сфинктер\n"
+LogPortrait6:"prefont"
+LogIcon6:"HydIcon"
+LogText6:"Артериальные проходы блокируются чем-то вроде сфинктера, сдавливающей мышцы.  Я проследил за нервными окончаниями, которые выходят из стенок у преграды.  Они ведут к паре нервных узлов.  Когда проход открыт, узел, скорее всего, сокращается.  Интересно, если я сумею уничтожить оба узла, откроет ли это преграду навсегда?  Я страстно желаю увидеть остальную часть этого зверя.\n"
+
+//LogName6:"PREFONTAINE 12.JUL.14\nre: Opening the sphincter\n"
+//LogPortrait6:"prefont"
+//LogIcon6:"HydIcon"
+//LogText6:"The arterial passageways are blocked by some kind of sphincter.  I've followed the nerves that threaded out of the walls from the blockage.  They lead to a pair of nerve clusters.  When the passageway's open, the cluster seems to contract.  Conversely, I wonder if I was able to destroy both clusters, it would open the blockage permanently.  I'm anxious to see the rest of this beast.\n"
+
+
+
+LogName2:"ПРЕФОНТЕЙН 12.ИЮЛ.14\nСкрежет\n"
+LogPortrait2:"prefont"
+LogIcon2:"HydIcon"
+LogText2:"Какой-то ужасный скрежет доносится из места по соседству.  Похоже на... чавканье.  Думаю, я догадываюсь, что здесь происходит.  Это что-то вроде пищеварительного тракта очень-очень большого животного.  Я нахожусь одновременно в восхищении и в ужасе.  Это существо - замечательное открытие... хотел бы я прожить подольше, чтобы побольше узнать о нем.\n"
+
+//LogName2:"PREFONTAINE 12.JUL.14\nre: Grinding noises\n"
+//LogPortrait2:"prefont"
+//LogIcon2:"HydIcon"
+//LogText2:"There's some kind of horrible grinding noise coming from the next area.  It sounds like... chewing.  I think I know what's going to happen here.  This is some kind of digestive tract of a very, very large animal.  I go back and forth between being fascinated and terrified.  This creature is a remarkable discovery... I wish I could live long enough to learn more.\n"
+
+//LogName2:"PREFONTAINE XX.JUL.04\n\re: X"
+//LogText2:"There’s some kind of horrible grinding noise coming from the next room. It sounds like...chewing. I think I know what’s going to happen here. This is some kind of digestive tract of a very, very large animal. I go back and forth between being facinated and terrified. This creature is a remakrable discovery...I wish I could live long enough to learn more.\n"
+
+
+
+
+LogName4:"ПРЕФОНТЕЙН 12.ИЮЛ.14\nМозг?\n"
+LogPortrait4:"prefont"
+LogIcon4:"HydIcon"
+LogText4:"Теперь я убежден, что это... Множество, как оно себя называет, на самом деле имеет центральную нервную систему.  Это означает, что у него должно быть что-то вроде централизованного управления.  Чтобы осуществить задуманное, я собрал столько оружия, сколько смог, и припрятал его в тайники.  Одна из зверюг нашла тайник и, похоже, приняла его за пищу... она просто утащила его в жевательную залу...\n"
+
+//LogName4:"PREFONTAINE 12.JUL.14\nre: Central Control?\n"
+//LogPortrait4:"prefont"
+//LogIcon4:"HydIcon"
+//LogText4:"Now I'm convinced that this... Many, as it calls itself, indeed has a centralized nervous system.  Which means it would have some kind of centralized control.  To this end, I've gathered as many weapons as I could and stashed them in caches.  One of the beasts discovered a cache and apparently mistook it for food... it simply brought into the crunching room...\n"
+
+//LogName4:"PREFONTAINE XX.JUL.04\n\re: X"
+//LogText4:"Once I accepted my fate, I was able to get started on the real work.  I’ll learn as much as I can, leave my notes and hope they won’t be destroyed. Perhaps the animal will find them indigestible.  I’ve done some examination of the core tissue mass. Now I’m convinced the animal, which resembles some kind of massive annelid, indeed has a centralized nervous system. Which means it would be extremely vulnerable at that point. To this end, I’ve gathered as many weapons as I could and secreted them in caches. One of the beasts disovered a cache and apparently mistook it for food...it simply brought into the crunching room...\n"
+
+
+
+
+LogName3:"ПРЕФОНТЕЙН 12.ИЮЛ.14\nБедняга Клодетт\n"
+LogPortrait3:"prefont"
+LogIcon3:"HydIcon"
+LogText3:"Пять минут назад одна из тех больших рослых тварей утащила Клодетт в сторону, откуда раздается скрежет.  Очевидно, самое большое животное использует меньших тварей, чтобы те помогали ему перемещать пищу по пищеварительному тракту.  Я попытался помочь Клодетт, но это было бесполезно.  И я вынужден со стыдом признать, что наблюдение за тем, что произошло с ней, стало жизненно важным элементом моего изучения этого места.  Я полагаю, у меня не будет возможности записать какие бы то ни было наблюдения, когда придет мой черед.\n"
+
+//LogName3:"PREFONTAINE 12.JUL.14\nre: Poor Claudette\n"
+//LogPortrait3:"prefont"
+//LogIcon3:"HydIcon"
+//LogText3:"Five minutes ago, one of those large, burly creatures dragged Claudette towards the sound of the grinding.  Apparently, the animal uses the smaller creatures to help move food along its digestive tract.  I tried to help Claudette, but it wasn't even a contest.  And, I'm ashamed to admit, I judged that seeing what happened to her was a vital element of my studies here.  I imagine I won't have the opportunity to record any observations when it comes my turn.\n"
+
+//LogName3:"PREFONTAINE XX.JUL.04\n\re: X"
+//LogText3:"Five minutes ago, one of those large, burly creatures dragged Claudette towards the sound of the grinding. Apparently, the animal uses the smaller creatures to help move food along its digestive tract. I tried to help Claudette, but it wasn’t even a contest. And, I’m ashamed to admit, I judged that seeing what happened to her was a vital element of my studies here. I imagine I won’t have the opportunity to record any observations when it comes my turn.\n"
+
+
+
+LogName5:"ПРЕФОНТЕЙН 12.ИЮЛ.14\n---\n"
+LogPortrait5:"prefont"
+LogIcon5:"HydIcon"
+LogText5:"Меня забирают... настала моя очередь...  Тащат в некое подобие зала...  Потолок покрыт множеством панелей, утыканных чем-то вроде сталактитов... или зубов...  Существо отпустило меня... оно уходит... может, меня пощадят?  Что происходит?  Как тут темно...  Я слышу чьи-то стоны...  Клодетт?  Это ты?  Гм, я ступил во что-то... мягкое... скользкое...  Сталагмиты дви... \n"
+
+//LogName5:"PREFONTAINE 12.JUL.14\nre: ---\n"
+//LogPortrait5:"prefont"
+//LogIcon5:"HydIcon"
+//LogText5:"I'm being taken away now... it's my turn...  I'm being dragged into some kind of chamber...  The ceiling is lined with a number of panels bristling with what appear to be stalactites... or teeth...  The creature's put me down now... he's leaving... am I to be spared?  What's going on?  It's dark in here...  I can hear the moans of someone...  Claudette?  Is that you?  Hmm, I seem to have stepped in... something soft... slippery...  Are the stalagmites mov- \n"
+
+//LogName5:"PREFONTAINE XX.JUL.04\n\re: X"
+//LogText5:"I’m being taken away now...it’s my turn...I’ve being dragged into some kind of chamber...the ceiling is lined with a number of panels bristling with what appear to be stalagtites...or teeth...[ugh]...the creature’s put me down now....he’s leaving...am I to be spared? What’s going on? It’s dark in here...I can hear the moans of somone...Claudette? Is that you? Hmm, I seem to have stepped in...something soft...slippery...Are the stalagmites mov- [argh!]\n"

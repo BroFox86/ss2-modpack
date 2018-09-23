@@ -1,0 +1,262 @@
+EmailName1:"ПОЛИТО 12.ИЮЛ.14\nШахта блокирована\n"
+EmailPortrait1:"Polito"
+EmailIcon1:"OpsIcon"
+EmailText1:"Проклятье.  Что-то блокирует шахту, лифт не может подняться до 4-й палубы.  Попробую разобраться...  Я обнаружила большое количество какого-то биоматериала, который закупорил шахту лифта.  Микроклимат на этой палубе был изменен так, что стал своеобразным инкубатором для ксеноморфов.  Это не должно представлять опасности, если ты не планируешь задержаться там дольше, чем на пару часов, но чтобы очистить шахту, тебе придется удалить биоматериал.  Я подключаюсь к главной базе данных.  Посмотрим, что мы сможем найти там.\n"
+
+//EmailName1:"POLITO 12.JUL.14\nre: Blocked shaft\n"
+//EmailPortrait1:"Polito"
+//EmailIcon1:"OpsIcon"
+//EmailText1:"Damn.  Something's blocking the shaft and the elevator can't reach deck 4.  I'm attempting to determine...  I'm detecting massive quantities of some kind of biomaterial that's plugging up the elevator shaft.  The environment on this level has been altered to be some kind of breeding chamber for the xenomorphs.  It shouldn't prove dangerous unless you plan to stay for more than a few hours, but in order to clear the shaft you're going to have to remove the biomaterial.  I'm accessing the primary data loop.  Let's see what we can find out there.\n"
+
+
+EmailName7:"ПОЛИТО 12.ИЮЛ.14\nОчистить шахту\n"
+EmailPortrait7:"Polito"
+EmailIcon7:"OpsIcon"
+EmailText7:"Они знают, где ты.  Найди какой-нибудь способ очистить шахту.  Я, со своей стороны, сделаю все возможное.  А теперь шевелись.  Нельзя терять ни минуты.\n"
+
+//EmailName7:"POLITO 12.JUL.14\nre: Clear the Shaft\n"
+//EmailPortrait7:"Polito"
+//EmailIcon7:"OpsIcon"
+//EmailText7:"They know where you are.  Find some way to clear the shaft.  I'll do what I can from my end.  Now move it.  There's no time for failure.\n"
+
+
+EmailName2:"ПОЛИТО 12.ИЮЛ.14\nИсследуй Токсин-A\n"
+EmailPortrait2:"Polito"
+EmailIcon2:"OpsIcon"
+EmailText2:"Так, постой-ка минутку.  Это колба с экспериментальным материалом, называемым Токсин-А.  Он разработан научным персоналом, чтобы замедлить рост пришельцев.  Но я не могу найти никаких данных насчет того, как тебе им воспользоваться.  Ты должен исследовать токсин.  Я загружу тебе достаточно кибер-модулей, чтобы ты приобрел навык исследования, если у тебя его нет.\n"
+
+//EmailName2:"POLITO 12.JUL.14\nre: Researching Toxin-A\n"
+//EmailPortrait2:"Polito"
+//EmailIcon2:"OpsIcon"
+//EmailText2:"Okay, stop where you are.  There's a vial of an experimental material called Toxin-A.  It was developed by the Sci staff to reduce the growth of the aliens.  But I can't find any data on how you should use it.  You should be able to research the toxin.  I'm uploading you enough cyber modules to acquire the Research skill if you don't have it.\n"
+
+
+EmailName3:"ПОЛИТО 12.ИЮЛ.14\nИспользование колб\n"
+EmailPortrait3:"Polito"
+EmailIcon3:"OpsIcon"
+EmailText3:"Так, колбы с Токсином-А нужно поместить непосредственно в климатические регуляторы.  На этой палубе их должно быть четыре.  Если ты поместишь по колбе в каждый из регуляторов, то сможешь значительно замедлить рост этих подлых тварей.  Это должно удалить биомассу из шахты лифта.\n"
+
+//EmailName3:"POLITO 12.JUL.14\nre: Using the vials\n"
+//EmailPortrait3:"Polito"
+//EmailIcon3:"OpsIcon"
+//EmailText3:"Okay, the vials of Toxin-A need to be placed directly into the Environmental Regulators.  There should be four on this deck.  If you can get a vial into each of the regulators, you should be able to significantly impact the growth of those despicable creatures.  That should remove the biomatter from the elevator shaft.\n"
+
+
+EmailName6:"ПОЛИТО 12.ИЮЛ.14\nДело пошло\n"
+EmailPortrait6:"Polito"
+EmailIcon6:"OpsIcon"
+EmailText6:"Хорошо.  Ты заметишь, что количество биомассы на стенах и в шахте лифта уменьшилось из-за действия биотоксина.  Теперь сделай то же самое с тремя другими регуляторами.\n"
+
+//EmailName6:"POLITO 12.JUL.14\nre: Making progress\n"
+//EmailPortrait6:"Polito"
+//EmailIcon6:"OpsIcon"
+//EmailText6:"Good.  You'll notice that the biomatter on the walls and in the elevator shaft has been impacted by the introduction of the biotoxin.  Now do the same with the other three regulators.\n"
+
+
+EmailName4:"ПОЛИТО 12.ИЮЛ.14\nТянешь время?\n"
+EmailPortrait4:"Polito"
+EmailIcon4:"OpsIcon"
+EmailText4:"Почему ты движешься так медленно?!  Ты что же, думаешь, это игра?  Ты все еще жив только благодаря слепой удаче и моему поразительному терпению!  А ну, шевелись!\n"
+
+//EmailName4:"POLITO 12.JUL.14\nre: Dawdling\n"
+//EmailPortrait4:"Polito"
+//EmailIcon4:"OpsIcon"
+//EmailText4:"Why do you go so slowly?!  Do you think this is some kind of game?  It is only through luck and my continued forbearance that you are even alive!  Now move!\n"
+
+
+EmailName5:"ПОЛИТО 12.ИЮЛ.14\nШахта очищена\n"
+EmailPortrait5:"Polito"
+EmailIcon5:"OpsIcon"
+EmailText5:"Ну, наконец-то.  Датчики показывают, что шахта лифта чиста.  Теперь отправляйся на 4-ю палубу.  Я буду ждать тебя.\n"
+
+//EmailName5:"POLITO 12.JUL.14\nre: The shaft is clear\n"
+//EmailPortrait5:"Polito"
+//EmailIcon5:"OpsIcon"
+//EmailText5:"At last.  Readings indicate the elevator shaft is clear.  Now get up to deck 4.  I'll be waiting for you.\n"
+
+
+LogName32:"Хим. декларация:\nГидропоника\n"
+LogPortrait32:"Chem"
+LogIcon32:"HydIcon"
+LogText32:"Опись лабораторного хранилища: Лаборатория 008 в Гидропонике\n\nСурьма (Sb) : 2\nМышьяк (As) : 1\nБарий (Ba) : 1\nЦезий (Cs) : 2 \nМедь (Cu) : 1\nФермий (Fm) : 1\nГаллий (Ga) : 2\nГассий (Hs) : 1\nИридий (Ir) : 2\nРадий (Ra) : 1\nТехнеций (Tc) : 2\nТеллур (Te) : 2\nВанадий (V) : 1\n\nЭтот инвентарный список требуется по инструкции UNN #134882 по безопасности химических хранилищ.  \"Хранилище\" определяется инструкцией безопасности UNN #195331 как место, в котором опасные химикаты (см. инструкцию #093355) хранятся в количестве, большем чем 50 г на 10 кв. футов в течение более 24-х часов.\n"
+
+//LogName32:"Chemical Manifest:\nHydro\n"
+//LogPortrait32:"Chem"
+//LogIcon32:"HydIcon"
+//LogText32:"Laboratory Stockroom Inventory: Hydroponics Laboratory 008\n\nAntimony (Sb) : 2\nArsenic (As) : 1\nBarium (Ba) : 1\nCesium (Cs) : 2 \nCopper (Cu) : 1\nFermium (Fm) : 1\nGallium (Ga) : 2\nHassium (Hs) : 1\nIridium (Ir) : 2\nRadium (Ra) : 1\nTechnetium (Tc) : 2\nTellurium (Te) : 2\nVanadium (V) : 1\n\nThis inventory list is required by UNN Safety Code #134882 to be kept on hand in all areas of hazardous chemical storage.  \"Storage\" is defined by UNN Safety Code #195331 to consist of all areas in which hazardous chemicals (see Safety Code #093355) are stored in quantities greater than 50g per 10 square feet, for durations of greater than 24 hours.\n"
+
+
+LogName3:"МИЛЛЕР 27.ИЮН.14\nВот наша работа\n"
+LogPortrait3:"Miller"
+LogIcon3:"HydIcon"
+LogText3:"Кому: Ричарду Ренфроу, в Оксфордский Университет\nДик, я знаю, что ты не получишь это послание, пока мы не вернемся... но я должен выразить свои чувства.  Наконец-то, это случилось... мы вступили в контакт... Малдун и я были выбраны для первоначального этапа работ... одно из условий Анатолия было, чтобы я никому ничего не говорил на борту корабля...  Эти создания замечательны... они так беспомощны... я чувствую необходимость защитить их...  Это чудесное открытие...\n"
+
+//LogName3:"MILLER 27.JUN.14\nre: Our work here\n"
+//LogPortrait3:"Miller"
+//LogIcon3:"HydIcon"
+//LogText3:"To: Renfro, Richard : Oxford University\nDick, I know you won't get this until after we've returned... but I had to express how incredible I feel.  We've finally done it... made contact... and Muldoon and I have been selected to be involved in the initial work... Anatoly's one condition is that I tell no one aboard the ship...  The creatures are remarkable... they're so helpless... I feel somehow compelled to protect them...  It's a miraculous discovery...\n"
+
+
+LogName2:"КОРЕНЧКИН 28.ИЮН.14\nЧудеса\n"
+LogPortrait2:"Korench"
+LogIcon2:"ComIcon"
+LogText2:"Так, вся молодь - на борту.  Капитан Диего и я закупорили 3-ю палубу.  Он и я теперь - один разум... наши тела тоже изменяются.  Иногда это невыносимо, а иногда... изумительно... что-то чудесное, что происходит со мной...\n"
+
+//LogName2:"KORENCHKIN 28.JUN.14\nre: Miracles\n"
+//LogPortrait2:"Korench"
+//LogIcon2:"ComIcon"
+//LogText2:"There, the young ones are all aboard.  Captain Diego and I have sealed off deck 3.  He and I are now of one mind... our bodies are changing too.  Sometimes it hurts terribly and sometimes it is... marvelous... something wonderful is happening to me...\n"
+
+
+LogName4:"МИЛЛЕР 29.ИЮН.14\nДети\n"
+LogPortrait4:"Miller"
+LogIcon4:"HydIcon"
+LogText4: "Образцы погибают.  И мы не в силах помочь... они слишком токсичны.  Малдун не захотел покинуть их, и теперь он мертв.  Но этим утром я сделал... открытие... я начал разрабатывать спецификации для серии радикальных кибернетических улучшений... Если получится, я смогу сделать тело практически неуязвимым... и разум при этом оставался бы человеческим, способным на заботу...  Нужно немного времени...\n"
+
+//LogName4:"MILLER 29.JUN.14\nre: The children\n"
+//LogPortrait4:"Miller"
+//LogIcon4:"HydIcon"
+//LogText4: "The specimens are dying.  And we're powerless to help... they're highly toxic.  Muldoon wouldn't leave them, and now he's dead.  But this morning I had... a revelation... I started work on specifications for a radical series of cybernetic enhancements... If successful, I could make a body practically indestructible... yet the mind would remain human, nurturing...  There's not a lot of time...\n"
+
+
+LogName11:"МИЛЛЕР 30.ИЮН.14\nЧудесная игрушка\n"
+LogPortrait11:"Miller"
+LogIcon11:"HydIcon"
+LogText11:"Я изменяюсь.  Моя голова полна чудесных идей и экспериментов... столь многими чудесами они могут поделиться... так много знаний передать...  Они рассказали мне, как сделать этот имплантант... сказали, что он сделает меня лучше, чем я есть...  Жаль, что у меня осталось так мало времени, чтобы дать им это...\n"
+
+//LogName11:"MILLER 30.JUN.14\nre: Wondrous toy\n"
+//LogPortrait11:"Miller"
+//LogIcon11:"HydIcon"
+//LogText11:"I'm changing.  My head is full of wonderful ideas and experiments... they have so many miracles to share... so much knowledge to give...  They told me how to make this implant... they said it will make a better me of me...  I wish I had more time so I could give it to them...\n"
+
+
+LogName8:"МИЛЛЕР 01.ИЮЛ.14\nМедсестра Блум\n"
+LogPortrait8:"Miller"
+LogIcon8:"HydIcon"
+LogText8: "Я выбрал медсестру Блум в качестве новой матери для наших детей.  Она мила и любезна, пышет здоровьем и отлично подходит для этого.  У нее есть ребенок дома, на Земле.  Она знает, что это такое - обращаться с детьми.  Аве Мария.  Если б она могла знать о будущем... она бы разделила радость Множества...\n"
+
+//LogName8:"MILLER 01.JUL.14\nre: Nurse Bloome\n"
+//LogPortrait8:"Miller"
+//LogIcon8:"HydIcon"
+//LogText8: "I've chosen Nurse Bloome as the new mother to our children.  She is sweet and kind, healthy and a perfect match.  She has a child of her own back on Earth.  She knows what it is to care for the young.  Ave Maria.  If she only knew what the future held... she'd share the joys of the Many...\n"
+
+
+LogName5:"БЛУМ 02.ИЮЛ.14\nЯ волнуюсь\n"
+LogPortrait5:"Bloome"
+LogIcon5:"HydIcon"
+LogText5: "Я нашла эти схемы на столе д-ра Миллера... что-то вроде кибер-модификаций, запрещенных лет сорок назад... это на него не похоже...  Я собиралась поговорить с ним об этом, а потом заметила... цепочка ДНК, которую он взял для прототипа... это моя...\n"
+
+//LogName5:"BLOOME 02.JUL.14\nre: Worried\n"
+//LogPortrait5:"Bloome"
+//LogIcon5:"HydIcon"
+//LogText5: "I found these schematics on Dr. Miller's desk... they're plans for the kind of cyber modification that's been illegal for forty years... that's not like him...  I was going to talk to him about it and then I noticed... the DNA sequence he spec'd for the prototype... it's mine...\n"
+
+
+LogName6:"ДЕЛАКРУА 03.ИЮЛ.14\nЗамена\n"
+LogPortrait6:"Delacroix"
+LogIcon6:"EngIcon"
+LogText6:"Кому: Д-ру Джэнис Полито\nМне пришло сообщение от Анатолия.  С ним что-то не так.  Инструкции Корпорации говорят, что я могу отстранить главного исполнительного директора, если он не соответствует занимаемому положению... но как быть с его союзником, капитаном Диего?  У него на \"Рикенбакере\" 120 стволов, они обеспечат ему крепкий тыл...  Не удивлюсь, если тот фрагмент ИИ, который вы нашли на Тау Кита 5, имеет к этому какое-то отношение...\n"
+
+//LogName6:"DELACROIX 03.JUL.14\nre: Making a change\n"
+//LogPortrait6:"Delacroix"
+//LogIcon6:"EngIcon"
+//LogText6:"To:  Polito, Dr. Janice\nI received an e-message from Anatoly.  He's not well.  The Corporate protocols specify I can remove the Senior Executive Officer if he's found unfit for duty... but what about his ally Captain Diego?  He's got 120 goons on the Rickenbacker to back him up...  I wonder if that fragmentary AI you discovered on Tau Ceti 5 is connected to this...\n"
+
+
+LogName7:"ПОЛИТО 04.ИЮЛ.14\nФрагмент голоса ИИ\n"
+LogPortrait7:"Polito"
+LogIcon7:"OpsIcon"
+LogText7:"Кому: Д-ру Марии Делакруа\nМария, это срочно...  Похоже, ИИ с Тау Кита внедрился в корабельный компьютер...  Я подобрала сегодня этот фрагмент...  Это еще не все, после того, как я нашла фрагмент, я вернулась в свою лабораторию и увидела, что ее обыскивали.  Мне надо увидеться с тобой... ты - единственная, кому я теперь доверяю.  У меня есть одна теория насчет этого ИИ.  Я пыталась найти информацию про разные слухи насчет событий на станции Цитадель.  И, похоже, нашла кое-что... <<СООБЩЕНИЕ ПРЕРВАНО>>\n"
+
+//LogName7:"POLITO 04.JUL.14\nre: AI voice fragment\n"
+//LogPortrait7:"Polito"
+//LogIcon7:"OpsIcon"
+//LogText7:"To: Delacroix, Dr. Marie\nMarie, this is urgent...  It seems the AI from Tau Ceti has integrated itself into the ship's computer...  I picked up this fragment today...  Not only that, but after I found the fragment, I returned to my lab to find it ransacked.  I must see you... you're the only one I trust now.  I have a theory about this AI.  I tried to find information about the various rumors regarding the events on Citadel Station.  I think I'm on to something... <<MESSAGE INTERRUPTED>>\n"
+
+
+LogName1:"КОРЕНЧКИН 05.ИЮЛ.14\nНовая цель\n"
+LogPortrait1:"Korench"
+LogIcon1:"ComIcon"
+LogText1:"Кому: Д-ру Марии Делакруа\nТы не сможешь понять моей радости, Мария, и я не стану пытаться объяснить ее тебе.  Я чувствую себя заново рожденным... у меня есть цель... куда важнее, чем наша миссия, и даже важнее, чем Три-Оптимум...  Я смогу защитить их... неважно, как... но я их защищу...\n"
+
+//LogName1:"KORENCHKIN 05.JUL.14\nre: A new purpose\n"
+//LogPortrait1:"Korench"
+//LogIcon1:"ComIcon"
+//LogText1:"To: Delacroix, Dr. Marie  \nYou can't understand my joy, Marie and I won't try to make you.  I feel like a new man... I have a purpose... more important than the mission, even more important than TriOptimum...  I will protect them... no matter what... I will protect them...\n"
+
+
+LogName10:"ЛОССЭР 05.ИЮЛ.14\nКуда все подевались?\n"
+LogPortrait10:"Loesser"
+LogIcon10:"MedIcon"
+LogText10:"Кому: Марку Миллеру\nМарк, что вообще происходит?  Мне показалось очень странным, когда ты попросил меня прислать шестнадцать моих сотрудниц... но... что ты с ними сделал?  Как мне тут без них обходиться?  Кстати, ты ничего не слышал про Уоттса, Сэнгер или Полито?  Как будто все ушли в отпуск, а мне ничего не сказали.\n"
+
+//LogName10:"LOESSER 05.JUL.14\nre: Where are they?\n"
+//LogPortrait10:"Loesser"
+//LogIcon10:"MedIcon"
+//LogText10:"To: Miller, Marc\nMarc, what's going on?  I thought it was weird when you asked me to send up sixteen of my female staffers... but... what have you done with them?  I'm shorthanded up here?  Also, have you heard from Watts, Sanger or Polito?  It's like everyone's gone on vacation and didn't bother to tell me.\n"
+
+
+LogName16:"ЛОССЭР 08.ИЮЛ.14\nМиллер\n"
+LogPortrait16:"Loesser"
+LogIcon16:"MedIcon"
+LogText16:"Я знаю, что задумал Миллер.  Сегодня утром... сегодня утром я видела Эрин Блум... она присматривала за какими-то яйцами... и она... изменилась, самым ужасным, неестественным образом.  Похоже, весь мой персонал постигла такая же участь.  Сукин сын.  Вот же сукин сын.  Ну, это ему даром не пройдет.\n"
+
+//LogName16:"LOESSER 08.JUL.14\nre: Miller\n"
+//LogPortrait16:"Loesser"
+//LogIcon16:"MedIcon"
+LogText16:"I know what Miller's up to.  This morning... this morning I saw Erin Bloome... she was tending to some kind of eggs... and she had been... changed, in the most  horrible, unnatural fashion.  I can only think the worst for the rest of my staff.  That son of a bitch.  That son of a bitch.  He won't get away with this.\n"
+
+
+LogName12:"КОРЕНЧКИН 08.ИЮЛ.14\nСлава\n"
+LogPortrait12:"Korench"
+LogIcon12:"ComIcon"
+LogText12:  "Слава... Множеству... я - голос в их хоре.\n"
+
+//LogName12:"KORENCHKIN 08.JUL.14\nre: Glory\n"
+//LogPortrait12:"Korench"
+//LogIcon12:"ComIcon"
+///LogText12:  "Glory... to the Many... I am a voice in their choir.\n"
+
+
+LogName13:"ДИЕГО 09.ИЮЛ.14\nНаш союз\n"
+LogPortrait13:"Diego"
+LogIcon13:"RickIcon"
+LogText13:"Кому: Анатолию Коренчкину\nЯ верю, что планы Множества насчет меня выше, чем я могу себе представить.  Я изменяюсь.  Но путь еще великолепнее, чем мы себе представляли.  Это не просто мутация... обещанная мне форма лучше этого...  Они сказали мне, что я смогу парить в воздухе и поражать врагов нашей биомассы усилием своего разума... нашего разума... я получил куда больше, чем ожидал...\n"
+
+//LogName13:"DIEGO 09.JUL.14\nre: Our alliance\n"
+//LogPortrait13:"Diego"
+//LogIcon13:"RickIcon"
+//LogText13:"To: Korenchkin, Anatoly\nI believe the plans the Many have for me are greater than I even imagined.  The change is upon me.  But the path is more glorious than we imagined.  It does not stop at a mere single mutation... the form I've been promised is more beautiful than even that...  They tell me I will float through the air and strike at the foes of our biomass with my mind... with our mind... my cup runneth over...\n"
+
+
+LogName15:"ДЕЛАКРУА 09.ИЮЛ.14\nУбить червей\n"
+LogPortrait15:"Delacroix"
+LogIcon15:"EngIcon"
+LogText15:"Теперь ясно, что черви представляют собой что-то вроде коллективного организма...  Хотя я не уверена, что летучий Токсин-А убьет лабораторные образцы, он должен воздействовать на их общую массу и удалить то, что выросло на стенах шахты лифта.  Но, возможно, будет синтезирован более сильнодействующий состав...\n"
+
+//LogName15:"DELACROIX 09.JUL.14\nre: Killing the worms\n"
+//LogPortrait15:"Delacroix"
+//LogIcon15:"EngIcon"
+//LogText15:"It's becoming clear that the worms are some kind of communal entity...  While I'm not sure whether airborne Toxin-A will directly kill any ambulatory specimens, it should impact their communal mass and remove the residue I've observed growing on the walls and the lift shaft.  But perhaps there is a more potent formula to be synthesized...\n"
+
+
+LogName14:"ДЕЛАКРУА 10.ИЮЛ.14\nЛуч надежды\n"
+LogPortrait14:"Delacroix"
+LogIcon14:"EngIcon"
+LogText14:"Убить молодь будет нелегко.  Но, думаю, у меня есть кое-что.  Биохимия этих червей, которых я называю аннелидами, воспринимает инвертированные протеины как токсины.  С помощью репликатора в лаборатории био-исследований мне удалось получить несколько колб с инвертированными протеинами в чистом виде.  Однако, смесь с основным компонентом еще не готова, мне нужно провести еще кое-какие исследования.  Как только я сделаю это и подмешаю токсин в четыре климатических регулятора...  Что ж, потом дела пойдут куда лучше.\n"
+
+//LogName14:"DELACROIX 10.JUL.14\nre: A ray of hope\n"
+//LogPortrait14:"Delacroix"
+//LogIcon14:"EngIcon"
+//LogText14:"Killing the children won't be easy.  But I think I'm actually on to something.  The biochemistry of these worms, which I call the Annelids, treats inverted proteins as toxins.  With the help of a replicator in the Biological Survey lab, I've managed to isolate some inverted proteins in a number of vials.  However, the mix with the base compound is still off, so I still need to do some more research.  Once I do that and mix the toxin into the four Environmental Regulators...  Well, things can only get better.\n"
+
+
+LogName9:"ТЕРНБУЛЛ 11.ИЮЛ.14\nПревращение\n"
+LogPortrait9:"Turnbull"
+LogIcon9:"RickIcon"
+LogText9:"Знаете, так или иначе, Бронсон была права.  Думаю, мне остался примерно час... но я слежу за... трансформацией в надежде, что данные могут быть полезны кому-нибудь еще... эти опухоли... у меня на ногах и на спине... я чувствую, что эта штука внутри меня... жует, толстеет.  По моей теории, им нужен живой хозяин для завершения трансформации...  Долбаный Диего, долбаный Коренчкин, долбаный Тау Кита 5.  Если кто-нибудь найдет эту запись, - не сожалейте о том, что часы моей жизни остановились.  Со мной уже все кончено.\n"
+
+//LogName9:"TURNBULL 11.JUL.14\nre: Changing\n"
+//LogPortrait9:"Turnbull"
+//LogIcon9:"RickIcon"
+//LogText9:"What do you know, Bronson was right after all.  I imagine I've got about an hour... but I'm tracking the... the transformations in the hope that the data might be useful to someone else... there are tumors... on my leg and back... I can feel that thing inside of me... chewing, growing fat.  My theory is they need a living host to complete the transformation... Screw Diego, screw Korenchkin, screw Tau Ceti 5.  If someone finds this, don't have any regrets about punching my clock.  I was already gone.\n"
