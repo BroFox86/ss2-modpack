@@ -1,7 +1,0 @@
-DML1
-
-//compatibility fix for the fm Polaris QuickFix
-+ObjProp -175 "ObjList"
-{
-	"" NVGuaranteedLoot0="OneRifledSlug"; NVCreateAndLink3LinkData4Value="-0.1, -1.1, -0.15"; NVCreateAndLink3LinkData5Value="2.00, 282.00, 182.00";
-}
