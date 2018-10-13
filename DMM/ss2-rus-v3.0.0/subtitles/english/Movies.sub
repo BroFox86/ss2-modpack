@@ -1,0 +1,7 @@
+SUB1
+{
+	Type "movie"
+	SrtSub	"movie/cs1" "Cs1.srt"
+	SrtSub	"movie/cs2" "Cs2.srt"
+	SrtSub	"movie/cs3" "Cs3.srt"
+}

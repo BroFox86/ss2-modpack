@@ -1,0 +1,18 @@
+SUB1
+
+{
+	type "bark"
+	descr "Пси-ривер"
+	sub ovkat3_1 { text "Скоро ты станешь одним из нас." }
+	sub ovkat3_2 { text "Скоро ты станешь одним из нас." }
+	sub ovkat3_3 { text "Сопротивление бесполезно." }
+	sub ovkat3_4 { text "Ты... сейчас... умрёшь!" }
+	sub ovkat3_5 { text "Умри, жалкий человек." }
+	sub ovkatt_1 { text "Умри, жалкий человек." }
+	sub ovkatt_2 { text "Умри!" }
+	sub ovkatt_3 { text "Умри!" }
+	sub ovkhhi_1 { text "Никогда." }
+	sub ovkdie_1 { text "Не-е-ет!" }
+	sub ovkdie_2 { text "Ах... aх-х-х-х-х!" }
+	sub ovkdie_3 { text "Не-е-ет!" }
+}

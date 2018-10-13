@@ -1,0 +1,34 @@
+SUB1
+
+{
+	type "player"
+	descr "Инфо"
+	sub psiadrac { text "Адреналин активирован." }
+	sub psiadrde { text "Адреналин деактивирован." }
+	sub psiagiac { text "Ловкость активирована." }
+	sub psiagide { text "Ловкость деактивирована." }
+	sub psiapsac { text "Щит активирован." }
+	sub psiapsde { text "Щит деактивирован." }
+	sub psiaurac { text "Щит активирован." }
+	sub psiaurde { text "Щит деактивирован." }
+	sub psiendac { text "Выносливость активирована." }
+	sub psiendde { text "Выносливость деактивирована" }
+	sub psientac { text "Анти-энтропия активирована." }
+	sub psientde { text "Анти-энтропия деактивирована." }
+	sub psiinvac { text "Невидимость активирована." }
+	sub psiinvde { text "Невидимость деактивирована." }
+	sub psiradac { text "Антирад. щит активирован." }
+	sub psiradde { text "Антирад. щит деактивирован." }
+	sub psirecac { text "Рекурсивная Пси активирована." }
+	sub psirecde { text "Рекурсивная Пси деактивирована." }
+	sub psirefac { text "Рефлекс активирован." }
+	sub psirefde { text "Рефлекс деактивирован." }
+	sub psiscrac { text "Пси-щит активирован." }
+	sub psiscrde { text "Пси-щит деактивирован." }
+	sub psistrac { text "Сила активирована." }
+	sub psistrde { text "Сила деактивирована." }
+	sub psitoxac { text "Токсинный щит активирован." }
+	sub psitoxde { text "Токсинный щит деактивирован." }
+	sub psiwavac { text "Дистанционный взлом активирован." }
+	sub psiwavde { text "Дистанционный взлом деактивирован." }
+}
