@@ -1,0 +1,108 @@
+DML1
+
+// centered HUD icons
++ObjProp "fakekeys" "ObjIcon" = "spasskey"
++ObjProp "PDA Soft" "ObjIcon" = "sdisc"
+
+// bullet hole mod2X blending
++ObjProp "Bullet Hit" "RenderAlpha" = 0.99
++ObjProp "Bullet Hit" "BlendMode" = "Multiply Dest 2X"
++ObjProp "Bullet Hit" "RenderType" = "Unlit"
+
+// Standard Explosion bitmap
+ObjProp -2720 "ModelName" = "shex1_"
+ObjProp -2720 "FrameAniConfig" {
+	"frames per second" 23.0
+}
+ObjProp -2720 "CfgTweqScale" {
+	"x rate-low-high" 1000, 0.53, 0.53
+	"y rate-low-high" 1000, 0.53, 0.53
+	"z rate-low-high" 1000, 0.53, 0.53
+}
++ObjProp -2720 "Scale" = 0.25, 0.25, 0.25
++ObjProp -2720 "RenderAlpha" = 0.9999
++ObjProp -2720 "BlendMode" = 0
+
+// Base HE Explosion bitmap
+ObjProp -383 "ModelName" = "shex4_"
+ObjProp -383 "FrameAniConfig" {
+	"frames per second" 19.09
+}
+ObjProp -383 "CfgTweqScale" {
+	"x rate-low-high" 1000, 0.5, 0.5
+	"y rate-low-high" 1000, 0.5, 0.5
+	"z rate-low-high" 1000, 0.5, 0.5
+}
++ObjProp -383 "Scale" = 0.25, 0.25, 0.25
++ObjProp -383 "RenderAlpha" = 0.9999
++ObjProp -383 "BlendMode" = 0
+
+// Incendiary Explosion bitmap
+ObjProp -1425 "ModelName" = "shex2_"
+ObjProp -1425 "FrameAniConfig" {
+	"frames per second" 22.73
+}
+ObjProp -1425 "CfgTweqScale" {
+	"x rate-low-high" 1000, 0.75, 0.75
+	"y rate-low-high" 1000, 0.75, 0.75
+	"z rate-low-high" 1000, 0.75, 0.75
+}
++ObjProp -1425 "Scale" = 0.25, 0.25, 0.25
++ObjProp -1425 "RenderAlpha" = 0.9999
++ObjProp -1425 "BlendMode" = 0
+
+// HE_Harmless bitmap
+ObjProp -2912 "ModelName" = "shex2_"
+ObjProp -2912 "FrameAniConfig" {
+	"frames per second" 27.17
+}
+ObjProp -2912 "CfgTweqScale" {
+	"x rate-low-high" 1000, 0.375, 0.375
+	"y rate-low-high" 1000, 0.375, 0.375
+	"z rate-low-high" 1000, 0.375, 0.375
+}
++ObjProp -2912 "Scale" = 0.25, 0.25, 0.25
++ObjProp -2912 "RenderAlpha" = 0.9999
++ObjProp -2912 "BlendMode" = 0
+
+// Pyrospang bitmap
+ObjProp -4343 "ModelName" = "shex2_"
+ObjProp -4343 "FrameAniConfig" {
+	"frames per second" 27.17
+}
+ObjProp -4343 "CfgTweqScale" {
+	"x rate-low-high" 1000, 0.5, 0.5
+	"y rate-low-high" 1000, 0.5, 0.5
+	"z rate-low-high" 1000, 0.5, 0.5
+}
++ObjProp -4343 "Scale" = 0.25, 0.25, 0.25
++ObjProp -4343 "RenderAlpha" = 0.9999
++ObjProp -4343 "BlendMode" = 0
+
+// Green Core bitmap
+ObjProp -1522 "ModelName" = "shex3_"
+ObjProp -1522 "FrameAniConfig" {
+	"frames per second" 24.0
+}
+ObjProp -1522 "CfgTweqScale" {
+	"x rate-low-high" 1000, 0.55, 0.55
+	"y rate-low-high" 1000, 0.55, 0.55
+	"z rate-low-high" 1000, 0.55, 0.55
+}
++ObjProp -1522 "Scale" = 0.25, 0.25, 0.25
++ObjProp -1522 "RenderAlpha" = 0.9999
++ObjProp -1522 "BlendMode" = 0
+
+// Psi Mine Explosion bitmap
+ObjProp -3756 "ModelName" = "shex5_"
+ObjProp -3756 "FrameAniConfig" {
+	"frames per second" 20.0
+}
+ObjProp -3756 "CfgTweqScale" {
+	"x rate-low-high" 1000, 0.75, 0.75
+	"y rate-low-high" 1000, 0.75, 0.75
+	"z rate-low-high" 1000, 0.75, 0.75
+}
++ObjProp -3756 "Scale" = 0.25, 0.25, 0.25
++ObjProp -3756 "RenderAlpha" = 0.9999
++ObjProp -3756 "BlendMode" = 0

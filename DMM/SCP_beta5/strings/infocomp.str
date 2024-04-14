@@ -1,0 +1,87 @@
+HelpText1:"Many of your actions are now cyber-enhanced.  Your cyber-interface supports two modes: Shoot (a minimal mode) and Use (a more complex mode).  Shoot mode provides cross-hairs in the center of the screen - fire your current weapon at the cross-hairs by left-clicking.  Right-clicking a nearby object under your cursor will interact with that object.  If it is a button or a machine, you will use it.  If it is something that you can pick up, it will go into your inventory.  You may enter Use mode by hitting the Tab key.  When you are in Use mode, you will see an arrow cursor which you may move about.  You can move objects around in your inventory by left-clicking and dragging them.  You can use most objects in your inventory by moving the cursor over them and right-clicking.  To get back into Shoot mode, simply hit the Tab key again or left-click in the main world view."
+
+HelpText2:"The \"MFD\" button on your lower right display contains information about your character.  It has four major areas, one for each of the categories of character growth: Stats, Tech, Combat, and Psi.  With the exception of the Psi screen, these screens are informational only and let you know your current skills and abilities.  The Stats screen also shows your current OS upgrades, and the Tech screen displays your installed software.  The Psi area is a bit more complicated.  It has five tabs, each representing a different Tier of psi disciplines.  You may click on any psi discipline that you currently know in order to select that discipline.  The next time you use the Psi Amp, that discipline will activate."
+
+HelpText3:"The lower left info tab includes a count of how many cybernetic modules and nanites you have, a button to call up your maps (\"MAP\"), a button to call up reports on anything you've researched (the test tube icon), and a query button (\"?\") which will give you an expanded description of items in your inventory.  Left-click on any of these buttons to access the function."
+
+HelpText4:"When you have a weapon equipped, you will see the weapon itself held in front of you, and if the weapon uses ammunition, the type of ammunition, the setting, and the condition of the weapon will be shown in the lower-right small window.  A good-condition weapon will have a green dot.  After the weapon condition degrades, the dot will turn yellow and then red.  To attack with the weapon, left-click, using the cross-hair to aim.   Most ammunition comes in clips containing multiple bullets.  To reload with the same ammo, hit \"R\", and hit \"B\" in order to switch ammo.  If you are in Use mode, the ammo window will be expanded, and there will be buttons to toggle the weapon's setting, to reload the weapon with the same ammo, and a green arrow to reload with a different type of ammunition."
+
+HelpText5:"To see your inventory, hit the Tab key.  You may only carry a limited number of items as visually indicated by the number of squares in your inventory.  The stronger you are, the more inventory you may carry.  You may move items around freely in your inventory, and may equip them by dragging them to the weapon / armor / implant section on the right, and you may drop them by dragging them into the 3D view.  To drag an item, click and hold with the left mouse button."
+
+HelpText6:"There are numerous types of ammo for most weapons (for example, an assault rifle can use standard, armor-piercing, and anti-personnel rounds).  Each type of ammo is more effective against some types of enemies and less effective against others.  For instance, firing anti-personnel rounds against an armored or metallic target is not going to cause much damage, but armor-piercing ammo can stop it in its tracks."
+
+HelpText7:"To access maps for a section of a level, hit \"M\" or enter Use mode and click on the \"MAP\" button.  The map will display rooms that you have already been to, and will highlight the room that you are in.  If you have the \"Spatially Aware\" OS Upgrade, the map will also display the areas you have not yet been to, and all enemies in the current sublevel.  Your position on the map is indicated by a red pointer.  Many useful common items, such as replicators and upgrade units, are marked on the map, with a key to the icons on the lower left.  You can place Navigation Markers on the map by hitting the \"N\" key - this will mark your current position with a small triangle.  This marker (or any other) may be selected when you have the full map displayed - while selected, any text you type will get annotated to that marker.  If you click the \"MINIMAP\" button on the main map display, a small portion of the map will be displayed in the upper right-hand corner of your screen while you are in Shoot mode."
+
+HelpText8:"There are numerous devices to hack on board: security systems, replicators, keypads, and more.  Each hack attempt costs a specified number of nanites.  To try to override one of these systems, simply click on the Hack button in the item's MFD.  This will bring up a hacking screen, which will detail information about your chances, and allow you an opportunity to back out before spending the nanites and attempting to break through the system's security.  Your chance for failing to modify any given square cannot be lowered below 15\%.  The hacking interface itself will display a grid of squares and require you to light up three squares in a row.  Red squares have dangerous \"ICE\" on them, while cyan squares are safe to hack.  If you are unsuccessful at modifying a cyan square, it is darkened.  If you are unsuccessful at modifying a red square, you have critically failed the attempt.  Critical failure can cause a wide range of bad effects, from breakage to activation of security alerts."
+
+HelpText9:"The onboard security system is controlled by Xerxes, the ship's computer.  If a security camera spots you, it will sound the alarm and security forces will rush to find you.  A camera that has not yet spotted you will display a green light - as it becomes alert to your presence, the light will change from green to yellow and then to red.  You should make sure to either destroy security cameras before they turn red, or hack into security computers to temporarily disable them.  If the alarm does go off, you can terminate it by using a security computer."
+
+HelpText10:"At various places on board, you might find items described as \"Unresearched object\".  By either right-clicking on this object in your inventory or dragging it into the research MFD, you may research the item.  Research takes time to accomplish and sometimes requires you to locate various chemical elements.  Right-click on the chemical or drag it into your research MFD to \"feed\" it into the research device.  You may quickly open the research MFD by left-clicking on the test tube icon on the bottom left of the screen while in Use mode.  When research is completed, or requires a chemical, your cyber-interface will notify you."
+
+HelpText11:"Many things in the world, such as weapons and computers, can become broken, either through violence or through unsuccessful hacking or modifying attempts.  To repair an item, right-click it, then click on the Repair button in the item's MFD.  Each repair attempt costs a specified number of nanites, and critical failure will cause that item's total destruction.  Most weapons in the world can be modified to become more powerful.  To modify an item, bring up the item's MFD and click on the Modify button.  Each modification attempt costs a specified number of nanites, and critical failure will cause the item to break."
+
+HelpText12:"There are five Tiers of Psi Disciplines.  You can learn more psionic disciplines by enhancing your psi skills at an upgrade unit.  To use a psi discipline, equip your Psi Amp (~ key), then select a discipline in the Psi MFD or in the ammo window on the bottom right of the screen.  Press the left mouse button to \"fire\" the selected psi discipline."
+
+HelpText13:"Most surgical units on board are used for diagnostic purposes.  However, if you attach a surgical unit activation key to one, it may be used to heal you of all damage and conditions. Be aware that these keys are not easy to locate."
+
+HelpText14:"Some crates are specifically designed to hold dangerous, expensive, and/or sensitive materials.  These crates are protected by a sophisticated security system, which must be hacked past to get at the goods inside.  Critical failure causes a thermo-plasmic charge inside the crate to explode, causing significant damage to all nearby."
+
+HelpText15:"You may have a single supplemental implant installed into your cybernetic rig at any time.  These add-ons enhance your skills and abilities.  Most implants require power and become non-functional once drained.  You may recharge all of your implants at a recharge station.  You may install two implants if you have the \"Cybernetically Enhanced\" OS upgrade."
+
+HelpText16:"Using a recharger provides complete replenishment to all your power-driven devices, including implants, energy weapons, and other items you might find in the world, such as auxiliary power units.  The Maintenance skill allows you to recharge items beyond their normal capacity."
+
+HelpText17:"Nanites are the coin of the realm on board.  Nanites are used for both purchasing items from replicators and in almost all technical tasks.  If you have no nanites, you may not Hack, Repair, or Modify."
+
+HelpText18:"Doors may require keycard access to open, in which case they will have a card slot by them.  Any keycard that you pick up will contain a particular set of permissions, distinct for that type of keycard.  In order to see what keycard accesses you have, look in your lower right info bar, and click on the keycard icon.  If you try to use a keycard slot, and you have the relevant access, then you will automatically use the correct keycard.  If you do not have the relevant access, you will see a message telling you what is required."
+
+HelpText19:"You may equip weapons in one of two ways.  First, you may drag a weapon to your weapon equip slot near the upper right part of your inventory.  Second, you may use the top row of number keys on your keyboard.  Each weapon type is mapped to a specific key from ~ to = (and including the \\ key, regardless of whether it's on the top row or not).  Repeated presses of a number key cycle through multiple copies of a single weapon type.  Armor and implants may only be equipped by dragging the item into the appropriate slot on the upper right of the inventory."
+
+HelpText20:"Most inventory items may be Queried by first clicking on the question mark icon on the bottom left of the screen while in Use mode and then clicking on the object in question.  This will bring up an MFD that gives detailed information on that object.  You may also query objects while in Use mode by holding down the control key and left-clicking."
+
+HelpText21:"Your PDA contains every email, log, and info kiosk note you find on board.  It also contains an automatic note-taking utility, which keeps you informed of pressing tasks while on board.  You can access the PDA by left-clicking on the Log icon on the right info bar."
+
+HelpText22:"When you use a psionic discipline, you can do one of three things - you can use it at normal power, you can \"Overload\" and use it at a more powerful level, or you can burn out.  Overloading will use the discipline as if you had a Psionic Ability 2 higher than you actually do, but takes more time to use than the normal level and risks burnout.  If you want to use the discipline at normal power, you can just quickly left-click.  If you want to overload, using more power, hold down the left button until the bar in the middle of the screen reaches the red box and turns red, and then release.  Make sure that you don't hold down the left button until it hits the right edge - this will cause you to burn out, taking damage and having no effect."
+
+HelpText23:"Armor can help you both in protection from damage and protection from environmental effects.  Combat armor comes in three varieties: light, medium, and heavy, with increasing amounts of strength required to equip heavier armor.  Additional armor includes hazard suits (which provide protection against toxins and radiation) and powered armor, which is particularly defensive, but requires power."
+
+HelpText24:"Some areas are dangerous due to radiation.  When you enter an area that is radiated, you will hear a warning.  A radiation bar will appear on your screen, which fills up at a speed dependent on the radiation level in the area.  Every so often you will take damage based on the amount in your radiation bar, which can be decreased by using anti-radiation hypos."
+
+HelpText25:"OS upgrades are special bonuses to your abilities in a very specific area.  Special \"OS upgrade units\" will allow you to acquire OS upgrades, which can enhance many specific aspects of your cyber-rig, such as your metabolism, your ability at various modes of combat, or even grant you the ability to have two implants simultaneously.  Be careful in considering which one to get - each OS upgrade unit will only work once per person, and they are few and far between!"
+
+HelpText26:"Software helps you to perform the various technical tasks such as hacking, repairing, and modifying.  Higher levels of software provide greater bonuses to these operations, both increasing your chance of success on any given node and decreasing the number of \"dangerous\" nodes.  The exact details on any given task will be indicated in the MFD when you attempt to perform it."
+
+HelpText27:"You will find various chemical storerooms throughout the Von Braun and the Rickenbacker.  You can use these chemicals to help you research various artifacts and organisms you come across.  However, it's impractical to carry around every chemical you find.  Each storage room will have a manifest in the form of a log which tells you what chemicals are stored there.  This way, when your research soft tells you it needs a specific chemical to complete its research, you can return to the proper storage room to obtain the necessary chemicals."
+
+HelpText28:"You can assign hotkeys to various psi disciplines in order to access them faster.  To do this, bring up your Psi MFD, move the cursor over the discipline you wish to assign, then press shift and one of the function keys simultaneously (you should see the name of the function key appear over the discipline to indicate that it has been bound to that key).  Thereafter, whenever you press that function key, it will select that psi discipline.  You can also assign function keys to cycle through all psi disciplines of a given Tier.  On bootup, your cyber-interface defaults to having the five tiers bound to F1 through F5, but you may change these bindings if you wish."
+
+HelpText29:"Weapon quality tends to degrade with use.  The Maintenance skill allows you to actively improve the condition of a weapon by using a maintenance tool on it (drag it onto the weapon to do so).  The amount the weapon is improved depends on your Maintenance skill (if you have no skill, you cannot use these tools). Maintenance tools can also be used to improve the condition of turrets."
+
+HelpName1:"The Cyber-Interface"
+HelpName2:"The MFD"
+HelpName3:"Left Info Tab"
+HelpName4:"Basic Ammo Use"
+HelpName5:"Inventory"
+HelpName6:"Advanced Ammo Use"
+HelpName7:"Maps"
+HelpName8:"Computer Hacking"
+HelpName9:"Xerxes and Security"
+HelpName10:"Research"
+HelpName11:"Repairing and Modifying"
+HelpName12:"Psi Disciplines"
+HelpName13:"Surgical Units"
+HelpName14:"Security Crates"
+HelpName15:"Implants"
+HelpName16:"Energy Rechargers"
+HelpName17:"Nanites"
+HelpName18:"Access Cards"
+HelpName19:"Equipping Weapons"
+HelpName20:"Querying Items"
+HelpName21:"The PDA"
+HelpName22:"Overloading Psi"
+HelpName23:"Armor"
+HelpName24:"Radiation"
+HelpName25:"OS Upgrades"
+HelpName26:"Software"
+HelpName27:"Chemicals"
+HelpName28:"Psi Hotkeys"
+HelpName29:"Maintaining Weapons"

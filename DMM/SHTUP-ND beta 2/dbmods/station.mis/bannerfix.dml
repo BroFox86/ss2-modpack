@@ -1,0 +1,16 @@
+DML1
+
+FINGERPRINT {
+	508 [-6 10 -2]
+	954 [-6 -10 -2]
+	636 [-172 44 -14]
+	152 [-170 44 -3]
+	156 [-168 44 -10]
+	158 [-151 45 -10]
+	153 [-135 13 -10]
+	782 [-113 -12 -10]
+}
+
+// make squashed UNN banners use alternate texture
++ObjProp 508 "ModelName" = bannerst
++ObjProp 954 "ModelName" = bannerst

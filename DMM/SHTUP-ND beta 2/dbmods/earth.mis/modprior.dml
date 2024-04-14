@@ -1,0 +1,6 @@
+DML1
+
+// move SHTUP error sign to where player can see it
+ObjProp "SHTUPDetect" "Position" {
+	"Location" -19.1, 28, 7.25
+}

@@ -1,1 +1,0 @@
-// Part of the following texture sets://	Ert_2	ERT028terrain_scale 64include ../_ACC/GFX_ENVERT.INCrender_pass	{	texture FAM\_ACC\ERT028	shaded 1	alpha .78	}

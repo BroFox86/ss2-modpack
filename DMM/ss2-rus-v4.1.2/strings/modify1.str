@@ -1,0 +1,29 @@
+AssaultRifle:"Уменьшает время перезарядки. Увеличивает урон."
+//"Decrease reload time. Increase damage."
+
+EMP:"Повышает запас энергии. Увеличивает урон."
+//"Increase energy storage capacity. Increase damage."
+
+Fusion:"Повышает емкость батарей. Увеличивает урон."
+//"Increase battery size. Increase damage."
+
+GrenLauncher:"Увеличивает вместимость обоймы. Увеличивает урон."
+//"Increase clip size. Increase damage."
+
+Laser:"Повышает запас энергии. Увеличивает урон."
+//"Increase energy storage capacity. Increase damage."
+
+Pistol:"Увеличивает вместимость обоймы. Увеличивает урон."
+//"Increase clip size. Increase damage."
+
+Shotgun:"Уменьшает время перезарядки. Увеличивает урон."
+//"Decrease reload time. Increase damage."
+
+Stasis_Field_Generator:"Увеличивает скорострельность."
+//"Increase shot speed."
+
+Viral_Prolif:"Увеличивает вместимость обоймы. Увеличивает урон."
+//"Increase clip size. Increase damage."
+
+Worm_Launcher:"Увеличивает вместимость обоймы. Увеличивает урон."
+//"Increase clip size. Increase damage."

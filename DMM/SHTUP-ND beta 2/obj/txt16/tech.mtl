@@ -1,0 +1,8 @@
+render_material_only
+
+render_pass {
+	texture $TEXTURE
+	rgb 0.75 0.75 0.75
+}
+
+include ../../material/shtup/_screen.inc

@@ -1,1 +1,0 @@
-// Part of the following texture sets://	Ricken_2	RCK030terrain_scale 128render_material_only 1include ../_ACC/gfx_envunn.incrender_pass	{	texture FAM\_ACC\RCK030	shaded 1	}

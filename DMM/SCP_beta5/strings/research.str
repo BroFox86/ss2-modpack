@@ -1,0 +1,238 @@
+NameUnresearched:"Unresearched object"
+QueryUnresearched:"This item is not yet researched."
+
+ReportName1:"Hybrid Organ"
+ReportName3:"Midwife Organ"
+ReportName4:"Grub Organ"
+ReportName5:"Anti-Annelid Toxin"
+ReportName6:"WormBlood Implant"
+ReportName7:"Crystal Shard"
+ReportName8:"Psi Booster"
+ReportName9:"Swarm Pod Organ"
+ReportName10:"Rumbler Organ"
+ReportName11:"WormMind Implant"
+ReportName13:"Arachnid Organ"
+ReportName14:"Psi Reaver Organ"
+ReportName15:"WormBlend Implant"
+ReportName16:"Viral Proliferator"
+ReportName17:"WormSkin Armor"
+ReportName19:"Greater Psi Reaver Organ"
+ReportName20:"WormHeart Implant"
+ReportName21:"Annelid Launcher"
+ReportName22:"Monkey Brain"
+ReportName23:"Annelid Healing Gland"
+ReportName24:"Annelid Psi Organ"
+
+ResRepName1:"Hybrid Organ"
+ResRepName3:"Midwife Organ"
+ResRepName4:"Grub Organ"
+ResRepName5:"Anti-Annelid Toxin"
+ResRepName6:"WormBlood Implant"
+ResRepName7:"Crystal Shard"
+ResRepName8:"Psi Booster"
+ResRepName9:"Swarm Pod Organ"
+ResRepName10:"Rumbler Organ"
+ResRepName11:"WormMind Implant"
+ResRepName13:"Arachnid Organ"
+ResRepName14:"Psi Reaver Organ"
+ResRepName15:"WormBlend Implant"
+ResRepName16:"Viral Proliferator"
+ResRepName17:"WormSkin Armor"
+ResRepName19:"Greater Psi Reaver Organ"
+ResRepName20:"WormHeart Implant"
+ResRepName21:"Annelid Launcher"
+ResRepName22:"Monkey Brain"
+ResRepName23:"Annelid Healing Gland"
+ResRepName24:"Annelid Psi Organ"
+
+ResRepIcon1:"resicon"
+ResRepIcon3:"resicon"
+ResRepIcon4:"resicon"
+ResRepIcon5:"resicon"
+ResRepIcon6:"resicon"
+ResRepIcon7:"resicon"
+ResRepIcon8:"resicon"
+ResRepIcon9:"resicon"
+ResRepIcon10:"resicon"
+ResRepIcon11:"resicon"
+ResRepIcon12:"resicon"
+ResRepIcon13:"resicon"
+ResRepIcon14:"resicon"
+ResRepIcon15:"resicon"
+ResRepIcon16:"resicon"
+ResRepIcon17:"resicon"
+ResRepIcon19:"resicon"
+ResRepIcon20:"resicon"
+ResRepIcon21:"resicon"
+ResRepIcon22:"resicon"
+ResRepIcon23:"resicon"
+ResRepIcon24:"resicon"
+
+ResRepPortrait1:"ogport"
+ResRepPortrait3:"midport"
+ResRepPortrait4:"gruport"
+ResRepPortrait5:"toxport"
+ResRepPortrait6:"bloodport"
+ResRepPortrait7:"crport"
+ResRepPortrait8:"btport"
+ResRepPortrait9:"swport"
+ResRepPortrait10:"rumport"
+ResRepPortrait11:"mindport"
+ResRepPortrait13:"arport"
+ResRepPortrait14:"minport"
+ResRepPortrait15:"blendport"
+ResRepPortrait16:"viroport"
+ResRepPortrait17:"sknport"
+ResRepPortrait19:"minport"
+ResRepPortrait20:"blendport"
+ResRepPortrait21:"alport"
+ResRepPortrait22:"mport"
+ResRepPortrait23:"anpport"
+ResRepPortrait24:"anhport"
+
+
+ResRepText1:"Summary:  You've learned how to best target the hybrid for maximal damage.  All damage you deal to hybrids will be increased by 25%.
+
+Analysis:  DNA structure indicates that this organism is a hybrid of a human host and a parasitic organism.  Although the parasite (resembling a yard-long worm) has deteriorated to a stage beyond useful analysis, the effects of the process are evident.  Severe deterioration of higher level mental processes is caused by tumorous growths along the spinal column and brain stem.  The non-human tissues seem to be formed of a composite of small worm-like creatures that have adapted into the host body and taken over a majority of motor control and decision making functions.  There also appears to be direct stimulation of the autonomic nervous and glandular systems.  Hence, the organism produces exceptional amounts of both adrenaline and endorphins, making it remarkably strong and aggressive.  What remains can not really be called human at all.  The damage done to the host by the process is irrevocable, and the organism now functions with no sense of morality or hesitation.
+
+Recommendation:  The organism is vulnerable to the same forms of stimuli as a human.  However, the changes in its physiology suggest a chemistry more complex than is currently understood.  Further analysis of similar organisms might provide more insight in this area."
+
+
+ResRepText3:"Summary:  You've learned how to best target the cyborg midwife for maximal damage.  All damage you deal to midwives will be increased by 25%.  Resistant to incendiary and anti-personnel weapons, but vulnerable to armor-piercing.
+
+Analysis:  DNA sequence confirms that subject was originally a human female, cybernetically modified.  An auxiliary CPU in the base of the spine serves as a controller, overriding most signals sent by the subject's natural brain.  Both speed and musculature have been mechanically enhanced, and the cybernetic apparatus also serves as physical shielding for the softer human tissues.
+
+Recommendation:  Due to the half-mechanical nature of this creature, incendiary and anti-personnel weapons will be fairly ineffective, but armor-piercing rounds should be quite effective."
+
+
+ResRepText4:"Summary:  While you have learned the vulnerabilities of this creature, they're so easily killed it hardly matters.  Like all annelids, they are somewhat resistant to energy weapons.  Annelid eggs often contain useful organs if you search them before they are destroyed.
+
+Analysis:  Genetically female, the annelid grub is the most basic annelid form.  The creature is principally nervous system and musculature - the highly advanced (for a worm) nervous system appears to be tied into a rudimentary psionic sense organ.  While worm-like in appearance, the grub has no actual digestive tract, but is furnished with energy reserves at birth.  When these are depleted, the creature shuts down into a dormant state, possibly until a further psionic trigger acts on it.  The eggs that these emerge from often contain organs that might be extracted for useful purposes, unless the egg was destroyed in combat.
+
+Recommendation:  The grubs are fairly fragile, but can be somewhat dangerous if they close before you see them.  In large numbers, they may prove a more significant threat."
+
+
+ResRepText5:"Summary:  Placing this toxin in an environmental regulator will reduce local annelid growth.
+
+Analysis:  This is an experimental toxin, highly virulent, developed specifically to break down and dissolve annelid tissue.  The canister is highly pressurized, as the liquid toxin would evaporate quickly under ordinary conditions.
+
+Recommendation:  For maximum coverage, this toxin should be introduced into an environmental regulator immediately after being opened."
+
+
+ResRepText6:"Summary:  While this implant is active, you can right-click on a pile of worms to heal yourself.
+
+Analysis:  This implant is a high-powered blood filtering and reprocessing unit which acts to modify blood-borne annelid tissue to be benign in a human host.  Because of the highly regenerative nature of these annelids, their tissue, in conjunction with this implant, can be used as a replacement for damaged human tissue.  A small insertion port in the implant can be used to import annelid tissue for this use.  
+
+Recommendation:  While under the effect of this implant, discarded annelid tissue, such as that found in worm piles, can be used for a regenerative effect.  Use of annelid tissue in such a fashion while the implant is not powered is strongly discouraged."
+
+
+ResRepText7:"Summary:  A very dangerous hand-to-hand weapon.  It requires an Exotic Weapons skill of 1 in order to wield.
+
+Analysis:  This crystal, principally of silicon but doped with germanium and other unknown trace elements, appears to have a resonant frequency very close to that of neural propagation.  The crystal probably serves as a repeater for the psionic abilities of the annelid creatures.  The crystal structure is composed of thousands of close-together crystal needles, attached together in a close-branching, nearly fractal, tree.
+
+Recommendation:  The crystal's amazing sharpness makes it a very dangerous hand-to-hand weapon."
+
+
+ResRepText8:"Summary:  This hypo will increase the user's Psionic Ability by 1 for five minutes.
+
+Analysis:  This pharmaceutical combines a complex mix of psychoactive chemicals, some of them quite powerful, and refined annelid tissue.  Many of the chemicals have enzymatically bonded to the annelid tissue fragments, many of them since construction of the hypo, as if the annelid tissue is still biologically active.  
+
+Recommendation:  This experimental hypospray will increase your Psionic Ability for a few minutes - if you don't mind injecting yourself with purified annelid tissue.  Long term usage may well cause hallucinatory side effects."
+
+
+ResRepText9:"Summary:  Annelid swarms cannot be damaged by any known means, but have a very short life span.  Annelid eggs often contain useful organs if you search them before they are destroyed.
+
+Analysis:  Although small, the flying organisms generated by these pods contain a complex DNA structure indicative of a much more advanced creature.  Each small creature, genetically male, is bonded to the swarm via a sub-psionic link.  This link is impervious to normal psionic attacks or disturbances.  Annelid swarm creatures seem to exist only as a living weapon, since their cells have a genetically programmed life span of no more than a few seconds.  During these seconds, they are attracted to human tissue, as they frantically attempt to prolong their short lives with nourishment.  The eggs that these emerge from often contain organs that might be extracted for useful purposes, unless the egg was destroyed in combat.
+
+Recommendation:  The annelid swarm is best dealt with by avoidance, since the creatures will die soon after being hatched.  Do not waste ammunition on them."
+
+
+ResRepText10:"Summary:  You've learned how to best target the rumbler for maximal damage.  All damage you deal to rumblers will be increased by 25%.  Its annelid tissue is particularly vulnerable to incendiary devices.  
+
+Analysis:  This organism is further evolution of the first-stage annelid hybrid.  Discernible human elements are minimal, above the DNA level.  Muscle tissue density has increased twenty-fold, and adrenaline production has increased proportionally.  Brain tissue is extremely dense, which would normally indicate a creature of extreme cognitive ability, but the brain-stem has atrophied to a useless stub, and there is no analog to a human spinal column.  All muscular activity is controlled locally by alien cells designed for this purpose.  It appears that this creature is an evolutionary stage between an earlier-stage human/annelid hybrid and a third, unknown, form.
+
+Recommendation:  This creature is extremely dangerous, being, in effect, a heavily-muscled host designed to protect a highly-evolved yet unconnected brain.  The peculiar chemistry of this hybrid's brain tissue indicates a latent psionic predisposition."
+
+
+ResRepText11:"Summary:  When the user of this implant is damaged, one point of every four points of damage done is subtracted from psi points instead of hit points.
+
+Analysis:  This implant will alter the user's neural processes, stimulating and amplifying the areas related to psionics.  Additionally, a steady drip of annelid neurotransmitter chemicals is fed into the user's lower cortex.  The overall effect of this is to enhance the user's latent psychocreative abilities, specifically in the area of bodily self-control.
+
+Recommendation:  The user of the implant will be able to psychocreatively heal some portion of any damage he takes.  Long-term use is likely to cause a hyperimmune reaction."
+
+
+ResRepText13:"Summary:  You've learned how to best target the annelid arachnids for maximal damage.  All damage you deal to arachnids will be increased by 25%.  Arachnids, like all pure annelids, are resistant to energy weapons.
+
+Analysis:  This creature's internal systems are both distributed and redundant in a way that suggests intentional design, or evolution in a very dangerous environment.  What serves as its nervous system uses a significantly larger amount of energy than a human's, so the creature's tissues are correspondingly more energy-resistant.  The creature's metabolism allows for a boost of hyperkinetic activity, while allowing it to remain normally in a dormant state, and presumably allowing it to exist for a long period of time without nourishment.  
+
+Recommendation:  Using energy weapons against this creature is not recommended."
+
+
+ResRepText14:"Summary:  You've learned how to best target the psi reavers and their projections for maximal damage.  All damage you deal to psi reavers and their projections will be increased by 25%.  The projections will continually regenerate themselves unless you destroy the brain structure which creates them.
+
+Analysis:  This is a continuously energized sample of psycho-creative residue.  It is the end product of a massively complex and focused psionic projection.  This residue can be temporarily disrupted, but not permanently destroyed, since the psionic projection can simply be re-created by the source organism.
+
+Recommendation:  While the projection can be disrupted by most conventional means, this serves as a short-term solution only.  Resources should not be wasted in combating this phenomenon unless it is crucial for survival.  If it must be destroyed, seek out and destroy the controlling brain structure first."
+
+
+ResRepText15:"Summary:  This implant decreases the range at which annelid creatures will be able to psionically detect the implant user.
+
+Analysis:  This implant contains a portion of annelid neural tissue, with electrochemical connections to slave the tissue to the user's neural impulses.  The portion of tissue is not substantive enough to allow the user to psionically contact the annelid mind, but it does coordinate the user's brainwaves enough with the annelid neural processes that the user will, to a cursory psionic examination, resemble an annelid organism. 
+
+Recommendation:  This will very likely allow its user to become harder to detect to annelid creatures, at least at a distance.  It will probably not allow the user to pass for an annelid in face-to-face contact."
+
+
+ResRepText16:"Summary:  The viral proliferator requires an Exotic Weapons skill of 4.  The first modification to this weapon increases the clip size, while the second reduces the ammo usage.  Both modifications also increase weapon damage.  This weapon releases a host of anti-annelid virus in an explosive radius.  The virus can be tailored to infect pure annelids or humans and human/annelid hybrids.  Press and hold down the trigger to fire - when you release the trigger, the viral payload will detonate.  Don't let it detonate too close to you when it's set to affect humans!
+
+Analysis:  This weapon appears to have been cobbled together from human technology and annelid parts.  Judging by the stock and trigger, it was built by humans.  The central hexagonal core is an energy-rich media, ringed with receptacles containing nanite-virus hybrids.  Release of the virus hybrids into the core will cause cycles of replication at nanite, rather than biological, speeds, building up until the payload is released.  Additional energetic charges will disperse the viral payload in an explosive radius.  The media must be replenished with annelid tissue - these worms must be collected in standard laboratory beakers.  The Proliferator can be set to release virus hybrids tailored against pure annelids, or tailored against human or partially human targets. 
+
+Recommendation:  In close quarters against annelid foes, this weapon is extremely powerful.  It might even hurt annelids that are unharmed by other weapons.  However, when targeting human targets, it will be hard to avoid damaging yourself."
+
+
+ResRepText17:"Summary:  This armor provides both combat and environmental protection, and increases the wearer's Psionic Ability by 2.  However, it slowly drains the user's psi points.
+
+Analysis:  This worm skin has been fashioned into a crude body covering, suitable for a human to wear.  The skin is far tougher than its biochemical makeup would suggest, and further investigation demonstrates a subtle repulsive effect that appears to be psionically generated.  The fact that the effect is still active, in combination with the slowly continuing metabolic processes in the skin indicates that the skin is in some sense still alive.
+
+Recommendation:  Wearing the worm skin as a piece of armor will provide some physical and environmental protection, and will increase the wearer's Psionic Ability.  However, it will be a continuous psionic drain on the wearer to keep from being attacked and consumed by the skin."
+
+
+ResRepText19:"Summary:  You've learned how to best target the greater psi reavers and their projections for maximal damage.  All damage you deal to greater psi reaver and their projections will be increased by 25%.  The projections will continually regenerate themselves unless you destroy the brain structure which creates them.
+
+Analysis:  This is a continuously energized sample of psycho-creative residue.  It is the end product of a massively complex and focused psionic projection.  This residue can be temporarily disrupted, but not permanently destroyed, since the psionic projection can simply be re-created by the source organism.  This version of the psi reaver seems much more powerful than those you have previously encountered.
+
+Recommendation:  While the projection can be disrupted by most conventional means, this serves as a short-term solution only.  Resources should not be wasted in combating this phenomenon unless it is crucial for survival.  If it must be destroyed, seek out and destroy the controlling brain structure first."
+
+
+ResRepText20:"Summary:  While this implant is powered, the user takes no damage from annelid toxin and will regenerate one hit point per thirty seconds.  Unfortunately, when the implant ceases being powered, or is removed, a great deal of toxin is released into the user's bloodstream.  Make sure you have some anti-toxin hypos handy!
+
+Analysis:  This implant is a combination of a blood filtering device and a regenerative stimulator, using annelid regenerative tissue as an adjunct.  While the implant is worn, it sequesters all annelid venom that the user is subject to, preventing it from acting.  Additionally, damaged tissue is replaced quickly by a psychocreative annelid substitute.  However, the substitute tissue produces some amount of degradation byproduct, which is itself toxic (and sequestered by the implant).  However, when the implant loses power or is removed, much of the sequestered venom is released.
+
+Recommendation:  This device is not recommended for frequent use, because of the danger of the toxin damage upon removing the implant.  However, its regenerative and toxin-protection properties may well be invaluable in a very dangerous situation."
+
+
+ResRepText21:"Summary:  The annelid launcher requires a Strength of 3 and an Exotic Weapons skill of 6.  The first modification to this device increases the clip size, while the second doubles projectile speed.  Additionally, both modifications increase weapon damage.  This device uses annelid worms for ammunition, which must be collected in beakers.  The weapon may be set to damage either pure annelid creatures or human and hybrid creatures.  The projectiles have a limited homing capability while in flight.
+
+Analysis:  This is an exotic device, made of semi-sentient organic material.  It has been heavily modified, to the point where it is impossible to discern its original function.  As currently configured, this object is a weapon, designed to deliver homing payloads of annelid worms.  These worms must be collected in standard laboratory beakers, and loaded into a side compartment of the device.  An integrated chemical injector can alter the chemistry of the worms, so that they can be made deadly either to human (and partially human) targets, or to pure annelids.
+
+Recommendation:  If the use of this weapon is required, care should be taken to collect beakers whenever possible, and fill them with annelid worms at every opportunity."
+
+
+ResRepText22:"Summary:  You've learned how to best target the monkeys for maximal damage.  All damage you deal to monkeys will be increased by 25%.  
+
+Analysis:  The monkey is genetically normal, an African Squirrel Monkey.  However, it appears to have been subject to a large number of chemical and surgical procedures, both before and after birth.  These procedures have enhanced brain size and connectivity, as well as enhanced the myelination of the central nervous system.  The skull of the creature has been surgically removed, presumably both to prevent cranial pressure and to allow quick experimental access.   
+
+Recommendation:  The neural construction of the creature is similar in nature to psionic human neural structure - the monkeys are likely to have psionic capability.  They are vulnerable to all attacks which affect standard organic creatures."
+
+
+ResRepText23:"Summary:  This tissue can be used to physically heal damage.  
+
+Analysis:  This gland secretes a prolific mix of hormones and stimulatory enzymes, and a quickly dividing layer of cells spawns off multi-purpose circulatory cells.  These cells seek out sites of tissue damage and graft themselves into the tissue, taking on the characteristics of the local host tissue in a matter of moments.  
+
+Recommendation:  The shared tissue compatibilities between human and annelid tissue will allow this gland to be used for healing, though not as fully as it would in an annelid host.  Once removed from the host's body, it can only be used once."
+
+
+ResRepText24:"Summary:  This tissue can be used to restore lost psi points. 
+
+Analysis:  This gland produces a potent cocktail of psychoactive and adrenal hormones which acts to rejuvenate and innervate neural tissue.  In addition to standard (and somewhat unusual) biological compounds, the gland also appears to secrete small amounts of semi-physical psychocreative energy.  
+
+Recommendation:  While this gland can be used to restore psionic potential, the danger inherent in consuming alien psychocreative energies suggests that this should only be done in emergencies."

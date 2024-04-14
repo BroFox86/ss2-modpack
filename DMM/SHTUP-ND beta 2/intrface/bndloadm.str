@@ -1,0 +1,7 @@
+// string file for anims.
+// Format is list of anims
+// then x,y fps (r|l)
+// where 'r' means reverse, and 'l' means loop normally
+list: "spin1 spin2"
+spin1: "81,145 15 l"
+spin2: "63,127 20 l"
