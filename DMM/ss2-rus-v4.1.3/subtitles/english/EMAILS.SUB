@@ -1571,19 +1571,26 @@ SUB1
 
 	multisub LOG0903 {
 
-		{ time 200    	length	2262  text		"You are near the seat of SHODAN's power." }
+		{ time 200    	length	2262  text		"Вы находитесь рядом со средоточием силы ШОДАНА." }
+		//{ time 200    	length	2262  text		"You are near the seat of SHODAN's power." }
 
-		{ time 2582   	length	2552  text		"You will probably not be able to defeat her." }
+		{ time 2582   	length	2552  text		"Вы, вероятно, не сможете победить ее." }
+		//{ time 2582   	length	2552  text		"You will probably not be able to defeat her." }
 
-		{ time 5254   	length	1450  text		"But there is no choice..." }
+		{ time 5254   	length	1450  text		"Но выбора нет..." }
+		//{ time 5254   	length	1450  text		"But there is no choice..." }
 
-		{ time 6824   	length	2204  text		"Remember to focus on your strengths..." }
+		{ time 6824   	length	2204  text		"Не забывайте сосредотачиваться на своих сильных сторонах..." }
+		//{ time 6824   	length	2204  text		"Remember to focus on your strengths..." }
 
-		{ time 9148   	length	3654  text		"she will be vulnerable to your weaponry and your psionic powers." }
+		{ time 9148   	length	3654  text		"она будет уязвима для вашего оружия и ваших псионических способностей." }
+		//{ time 9148   	length	3654  text		"she will be vulnerable to your weaponry and your psionic powers." }
 
-		{ time 12922  	length	5916  text		"I've been able to introduce some assistance in the form of virtual terminals that you can hack into..." }
+		{ time 12922  	length	5916  text		"Мне удалось предложить некоторую помощь в виде виртуальных терминалов, которые вы можете взломать..." }
+		//{ time 12922  	length	5916  text		"I've been able to introduce some assistance in the form of virtual terminals that you can hack into..." }
 
-		{ time 18958  	length	2320  text		"they should help you defeat the monster.." }
+		{ time 18958  	length	2320  text		"они должны помочь вам победить этого монстра..." }
+		//{ time 18958  	length	2320  text		"they should help you defeat the monster..." }
 	
 }
 	multisub LOG0904 {
