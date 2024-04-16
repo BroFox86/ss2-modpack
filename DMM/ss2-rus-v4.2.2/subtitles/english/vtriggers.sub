@@ -71,6 +71,8 @@ SUB1
 	sub shpdie25 { text "Я надеюсь ты насладился своим маленьким бунтом, заноза." }
 	sub shpdie26 { text "Заноза." }
 	sub shpdie27 { text "Заноза." }
+
+	sub shojump { text "Хороший прыжок, человек."}
 }
 
 {
