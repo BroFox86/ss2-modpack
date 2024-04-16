@@ -1,0 +1,37 @@
+SUB1
+
+{
+	type "convo"
+	descr "ValueRep"
+	sub replic1e { text "Здравствуйте! Сделайте ваш выбор, пожалуйста." }
+	sub replic2e { text "Благодарим за выбор ValueRep." }
+	multisub replic3e {
+		{ time 00 length 2200 text "Надеемся, вам понравилось наше реплицирование." }
+		{ time 2400 length 3000 text "Помните, по вторникам - двойная репликация!" }
+	}
+}
+
+{
+	type "convo"
+	descr ""
+	multisub comp_mal {
+		{ time 4900 length 1600 text "Системный сбой." }
+	}
+}
+
+{
+	type "bark"
+	descr "ШОДАН"
+	sub shodoor1 { text "Человек." }
+	sub shodoor7 { text "Человек." }
+	sub shodoor9 { text "Насекомое." }
+}
+
+{
+	type "bark"
+	descr "Grunt"
+	sub grhelp1 { text "Помогите." }
+	sub grhelp2 { text "Кто-нибудь, помогите." }
+	sub grhelp3 { text "Помогите мне." }
+}
+
