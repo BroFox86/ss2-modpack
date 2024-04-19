@@ -10,7 +10,7 @@ Weapon2:"Навык увеличивает урон, наносимый с помощью тяжелого оружия.  Некоторые
 Weapon3:"Навык увеличивает урон, наносимый с помощью экзооружия.  Некоторые виды экзооружия требуют минимального навыка."
 //"This skill increases the amount of damage you inflict with exotic weapons.  Some exotic weapons have a minimum skill requirement."
 
-Weapon4:"Эти кнопки позволяют переключаться между различными свойствами MFD."
+Weapon4:"Эти кнопки позволяют переключаться между различными свойствами МФП."
 //"These buttons navigate between various character MFDs."
 
 Tech0:"От навыка взлома зависят твои шансы взломать различные компьютерные системы."
@@ -28,7 +28,7 @@ Tech3:"Навык т/о определяет, насколько вы можете улучшить состояние оружия или т
 Tech4:"Опред. эффективность твоих иссл-ний. Изучение чужд. органов может дать немало полезн. инф-ции, а нек. предметы нельзя использовать, не изучив их."
 //"The Research skill determines the efficiency of your research.  Researching alien organs can yield useful information, and some items cannot be used without first being researched."
 
-Tech5:"Эти кнопки позволяют переключаться между различными свойствами MFD."
+Tech5:"Эти кнопки позволяют переключаться между различными свойствами МФП."
 //"These buttons navigate between various character MFDs."
 
 Tech6:"Хакерский софт повышает твой навык взлома.  Но при минимальном навыке он не поможет."

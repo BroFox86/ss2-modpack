@@ -187,13 +187,13 @@ JargonMineLit2:"Блокирующий замок пройден.\n"
 JargonMineBurnt2:"Сработал блокирующий замок! Оружие заклинило!\n"
 //"Safety interlock tripped! Weapon jammed!\n"
 
-JargonBonus0:"Режимы OS: -%d%%\n"
+JargonBonus0:"Режимы ОС: -%d%%\n"
 //"OS mods: -%d%%\n"
 
-JargonBonus1:"Режимы OS: -%d%%\n"
+JargonBonus1:"Режимы ОС: -%d%%\n"
 //"OS mods: -%d%%\n"
 
-JargonBonus2:"Режимы OS: -%d%%\n"
+JargonBonus2:"Режимы ОС: -%d%%\n"
 //"OS mods: -%d%%\n"
 
 JargonPsiBonus0:"Псионика: -%d%%\n"

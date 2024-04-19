@@ -601,7 +601,7 @@ Faucet:"Кран"
 Frying_Pan:"Сковорода для жарки"
 //"A frying pan"
 
-gameboy:"MFD-плейер для игр"
+gameboy:"Игровая консоль"
 //"An MFD game player"
 
 Golden_Egg:"Черное яйцо аннелида"
@@ -1483,7 +1483,7 @@ Toxin_Grenade:"%d разрыв-гранат(ы)"
 ToxinPatch:"Антитоксинный шприц-тюбик"
 //"An anti-toxin hypo"
 
-Trait_Machine:"Устройство апгрейда OS"
+Trait_Machine:"Устройство апгрейда ОС"
 //"An OS Upgrade Unit"
 
 Tram:"Поезд"

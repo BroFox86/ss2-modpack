@@ -316,7 +316,7 @@ TrainHeading:"Апгрейд:"
 TrainPoints:"Модули:"
 //"Modules:"
 
-TraitMachineUsed:"Твоя OS уже была обновлена в этом устройстве."
+TraitMachineUsed:"Твоя ОС уже была обновлена в этом устройстве."
 //"Your OS has already been upgraded at this unit."
 
 TurretState0:"Загружен новый набор команд...\n\nПоиск новой угрозы."
@@ -403,7 +403,7 @@ FreeModifyMax:"Оружие модифицировано до предела."
 InvFull:"В рюкзаке нет места."
 //"No room in inventory."
 
-LogPickup:"Запись %s добавлена в PDA."
+LogPickup:"Запись %s добавлена в КПК."
 //"Log %s added to PDA."
 
 MaxedOut:"МАКС"
@@ -415,7 +415,7 @@ MedBedUnused:"Пациент уже в хорошем состоянии."
 MedBedUse:"5 нанитов использовано на лечение."
 //"5 nanites used in healing."
 
-MFDGameCart:"Установлен игровой картридж MFD."
+MFDGameCart:"Установлен игровой картридж."
 //"MFD game cartridge installed."
 
 ModLevel:"  Уровень модиф. %d"
