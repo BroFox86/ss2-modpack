@@ -1,3 +1,10 @@
+													REBIRTH 05b
+
+The 05b version includes a fixed midwife model by Paynamia (the face and hair now have proper shapes). The Secmod compatibility patch has been integrated.
+
+voodoo47
+
+
 													REBIRTH 05a
 
 The 05a version includes a Rebirth model of the thrown hybrid grenade. All the FM compatibility fixes are now in one DML file.

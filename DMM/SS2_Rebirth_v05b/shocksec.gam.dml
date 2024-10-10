@@ -1,0 +1,8 @@
+DML1
+
+//lets load the weaponless hybrid model that has working wrist joints directly from the Rebirth mod
+ObjProp -4812 "ModelName" = "grunt_ns"
+//technically, we could just replace the fshard object file, but this will make sure everything will load even if the mod load order isn't correct
+ObjProp -4811 "ModelName" = "ffshard"
+//assassin needs to use the proper model
+ObjProp -1541 "ModelName" = "assassin"
