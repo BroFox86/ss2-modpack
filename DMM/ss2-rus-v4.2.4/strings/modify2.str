@@ -1,0 +1,29 @@
+AssaultRifle:"Увеличивает вместимость обоймы. Увеличивает урон."
+//"Increase clip size. Increase damage."
+
+EMP:"Снижает расход энергии. Увеличивает скорострельность и урон."
+//"Reduce energy usage. Increase speed and damage."
+
+Fusion:"Снижает расход боеприпасов. Увеличивает урон."
+//"Reduce ammo use. Increase damage."
+
+GrenLauncher:"Уменьшает время перезарядки. Увеличивает скорострельность и урон."
+//"Reduce reload time. Increase speed and damage."
+
+Laser:"Снижает расход энергии. Увеличивает урон."
+//Laser:"Reduce energy consumption. Increase damage."
+
+Pistol:"Уменьшает время перезарядки. Увеличивает урон."
+//"Decrease reload time. Increase damage."
+
+Shotgun:"Уменьшает отдачу при стрельбе. Увеличивает урон."
+//"Reduce kickback when fired. Increase damage."
+
+Stasis_Field_Generator:"Уменьшает расход боеприпасов."
+//"Reduce ammo use."
+
+Viral_Prolif:"Уменьшает расход боеприпасов. Увеличивает урон."
+//"Reduce ammo use. Increase damage."
+
+Worm_Launcher:"Увеличивает скорость снаряда. Увеличивает урон."
+//"Increase projectile speed. Increase damage."

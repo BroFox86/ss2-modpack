@@ -1,0 +1,7 @@
+SUB1
+
+{
+	type "convo"
+	descr "Телефон"
+	sub telephon { text "Это устройство временно не работает." }
+}

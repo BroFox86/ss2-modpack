@@ -1,0 +1,50 @@
+Trait0:"Найди устройство апгрейда ОС, чтобы получить новые улучшения."
+//"Find an OS Upgrade Unit to get new upgrades."
+
+Trait1:"Сильный метаболизм: ущерб от радиации и токсинов уменьшается на 25%. Вредное воздействие рекреационных веществ снижается на 100%."
+//"Strong Metabolism: Damage from radiation and toxins reduced by 25%. Harmful effects of recreational substances reduced by 100%."
+
+Trait2:"Фармо-друг: дополнительно 20% пользы от всех шприц-тюбиков. Целебные предметы лечат на 20% быстрее."
+//"Pharmo-Friendly: Extra 20% benefit from all hypos. Healing items heal 20% faster."
+
+Trait3:"Упаковщик: три дополнительных отделения в рюкзаке."
+//"Pack-Rat: Adds three extra inventory slots."
+
+Trait4:"Бегун: скорость движения повышается на 15%."
+//"Speedy: Movement speed increased by 15%."
+
+Trait5:"Снайпер: каждый выстрел из стрелкового (не псионного) оружия наносит на 15% больше урона."
+//"Sharpshooter: Each shot with a ranged (non-psionic) weapon does 15% more damage."
+
+Trait6:"Натуралист: одноразовый бонус из 20-и кибер-модулей для апгрейда."
+//"Naturally Able: One-time bonus of 20 Cyber Upgrade Modules."
+
+Trait7:"Кибермен: позволяет одновременно использовать 2 импланта (разных типов)."
+//"Cybernetically Enhanced: Allows the use of two implants (of different types) at once."
+
+Trait8:"Танк: повышает максимальный уровень здоровья на 10 ед."
+//"Tank: Increases maximum hit points by 10."
+
+Trait9:"Смертельное оружие: повышает урон, наносимый врагу в рукопашном бою, на 35%."
+//"Lethal Weapon: Increases all hand-to-hand damage by 35%."
+
+Trait10:"Эксперт по охранным системам: навык взлома +2 (если уже есть хотя бы 1 ед. навыка), применим только к терминалам охранной системы. Невидимость для роботов при взломе системы безопасности."
+//"Security Expert: +2 hacking skill (if you already have at least 1 point of skill) applied only to security computers. Invisibility to robots when security hacked."
+
+Trait11:"Разрушитель: ты можешь наносить удары сверху оружием ближнего боя, увеличивая базовый урон примерно на 30%."
+//"Smasher: You can execute overhand attacks with melee weapons, increasing base damage by approximately 30%."
+
+Trait12:"Кибер-усваивание: ты мо-\nжешь извлекать диагно-\nстич./рем. модули из унич-\nтоженных роботов и ис-\nпользовать их для восста-\nновления 15 ед. здоровья."
+//"Cyber-Assimilation: You can extract a Diagnostic/Repair Module from many destroyed robots and can use it to heal 15 hit points."
+
+Trait13:"Эксперт по репликаторам: взломать репликаторы на 20% проще. Все товары из репликаторов стоят на 20% дешевле."
+//"Replicator Expert: Replicators are 20% easier to hack. All items from replicators cost 20% less."
+
+Trait14:"Пси-сила: псионическое горание больше не наносит вам вреда и не требует пси-очков."
+//"Power Psi: Psionic burnout no longer damages you and costs no psi points."
+
+Trait15:"Ремесленник: эффект большинства модификаций оружия улучшен на 20%. Стоимость нанитов для модификаций оружия снижена на 50%."
+//"Tinker: Effect of most weapon modifications improved by 20%. Nanite cost for weapon mods reduced by 50%."
+
+Trait16:"Следопыт: автоматическая карта отображает расположение всех врагов и всегда полностью заполнена для каждого подуровня."
+//"Spatially Aware: Automap displays the position of all enemies and is always completely filled in for each sublevel."

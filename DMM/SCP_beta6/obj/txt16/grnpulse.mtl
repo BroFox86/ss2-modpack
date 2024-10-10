@@ -1,0 +1,7 @@
+render_material_only 1
+ani_frames 1
+
+render_pass {
+	texture $TEXTURE
+	rgb func wave SINE 0.0 0.75 0.0 1000
+}

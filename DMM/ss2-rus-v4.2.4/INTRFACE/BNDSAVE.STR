@@ -1,0 +1,33 @@
+my_binds:"Мои привязки"  
+//"My Binds"
+
+failure:"Сохранение неудачно"  
+//"Save Failed"
+
+success:"Успешное сохранение"  
+//"Save Successful"
+
+saving:"Сохранение..."  
+//"Saving..."
+
+initial:"Выберите файл для сохранения:"  
+//"Select a bind file to save."
+
+unused:"< ПУСТО >"  
+//"< EMPTY >"
+
+done:"Назад"  
+//"Done"
+
+save:"Сохранить"  
+//"Save"
+
+
+
+
+
+
+
+
+
+

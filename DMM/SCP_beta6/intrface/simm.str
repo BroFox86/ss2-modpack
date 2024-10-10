@@ -1,0 +1,6 @@
+// string file for anims.
+// Format is list of anims
+// then x,y fps (r|l)
+// where 'r' means reverse, and 'l' means loop normally
+list: "anim"
+anim: "18,18 6 l"
